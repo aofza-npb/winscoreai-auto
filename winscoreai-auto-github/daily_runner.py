@@ -8,7 +8,6 @@ import time
 from datetime import datetime
 from understat_scraper_auto.win_data import generate_win_data
 from understat_scraper_auto.predictor import run_prediction
-from understat_scraper_auto.main import job as run_understat_scraper
 
 # 🧠 Import ฟังก์ชันหลักจากแต่ละระบบ
 from understat_scraper_auto.main import job as run_understat_scraper
