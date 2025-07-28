@@ -10,7 +10,7 @@ from win_data import generate_win_data
 from predictor import run_prediction
 
 # 🧠 Import ฟังก์ชันหลักจากแต่ละระบบ
-from main import job as run_understat_scraper
+from understat_scraper_auto.main import job as run_understat_scraper
 
 
 def run_all():
