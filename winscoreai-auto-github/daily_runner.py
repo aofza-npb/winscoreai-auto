@@ -6,7 +6,7 @@ import traceback
 import schedule
 import time
 from datetime import datetime
-from understat_scraper_auto.win_data import generate_win_data
+from win_data import generate_win_data
 from understat_scraper_auto.predictor import run_prediction
 
 # 🧠 Import ฟังก์ชันหลักจากแต่ละระบบ
