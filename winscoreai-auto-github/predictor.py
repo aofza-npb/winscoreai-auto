@@ -2,7 +2,7 @@
 
 import re
 import pandas as pd
-from understat_scraper_auto.firebase_push import push_prediction
+from firebase_push import push_prediction
 
 def run_prediction():
     # ✅ โหลดข้อมูล
