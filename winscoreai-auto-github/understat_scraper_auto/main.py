@@ -39,6 +39,7 @@ def save_team_mapping(new_names):
         df_add = pd.DataFrame({"eng": to_add, "th": to_add})
         df_existing = pd.DataFrame(ENG2TH.items(), columns=["eng", "th"])
         df_all = pd.concat([df_existing, df_add], ignore_index=True)
+        os.makedirs(os.path.dirname(MAPPING_FILE), exist_ok=True)
         df_all.to_csv(MAPPING_FILE, index=False, encoding="utf-8-sig")
         ENG2TH = dict(zip(df_all["eng"], df_all["th"]))
 
