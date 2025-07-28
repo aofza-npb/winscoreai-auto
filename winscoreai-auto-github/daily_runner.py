@@ -7,10 +7,10 @@ import schedule
 import time
 from datetime import datetime
 from win_data import generate_win_data
-from understat_scraper_auto.predictor import run_prediction
+from predictor import run_prediction
 
 # 🧠 Import ฟังก์ชันหลักจากแต่ละระบบ
-from understat_scraper_auto.main import job as run_understat_scraper
+from main import job as run_understat_scraper
 
 
 def run_all():
