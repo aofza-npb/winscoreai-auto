@@ -1,2 +1,6 @@
-firebase-admin
 schedule
+pandas
+numpy
+firebase-admin
+requests
+# เพิ่ม lib อื่น ๆ ที่คุณใช้ในโปรเจกต์นี้
