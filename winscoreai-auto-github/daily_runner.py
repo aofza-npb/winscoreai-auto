@@ -1,17 +1,13 @@
 # daily_runner.py
 
-import os
 import sys
 import traceback
-import schedule
-import time
 from datetime import datetime
-from win_data import generate_win_data
-from predictor import run_prediction
 
 # 🧠 Import ฟังก์ชันหลักจากแต่ละระบบ
 from understat_scraper_auto.main import job as run_understat_scraper
-
+from win_data import generate_win_data
+from predictor import run_prediction
 
 def run_all():
     print("📅 เริ่มต้นระบบวิเคราะห์ WinScoreAI –", datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
@@ -28,16 +24,10 @@ def run_all():
 
         print("\n✅ เสร็จสมบูรณ์ทุกขั้นตอน 🎉 WinScoreAI พร้อมใช้งาน!")
 
-    except Exception as e:
+    except Exception:
         print("\n❌ เกิดข้อผิดพลาดในการทำงาน:")
         traceback.print_exc()
         sys.exit(1)
 
 if __name__ == "__main__":
     run_all()
-
-schedule.every().day.at("09:00").do(run_all)
-
-while True:
-    schedule.run_pending()
-    time.sleep(60)
