@@ -1,0 +1,363 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-07-20,FC Lugano,Grasshoppers,0,1,2,1
+2024,2024-07-20,Yverdon Sport,FC Zurich,0,0,0,2
+2024,2024-07-20,FC Winterthur,FC ST. Gallen,0,0,1,0
+2024,2024-07-21,BSC Young Boys,FC Sion,1,1,1,2
+2024,2024-07-21,FC Luzern,Servette FC,0,1,1,2
+2024,2024-07-21,Lausanne,FC Basel 1893,3,1,3,2
+2024,2024-07-24,Servette FC,BSC Young Boys,2,0,3,1
+2024,2024-07-27,FC Sion,Lausanne,2,0,4,0
+2024,2024-07-27,Grasshoppers,FC Luzern,0,1,2,2
+2024,2024-07-27,FC Basel 1893,FC Lugano,0,1,1,2
+2024,2024-07-28,Servette FC,Yverdon Sport,2,1,3,2
+2024,2024-07-28,FC Zurich,FC Winterthur,2,1,4,2
+2024,2024-07-28,FC ST. Gallen,BSC Young Boys,2,0,4,0
+2024,2024-08-03,FC Lugano,Servette FC,0,0,3,1
+2024,2024-08-03,Grasshoppers,FC Basel 1893,0,2,0,3
+2024,2024-08-03,FC Luzern,FC Sion,0,0,1,0
+2024,2024-08-04,Lausanne,FC ST. Gallen,1,2,3,4
+2024,2024-08-04,BSC Young Boys,FC Zurich,1,1,2,2
+2024,2024-08-04,FC Winterthur,Yverdon Sport,0,0,0,0
+2024,2024-08-10,FC Sion,FC Winterthur,0,0,2,0
+2024,2024-08-10,Yverdon Sport,BSC Young Boys,1,1,2,2
+2024,2024-08-11,FC ST. Gallen,Grasshoppers,0,0,1,0
+2024,2024-08-11,FC Lugano,FC Luzern,2,1,2,3
+2024,2024-08-11,FC Zurich,Lausanne,1,0,2,0
+2024,2024-08-11,Servette FC,FC Basel 1893,0,1,0,6
+2024,2024-08-24,FC Luzern,FC Winterthur,1,0,3,0
+2024,2024-08-24,Grasshoppers,FC Sion,1,0,3,1
+2024,2024-08-25,FC Basel 1893,Yverdon Sport,1,0,2,0
+2024,2024-08-31,FC Sion,FC Basel 1893,1,1,1,1
+2024,2024-08-31,Yverdon Sport,Grasshoppers,0,1,2,1
+2024,2024-08-31,BSC Young Boys,Lausanne,1,0,1,1
+2024,2024-09-01,FC Winterthur,Servette FC,0,1,0,1
+2024,2024-09-01,FC Lugano,FC ST. Gallen,1,1,1,1
+2024,2024-09-01,FC Zurich,FC Luzern,0,1,1,1
+2024,2024-09-18,Lausanne,FC Lugano,0,1,1,2
+2024,2024-09-21,FC ST. Gallen,FC Luzern,2,0,2,3
+2024,2024-09-21,Grasshoppers,Servette FC,1,2,2,2
+2024,2024-09-21,FC Basel 1893,FC Zurich,0,1,0,2
+2024,2024-09-22,Lausanne,Yverdon Sport,2,0,3,1
+2024,2024-09-22,FC Sion,FC Lugano,0,0,0,0
+2024,2024-09-22,FC Winterthur,BSC Young Boys,0,1,1,4
+2024,2024-09-24,FC ST. Gallen,FC Zurich,1,1,4,1
+2024,2024-09-28,Servette FC,Lausanne,1,0,1,0
+2024,2024-09-28,Yverdon Sport,FC ST. Gallen,0,0,1,0
+2024,2024-09-28,BSC Young Boys,Grasshoppers,0,1,0,1
+2024,2024-09-29,FC Zurich,FC Sion,1,0,1,0
+2024,2024-09-29,FC Lugano,FC Winterthur,0,0,2,1
+2024,2024-09-29,FC Luzern,FC Basel 1893,0,0,1,0
+2024,2024-10-05,FC Sion,Yverdon Sport,0,1,1,1
+2024,2024-10-05,FC Luzern,Lausanne,1,2,2,2
+2024,2024-10-05,FC Winterthur,Grasshoppers,0,0,1,0
+2024,2024-10-06,FC Zurich,FC Lugano,1,1,1,1
+2024,2024-10-06,FC Basel 1893,BSC Young Boys,0,0,1,0
+2024,2024-10-06,FC ST. Gallen,Servette FC,1,0,1,1
+2024,2024-10-19,BSC Young Boys,FC Luzern,0,0,2,1
+2024,2024-10-19,Grasshoppers,FC Zurich,0,2,1,2
+2024,2024-10-19,Servette FC,FC Sion,1,0,3,0
+2024,2024-10-20,FC Basel 1893,FC ST. Gallen,1,1,2,1
+2024,2024-10-20,Lausanne,FC Winterthur,2,0,2,0
+2024,2024-10-20,Yverdon Sport,FC Lugano,1,0,2,0
+2024,2024-10-26,Lausanne,Grasshoppers,1,0,3,0
+2024,2024-10-26,FC Winterthur,FC Basel 1893,0,3,1,6
+2024,2024-10-26,FC Luzern,Yverdon Sport,0,2,2,3
+2024,2024-10-27,FC Sion,FC ST. Gallen,2,1,2,2
+2024,2024-10-27,FC Lugano,BSC Young Boys,2,0,2,0
+2024,2024-10-27,FC Zurich,Servette FC,0,1,1,3
+2024,2024-10-29,Yverdon Sport,Lausanne,0,0,0,3
+2024,2024-10-30,BSC Young Boys,FC Basel 1893,0,1,3,2
+2024,2024-10-30,FC Sion,FC Zurich,0,0,0,2
+2024,2024-10-30,FC ST. Gallen,FC Winterthur,1,1,2,2
+2024,2024-10-31,Grasshoppers,FC Lugano,1,0,1,1
+2024,2024-10-31,Servette FC,FC Luzern,1,1,2,2
+2024,2024-11-02,FC Basel 1893,FC Winterthur,3,0,5,0
+2024,2024-11-02,FC Zurich,BSC Young Boys,0,0,0,0
+2024,2024-11-02,FC ST. Gallen,FC Sion,0,0,1,1
+2024,2024-11-03,Lausanne,Servette FC,1,0,1,0
+2024,2024-11-03,FC Lugano,Yverdon Sport,1,0,2,0
+2024,2024-11-03,FC Luzern,Grasshoppers,1,0,2,0
+2024,2024-11-09,FC Winterthur,Lausanne,0,0,1,0
+2024,2024-11-09,Yverdon Sport,FC Basel 1893,0,2,1,4
+2024,2024-11-09,Servette FC,FC Zurich,1,1,1,1
+2024,2024-11-10,FC Sion,FC Luzern,2,0,4,2
+2024,2024-11-10,BSC Young Boys,FC Lugano,1,1,2,1
+2024,2024-11-10,Grasshoppers,FC ST. Gallen,0,1,1,2
+2024,2024-11-23,FC Luzern,BSC Young Boys,0,1,1,1
+2024,2024-11-23,Grasshoppers,FC Winterthur,0,0,1,1
+2024,2024-11-23,Lausanne,FC Sion,0,0,1,0
+2024,2024-11-24,FC Lugano,FC Zurich,3,1,4,1
+2024,2024-11-24,FC Basel 1893,Servette FC,1,0,3,1
+2024,2024-11-24,FC ST. Gallen,Yverdon Sport,0,0,0,0
+2024,2024-11-30,FC Basel 1893,Lausanne,1,0,1,1
+2024,2024-11-30,Yverdon Sport,FC Luzern,0,0,0,1
+2024,2024-11-30,FC Zurich,Grasshoppers,1,1,1,1
+2024,2024-12-01,FC Winterthur,FC Sion,0,1,1,3
+2024,2024-12-01,BSC Young Boys,FC ST. Gallen,2,0,3,1
+2024,2024-12-01,Servette FC,FC Lugano,0,0,3,0
+2024,2024-12-07,FC Sion,BSC Young Boys,3,0,3,1
+2024,2024-12-07,Grasshoppers,Yverdon Sport,1,0,1,1
+2024,2024-12-07,FC Luzern,FC Lugano,0,2,1,4
+2024,2024-12-08,Lausanne,FC Zurich,1,0,3,0
+2024,2024-12-08,FC ST. Gallen,FC Basel 1893,1,0,1,1
+2024,2024-12-08,Servette FC,FC Winterthur,1,0,1,1
+2024,2024-12-14,FC Winterthur,FC Luzern,3,2,3,4
+2024,2024-12-14,Yverdon Sport,FC Sion,0,1,0,1
+2024,2024-12-14,FC Basel 1893,Grasshoppers,0,1,0,1
+2024,2024-12-15,BSC Young Boys,Servette FC,1,1,2,1
+2024,2024-12-15,FC Lugano,Lausanne,0,2,1,4
+2024,2024-12-15,FC Zurich,FC ST. Gallen,0,1,0,2
+2024,2025-01-18,BSC Young Boys,FC Winterthur,0,0,0,0
+2024,2025-01-18,FC Sion,Grasshoppers,0,0,0,1
+2024,2025-01-18,Servette FC,FC ST. Gallen,0,0,1,1
+2024,2025-01-19,FC Zurich,Yverdon Sport,0,0,1,0
+2024,2025-01-19,FC Lugano,FC Basel 1893,1,1,2,2
+2024,2025-01-19,Lausanne,FC Luzern,0,0,0,0
+2024,2025-01-25,Grasshoppers,BSC Young Boys,0,0,0,0
+2024,2025-01-25,Yverdon Sport,Servette FC,0,0,0,0
+2024,2025-01-25,FC Winterthur,FC Lugano,2,0,2,3
+2024,2025-01-26,FC ST. Gallen,Lausanne,1,1,3,2
+2024,2025-01-26,FC Basel 1893,FC Sion,1,1,4,1
+2024,2025-01-26,FC Luzern,FC Zurich,2,0,3,1
+2024,2025-02-01,FC Lugano,FC Sion,1,1,3,2
+2024,2025-02-01,Lausanne,BSC Young Boys,0,2,1,2
+2024,2025-02-01,Servette FC,Grasshoppers,0,0,1,1
+2024,2025-02-02,FC Luzern,FC ST. Gallen,1,0,2,0
+2024,2025-02-02,FC Zurich,FC Basel 1893,0,1,0,1
+2024,2025-02-02,Yverdon Sport,FC Winterthur,1,0,3,0
+2024,2025-02-04,FC Sion,Servette FC,1,1,3,3
+2024,2025-02-04,Grasshoppers,Lausanne,0,1,2,2
+2024,2025-02-05,BSC Young Boys,Yverdon Sport,2,0,6,1
+2024,2025-02-05,FC ST. Gallen,FC Lugano,0,1,2,1
+2024,2025-02-06,FC Basel 1893,FC Luzern,1,1,2,1
+2024,2025-02-06,FC Winterthur,FC Zurich,0,0,0,2
+2024,2025-02-08,FC Lugano,Grasshoppers,0,1,1,1
+2024,2025-02-08,Lausanne,Yverdon Sport,3,1,4,1
+2024,2025-02-08,BSC Young Boys,FC Sion,3,1,5,1
+2024,2025-02-09,Servette FC,FC Basel 1893,0,0,2,1
+2024,2025-02-09,FC Luzern,FC Winterthur,1,1,3,2
+2024,2025-02-09,FC Zurich,FC ST. Gallen,1,0,1,2
+2024,2025-02-15,FC Lugano,FC Luzern,0,0,2,0
+2024,2025-02-15,FC Sion,FC Zurich,2,1,2,1
+2024,2025-02-15,FC Winterthur,BSC Young Boys,0,0,1,0
+2024,2025-02-16,Yverdon Sport,FC ST. Gallen,0,0,1,0
+2024,2025-02-16,FC Basel 1893,Lausanne,1,0,1,1
+2024,2025-02-16,Grasshoppers,Servette FC,1,0,1,2
+2024,2025-02-22,FC Zurich,Yverdon Sport,1,0,2,1
+2024,2025-02-22,Lausanne,Grasshoppers,1,0,2,2
+2024,2025-02-22,FC ST. Gallen,FC Basel 1893,0,1,2,2
+2024,2025-02-23,FC Luzern,FC Sion,1,0,2,1
+2024,2025-02-23,BSC Young Boys,FC Lugano,0,0,1,0
+2024,2025-02-23,Servette FC,FC Winterthur,0,0,3,1
+2024,2025-03-01,FC Basel 1893,FC Sion,2,0,2,0
+2024,2025-03-01,FC Winterthur,FC ST. Gallen,3,0,4,0
+2024,2025-03-01,Lausanne,Servette FC,0,1,0,1
+2024,2025-03-02,FC Lugano,FC Zurich,0,1,0,3
+2024,2025-03-02,Grasshoppers,BSC Young Boys,0,0,1,0
+2024,2025-03-02,Yverdon Sport,FC Luzern,0,0,2,2
+2024,2025-03-08,BSC Young Boys,Lausanne,1,0,3,0
+2024,2025-03-08,Yverdon Sport,FC Winterthur,1,1,2,1
+2024,2025-03-08,FC ST. Gallen,Grasshoppers,1,1,3,1
+2024,2025-03-09,FC Zurich,Servette FC,0,2,1,3
+2024,2025-03-09,FC Sion,FC Lugano,1,1,2,1
+2024,2025-03-09,FC Luzern,FC Basel 1893,0,1,1,1
+2024,2025-03-15,FC ST. Gallen,Lausanne,0,2,0,2
+2024,2025-03-15,Servette FC,Yverdon Sport,1,2,2,3
+2024,2025-03-15,FC Zurich,FC Luzern,2,1,3,2
+2024,2025-03-16,Grasshoppers,FC Sion,0,1,1,1
+2024,2025-03-16,FC Basel 1893,BSC Young Boys,0,1,1,2
+2024,2025-03-16,FC Lugano,FC Winterthur,0,0,2,1
+2024,2025-03-29,BSC Young Boys,FC ST. Gallen,0,0,1,0
+2024,2025-03-29,FC Sion,Yverdon Sport,0,1,1,1
+2024,2025-03-29,FC Lugano,Servette FC,0,1,0,2
+2024,2025-03-30,FC Winterthur,FC Basel 1893,0,0,0,2
+2024,2025-03-30,Grasshoppers,FC Zurich,0,1,1,2
+2024,2025-03-30,Lausanne,FC Luzern,0,3,1,4
+2024,2025-04-01,Servette FC,BSC Young Boys,0,1,0,1
+2024,2025-04-01,Yverdon Sport,FC Lugano,0,1,0,2
+2024,2025-04-02,FC Sion,FC Winterthur,1,0,1,2
+2024,2025-04-02,FC Zurich,Lausanne,0,1,2,2
+2024,2025-04-03,FC Basel 1893,Grasshoppers,2,0,2,1
+2024,2025-04-03,FC Luzern,FC ST. Gallen,1,1,1,1
+2024,2025-04-05,Lausanne,FC Sion,0,0,2,0
+2024,2025-04-05,FC Winterthur,FC Zurich,0,0,0,0
+2024,2025-04-05,BSC Young Boys,Yverdon Sport,0,1,1,1
+2024,2025-04-06,FC ST. Gallen,Servette FC,0,0,1,0
+2024,2025-04-06,FC Basel 1893,FC Lugano,0,0,2,0
+2024,2025-04-06,Grasshoppers,FC Luzern,1,0,3,1
+2024,2025-04-12,FC Winterthur,Lausanne,0,0,1,0
+2024,2025-04-12,Yverdon Sport,Grasshoppers,1,1,1,2
+2024,2025-04-12,FC Zurich,FC Basel 1893,0,2,0,4
+2024,2025-04-13,FC Lugano,FC ST. Gallen,0,0,1,1
+2024,2025-04-13,FC Sion,Servette FC,0,0,1,1
+2024,2025-04-13,FC Luzern,BSC Young Boys,2,0,5,0
+2024,2025-04-19,Grasshoppers,FC Winterthur,0,0,0,1
+2024,2025-04-21,FC Basel 1893,Yverdon Sport,4,0,5,0
+2024,2025-04-21,BSC Young Boys,FC Zurich,2,0,2,1
+2024,2025-04-21,FC ST. Gallen,FC Sion,0,0,1,0
+2024,2025-04-21,Lausanne,FC Lugano,2,0,2,0
+2024,2025-04-21,Servette FC,FC Luzern,1,0,2,1
+2024,2025-05-03,FC Winterthur,Grasshoppers,0,0,2,0
+2024,2025-05-03,Lausanne,BSC Young Boys,1,1,3,2
+2024,2025-05-04,FC Sion,FC Zurich,2,1,2,1
+2024,2025-05-04,FC Basel 1893,Servette FC,3,0,5,1
+2024,2025-05-04,FC Luzern,FC Lugano,0,1,0,2
+2024,2025-05-06,Yverdon Sport,FC ST. Gallen,0,1,1,1
+2024,2025-05-10,FC Zurich,Grasshoppers,2,0,3,0
+2024,2025-05-10,FC ST. Gallen,FC Winterthur,1,2,1,4
+2024,2025-05-10,Yverdon Sport,FC Sion,1,0,1,1
+2024,2025-05-10,FC Lugano,FC Basel 1893,1,1,2,5
+2024,2025-05-11,FC Luzern,Lausanne,0,0,1,1
+2024,2025-05-11,Servette FC,BSC Young Boys,0,0,0,0
+2024,2025-05-13,FC Sion,FC ST. Gallen,0,1,1,1
+2024,2025-05-13,FC Zurich,FC Winterthur,0,1,4,1
+2024,2025-05-14,Grasshoppers,Yverdon Sport,3,0,5,0
+2024,2025-05-14,Lausanne,FC Basel 1893,1,2,2,3
+2024,2025-05-15,BSC Young Boys,FC Luzern,1,0,2,1
+2024,2025-05-15,Servette FC,FC Lugano,2,1,4,1
+2024,2025-05-17,FC ST. Gallen,FC Zurich,2,1,3,2
+2024,2025-05-17,FC Winterthur,Yverdon Sport,1,2,2,2
+2024,2025-05-17,FC Sion,Grasshoppers,0,0,2,1
+2024,2025-05-18,BSC Young Boys,FC Basel 1893,2,1,6,2
+2024,2025-05-18,FC Luzern,Servette FC,0,2,3,4
+2024,2025-05-18,Lausanne,FC Lugano,1,1,1,1
+2024,2025-05-22,Grasshoppers,FC ST. Gallen,1,0,2,0
+2024,2025-05-22,FC Winterthur,FC Sion,2,0,2,0
+2024,2025-05-22,Yverdon Sport,FC Zurich,1,0,3,2
+2024,2025-05-24,FC Basel 1893,FC Luzern,2,0,4,0
+2024,2025-05-24,FC Lugano,BSC Young Boys,0,0,1,1
+2024,2025-05-24,Servette FC,Lausanne,1,0,3,3
+2024,2025-05-27,Grasshoppers,FC Aarau,2,0,4,0
+2024,2025-05-30,FC Aarau,Grasshoppers,0,0,1,0
+2025,2025-07-25,FC Zurich,FC Sion,1,0,2,3
+2025,2025-07-26,FC ST. Gallen,FC Basel 1893,0,1,2,1
+2025,2025-07-26,Grasshoppers,FC Luzern,2,2,2,3
+2025,2025-07-26,BSC Young Boys,Servette FC,2,1,3,1
+2025,2025-07-27,FC Lugano,FC Thun,1,0,1,2
+2025,2025-07-27,Lausanne,FC Winterthur,0,1,3,2
+2025,2025-08-02,FC Winterthur,BSC Young Boys,0,1,1,1
+2025,2025-08-02,Servette FC,FC ST. Gallen,1,3,1,4
+2025,2025-08-02,FC Basel 1893,Grasshoppers,1,0,2,1
+2025,2025-08-03,FC Thun,Lausanne,1,0,2,1
+2025,2025-08-03,FC Sion,FC Lugano,2,0,4,0
+2025,2025-08-03,FC Luzern,FC Zurich,0,0,1,1
+2025,2025-08-06,FC Basel 1893,BSC Young Boys,1,1,4,1
+2025,2025-08-09,FC ST. Gallen,FC Winterthur,3,0,5,0
+2025,2025-08-09,FC Luzern,FC Thun,1,1,1,2
+2025,2025-08-10,BSC Young Boys,FC Sion,0,0,0,0
+2025,2025-08-10,FC Lugano,FC Basel 1893,2,0,3,1
+2025,2025-08-10,Lausanne,FC Zurich,1,1,1,2
+2025,2025-08-10,Servette FC,Grasshoppers,0,1,1,1
+2025,2025-08-23,FC Sion,Servette FC,,,,
+2025,2025-08-23,FC Zurich,FC Thun,,,,
+2025,2025-08-24,Grasshoppers,FC Winterthur,,,,
+2025,2025-08-24,FC Lugano,Lausanne,,,,
+2025,2025-08-24,FC ST. Gallen,FC Luzern,,,,
+2025,2025-08-30,FC Thun,Grasshoppers,,,,
+2025,2025-08-30,FC Winterthur,FC Zurich,,,,
+2025,2025-08-30,FC Sion,FC Basel 1893,,,,
+2025,2025-08-31,Lausanne,FC ST. Gallen,,,,
+2025,2025-08-31,BSC Young Boys,FC Lugano,,,,
+2025,2025-08-31,Servette FC,FC Luzern,,,,
+2025,2025-09-13,FC Zurich,Servette FC,,,,
+2025,2025-09-13,FC Thun,FC Basel 1893,,,,
+2025,2025-09-13,FC ST. Gallen,FC Lugano,,,,
+2025,2025-09-14,FC Winterthur,FC Sion,,,,
+2025,2025-09-14,FC Luzern,BSC Young Boys,,,,
+2025,2025-09-14,Grasshoppers,Lausanne,,,,
+2025,2025-09-27,FC Basel 1893,FC Luzern,,,,
+2025,2025-09-27,BSC Young Boys,FC Thun,,,,
+2025,2025-09-27,FC Lugano,Grasshoppers,,,,
+2025,2025-09-27,FC Sion,Lausanne,,,,
+2025,2025-09-27,FC Zurich,FC ST. Gallen,,,,
+2025,2025-09-27,Servette FC,FC Winterthur,,,,
+2025,2025-10-04,FC Luzern,FC Sion,,,,
+2025,2025-10-04,FC ST. Gallen,FC Thun,,,,
+2025,2025-10-04,Grasshoppers,FC Zurich,,,,
+2025,2025-10-05,Lausanne,BSC Young Boys,,,,
+2025,2025-10-05,FC Winterthur,FC Lugano,,,,
+2025,2025-10-05,Servette FC,FC Basel 1893,,,,
+2025,2025-10-18,FC Basel 1893,FC Winterthur,,,,
+2025,2025-10-18,FC Thun,Servette FC,,,,
+2025,2025-10-18,FC Lugano,FC Zurich,,,,
+2025,2025-10-19,Grasshoppers,FC Sion,,,,
+2025,2025-10-19,BSC Young Boys,FC ST. Gallen,,,,
+2025,2025-10-19,FC Luzern,Lausanne,,,,
+2025,2025-10-25,FC Sion,FC Thun,,,,
+2025,2025-10-25,FC ST. Gallen,Grasshoppers,,,,
+2025,2025-10-25,FC Winterthur,FC Luzern,,,,
+2025,2025-10-26,FC Zurich,BSC Young Boys,,,,
+2025,2025-10-26,Lausanne,FC Basel 1893,,,,
+2025,2025-10-26,Servette FC,FC Lugano,,,,
+2025,2025-10-29,FC Basel 1893,FC Zurich,,,,
+2025,2025-10-29,FC Lugano,FC Luzern,,,,
+2025,2025-10-29,FC Sion,FC ST. Gallen,,,,
+2025,2025-10-29,FC Thun,FC Winterthur,,,,
+2025,2025-10-29,Grasshoppers,BSC Young Boys,,,,
+2025,2025-10-29,Lausanne,Servette FC,,,,
+2025,2025-11-01,BSC Young Boys,FC Basel 1893,,,,
+2025,2025-11-01,FC Lugano,FC ST. Gallen,,,,
+2025,2025-11-01,FC Luzern,Grasshoppers,,,,
+2025,2025-11-01,FC Zurich,Lausanne,,,,
+2025,2025-11-01,FC Thun,FC Sion,,,,
+2025,2025-11-01,FC Winterthur,Servette FC,,,,
+2025,2025-11-08,FC Basel 1893,FC Lugano,,,,
+2025,2025-11-08,FC Zurich,FC Luzern,,,,
+2025,2025-11-08,FC ST. Gallen,BSC Young Boys,,,,
+2025,2025-11-08,Lausanne,FC Sion,,,,
+2025,2025-11-08,FC Winterthur,Grasshoppers,,,,
+2025,2025-11-08,Servette FC,FC Thun,,,,
+2025,2025-11-22,BSC Young Boys,FC Winterthur,,,,
+2025,2025-11-22,FC Sion,FC Zurich,,,,
+2025,2025-11-22,FC Luzern,Servette FC,,,,
+2025,2025-11-22,FC ST. Gallen,Lausanne,,,,
+2025,2025-11-22,FC Thun,FC Lugano,,,,
+2025,2025-11-22,Grasshoppers,FC Basel 1893,,,,
+2025,2025-11-29,FC Basel 1893,FC ST. Gallen,,,,
+2025,2025-11-29,FC Lugano,FC Sion,,,,
+2025,2025-11-29,FC Luzern,FC Winterthur,,,,
+2025,2025-11-29,FC Zurich,Grasshoppers,,,,
+2025,2025-11-29,Lausanne,FC Thun,,,,
+2025,2025-11-29,Servette FC,BSC Young Boys,,,,
+2025,2025-12-06,FC Sion,BSC Young Boys,,,,
+2025,2025-12-06,FC ST. Gallen,FC Zurich,,,,
+2025,2025-12-06,FC Thun,FC Luzern,,,,
+2025,2025-12-06,Grasshoppers,Servette FC,,,,
+2025,2025-12-06,Lausanne,FC Lugano,,,,
+2025,2025-12-06,FC Winterthur,FC Basel 1893,,,,
+2025,2025-12-13,FC Basel 1893,Lausanne,,,,
+2025,2025-12-13,BSC Young Boys,FC Luzern,,,,
+2025,2025-12-13,FC Lugano,Servette FC,,,,
+2025,2025-12-13,FC Sion,Grasshoppers,,,,
+2025,2025-12-13,FC Zurich,FC Winterthur,,,,
+2025,2025-12-13,FC Thun,FC ST. Gallen,,,,
+2025,2025-12-17,BSC Young Boys,Grasshoppers,,,,
+2025,2025-12-17,FC Luzern,FC Basel 1893,,,,
+2025,2025-12-17,FC Zurich,FC Lugano,,,,
+2025,2025-12-17,FC ST. Gallen,FC Sion,,,,
+2025,2025-12-17,FC Winterthur,FC Thun,,,,
+2025,2025-12-17,Servette FC,Lausanne,,,,
+2025,2025-12-20,FC Basel 1893,Servette FC,,,,
+2025,2025-12-20,FC Lugano,BSC Young Boys,,,,
+2025,2025-12-20,FC Sion,FC Winterthur,,,,
+2025,2025-12-20,FC Thun,FC Zurich,,,,
+2025,2025-12-20,Grasshoppers,FC ST. Gallen,,,,
+2025,2025-12-20,Lausanne,FC Luzern,,,,
+2025,2026-01-17,FC Basel 1893,FC Sion,,,,
+2025,2026-01-17,BSC Young Boys,Lausanne,,,,
+2025,2026-01-17,FC Luzern,FC Lugano,,,,
+2025,2026-01-17,Grasshoppers,FC Thun,,,,
+2025,2026-01-17,FC Winterthur,FC ST. Gallen,,,,
+2025,2026-01-17,Servette FC,FC Zurich,,,,
+2025,2026-01-24,FC Lugano,FC Winterthur,,,,
+2025,2026-01-24,FC Sion,FC Luzern,,,,
+2025,2026-01-24,FC Zurich,FC Basel 1893,,,,
+2025,2026-01-24,FC ST. Gallen,Servette FC,,,,
+2025,2026-01-24,FC Thun,BSC Young Boys,,,,
+2025,2026-01-24,Lausanne,Grasshoppers,,,,
+2025,2026-01-31,FC Basel 1893,FC Thun,,,,
+2025,2026-01-31,BSC Young Boys,FC Zurich,,,,
+2025,2026-01-31,FC Luzern,FC ST. Gallen,,,,
+2025,2026-01-31,Grasshoppers,FC Lugano,,,,
+2025,2026-01-31,FC Winterthur,Lausanne,,,,
+2025,2026-01-31,Servette FC,FC Sion,,,,

@@ -1,0 +1,271 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-07-19,Neuchatel Xamax FC,Stade Lausanne-Ouchy,2,1,3,2
+2024,2024-07-19,FC Schaffhausen,Étoile Carouge,1,2,2,3
+2024,2024-07-19,FC Aarau,FC Thun,0,2,1,3
+2024,2024-07-20,Bellinzona,FC WIL 1900,1,1,2,1
+2024,2024-07-21,FC Vaduz,Stade Nyonnais,0,0,0,0
+2024,2024-07-26,Stade Lausanne-Ouchy,FC Schaffhausen,0,1,0,1
+2024,2024-07-26,Stade Nyonnais,Bellinzona,0,1,2,1
+2024,2024-07-26,FC WIL 1900,FC Aarau,2,0,2,2
+2024,2024-07-26,Étoile Carouge,Neuchatel Xamax FC,3,0,3,1
+2024,2024-07-28,FC Thun,FC Vaduz,0,0,2,0
+2024,2024-08-02,Stade Nyonnais,FC Schaffhausen,0,1,0,3
+2024,2024-08-02,FC Thun,Stade Lausanne-Ouchy,1,0,1,1
+2024,2024-08-03,FC Aarau,Neuchatel Xamax FC,1,0,1,3
+2024,2024-08-03,Bellinzona,Étoile Carouge,1,0,1,1
+2024,2024-08-04,FC Vaduz,FC WIL 1900,0,1,3,2
+2024,2024-08-09,Stade Lausanne-Ouchy,FC Aarau,1,1,1,1
+2024,2024-08-09,Neuchatel Xamax FC,Bellinzona,2,1,2,2
+2024,2024-08-09,Étoile Carouge,FC Thun,0,2,0,2
+2024,2024-08-10,FC WIL 1900,Stade Nyonnais,0,2,0,3
+2024,2024-08-11,FC Schaffhausen,FC Vaduz,0,1,1,1
+2024,2024-08-23,FC WIL 1900,Neuchatel Xamax FC,1,0,4,0
+2024,2024-08-24,FC Aarau,Étoile Carouge,1,0,1,0
+2024,2024-08-24,Bellinzona,FC Schaffhausen,2,0,2,1
+2024,2024-08-25,FC Vaduz,Stade Lausanne-Ouchy,2,0,3,1
+2024,2024-08-25,FC Thun,Stade Nyonnais,1,1,4,2
+2024,2024-08-30,Neuchatel Xamax FC,FC Vaduz,1,1,4,1
+2024,2024-08-30,Stade Nyonnais,Stade Lausanne-Ouchy,0,2,0,3
+2024,2024-08-30,FC Schaffhausen,FC Thun,2,1,2,2
+2024,2024-08-30,Étoile Carouge,FC WIL 1900,1,0,3,1
+2024,2024-08-31,FC Aarau,Bellinzona,1,1,1,2
+2024,2024-09-20,FC Schaffhausen,Neuchatel Xamax FC,1,0,1,2
+2024,2024-09-20,Stade Lausanne-Ouchy,FC WIL 1900,0,0,0,0
+2024,2024-09-20,Stade Nyonnais,Étoile Carouge,1,2,2,4
+2024,2024-09-20,FC Vaduz,FC Aarau,2,3,2,5
+2024,2024-09-20,FC Thun,Bellinzona,0,0,1,2
+2024,2024-09-23,Neuchatel Xamax FC,Stade Nyonnais,0,1,3,2
+2024,2024-09-23,FC WIL 1900,FC Thun,0,0,0,0
+2024,2024-09-23,FC Aarau,FC Schaffhausen,1,1,1,2
+2024,2024-09-24,Bellinzona,Stade Lausanne-Ouchy,1,0,2,1
+2024,2024-09-24,Étoile Carouge,FC Vaduz,1,0,1,0
+2024,2024-09-27,FC Schaffhausen,FC WIL 1900,0,1,0,2
+2024,2024-09-27,Stade Lausanne-Ouchy,Étoile Carouge,2,0,5,1
+2024,2024-09-27,Stade Nyonnais,FC Aarau,0,1,1,2
+2024,2024-09-27,FC Thun,Neuchatel Xamax FC,0,0,1,0
+2024,2024-09-29,FC Vaduz,Bellinzona,2,0,2,1
+2024,2024-10-04,Neuchatel Xamax FC,FC Schaffhausen,2,0,2,1
+2024,2024-10-04,Bellinzona,FC Thun,0,0,0,0
+2024,2024-10-04,Étoile Carouge,Stade Nyonnais,0,1,3,1
+2024,2024-10-05,FC Aarau,FC Vaduz,0,0,0,0
+2024,2024-10-05,FC WIL 1900,Stade Lausanne-Ouchy,2,1,2,2
+2024,2024-10-18,Neuchatel Xamax FC,Étoile Carouge,0,1,0,3
+2024,2024-10-18,Stade Nyonnais,FC WIL 1900,0,1,3,1
+2024,2024-10-18,FC Schaffhausen,FC Aarau,0,3,0,3
+2024,2024-10-19,FC Vaduz,FC Thun,0,0,2,0
+2024,2024-10-19,Stade Lausanne-Ouchy,Bellinzona,1,1,1,1
+2024,2024-10-25,FC Aarau,Stade Nyonnais,0,0,1,0
+2024,2024-10-25,Étoile Carouge,Stade Lausanne-Ouchy,0,0,1,1
+2024,2024-10-26,Bellinzona,Neuchatel Xamax FC,0,1,0,2
+2024,2024-10-27,FC WIL 1900,FC Vaduz,0,0,0,0
+2024,2024-10-27,FC Thun,FC Schaffhausen,1,0,3,1
+2024,2024-11-01,Neuchatel Xamax FC,FC WIL 1900,0,1,1,4
+2024,2024-11-01,FC Schaffhausen,Bellinzona,2,0,2,1
+2024,2024-11-01,Stade Lausanne-Ouchy,FC Vaduz,1,1,2,2
+2024,2024-11-01,Stade Nyonnais,FC Thun,0,3,1,6
+2024,2024-11-01,Étoile Carouge,FC Aarau,2,0,2,1
+2024,2024-11-08,Stade Lausanne-Ouchy,Stade Nyonnais,1,1,6,2
+2024,2024-11-08,FC Vaduz,Neuchatel Xamax FC,1,0,2,1
+2024,2024-11-09,FC Thun,Étoile Carouge,1,0,2,1
+2024,2024-11-09,Bellinzona,FC Aarau,0,3,1,4
+2024,2024-11-10,FC WIL 1900,FC Schaffhausen,1,1,2,2
+2024,2024-11-22,Neuchatel Xamax FC,FC Thun,1,0,2,3
+2024,2024-11-22,Étoile Carouge,Bellinzona,1,1,2,2
+2024,2024-11-24,FC Aarau,FC WIL 1900,0,1,1,1
+2024,2024-11-29,Stade Lausanne-Ouchy,Neuchatel Xamax FC,0,1,1,2
+2024,2024-11-29,FC Vaduz,FC Schaffhausen,0,2,2,2
+2024,2024-11-30,FC Thun,FC Aarau,1,0,1,1
+2024,2024-11-30,FC WIL 1900,Étoile Carouge,1,1,2,1
+2024,2024-11-30,Bellinzona,Stade Nyonnais,0,0,1,1
+2024,2024-12-03,Stade Nyonnais,FC Vaduz,0,1,1,1
+2024,2024-12-06,Stade Nyonnais,Neuchatel Xamax FC,2,1,2,1
+2024,2024-12-06,FC Thun,FC WIL 1900,0,1,0,2
+2024,2024-12-08,Étoile Carouge,FC Schaffhausen,1,0,1,0
+2024,2024-12-08,FC Aarau,Stade Lausanne-Ouchy,1,0,1,0
+2024,2024-12-08,Bellinzona,FC Vaduz,1,1,1,2
+2024,2024-12-13,FC Schaffhausen,Stade Nyonnais,0,1,0,1
+2024,2024-12-13,Stade Lausanne-Ouchy,FC Thun,1,0,1,1
+2024,2024-12-13,Neuchatel Xamax FC,FC Aarau,1,1,1,3
+2024,2024-12-14,FC Vaduz,Étoile Carouge,1,1,3,2
+2024,2024-12-14,FC WIL 1900,Bellinzona,0,1,0,2
+2024,2025-01-24,Neuchatel Xamax FC,Stade Lausanne-Ouchy,1,1,1,2
+2024,2025-01-24,Stade Nyonnais,FC Aarau,1,0,1,2
+2024,2025-01-24,FC Thun,FC Vaduz,1,0,3,1
+2024,2025-01-24,Étoile Carouge,FC WIL 1900,1,1,1,1
+2024,2025-01-25,Bellinzona,FC Schaffhausen,1,0,3,0
+2024,2025-01-31,FC Schaffhausen,FC Thun,0,1,2,3
+2024,2025-01-31,Stade Lausanne-Ouchy,Étoile Carouge,1,0,1,0
+2024,2025-01-31,FC WIL 1900,Neuchatel Xamax FC,1,0,2,0
+2024,2025-02-01,FC Vaduz,Stade Nyonnais,0,0,1,1
+2024,2025-02-01,FC Aarau,Bellinzona,0,1,2,1
+2024,2025-02-04,FC Schaffhausen,Stade Lausanne-Ouchy,0,0,0,1
+2024,2025-02-07,Stade Nyonnais,FC Schaffhausen,0,1,0,1
+2024,2025-02-07,Stade Lausanne-Ouchy,FC Aarau,2,0,2,4
+2024,2025-02-07,Étoile Carouge,Neuchatel Xamax FC,1,0,2,1
+2024,2025-02-09,FC Vaduz,FC WIL 1900,1,0,1,0
+2024,2025-02-09,FC Thun,Bellinzona,1,0,2,0
+2024,2025-02-14,Neuchatel Xamax FC,FC Vaduz,0,0,0,0
+2024,2025-02-14,FC Schaffhausen,Étoile Carouge,0,0,0,0
+2024,2025-02-14,FC Aarau,FC Thun,1,0,1,0
+2024,2025-02-15,FC WIL 1900,Stade Nyonnais,1,1,2,1
+2024,2025-02-15,Bellinzona,Stade Lausanne-Ouchy,0,0,0,1
+2024,2025-02-21,Stade Nyonnais,Stade Lausanne-Ouchy,0,0,3,0
+2024,2025-02-21,FC Schaffhausen,Neuchatel Xamax FC,1,1,2,4
+2024,2025-02-22,Bellinzona,Étoile Carouge,0,0,0,0
+2024,2025-02-23,FC Vaduz,FC Aarau,0,1,0,1
+2024,2025-02-23,FC WIL 1900,FC Thun,0,1,2,3
+2024,2025-02-28,Stade Lausanne-Ouchy,FC WIL 1900,2,1,2,1
+2024,2025-02-28,FC Thun,Stade Nyonnais,1,2,2,2
+2024,2025-03-01,FC Aarau,FC Schaffhausen,2,0,3,0
+2024,2025-03-02,Neuchatel Xamax FC,Bellinzona,0,0,1,1
+2024,2025-03-02,Étoile Carouge,FC Vaduz,2,0,3,2
+2024,2025-03-07,FC Schaffhausen,FC Vaduz,1,1,1,1
+2024,2025-03-07,Stade Nyonnais,Étoile Carouge,0,3,0,3
+2024,2025-03-07,FC Aarau,Neuchatel Xamax FC,1,0,2,0
+2024,2025-03-08,Bellinzona,FC WIL 1900,0,2,0,3
+2024,2025-03-09,FC Thun,Stade Lausanne-Ouchy,0,0,2,1
+2024,2025-03-14,Étoile Carouge,FC Thun,0,0,0,0
+2024,2025-03-15,Stade Lausanne-Ouchy,FC Schaffhausen,0,0,0,1
+2024,2025-03-16,FC Vaduz,Bellinzona,2,0,3,1
+2024,2025-03-16,Neuchatel Xamax FC,Stade Nyonnais,2,0,4,0
+2024,2025-03-16,FC WIL 1900,FC Aarau,0,2,2,2
+2024,2025-03-28,FC Schaffhausen,FC WIL 1900,0,1,1,3
+2024,2025-03-28,Stade Nyonnais,Bellinzona,2,0,3,0
+2024,2025-03-28,FC Vaduz,Stade Lausanne-Ouchy,0,0,0,1
+2024,2025-03-28,FC Thun,Neuchatel Xamax FC,1,0,2,1
+2024,2025-03-28,FC Aarau,Étoile Carouge,1,0,2,2
+2024,2025-03-31,Neuchatel Xamax FC,FC Schaffhausen,2,1,6,2
+2024,2025-03-31,Bellinzona,FC Aarau,1,1,1,1
+2024,2025-03-31,Stade Lausanne-Ouchy,FC Thun,1,0,3,0
+2024,2025-03-31,Étoile Carouge,Stade Nyonnais,2,1,2,1
+2024,2025-04-01,FC WIL 1900,FC Vaduz,0,2,0,3
+2024,2025-04-04,Stade Nyonnais,FC WIL 1900,0,1,0,2
+2024,2025-04-04,FC Thun,FC Schaffhausen,1,0,3,0
+2024,2025-04-04,FC Aarau,Stade Lausanne-Ouchy,0,2,2,2
+2024,2025-04-05,Étoile Carouge,Bellinzona,2,0,7,0
+2024,2025-04-06,FC Vaduz,Neuchatel Xamax FC,1,1,2,1
+2024,2025-04-11,FC Schaffhausen,Stade Lausanne-Ouchy,0,3,2,3
+2024,2025-04-11,Stade Nyonnais,FC Thun,0,1,0,2
+2024,2025-04-11,Neuchatel Xamax FC,FC Aarau,0,0,1,1
+2024,2025-04-12,Bellinzona,FC Vaduz,1,0,3,1
+2024,2025-04-13,FC WIL 1900,Étoile Carouge,2,1,2,2
+2024,2025-04-18,Stade Lausanne-Ouchy,Neuchatel Xamax FC,0,0,0,0
+2024,2025-04-18,Bellinzona,Stade Nyonnais,1,0,2,1
+2024,2025-04-18,FC Aarau,FC Vaduz,0,1,2,2
+2024,2025-04-18,Étoile Carouge,FC Schaffhausen,0,0,0,2
+2024,2025-04-21,FC Thun,FC WIL 1900,2,0,7,0
+2024,2025-04-25,FC Schaffhausen,FC Aarau,0,0,1,1
+2024,2025-04-25,Neuchatel Xamax FC,FC Thun,0,2,0,2
+2024,2025-04-26,Stade Lausanne-Ouchy,Stade Nyonnais,0,0,0,1
+2024,2025-04-27,FC Vaduz,Étoile Carouge,0,0,1,0
+2024,2025-04-27,FC WIL 1900,Bellinzona,1,0,2,2
+2024,2025-05-02,Stade Nyonnais,FC Vaduz,1,0,1,0
+2024,2025-05-02,FC Thun,FC Aarau,1,1,2,1
+2024,2025-05-02,Étoile Carouge,Stade Lausanne-Ouchy,1,0,1,2
+2024,2025-05-03,Bellinzona,Neuchatel Xamax FC,1,1,3,1
+2024,2025-05-04,FC WIL 1900,FC Schaffhausen,0,1,3,1
+2024,2025-05-09,Neuchatel Xamax FC,Étoile Carouge,1,2,1,2
+2024,2025-05-09,FC Schaffhausen,Stade Nyonnais,0,2,2,3
+2024,2025-05-09,Stade Lausanne-Ouchy,Bellinzona,0,1,1,1
+2024,2025-05-09,FC Aarau,FC WIL 1900,2,2,2,4
+2024,2025-05-11,FC Vaduz,FC Thun,3,0,3,3
+2024,2025-05-16,FC Vaduz,FC Schaffhausen,0,0,1,0
+2024,2025-05-16,FC WIL 1900,Stade Lausanne-Ouchy,0,1,0,2
+2024,2025-05-16,Bellinzona,FC Thun,1,0,3,1
+2024,2025-05-16,Stade Nyonnais,Neuchatel Xamax FC,1,2,1,3
+2024,2025-05-16,Étoile Carouge,FC Aarau,1,1,1,3
+2024,2025-05-23,FC Thun,Étoile Carouge,1,0,1,0
+2024,2025-05-23,Neuchatel Xamax FC,FC WIL 1900,0,1,2,3
+2024,2025-05-23,FC Aarau,Stade Nyonnais,0,1,1,1
+2024,2025-05-23,FC Schaffhausen,Bellinzona,0,1,1,3
+2024,2025-05-23,Stade Lausanne-Ouchy,FC Vaduz,0,0,2,0
+2025,2025-07-25,Neuchatel Xamax FC,Stade Nyonnais,1,0,1,1
+2025,2025-07-25,Rapperswil,Étoile Carouge,0,0,1,0
+2025,2025-07-26,Stade Lausanne-Ouchy,FC WIL 1900,1,1,1,1
+2025,2025-07-27,FC Vaduz,Yverdon Sport,1,0,2,1
+2025,2025-08-01,FC WIL 1900,FC Aarau,0,2,1,3
+2025,2025-08-01,Stade Nyonnais,Rapperswil,1,0,1,0
+2025,2025-08-02,Bellinzona,Neuchatel Xamax FC,1,1,1,5
+2025,2025-08-03,Yverdon Sport,Stade Lausanne-Ouchy,1,2,3,2
+2025,2025-08-03,Étoile Carouge,FC Vaduz,1,0,1,1
+2025,2025-08-08,FC WIL 1900,Étoile Carouge,0,0,1,0
+2025,2025-08-08,Rapperswil,Yverdon Sport,0,1,0,3
+2025,2025-08-09,FC Aarau,Neuchatel Xamax FC,1,0,2,0
+2025,2025-08-09,Stade Lausanne-Ouchy,Bellinzona,1,1,2,2
+2025,2025-08-10,FC Vaduz,Stade Nyonnais,2,0,3,0
+2025,2025-08-13,FC Aarau,Bellinzona,,,,
+2025,2025-08-22,FC Vaduz,Bellinzona,,,,
+2025,2025-08-22,Neuchatel Xamax FC,Étoile Carouge,,,,
+2025,2025-08-22,Rapperswil,Stade Lausanne-Ouchy,,,,
+2025,2025-08-22,Stade Nyonnais,FC Aarau,,,,
+2025,2025-08-22,Yverdon Sport,FC WIL 1900,,,,
+2025,2025-08-25,Neuchatel Xamax FC,FC Vaduz,,,,
+2025,2025-08-25,FC Aarau,Stade Lausanne-Ouchy,,,,
+2025,2025-08-26,FC WIL 1900,Rapperswil,,,,
+2025,2025-08-26,Bellinzona,Yverdon Sport,,,,
+2025,2025-08-26,Étoile Carouge,Stade Nyonnais,,,,
+2025,2025-08-29,Stade Nyonnais,Bellinzona,,,,
+2025,2025-08-29,Rapperswil,FC Aarau,,,,
+2025,2025-08-30,Stade Lausanne-Ouchy,Étoile Carouge,,,,
+2025,2025-08-31,FC Vaduz,FC WIL 1900,,,,
+2025,2025-08-31,Yverdon Sport,Neuchatel Xamax FC,,,,
+2025,2025-09-12,Stade Nyonnais,Stade Lausanne-Ouchy,,,,
+2025,2025-09-12,Neuchatel Xamax FC,FC WIL 1900,,,,
+2025,2025-09-12,Étoile Carouge,Yverdon Sport,,,,
+2025,2025-09-13,FC Aarau,FC Vaduz,,,,
+2025,2025-09-13,Bellinzona,Rapperswil,,,,
+2025,2025-09-26,Rapperswil,Neuchatel Xamax FC,,,,
+2025,2025-09-26,Étoile Carouge,FC Aarau,,,,
+2025,2025-09-27,FC WIL 1900,Bellinzona,,,,
+2025,2025-09-27,Stade Lausanne-Ouchy,FC Vaduz,,,,
+2025,2025-09-28,Yverdon Sport,Stade Nyonnais,,,,
+2025,2025-10-03,Neuchatel Xamax FC,Stade Lausanne-Ouchy,,,,
+2025,2025-10-03,Stade Nyonnais,FC WIL 1900,,,,
+2025,2025-10-03,FC Aarau,Yverdon Sport,,,,
+2025,2025-10-04,Bellinzona,Étoile Carouge,,,,
+2025,2025-10-05,FC Vaduz,Rapperswil,,,,
+2025,2025-10-18,FC WIL 1900,FC Vaduz,,,,
+2025,2025-10-18,Rapperswil,Stade Nyonnais,,,,
+2025,2025-10-18,Stade Lausanne-Ouchy,FC Aarau,,,,
+2025,2025-10-18,Yverdon Sport,Bellinzona,,,,
+2025,2025-10-18,Étoile Carouge,Neuchatel Xamax FC,,,,
+2025,2025-10-25,FC Vaduz,Étoile Carouge,,,,
+2025,2025-10-25,Neuchatel Xamax FC,Rapperswil,,,,
+2025,2025-10-25,FC Aarau,FC WIL 1900,,,,
+2025,2025-10-25,Bellinzona,Stade Lausanne-Ouchy,,,,
+2025,2025-10-25,Stade Nyonnais,Yverdon Sport,,,,
+2025,2025-11-01,FC Aarau,Rapperswil,,,,
+2025,2025-11-01,FC WIL 1900,Neuchatel Xamax FC,,,,
+2025,2025-11-01,Stade Lausanne-Ouchy,Stade Nyonnais,,,,
+2025,2025-11-01,Yverdon Sport,FC Vaduz,,,,
+2025,2025-11-01,Étoile Carouge,Bellinzona,,,,
+2025,2025-11-08,FC Vaduz,Stade Lausanne-Ouchy,,,,
+2025,2025-11-08,Neuchatel Xamax FC,Yverdon Sport,,,,
+2025,2025-11-08,Rapperswil,FC WIL 1900,,,,
+2025,2025-11-08,Bellinzona,FC Aarau,,,,
+2025,2025-11-08,Stade Nyonnais,Étoile Carouge,,,,
+2025,2025-11-22,FC Aarau,Stade Nyonnais,,,,
+2025,2025-11-22,FC WIL 1900,Yverdon Sport,,,,
+2025,2025-11-22,Stade Lausanne-Ouchy,Neuchatel Xamax FC,,,,
+2025,2025-11-22,Bellinzona,FC Vaduz,,,,
+2025,2025-11-22,Étoile Carouge,Rapperswil,,,,
+2025,2025-11-29,Neuchatel Xamax FC,FC Aarau,,,,
+2025,2025-11-29,FC WIL 1900,Stade Lausanne-Ouchy,,,,
+2025,2025-11-29,Rapperswil,Bellinzona,,,,
+2025,2025-11-29,Stade Nyonnais,FC Vaduz,,,,
+2025,2025-11-29,Yverdon Sport,Étoile Carouge,,,,
+2025,2025-12-06,FC Vaduz,Neuchatel Xamax FC,,,,
+2025,2025-12-06,Stade Lausanne-Ouchy,Rapperswil,,,,
+2025,2025-12-06,Bellinzona,Stade Nyonnais,,,,
+2025,2025-12-06,Yverdon Sport,FC Aarau,,,,
+2025,2025-12-06,Étoile Carouge,FC WIL 1900,,,,
+2025,2025-12-13,Neuchatel Xamax FC,Bellinzona,,,,
+2025,2025-12-13,FC Aarau,Étoile Carouge,,,,
+2025,2025-12-13,FC WIL 1900,Stade Nyonnais,,,,
+2025,2025-12-13,Rapperswil,FC Vaduz,,,,
+2025,2025-12-13,Stade Lausanne-Ouchy,Yverdon Sport,,,,
+2025,2025-12-20,FC Vaduz,FC Aarau,,,,
+2025,2025-12-20,Bellinzona,FC WIL 1900,,,,
+2025,2025-12-20,Stade Nyonnais,Neuchatel Xamax FC,,,,
+2025,2025-12-20,Yverdon Sport,Rapperswil,,,,
+2025,2025-12-20,Étoile Carouge,Stade Lausanne-Ouchy,,,,

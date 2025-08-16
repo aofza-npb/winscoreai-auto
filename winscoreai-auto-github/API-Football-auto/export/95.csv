@@ -1,0 +1,615 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-08-10,Maritimo,Tondela,1,2,2,2
+2024,2024-08-10,Mafra,Pacos Ferreira,0,1,0,1
+2024,2024-08-10,Leixoes,Benfica B,1,1,2,1
+2024,2024-08-10,Academico Viseu,Chaves,2,0,2,1
+2024,2024-08-11,Penafiel,Oliveirense,2,3,4,3
+2024,2024-08-11,Torreense,Feirense,0,0,0,1
+2024,2024-08-11,FC Porto B,Alverca,0,1,1,1
+2024,2024-08-11,União de Leiria,Vizela,0,1,0,2
+2024,2024-08-12,Felgueiras 1932,Portimonense,0,0,0,0
+2024,2024-08-17,Alverca,Felgueiras 1932,0,0,1,1
+2024,2024-08-17,Oliveirense,Mafra,0,0,0,0
+2024,2024-08-17,Portimonense,União de Leiria,0,1,0,3
+2024,2024-08-18,Pacos Ferreira,Maritimo,1,1,1,2
+2024,2024-08-18,Feirense,Academico Viseu,2,1,2,2
+2024,2024-08-18,Vizela,Penafiel,0,1,1,2
+2024,2024-08-18,Chaves,Leixoes,0,0,0,0
+2024,2024-08-18,Benfica B,Torreense,1,0,2,0
+2024,2024-08-19,Tondela,FC Porto B,1,0,2,2
+2024,2024-08-23,União de Leiria,Alverca,0,0,1,1
+2024,2024-08-24,Felgueiras 1932,Feirense,0,0,0,0
+2024,2024-08-24,Torreense,Oliveirense,1,0,3,0
+2024,2024-08-24,Leixoes,Pacos Ferreira,2,2,3,3
+2024,2024-08-25,Academico Viseu,FC Porto B,2,0,2,0
+2024,2024-08-25,Penafiel,Tondela,2,2,2,2
+2024,2024-08-25,Maritimo,Chaves,0,0,1,1
+2024,2024-08-25,Benfica B,Vizela,0,0,1,0
+2024,2024-08-25,Mafra,Portimonense,0,0,2,2
+2024,2024-08-30,Alverca,Academico Viseu,0,3,0,4
+2024,2024-08-31,Oliveirense,Leixoes,0,1,0,1
+2024,2024-08-31,Tondela,Felgueiras 1932,0,0,1,1
+2024,2024-08-31,Vizela,Torreense,0,1,1,2
+2024,2024-09-01,Portimonense,Maritimo,3,0,5,1
+2024,2024-09-01,Feirense,Benfica B,1,2,2,3
+2024,2024-09-01,Pacos Ferreira,Penafiel,1,1,1,3
+2024,2024-09-01,Chaves,Mafra,0,1,0,3
+2024,2024-09-01,FC Porto B,União de Leiria,1,1,1,1
+2024,2024-09-13,Torreense,Portimonense,1,0,3,2
+2024,2024-09-14,Felgueiras 1932,Chaves,1,1,1,2
+2024,2024-09-14,Academico Viseu,União de Leiria,0,0,0,1
+2024,2024-09-15,Maritimo,Alverca,0,2,1,2
+2024,2024-09-15,Mafra,Tondela,0,1,0,4
+2024,2024-09-15,Penafiel,FC Porto B,0,1,1,1
+2024,2024-09-15,Benfica B,Oliveirense,2,1,2,2
+2024,2024-09-15,Leixoes,Vizela,0,0,0,1
+2024,2024-09-16,Feirense,Pacos Ferreira,2,0,2,0
+2024,2024-09-28,Chaves,Torreense,0,1,2,1
+2024,2024-09-28,Pacos Ferreira,Benfica B,0,1,0,3
+2024,2024-09-28,Portimonense,Penafiel,0,1,0,2
+2024,2024-09-28,Tondela,Academico Viseu,3,1,4,1
+2024,2024-09-29,Oliveirense,Feirense,0,0,1,0
+2024,2024-09-29,FC Porto B,Felgueiras 1932,0,0,0,2
+2024,2024-09-29,Alverca,Leixoes,1,0,1,1
+2024,2024-09-29,União de Leiria,Maritimo,0,1,1,1
+2024,2024-09-30,Vizela,Mafra,1,0,3,0
+2024,2024-10-04,Torreense,Tondela,0,1,0,2
+2024,2024-10-05,Felgueiras 1932,Academico Viseu,0,1,1,1
+2024,2024-10-05,Maritimo,FC Porto B,1,0,1,0
+2024,2024-10-05,Oliveirense,Pacos Ferreira,0,2,0,2
+2024,2024-10-05,Leixoes,Portimonense,3,0,3,0
+2024,2024-10-06,Feirense,Vizela,0,0,0,0
+2024,2024-10-06,Penafiel,União de Leiria,1,0,1,0
+2024,2024-10-06,Benfica B,Chaves,0,0,1,0
+2024,2024-10-06,Mafra,Alverca,0,0,1,1
+2024,2024-10-11,União de Leiria,Felgueiras 1932,1,2,1,3
+2024,2024-10-12,Tondela,Leixoes,0,1,2,1
+2024,2024-10-12,Alverca,Penafiel,1,1,2,2
+2024,2024-10-13,Academico Viseu,Maritimo,0,0,0,2
+2024,2024-10-13,Pacos Ferreira,Torreense,0,0,1,0
+2024,2024-10-13,Chaves,Feirense,0,0,0,0
+2024,2024-10-23,FC Porto B,Mafra,0,1,2,1
+2024,2024-10-25,Pacos Ferreira,Vizela,0,1,1,1
+2024,2024-10-26,Penafiel,Academico Viseu,0,0,0,2
+2024,2024-10-26,Oliveirense,Chaves,0,1,0,3
+2024,2024-10-26,Feirense,Portimonense,0,1,1,1
+2024,2024-10-26,Benfica B,Tondela,1,0,1,3
+2024,2024-10-27,Torreense,Alverca,1,0,1,0
+2024,2024-10-27,Felgueiras 1932,Maritimo,1,2,1,3
+2024,2024-10-27,Leixoes,FC Porto B,2,0,3,0
+2024,2024-10-28,Mafra,União de Leiria,1,0,2,1
+2024,2024-11-01,Alverca,Feirense,0,0,1,0
+2024,2024-11-02,Portimonense,Vizela,1,1,1,1
+2024,2024-11-02,Maritimo,Penafiel,1,1,1,2
+2024,2024-11-02,Chaves,Pacos Ferreira,1,1,2,1
+2024,2024-11-03,Academico Viseu,Benfica B,1,0,1,1
+2024,2024-11-03,Felgueiras 1932,Mafra,0,0,1,1
+2024,2024-11-03,FC Porto B,Torreense,1,1,1,1
+2024,2024-11-03,União de Leiria,Leixoes,1,0,1,0
+2024,2024-11-04,Tondela,Oliveirense,2,0,2,0
+2024,2024-11-08,Vizela,Chaves,0,0,0,1
+2024,2024-11-09,Penafiel,Felgueiras 1932,0,1,2,1
+2024,2024-11-09,Oliveirense,Portimonense,0,1,0,2
+2024,2024-11-09,Mafra,Academico Viseu,0,1,0,2
+2024,2024-11-09,Feirense,Tondela,0,1,1,1
+2024,2024-11-10,Pacos Ferreira,FC Porto B,1,0,2,2
+2024,2024-11-10,Leixoes,Maritimo,1,0,2,1
+2024,2024-11-10,Benfica B,Alverca,1,1,2,1
+2024,2024-11-10,Torreense,União de Leiria,1,1,2,1
+2024,2024-11-23,Portimonense,Benfica B,0,1,0,2
+2024,2024-11-23,Feirense,Maritimo,0,0,1,0
+2024,2024-11-24,Vizela,Oliveirense,0,0,0,0
+2024,2024-11-29,Academico Viseu,Leixoes,1,0,2,0
+2024,2024-11-30,Felgueiras 1932,Torreense,1,1,1,2
+2024,2024-11-30,União de Leiria,Feirense,0,0,1,0
+2024,2024-11-30,Portimonense,Chaves,1,1,1,2
+2024,2024-11-30,Alverca,Vizela,4,1,4,2
+2024,2024-12-01,Penafiel,Mafra,1,1,1,1
+2024,2024-12-01,Tondela,Pacos Ferreira,1,1,2,1
+2024,2024-12-01,Maritimo,Benfica B,0,1,1,1
+2024,2024-12-01,FC Porto B,Oliveirense,1,0,2,1
+2024,2024-12-07,Feirense,Penafiel,1,0,3,0
+2024,2024-12-07,Benfica B,União de Leiria,0,3,0,5
+2024,2024-12-07,Torreense,Academico Viseu,1,0,1,0
+2024,2024-12-07,Leixoes,Felgueiras 1932,0,1,2,2
+2024,2024-12-08,Pacos Ferreira,Portimonense,0,0,0,1
+2024,2024-12-08,Oliveirense,Alverca,1,3,1,4
+2024,2024-12-08,Mafra,Maritimo,1,1,2,3
+2024,2024-12-08,Chaves,FC Porto B,2,0,2,1
+2024,2024-12-08,Vizela,Tondela,0,0,1,1
+2024,2024-12-14,União de Leiria,Pacos Ferreira,0,1,0,1
+2024,2024-12-14,Alverca,Chaves,1,1,3,1
+2024,2024-12-14,Penafiel,Leixoes,2,0,3,1
+2024,2024-12-14,Mafra,Benfica B,2,0,2,0
+2024,2024-12-15,Felgueiras 1932,Vizela,0,1,2,1
+2024,2024-12-15,Tondela,Portimonense,2,0,2,0
+2024,2024-12-15,Maritimo,Torreense,0,0,0,3
+2024,2024-12-15,FC Porto B,Feirense,0,0,0,0
+2024,2024-12-16,Academico Viseu,Oliveirense,1,0,2,1
+2024,2024-12-20,Leixoes,Mafra,0,1,2,1
+2024,2024-12-21,Vizela,FC Porto B,1,0,2,1
+2024,2024-12-21,Portimonense,Academico Viseu,0,1,1,1
+2024,2024-12-21,Chaves,Tondela,1,1,2,2
+2024,2024-12-22,Pacos Ferreira,Alverca,1,2,1,3
+2024,2024-12-22,Oliveirense,União de Leiria,0,1,1,2
+2024,2024-12-22,Torreense,Penafiel,0,0,0,1
+2024,2024-12-22,Benfica B,Felgueiras 1932,1,0,2,0
+2024,2024-12-29,Penafiel,Benfica B,1,1,1,1
+2024,2024-12-29,Mafra,Feirense,0,0,0,0
+2024,2024-12-29,Maritimo,Oliveirense,0,1,1,2
+2024,2025-01-04,Portimonense,Alverca,0,0,1,0
+2024,2025-01-04,Chaves,Penafiel,0,1,0,1
+2024,2025-01-04,Feirense,Leixoes,0,0,1,0
+2024,2025-01-04,Tondela,União de Leiria,0,2,1,4
+2024,2025-01-05,Oliveirense,Felgueiras 1932,0,2,0,3
+2024,2025-01-05,Torreense,Mafra,0,0,1,0
+2024,2025-01-05,Vizela,Maritimo,1,2,3,2
+2024,2025-01-05,Pacos Ferreira,Academico Viseu,2,2,4,3
+2024,2025-01-06,Benfica B,FC Porto B,2,0,2,1
+2024,2025-01-12,Academico Viseu,Vizela,0,0,0,0
+2024,2025-01-12,Felgueiras 1932,Pacos Ferreira,1,0,1,0
+2024,2025-01-12,FC Porto B,Portimonense,1,1,1,2
+2024,2025-01-12,Leixoes,Torreense,0,0,1,1
+2024,2025-01-12,União de Leiria,Chaves,1,0,1,1
+2024,2025-01-12,Alverca,Tondela,0,1,1,1
+2024,2025-01-17,Benfica B,Leixoes,2,0,4,0
+2024,2025-01-17,Chaves,Academico Viseu,1,0,3,0
+2024,2025-01-18,Alverca,FC Porto B,0,0,2,0
+2024,2025-01-18,Portimonense,Felgueiras 1932,1,1,3,2
+2024,2025-01-18,Feirense,Torreense,1,1,1,1
+2024,2025-01-19,Vizela,União de Leiria,0,0,1,0
+2024,2025-01-19,Pacos Ferreira,Mafra,1,0,2,1
+2024,2025-01-19,Tondela,Maritimo,0,0,0,0
+2024,2025-01-20,Oliveirense,Penafiel,1,0,2,2
+2024,2025-01-24,Academico Viseu,Feirense,1,1,2,1
+2024,2025-01-25,Felgueiras 1932,Alverca,0,1,0,1
+2024,2025-01-25,Leixoes,Chaves,0,0,0,0
+2024,2025-01-25,Maritimo,Pacos Ferreira,2,1,2,2
+2024,2025-01-26,Penafiel,Vizela,1,0,1,1
+2024,2025-01-26,Mafra,Oliveirense,0,0,0,0
+2024,2025-01-26,FC Porto B,Tondela,1,2,2,2
+2024,2025-01-26,União de Leiria,Portimonense,0,0,1,0
+2024,2025-01-27,Torreense,Benfica B,1,0,1,1
+2024,2025-01-31,Pacos Ferreira,Leixoes,0,0,0,0
+2024,2025-02-01,Feirense,Felgueiras 1932,2,1,3,2
+2024,2025-02-01,Tondela,Penafiel,0,0,2,0
+2024,2025-02-01,FC Porto B,Academico Viseu,2,1,3,2
+2024,2025-02-01,Vizela,Benfica B,0,0,1,0
+2024,2025-02-01,Portimonense,Mafra,1,0,2,0
+2024,2025-02-02,Oliveirense,Torreense,0,0,0,0
+2024,2025-02-02,Chaves,Maritimo,0,0,1,1
+2024,2025-02-02,Alverca,União de Leiria,1,0,2,1
+2024,2025-02-07,Benfica B,Feirense,0,0,0,1
+2024,2025-02-08,Leixoes,Oliveirense,0,2,1,2
+2024,2025-02-08,Felgueiras 1932,Tondela,0,0,1,0
+2024,2025-02-08,Maritimo,Portimonense,1,0,2,0
+2024,2025-02-08,Penafiel,Pacos Ferreira,1,2,1,2
+2024,2025-02-09,Mafra,Chaves,0,0,0,0
+2024,2025-02-09,Academico Viseu,Alverca,2,1,2,2
+2024,2025-02-09,União de Leiria,FC Porto B,0,0,0,0
+2024,2025-02-10,Torreense,Vizela,0,0,2,4
+2024,2025-02-15,Chaves,Felgueiras 1932,0,0,2,0
+2024,2025-02-15,Pacos Ferreira,Feirense,0,2,1,2
+2024,2025-02-15,Tondela,Mafra,0,0,1,0
+2024,2025-02-16,Oliveirense,Benfica B,2,2,3,2
+2024,2025-02-16,Vizela,Leixoes,0,0,0,0
+2024,2025-02-16,Portimonense,Torreense,0,0,1,2
+2024,2025-02-16,FC Porto B,Penafiel,0,0,3,2
+2024,2025-02-16,Alverca,Maritimo,3,0,5,0
+2024,2025-02-17,União de Leiria,Academico Viseu,0,1,1,1
+2024,2025-02-21,Penafiel,Portimonense,3,0,3,0
+2024,2025-02-22,Felgueiras 1932,FC Porto B,1,0,1,0
+2024,2025-02-22,Benfica B,Pacos Ferreira,0,0,0,0
+2024,2025-02-22,Mafra,Vizela,0,3,1,4
+2024,2025-02-22,Maritimo,União de Leiria,0,0,1,2
+2024,2025-02-22,Feirense,Oliveirense,1,0,3,1
+2024,2025-02-23,Torreense,Chaves,0,2,1,2
+2024,2025-02-23,Leixoes,Alverca,1,0,1,1
+2024,2025-02-23,Academico Viseu,Tondela,1,0,1,1
+2024,2025-02-28,Chaves,Benfica B,1,0,1,2
+2024,2025-03-01,Academico Viseu,Felgueiras 1932,0,0,0,0
+2024,2025-03-01,Alverca,Mafra,1,0,2,0
+2024,2025-03-01,Tondela,Torreense,1,0,2,2
+2024,2025-03-02,Portimonense,Leixoes,0,1,2,1
+2024,2025-03-02,FC Porto B,Maritimo,0,0,0,1
+2024,2025-03-02,União de Leiria,Penafiel,1,0,1,0
+2024,2025-03-02,Vizela,Feirense,3,0,5,0
+2024,2025-03-03,Pacos Ferreira,Oliveirense,0,0,0,1
+2024,2025-03-07,Feirense,Chaves,0,1,0,1
+2024,2025-03-08,Penafiel,Alverca,2,2,3,2
+2024,2025-03-08,Felgueiras 1932,União de Leiria,0,1,2,2
+2024,2025-03-08,Torreense,Pacos Ferreira,2,0,3,0
+2024,2025-03-09,Mafra,FC Porto B,0,0,0,0
+2024,2025-03-09,Maritimo,Academico Viseu,0,0,1,1
+2024,2025-03-09,Oliveirense,Vizela,0,0,0,1
+2024,2025-03-09,Benfica B,Portimonense,0,0,0,0
+2024,2025-03-10,Leixoes,Tondela,0,1,0,1
+2024,2025-03-14,Portimonense,Feirense,1,1,1,2
+2024,2025-03-14,Alverca,Torreense,2,1,2,2
+2024,2025-03-15,Academico Viseu,Penafiel,1,0,1,0
+2024,2025-03-15,Maritimo,Felgueiras 1932,0,0,0,0
+2024,2025-03-15,Chaves,Oliveirense,1,0,4,0
+2024,2025-03-16,Tondela,Benfica B,1,0,2,1
+2024,2025-03-16,União de Leiria,Mafra,1,1,3,1
+2024,2025-03-16,FC Porto B,Leixoes,0,1,0,1
+2024,2025-03-16,Vizela,Pacos Ferreira,1,0,2,1
+2024,2025-03-29,Oliveirense,Tondela,0,1,1,3
+2024,2025-03-29,Penafiel,Maritimo,0,1,0,1
+2024,2025-03-29,Vizela,Portimonense,1,1,3,2
+2024,2025-03-30,Leixoes,União de Leiria,0,0,0,1
+2024,2025-03-30,Torreense,FC Porto B,2,3,2,4
+2024,2025-03-30,Pacos Ferreira,Chaves,0,0,2,0
+2024,2025-03-30,Feirense,Alverca,0,0,0,1
+2024,2025-03-31,Benfica B,Academico Viseu,0,0,1,0
+2024,2025-03-31,Mafra,Felgueiras 1932,0,0,1,0
+2024,2025-04-05,Tondela,Feirense,0,1,2,1
+2024,2025-04-05,Felgueiras 1932,Penafiel,0,0,1,0
+2024,2025-04-05,Maritimo,Leixoes,0,1,1,1
+2024,2025-04-05,Chaves,Vizela,0,2,1,2
+2024,2025-04-06,FC Porto B,Pacos Ferreira,0,0,1,0
+2024,2025-04-06,União de Leiria,Torreense,1,1,1,3
+2024,2025-04-06,Academico Viseu,Mafra,1,1,3,1
+2024,2025-04-06,Portimonense,Oliveirense,1,0,2,3
+2024,2025-04-06,Alverca,Benfica B,0,0,0,0
+2024,2025-04-11,Feirense,União de Leiria,0,1,2,1
+2024,2025-04-12,Pacos Ferreira,Tondela,0,0,0,1
+2024,2025-04-12,Leixoes,Academico Viseu,0,1,1,1
+2024,2025-04-12,Chaves,Portimonense,0,0,2,0
+2024,2025-04-13,Torreense,Felgueiras 1932,0,0,1,1
+2024,2025-04-13,Benfica B,Maritimo,1,0,1,2
+2024,2025-04-13,Vizela,Alverca,1,0,1,1
+2024,2025-04-13,Oliveirense,FC Porto B,0,1,1,1
+2024,2025-04-14,Mafra,Penafiel,2,2,4,2
+2024,2025-04-18,União de Leiria,Benfica B,0,0,1,3
+2024,2025-04-18,Felgueiras 1932,Leixoes,2,0,4,0
+2024,2025-04-18,Portimonense,Pacos Ferreira,2,0,2,0
+2024,2025-04-19,Penafiel,Feirense,1,2,1,2
+2024,2025-04-19,Academico Viseu,Torreense,1,0,1,2
+2024,2025-04-19,FC Porto B,Chaves,0,0,1,2
+2024,2025-04-20,Alverca,Oliveirense,1,0,4,0
+2024,2025-04-20,Maritimo,Mafra,0,0,2,0
+2024,2025-04-20,Tondela,Vizela,0,1,0,1
+2024,2025-04-25,Oliveirense,Academico Viseu,1,0,2,0
+2024,2025-04-25,Pacos Ferreira,União de Leiria,1,1,2,3
+2024,2025-04-26,Torreense,Maritimo,2,1,2,2
+2024,2025-04-26,Vizela,Felgueiras 1932,0,1,1,1
+2024,2025-04-27,Feirense,FC Porto B,0,0,0,1
+2024,2025-04-27,Portimonense,Tondela,0,1,2,2
+2024,2025-04-27,Leixoes,Penafiel,0,1,3,1
+2024,2025-04-29,Chaves,Alverca,0,1,0,2
+2024,2025-04-30,Benfica B,Mafra,2,0,5,0
+2024,2025-05-02,União de Leiria,Oliveirense,2,0,5,0
+2024,2025-05-03,Academico Viseu,Portimonense,1,1,2,1
+2024,2025-05-03,FC Porto B,Vizela,0,0,0,1
+2024,2025-05-04,Alverca,Pacos Ferreira,1,0,1,0
+2024,2025-05-04,Felgueiras 1932,Benfica B,1,1,3,3
+2024,2025-05-04,Mafra,Leixoes,1,2,1,2
+2024,2025-05-04,Maritimo,Feirense,0,0,1,1
+2024,2025-05-04,Tondela,Chaves,1,0,2,1
+2024,2025-05-05,Penafiel,Torreense,0,1,0,1
+2024,2025-05-09,Feirense,Mafra,0,0,2,1
+2024,2025-05-10,Pacos Ferreira,Felgueiras 1932,1,0,1,2
+2024,2025-05-10,Oliveirense,Maritimo,1,0,1,1
+2024,2025-05-10,Chaves,União de Leiria,0,1,0,2
+2024,2025-05-11,Torreense,Leixoes,1,2,3,2
+2024,2025-05-11,Tondela,Alverca,1,2,1,2
+2024,2025-05-11,Vizela,Academico Viseu,1,0,1,1
+2024,2025-05-11,Portimonense,FC Porto B,0,2,0,3
+2024,2025-05-11,Benfica B,Penafiel,0,0,1,1
+2024,2025-05-14,Leixoes,Feirense,1,0,2,0
+2024,2025-05-15,Penafiel,Chaves,0,0,0,0
+2024,2025-05-15,Mafra,Torreense,1,0,2,0
+2024,2025-05-16,Maritimo,Vizela,1,1,1,2
+2024,2025-05-16,União de Leiria,Tondela,0,0,0,2
+2024,2025-05-16,Alverca,Portimonense,1,0,2,1
+2024,2025-05-17,FC Porto B,Benfica B,0,1,1,4
+2024,2025-05-17,Academico Viseu,Pacos Ferreira,0,1,0,1
+2024,2025-05-17,Felgueiras 1932,Oliveirense,0,1,2,1
+2024,2025-05-24,CF Os Belenenses,Pacos Ferreira,0,0,2,1
+2024,2025-06-01,Pacos Ferreira,CF Os Belenenses,0,0,2,0
+2025,2025-08-09,Pacos Ferreira,Vizela,1,0,1,2
+2025,2025-08-09,Torreense,Sporting CP B,0,0,0,1
+2025,2025-08-09,Portimonense,Penafiel,1,1,2,1
+2025,2025-08-10,Chaves,Benfica B,1,1,1,1
+2025,2025-08-10,Maritimo,Lusitânia Lourosa,0,0,0,1
+2025,2025-08-10,Leixoes,Felgueiras 1932,2,0,3,0
+2025,2025-08-10,FC Porto B,Feirense,0,0,0,0
+2025,2025-08-10,União de Leiria,Academico Viseu,1,1,3,2
+2025,2025-08-11,Oliveirense,Farense,1,0,1,1
+2025,2025-08-15,Feirense,Portimonense,,,,
+2025,2025-08-16,Felgueiras 1932,Maritimo,,,,
+2025,2025-08-16,Vizela,FC Porto B,,,,
+2025,2025-08-16,Academico Viseu,Pacos Ferreira,,,,
+2025,2025-08-16,Lusitânia Lourosa,Chaves,,,,
+2025,2025-08-17,Farense,Torreense,,,,
+2025,2025-08-17,Sporting CP B,União de Leiria,,,,
+2025,2025-08-17,Penafiel,Oliveirense,,,,
+2025,2025-08-17,Benfica B,Leixoes,,,,
+2025,2025-08-24,Maritimo,Feirense,,,,
+2025,2025-08-24,Portimonense,Vizela,,,,
+2025,2025-08-24,Chaves,Felgueiras 1932,,,,
+2025,2025-08-24,Oliveirense,Sporting CP B,,,,
+2025,2025-08-24,Pacos Ferreira,União de Leiria,,,,
+2025,2025-08-24,FC Porto B,Farense,,,,
+2025,2025-08-24,Leixoes,Penafiel,,,,
+2025,2025-08-24,Torreense,Academico Viseu,,,,
+2025,2025-08-24,Lusitânia Lourosa,Benfica B,,,,
+2025,2025-08-31,Feirense,Leixoes,,,,
+2025,2025-08-31,Benfica B,Portimonense,,,,
+2025,2025-08-31,Farense,Maritimo,,,,
+2025,2025-08-31,Penafiel,Chaves,,,,
+2025,2025-08-31,Academico Viseu,FC Porto B,,,,
+2025,2025-08-31,Sporting CP B,Pacos Ferreira,,,,
+2025,2025-08-31,Vizela,Oliveirense,,,,
+2025,2025-08-31,União de Leiria,Torreense,,,,
+2025,2025-08-31,Felgueiras 1932,Lusitânia Lourosa,,,,
+2025,2025-09-14,Maritimo,Vizela,,,,
+2025,2025-09-14,Portimonense,Sporting CP B,,,,
+2025,2025-09-14,Chaves,Feirense,,,,
+2025,2025-09-14,Oliveirense,Academico Viseu,,,,
+2025,2025-09-14,FC Porto B,União de Leiria,,,,
+2025,2025-09-14,Leixoes,Farense,,,,
+2025,2025-09-14,Felgueiras 1932,Benfica B,,,,
+2025,2025-09-14,Torreense,Pacos Ferreira,,,,
+2025,2025-09-14,Lusitânia Lourosa,Penafiel,,,,
+2025,2025-09-28,Feirense,Lusitânia Lourosa,,,,
+2025,2025-09-28,Benfica B,Torreense,,,,
+2025,2025-09-28,Farense,Chaves,,,,
+2025,2025-09-28,Pacos Ferreira,FC Porto B,,,,
+2025,2025-09-28,Penafiel,Felgueiras 1932,,,,
+2025,2025-09-28,Academico Viseu,Portimonense,,,,
+2025,2025-09-28,Sporting CP B,Maritimo,,,,
+2025,2025-09-28,Vizela,Leixoes,,,,
+2025,2025-09-28,União de Leiria,Oliveirense,,,,
+2025,2025-10-05,Maritimo,Academico Viseu,,,,
+2025,2025-10-05,Portimonense,União de Leiria,,,,
+2025,2025-10-05,Chaves,Vizela,,,,
+2025,2025-10-05,Benfica B,Penafiel,,,,
+2025,2025-10-05,Oliveirense,Pacos Ferreira,,,,
+2025,2025-10-05,FC Porto B,Torreense,,,,
+2025,2025-10-05,Leixoes,Sporting CP B,,,,
+2025,2025-10-05,Felgueiras 1932,Feirense,,,,
+2025,2025-10-05,Lusitânia Lourosa,Farense,,,,
+2025,2025-10-26,Feirense,Benfica B,,,,
+2025,2025-10-26,Farense,Penafiel,,,,
+2025,2025-10-26,Pacos Ferreira,Portimonense,,,,
+2025,2025-10-26,Academico Viseu,Chaves,,,,
+2025,2025-10-26,FC Porto B,Maritimo,,,,
+2025,2025-10-26,Sporting CP B,Lusitânia Lourosa,,,,
+2025,2025-10-26,Vizela,Felgueiras 1932,,,,
+2025,2025-10-26,União de Leiria,Leixoes,,,,
+2025,2025-10-26,Torreense,Oliveirense,,,,
+2025,2025-10-29,Maritimo,União de Leiria,,,,
+2025,2025-10-29,Portimonense,Torreense,,,,
+2025,2025-10-29,Chaves,Sporting CP B,,,,
+2025,2025-10-29,Benfica B,Pacos Ferreira,,,,
+2025,2025-10-29,Oliveirense,FC Porto B,,,,
+2025,2025-10-29,Penafiel,Feirense,,,,
+2025,2025-10-29,Leixoes,Academico Viseu,,,,
+2025,2025-10-29,Felgueiras 1932,Farense,,,,
+2025,2025-10-29,Lusitânia Lourosa,Vizela,,,,
+2025,2025-11-02,Farense,Benfica B,,,,
+2025,2025-11-02,Oliveirense,Maritimo,,,,
+2025,2025-11-02,Pacos Ferreira,Leixoes,,,,
+2025,2025-11-02,Academico Viseu,Lusitânia Lourosa,,,,
+2025,2025-11-02,FC Porto B,Portimonense,,,,
+2025,2025-11-02,Sporting CP B,Feirense,,,,
+2025,2025-11-02,Vizela,Penafiel,,,,
+2025,2025-11-02,União de Leiria,Chaves,,,,
+2025,2025-11-02,Torreense,Felgueiras 1932,,,,
+2025,2025-11-09,Feirense,Farense,,,,
+2025,2025-11-09,Maritimo,Pacos Ferreira,,,,
+2025,2025-11-09,Portimonense,Oliveirense,,,,
+2025,2025-11-09,Chaves,FC Porto B,,,,
+2025,2025-11-09,Benfica B,Vizela,,,,
+2025,2025-11-09,Penafiel,Sporting CP B,,,,
+2025,2025-11-09,Leixoes,Torreense,,,,
+2025,2025-11-09,Felgueiras 1932,Academico Viseu,,,,
+2025,2025-11-09,Lusitânia Lourosa,União de Leiria,,,,
+2025,2025-11-30,Portimonense,Maritimo,,,,
+2025,2025-11-30,Oliveirense,Leixoes,,,,
+2025,2025-11-30,Pacos Ferreira,Felgueiras 1932,,,,
+2025,2025-11-30,Academico Viseu,Penafiel,,,,
+2025,2025-11-30,FC Porto B,Lusitânia Lourosa,,,,
+2025,2025-11-30,Sporting CP B,Farense,,,,
+2025,2025-11-30,Vizela,Feirense,,,,
+2025,2025-11-30,União de Leiria,Benfica B,,,,
+2025,2025-11-30,Torreense,Chaves,,,,
+2025,2025-12-07,Feirense,Academico Viseu,,,,
+2025,2025-12-07,Maritimo,Torreense,,,,
+2025,2025-12-07,Chaves,Pacos Ferreira,,,,
+2025,2025-12-07,Benfica B,Oliveirense,,,,
+2025,2025-12-07,Farense,Vizela,,,,
+2025,2025-12-07,Penafiel,União de Leiria,,,,
+2025,2025-12-07,Leixoes,FC Porto B,,,,
+2025,2025-12-07,Felgueiras 1932,Sporting CP B,,,,
+2025,2025-12-07,Lusitânia Lourosa,Portimonense,,,,
+2025,2025-12-14,Maritimo,Benfica B,,,,
+2025,2025-12-14,Portimonense,Leixoes,,,,
+2025,2025-12-14,Oliveirense,Chaves,,,,
+2025,2025-12-14,Pacos Ferreira,Lusitânia Lourosa,,,,
+2025,2025-12-14,Academico Viseu,Farense,,,,
+2025,2025-12-14,FC Porto B,Penafiel,,,,
+2025,2025-12-14,Sporting CP B,Vizela,,,,
+2025,2025-12-14,União de Leiria,Felgueiras 1932,,,,
+2025,2025-12-14,Torreense,Feirense,,,,
+2025,2025-12-21,Feirense,Pacos Ferreira,,,,
+2025,2025-12-21,Chaves,Portimonense,,,,
+2025,2025-12-21,Benfica B,Sporting CP B,,,,
+2025,2025-12-21,Farense,União de Leiria,,,,
+2025,2025-12-21,Penafiel,Torreense,,,,
+2025,2025-12-21,Leixoes,Maritimo,,,,
+2025,2025-12-21,Vizela,Academico Viseu,,,,
+2025,2025-12-21,Felgueiras 1932,FC Porto B,,,,
+2025,2025-12-21,Lusitânia Lourosa,Oliveirense,,,,
+2025,2025-12-28,Maritimo,Penafiel,,,,
+2025,2025-12-28,Portimonense,Felgueiras 1932,,,,
+2025,2025-12-28,Oliveirense,Feirense,,,,
+2025,2025-12-28,Pacos Ferreira,Farense,,,,
+2025,2025-12-28,Academico Viseu,Benfica B,,,,
+2025,2025-12-28,FC Porto B,Sporting CP B,,,,
+2025,2025-12-28,Leixoes,Chaves,,,,
+2025,2025-12-28,União de Leiria,Vizela,,,,
+2025,2025-12-28,Torreense,Lusitânia Lourosa,,,,
+2025,2026-01-04,Feirense,União de Leiria,,,,
+2025,2026-01-04,Chaves,Maritimo,,,,
+2025,2026-01-04,Benfica B,FC Porto B,,,,
+2025,2026-01-04,Farense,Portimonense,,,,
+2025,2026-01-04,Penafiel,Pacos Ferreira,,,,
+2025,2026-01-04,Sporting CP B,Academico Viseu,,,,
+2025,2026-01-04,Vizela,Torreense,,,,
+2025,2026-01-04,Felgueiras 1932,Oliveirense,,,,
+2025,2026-01-04,Lusitânia Lourosa,Leixoes,,,,
+2025,2026-01-18,Feirense,FC Porto B,,,,
+2025,2026-01-18,Benfica B,Chaves,,,,
+2025,2026-01-18,Farense,Oliveirense,,,,
+2025,2026-01-18,Penafiel,Portimonense,,,,
+2025,2026-01-18,Academico Viseu,União de Leiria,,,,
+2025,2026-01-18,Sporting CP B,Torreense,,,,
+2025,2026-01-18,Vizela,Pacos Ferreira,,,,
+2025,2026-01-18,Felgueiras 1932,Leixoes,,,,
+2025,2026-01-18,Lusitânia Lourosa,Maritimo,,,,
+2025,2026-01-25,Maritimo,Felgueiras 1932,,,,
+2025,2026-01-25,Portimonense,Feirense,,,,
+2025,2026-01-25,Chaves,Lusitânia Lourosa,,,,
+2025,2026-01-25,Oliveirense,Penafiel,,,,
+2025,2026-01-25,Pacos Ferreira,Academico Viseu,,,,
+2025,2026-01-25,FC Porto B,Vizela,,,,
+2025,2026-01-25,Leixoes,Benfica B,,,,
+2025,2026-01-25,União de Leiria,Sporting CP B,,,,
+2025,2026-01-25,Torreense,Farense,,,,
+2025,2026-02-01,Feirense,Maritimo,,,,
+2025,2026-02-01,Benfica B,Lusitânia Lourosa,,,,
+2025,2026-02-01,Farense,FC Porto B,,,,
+2025,2026-02-01,Penafiel,Leixoes,,,,
+2025,2026-02-01,Academico Viseu,Torreense,,,,
+2025,2026-02-01,Sporting CP B,Oliveirense,,,,
+2025,2026-02-01,Vizela,Portimonense,,,,
+2025,2026-02-01,União de Leiria,Pacos Ferreira,,,,
+2025,2026-02-01,Felgueiras 1932,Chaves,,,,
+2025,2026-02-08,Maritimo,Farense,,,,
+2025,2026-02-08,Portimonense,Benfica B,,,,
+2025,2026-02-08,Chaves,Penafiel,,,,
+2025,2026-02-08,Oliveirense,Vizela,,,,
+2025,2026-02-08,Pacos Ferreira,Sporting CP B,,,,
+2025,2026-02-08,FC Porto B,Academico Viseu,,,,
+2025,2026-02-08,Leixoes,Feirense,,,,
+2025,2026-02-08,Torreense,União de Leiria,,,,
+2025,2026-02-08,Lusitânia Lourosa,Felgueiras 1932,,,,
+2025,2026-02-15,Feirense,Chaves,,,,
+2025,2026-02-15,Benfica B,Felgueiras 1932,,,,
+2025,2026-02-15,Farense,Leixoes,,,,
+2025,2026-02-15,Pacos Ferreira,Torreense,,,,
+2025,2026-02-15,Penafiel,Lusitânia Lourosa,,,,
+2025,2026-02-15,Academico Viseu,Oliveirense,,,,
+2025,2026-02-15,Sporting CP B,Portimonense,,,,
+2025,2026-02-15,Vizela,Maritimo,,,,
+2025,2026-02-15,União de Leiria,FC Porto B,,,,
+2025,2026-02-22,Maritimo,Sporting CP B,,,,
+2025,2026-02-22,Portimonense,Academico Viseu,,,,
+2025,2026-02-22,Chaves,Farense,,,,
+2025,2026-02-22,Oliveirense,União de Leiria,,,,
+2025,2026-02-22,FC Porto B,Pacos Ferreira,,,,
+2025,2026-02-22,Leixoes,Vizela,,,,
+2025,2026-02-22,Felgueiras 1932,Penafiel,,,,
+2025,2026-02-22,Torreense,Benfica B,,,,
+2025,2026-02-22,Lusitânia Lourosa,Feirense,,,,
+2025,2026-03-01,Feirense,Felgueiras 1932,,,,
+2025,2026-03-01,Farense,Lusitânia Lourosa,,,,
+2025,2026-03-01,Pacos Ferreira,Oliveirense,,,,
+2025,2026-03-01,Penafiel,Benfica B,,,,
+2025,2026-03-01,Academico Viseu,Maritimo,,,,
+2025,2026-03-01,Sporting CP B,Leixoes,,,,
+2025,2026-03-01,Vizela,Chaves,,,,
+2025,2026-03-01,União de Leiria,Portimonense,,,,
+2025,2026-03-01,Torreense,FC Porto B,,,,
+2025,2026-03-08,Maritimo,FC Porto B,,,,
+2025,2026-03-08,Portimonense,Pacos Ferreira,,,,
+2025,2026-03-08,Chaves,Academico Viseu,,,,
+2025,2026-03-08,Benfica B,Feirense,,,,
+2025,2026-03-08,Oliveirense,Torreense,,,,
+2025,2026-03-08,Penafiel,Farense,,,,
+2025,2026-03-08,Leixoes,União de Leiria,,,,
+2025,2026-03-08,Felgueiras 1932,Vizela,,,,
+2025,2026-03-08,Lusitânia Lourosa,Sporting CP B,,,,
+2025,2026-03-15,Feirense,Penafiel,,,,
+2025,2026-03-15,Farense,Felgueiras 1932,,,,
+2025,2026-03-15,Pacos Ferreira,Benfica B,,,,
+2025,2026-03-15,Academico Viseu,Leixoes,,,,
+2025,2026-03-15,FC Porto B,Oliveirense,,,,
+2025,2026-03-15,Sporting CP B,Chaves,,,,
+2025,2026-03-15,Vizela,Lusitânia Lourosa,,,,
+2025,2026-03-15,União de Leiria,Maritimo,,,,
+2025,2026-03-15,Torreense,Portimonense,,,,
+2025,2026-03-22,Feirense,Sporting CP B,,,,
+2025,2026-03-22,Maritimo,Oliveirense,,,,
+2025,2026-03-22,Portimonense,FC Porto B,,,,
+2025,2026-03-22,Chaves,União de Leiria,,,,
+2025,2026-03-22,Benfica B,Farense,,,,
+2025,2026-03-22,Penafiel,Vizela,,,,
+2025,2026-03-22,Leixoes,Pacos Ferreira,,,,
+2025,2026-03-22,Felgueiras 1932,Torreense,,,,
+2025,2026-03-22,Lusitânia Lourosa,Academico Viseu,,,,
+2025,2026-04-04,Farense,Feirense,,,,
+2025,2026-04-04,Oliveirense,Portimonense,,,,
+2025,2026-04-04,Pacos Ferreira,Maritimo,,,,
+2025,2026-04-04,Academico Viseu,Felgueiras 1932,,,,
+2025,2026-04-04,FC Porto B,Chaves,,,,
+2025,2026-04-04,Sporting CP B,Penafiel,,,,
+2025,2026-04-04,Vizela,Benfica B,,,,
+2025,2026-04-04,União de Leiria,Lusitânia Lourosa,,,,
+2025,2026-04-04,Torreense,Leixoes,,,,
+2025,2026-04-12,Feirense,Vizela,,,,
+2025,2026-04-12,Maritimo,Portimonense,,,,
+2025,2026-04-12,Chaves,Torreense,,,,
+2025,2026-04-12,Benfica B,União de Leiria,,,,
+2025,2026-04-12,Farense,Sporting CP B,,,,
+2025,2026-04-12,Penafiel,Academico Viseu,,,,
+2025,2026-04-12,Leixoes,Oliveirense,,,,
+2025,2026-04-12,Felgueiras 1932,Pacos Ferreira,,,,
+2025,2026-04-12,Lusitânia Lourosa,FC Porto B,,,,
+2025,2026-04-19,Portimonense,Lusitânia Lourosa,,,,
+2025,2026-04-19,Oliveirense,Benfica B,,,,
+2025,2026-04-19,Pacos Ferreira,Chaves,,,,
+2025,2026-04-19,Academico Viseu,Feirense,,,,
+2025,2026-04-19,FC Porto B,Leixoes,,,,
+2025,2026-04-19,Sporting CP B,Felgueiras 1932,,,,
+2025,2026-04-19,Vizela,Farense,,,,
+2025,2026-04-19,União de Leiria,Penafiel,,,,
+2025,2026-04-19,Torreense,Maritimo,,,,
+2025,2026-04-26,Feirense,Torreense,,,,
+2025,2026-04-26,Chaves,Oliveirense,,,,
+2025,2026-04-26,Benfica B,Maritimo,,,,
+2025,2026-04-26,Farense,Academico Viseu,,,,
+2025,2026-04-26,Penafiel,FC Porto B,,,,
+2025,2026-04-26,Leixoes,Portimonense,,,,
+2025,2026-04-26,Vizela,Sporting CP B,,,,
+2025,2026-04-26,Felgueiras 1932,União de Leiria,,,,
+2025,2026-04-26,Lusitânia Lourosa,Pacos Ferreira,,,,
+2025,2026-05-03,Maritimo,Leixoes,,,,
+2025,2026-05-03,Portimonense,Chaves,,,,
+2025,2026-05-03,Oliveirense,Lusitânia Lourosa,,,,
+2025,2026-05-03,Pacos Ferreira,Feirense,,,,
+2025,2026-05-03,Academico Viseu,Vizela,,,,
+2025,2026-05-03,FC Porto B,Felgueiras 1932,,,,
+2025,2026-05-03,Sporting CP B,Benfica B,,,,
+2025,2026-05-03,União de Leiria,Farense,,,,
+2025,2026-05-03,Torreense,Penafiel,,,,
+2025,2026-05-10,Feirense,Oliveirense,,,,
+2025,2026-05-10,Chaves,Leixoes,,,,
+2025,2026-05-10,Benfica B,Academico Viseu,,,,
+2025,2026-05-10,Farense,Pacos Ferreira,,,,
+2025,2026-05-10,Penafiel,Maritimo,,,,
+2025,2026-05-10,Sporting CP B,FC Porto B,,,,
+2025,2026-05-10,Vizela,União de Leiria,,,,
+2025,2026-05-10,Felgueiras 1932,Portimonense,,,,
+2025,2026-05-10,Lusitânia Lourosa,Torreense,,,,
+2025,2026-05-17,Maritimo,Chaves,,,,
+2025,2026-05-17,Portimonense,Farense,,,,
+2025,2026-05-17,Oliveirense,Felgueiras 1932,,,,
+2025,2026-05-17,Pacos Ferreira,Penafiel,,,,
+2025,2026-05-17,Academico Viseu,Sporting CP B,,,,
+2025,2026-05-17,FC Porto B,Benfica B,,,,
+2025,2026-05-17,Leixoes,Lusitânia Lourosa,,,,
+2025,2026-05-17,União de Leiria,Feirense,,,,
+2025,2026-05-17,Torreense,Vizela,,,,

@@ -1,0 +1,615 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away,fixture_id,league_id
+2024,2024-08-10,Maritimo,Tondela,1.0,2.0,2.0,2.0,1231431,95
+2024,2024-08-10,Mafra,Pacos Ferreira,0.0,1.0,0.0,1.0,1231428,95
+2024,2024-08-10,Leixoes,Benfica B,1.0,1.0,2.0,1.0,1231423,95
+2024,2024-08-10,Academico Viseu,Chaves,2.0,0.0,2.0,1.0,1231425,95
+2024,2024-08-11,Penafiel,Oliveirense,2.0,3.0,4.0,3.0,1231424,95
+2024,2024-08-11,Torreense,Feirense,0.0,0.0,0.0,1.0,1231427,95
+2024,2024-08-11,FC Porto B,Alverca,0.0,1.0,1.0,1.0,1231426,95
+2024,2024-08-11,União de Leiria,Vizela,0.0,1.0,0.0,2.0,1231429,95
+2024,2024-08-12,Felgueiras 1932,Portimonense,0.0,0.0,0.0,0.0,1231430,95
+2024,2024-08-17,Alverca,Felgueiras 1932,0.0,0.0,1.0,1.0,1231437,95
+2024,2024-08-17,Oliveirense,Mafra,0.0,0.0,0.0,0.0,1231438,95
+2024,2024-08-17,Portimonense,União de Leiria,0.0,1.0,0.0,3.0,1231434,95
+2024,2024-08-18,Pacos Ferreira,Maritimo,1.0,1.0,1.0,2.0,1231433,95
+2024,2024-08-18,Feirense,Academico Viseu,2.0,1.0,2.0,2.0,1231440,95
+2024,2024-08-18,Vizela,Penafiel,0.0,1.0,1.0,2.0,1231435,95
+2024,2024-08-18,Chaves,Leixoes,0.0,0.0,0.0,0.0,1231436,95
+2024,2024-08-18,Benfica B,Torreense,1.0,0.0,2.0,0.0,1231439,95
+2024,2024-08-19,Tondela,FC Porto B,1.0,0.0,2.0,2.0,1231432,95
+2024,2024-08-23,União de Leiria,Alverca,0.0,0.0,1.0,1.0,1231443,95
+2024,2024-08-24,Felgueiras 1932,Feirense,0.0,0.0,0.0,0.0,1231441,95
+2024,2024-08-24,Torreense,Oliveirense,1.0,0.0,3.0,0.0,1231444,95
+2024,2024-08-24,Leixoes,Pacos Ferreira,2.0,2.0,3.0,3.0,1231449,95
+2024,2024-08-25,Academico Viseu,FC Porto B,2.0,0.0,2.0,0.0,1231448,95
+2024,2024-08-25,Penafiel,Tondela,2.0,2.0,2.0,2.0,1231447,95
+2024,2024-08-25,Maritimo,Chaves,0.0,0.0,1.0,1.0,1231442,95
+2024,2024-08-25,Benfica B,Vizela,0.0,0.0,1.0,0.0,1231446,95
+2024,2024-08-25,Mafra,Portimonense,0.0,0.0,2.0,2.0,1231445,95
+2024,2024-08-30,Alverca,Academico Viseu,0.0,3.0,0.0,4.0,1231456,95
+2024,2024-08-31,Oliveirense,Leixoes,0.0,1.0,0.0,1.0,1231454,95
+2024,2024-08-31,Tondela,Felgueiras 1932,0.0,0.0,1.0,1.0,1231458,95
+2024,2024-08-31,Vizela,Torreense,0.0,1.0,1.0,2.0,1231451,95
+2024,2024-09-01,Portimonense,Maritimo,3.0,0.0,5.0,1.0,1231450,95
+2024,2024-09-01,Feirense,Benfica B,1.0,2.0,2.0,3.0,1231452,95
+2024,2024-09-01,Pacos Ferreira,Penafiel,1.0,1.0,1.0,3.0,1231455,95
+2024,2024-09-01,Chaves,Mafra,0.0,1.0,0.0,3.0,1231457,95
+2024,2024-09-01,FC Porto B,União de Leiria,1.0,1.0,1.0,1.0,1231453,95
+2024,2024-09-13,Torreense,Portimonense,1.0,0.0,3.0,2.0,1231461,95
+2024,2024-09-14,Felgueiras 1932,Chaves,1.0,1.0,1.0,2.0,1231460,95
+2024,2024-09-14,Academico Viseu,União de Leiria,0.0,0.0,0.0,1.0,1231466,95
+2024,2024-09-15,Maritimo,Alverca,0.0,2.0,1.0,2.0,1231459,95
+2024,2024-09-15,Mafra,Tondela,0.0,1.0,0.0,4.0,1231465,95
+2024,2024-09-15,Penafiel,FC Porto B,0.0,1.0,1.0,1.0,1231467,95
+2024,2024-09-15,Benfica B,Oliveirense,2.0,1.0,2.0,2.0,1231462,95
+2024,2024-09-15,Leixoes,Vizela,0.0,0.0,0.0,1.0,1231464,95
+2024,2024-09-16,Feirense,Pacos Ferreira,2.0,0.0,2.0,0.0,1231463,95
+2024,2024-09-28,Chaves,Torreense,0.0,1.0,2.0,1.0,1231474,95
+2024,2024-09-28,Pacos Ferreira,Benfica B,0.0,1.0,0.0,3.0,1231471,95
+2024,2024-09-28,Portimonense,Penafiel,0.0,1.0,0.0,2.0,1231470,95
+2024,2024-09-28,Tondela,Academico Viseu,3.0,1.0,4.0,1.0,1231473,95
+2024,2024-09-29,Oliveirense,Feirense,0.0,0.0,1.0,0.0,1231472,95
+2024,2024-09-29,FC Porto B,Felgueiras 1932,0.0,0.0,0.0,2.0,1231469,95
+2024,2024-09-29,Alverca,Leixoes,1.0,0.0,1.0,1.0,1231475,95
+2024,2024-09-29,União de Leiria,Maritimo,0.0,1.0,1.0,1.0,1231476,95
+2024,2024-09-30,Vizela,Mafra,1.0,0.0,3.0,0.0,1231468,95
+2024,2024-10-04,Torreense,Tondela,0.0,1.0,0.0,2.0,1231479,95
+2024,2024-10-05,Felgueiras 1932,Academico Viseu,0.0,1.0,1.0,1.0,1231477,95
+2024,2024-10-05,Maritimo,FC Porto B,1.0,0.0,1.0,0.0,1231485,95
+2024,2024-10-05,Oliveirense,Pacos Ferreira,0.0,2.0,0.0,2.0,1231481,95
+2024,2024-10-05,Leixoes,Portimonense,3.0,0.0,3.0,0.0,1231483,95
+2024,2024-10-06,Feirense,Vizela,0.0,0.0,0.0,0.0,1231484,95
+2024,2024-10-06,Penafiel,União de Leiria,1.0,0.0,1.0,0.0,1231480,95
+2024,2024-10-06,Benfica B,Chaves,0.0,0.0,1.0,0.0,1231482,95
+2024,2024-10-06,Mafra,Alverca,0.0,0.0,1.0,1.0,1231478,95
+2024,2024-10-11,União de Leiria,Felgueiras 1932,1.0,2.0,1.0,3.0,1231486,95
+2024,2024-10-12,Tondela,Leixoes,0.0,1.0,2.0,1.0,1231487,95
+2024,2024-10-12,Alverca,Penafiel,1.0,1.0,2.0,2.0,1231492,95
+2024,2024-10-13,Academico Viseu,Maritimo,0.0,0.0,0.0,2.0,1231493,95
+2024,2024-10-13,Pacos Ferreira,Torreense,0.0,0.0,1.0,0.0,1231494,95
+2024,2024-10-13,Chaves,Feirense,0.0,0.0,0.0,0.0,1231491,95
+2024,2024-10-23,FC Porto B,Mafra,0.0,1.0,2.0,1.0,1231490,95
+2024,2024-10-25,Pacos Ferreira,Vizela,0.0,1.0,1.0,1.0,1231501,95
+2024,2024-10-26,Penafiel,Academico Viseu,0.0,0.0,0.0,2.0,1231498,95
+2024,2024-10-26,Oliveirense,Chaves,0.0,1.0,0.0,3.0,1231496,95
+2024,2024-10-26,Feirense,Portimonense,0.0,1.0,1.0,1.0,1231502,95
+2024,2024-10-26,Benfica B,Tondela,1.0,0.0,1.0,3.0,1231500,95
+2024,2024-10-27,Torreense,Alverca,1.0,0.0,1.0,0.0,1231495,95
+2024,2024-10-27,Felgueiras 1932,Maritimo,1.0,2.0,1.0,3.0,1231499,95
+2024,2024-10-27,Leixoes,FC Porto B,2.0,0.0,3.0,0.0,1231503,95
+2024,2024-10-28,Mafra,União de Leiria,1.0,0.0,2.0,1.0,1231497,95
+2024,2024-11-01,Alverca,Feirense,0.0,0.0,1.0,0.0,1231510,95
+2024,2024-11-02,Portimonense,Vizela,1.0,1.0,1.0,1.0,1231505,95
+2024,2024-11-02,Maritimo,Penafiel,1.0,1.0,1.0,2.0,1231504,95
+2024,2024-11-02,Chaves,Pacos Ferreira,1.0,1.0,2.0,1.0,1231508,95
+2024,2024-11-03,Academico Viseu,Benfica B,1.0,0.0,1.0,1.0,1231511,95
+2024,2024-11-03,Felgueiras 1932,Mafra,0.0,0.0,1.0,1.0,1231512,95
+2024,2024-11-03,FC Porto B,Torreense,1.0,1.0,1.0,1.0,1231509,95
+2024,2024-11-03,União de Leiria,Leixoes,1.0,0.0,1.0,0.0,1231506,95
+2024,2024-11-04,Tondela,Oliveirense,2.0,0.0,2.0,0.0,1231507,95
+2024,2024-11-08,Vizela,Chaves,0.0,0.0,0.0,1.0,1231515,95
+2024,2024-11-09,Penafiel,Felgueiras 1932,0.0,1.0,2.0,1.0,1231514,95
+2024,2024-11-09,Oliveirense,Portimonense,0.0,1.0,0.0,2.0,1231518,95
+2024,2024-11-09,Mafra,Academico Viseu,0.0,1.0,0.0,2.0,1231517,95
+2024,2024-11-09,Feirense,Tondela,0.0,1.0,1.0,1.0,1231520,95
+2024,2024-11-10,Pacos Ferreira,FC Porto B,1.0,0.0,2.0,2.0,1231519,95
+2024,2024-11-10,Leixoes,Maritimo,1.0,0.0,2.0,1.0,1231521,95
+2024,2024-11-10,Benfica B,Alverca,1.0,1.0,2.0,1.0,1231513,95
+2024,2024-11-10,Torreense,União de Leiria,1.0,1.0,2.0,1.0,1231516,95
+2024,2024-11-23,Portimonense,Benfica B,0.0,1.0,0.0,2.0,1231488,95
+2024,2024-11-23,Feirense,Maritimo,0.0,0.0,1.0,0.0,1231556,95
+2024,2024-11-24,Vizela,Oliveirense,0.0,0.0,0.0,0.0,1231489,95
+2024,2024-11-29,Academico Viseu,Leixoes,1.0,0.0,2.0,0.0,1231529,95
+2024,2024-11-30,Felgueiras 1932,Torreense,1.0,1.0,1.0,2.0,1231530,95
+2024,2024-11-30,União de Leiria,Feirense,0.0,0.0,1.0,0.0,1231527,95
+2024,2024-11-30,Portimonense,Chaves,1.0,1.0,1.0,2.0,1231523,95
+2024,2024-11-30,Alverca,Vizela,4.0,1.0,4.0,2.0,1231528,95
+2024,2024-12-01,Penafiel,Mafra,1.0,1.0,1.0,1.0,1231526,95
+2024,2024-12-01,Tondela,Pacos Ferreira,1.0,1.0,2.0,1.0,1231522,95
+2024,2024-12-01,Maritimo,Benfica B,0.0,1.0,1.0,1.0,1231524,95
+2024,2024-12-01,FC Porto B,Oliveirense,1.0,0.0,2.0,1.0,1231525,95
+2024,2024-12-07,Feirense,Penafiel,1.0,0.0,3.0,0.0,1231538,95
+2024,2024-12-07,Benfica B,União de Leiria,0.0,3.0,0.0,5.0,1231535,95
+2024,2024-12-07,Torreense,Academico Viseu,1.0,0.0,1.0,0.0,1231531,95
+2024,2024-12-07,Leixoes,Felgueiras 1932,0.0,1.0,2.0,2.0,1231534,95
+2024,2024-12-08,Pacos Ferreira,Portimonense,0.0,0.0,0.0,1.0,1231539,95
+2024,2024-12-08,Oliveirense,Alverca,1.0,3.0,1.0,4.0,1231532,95
+2024,2024-12-08,Mafra,Maritimo,1.0,1.0,2.0,3.0,1231537,95
+2024,2024-12-08,Chaves,FC Porto B,2.0,0.0,2.0,1.0,1231536,95
+2024,2024-12-08,Vizela,Tondela,0.0,0.0,1.0,1.0,1231533,95
+2024,2024-12-14,União de Leiria,Pacos Ferreira,0.0,1.0,0.0,1.0,1231544,95
+2024,2024-12-14,Alverca,Chaves,1.0,1.0,3.0,1.0,1231546,95
+2024,2024-12-14,Penafiel,Leixoes,2.0,0.0,3.0,1.0,1231541,95
+2024,2024-12-14,Mafra,Benfica B,2.0,0.0,2.0,0.0,1231543,95
+2024,2024-12-15,Felgueiras 1932,Vizela,0.0,1.0,2.0,1.0,1231548,95
+2024,2024-12-15,Tondela,Portimonense,2.0,0.0,2.0,0.0,1231542,95
+2024,2024-12-15,Maritimo,Torreense,0.0,0.0,0.0,3.0,1231545,95
+2024,2024-12-15,FC Porto B,Feirense,0.0,0.0,0.0,0.0,1231540,95
+2024,2024-12-16,Academico Viseu,Oliveirense,1.0,0.0,2.0,1.0,1231547,95
+2024,2024-12-20,Leixoes,Mafra,0.0,1.0,2.0,1.0,1231557,95
+2024,2024-12-21,Vizela,FC Porto B,1.0,0.0,2.0,1.0,1231551,95
+2024,2024-12-21,Portimonense,Academico Viseu,0.0,1.0,1.0,1.0,1231553,95
+2024,2024-12-21,Chaves,Tondela,1.0,1.0,2.0,2.0,1231555,95
+2024,2024-12-22,Pacos Ferreira,Alverca,1.0,2.0,1.0,3.0,1231549,95
+2024,2024-12-22,Oliveirense,União de Leiria,0.0,1.0,1.0,2.0,1231552,95
+2024,2024-12-22,Torreense,Penafiel,0.0,0.0,0.0,1.0,1231550,95
+2024,2024-12-22,Benfica B,Felgueiras 1932,1.0,0.0,2.0,0.0,1231554,95
+2024,2024-12-29,Penafiel,Benfica B,1.0,1.0,1.0,1.0,1231561,95
+2024,2024-12-29,Mafra,Feirense,0.0,0.0,0.0,0.0,1231559,95
+2024,2024-12-29,Maritimo,Oliveirense,0.0,1.0,1.0,2.0,1231558,95
+2024,2025-01-04,Portimonense,Alverca,0.0,0.0,1.0,0.0,1231570,95
+2024,2025-01-04,Chaves,Penafiel,0.0,1.0,0.0,1.0,1231573,95
+2024,2025-01-04,Feirense,Leixoes,0.0,0.0,1.0,0.0,1231574,95
+2024,2025-01-04,Tondela,União de Leiria,0.0,2.0,1.0,4.0,1231571,95
+2024,2025-01-05,Oliveirense,Felgueiras 1932,0.0,2.0,0.0,3.0,1231568,95
+2024,2025-01-05,Torreense,Mafra,0.0,0.0,1.0,0.0,1231567,95
+2024,2025-01-05,Vizela,Maritimo,1.0,2.0,3.0,2.0,1231569,95
+2024,2025-01-05,Pacos Ferreira,Academico Viseu,2.0,2.0,4.0,3.0,1231572,95
+2024,2025-01-06,Benfica B,FC Porto B,2.0,0.0,2.0,1.0,1231575,95
+2024,2025-01-12,Academico Viseu,Vizela,0.0,0.0,0.0,0.0,1231565,95
+2024,2025-01-12,Felgueiras 1932,Pacos Ferreira,1.0,0.0,1.0,0.0,1231566,95
+2024,2025-01-12,FC Porto B,Portimonense,1.0,1.0,1.0,2.0,1231563,95
+2024,2025-01-12,Leixoes,Torreense,0.0,0.0,1.0,1.0,1231562,95
+2024,2025-01-12,União de Leiria,Chaves,1.0,0.0,1.0,1.0,1231560,95
+2024,2025-01-12,Alverca,Tondela,0.0,1.0,1.0,1.0,1231564,95
+2024,2025-01-17,Benfica B,Leixoes,2.0,0.0,4.0,0.0,1231577,95
+2024,2025-01-17,Chaves,Academico Viseu,1.0,0.0,3.0,0.0,1231581,95
+2024,2025-01-18,Alverca,FC Porto B,0.0,0.0,2.0,0.0,1231579,95
+2024,2025-01-18,Portimonense,Felgueiras 1932,1.0,1.0,3.0,2.0,1231582,95
+2024,2025-01-18,Feirense,Torreense,1.0,1.0,1.0,1.0,1231576,95
+2024,2025-01-19,Vizela,União de Leiria,0.0,0.0,1.0,0.0,1231580,95
+2024,2025-01-19,Pacos Ferreira,Mafra,1.0,0.0,2.0,1.0,1231583,95
+2024,2025-01-19,Tondela,Maritimo,0.0,0.0,0.0,0.0,1231584,95
+2024,2025-01-20,Oliveirense,Penafiel,1.0,0.0,2.0,2.0,1231578,95
+2024,2025-01-24,Academico Viseu,Feirense,1.0,1.0,2.0,1.0,1231593,95
+2024,2025-01-25,Felgueiras 1932,Alverca,0.0,1.0,0.0,1.0,1231590,95
+2024,2025-01-25,Leixoes,Chaves,0.0,0.0,0.0,0.0,1231592,95
+2024,2025-01-25,Maritimo,Pacos Ferreira,2.0,1.0,2.0,2.0,1231586,95
+2024,2025-01-26,Penafiel,Vizela,1.0,0.0,1.0,1.0,1231588,95
+2024,2025-01-26,Mafra,Oliveirense,0.0,0.0,0.0,0.0,1231589,95
+2024,2025-01-26,FC Porto B,Tondela,1.0,2.0,2.0,2.0,1231585,95
+2024,2025-01-26,União de Leiria,Portimonense,0.0,0.0,1.0,0.0,1231587,95
+2024,2025-01-27,Torreense,Benfica B,1.0,0.0,1.0,1.0,1231591,95
+2024,2025-01-31,Pacos Ferreira,Leixoes,0.0,0.0,0.0,0.0,1231602,95
+2024,2025-02-01,Feirense,Felgueiras 1932,2.0,1.0,3.0,2.0,1231594,95
+2024,2025-02-01,Tondela,Penafiel,0.0,0.0,2.0,0.0,1231600,95
+2024,2025-02-01,FC Porto B,Academico Viseu,2.0,1.0,3.0,2.0,1231599,95
+2024,2025-02-01,Vizela,Benfica B,0.0,0.0,1.0,0.0,1231598,95
+2024,2025-02-01,Portimonense,Mafra,1.0,0.0,2.0,0.0,1231601,95
+2024,2025-02-02,Oliveirense,Torreense,0.0,0.0,0.0,0.0,1231596,95
+2024,2025-02-02,Chaves,Maritimo,0.0,0.0,1.0,1.0,1231595,95
+2024,2025-02-02,Alverca,União de Leiria,1.0,0.0,2.0,1.0,1231597,95
+2024,2025-02-07,Benfica B,Feirense,0.0,0.0,0.0,1.0,1231605,95
+2024,2025-02-08,Leixoes,Oliveirense,0.0,2.0,1.0,2.0,1231606,95
+2024,2025-02-08,Felgueiras 1932,Tondela,0.0,0.0,1.0,0.0,1231611,95
+2024,2025-02-08,Maritimo,Portimonense,1.0,0.0,2.0,0.0,1231603,95
+2024,2025-02-08,Penafiel,Pacos Ferreira,1.0,2.0,1.0,2.0,1231608,95
+2024,2025-02-09,Mafra,Chaves,0.0,0.0,0.0,0.0,1231610,95
+2024,2025-02-09,Academico Viseu,Alverca,2.0,1.0,2.0,2.0,1231609,95
+2024,2025-02-09,União de Leiria,FC Porto B,0.0,0.0,0.0,0.0,1231607,95
+2024,2025-02-10,Torreense,Vizela,0.0,0.0,2.0,4.0,1231604,95
+2024,2025-02-15,Chaves,Felgueiras 1932,0.0,0.0,2.0,0.0,1231613,95
+2024,2025-02-15,Pacos Ferreira,Feirense,0.0,2.0,1.0,2.0,1231619,95
+2024,2025-02-15,Tondela,Mafra,0.0,0.0,1.0,0.0,1231618,95
+2024,2025-02-16,Oliveirense,Benfica B,2.0,2.0,3.0,2.0,1231615,95
+2024,2025-02-16,Vizela,Leixoes,0.0,0.0,0.0,0.0,1231616,95
+2024,2025-02-16,Portimonense,Torreense,0.0,0.0,1.0,2.0,1231614,95
+2024,2025-02-16,FC Porto B,Penafiel,0.0,0.0,3.0,2.0,1231620,95
+2024,2025-02-16,Alverca,Maritimo,3.0,0.0,5.0,0.0,1231612,95
+2024,2025-02-17,União de Leiria,Academico Viseu,0.0,1.0,1.0,1.0,1231617,95
+2024,2025-02-21,Penafiel,Portimonense,3.0,0.0,3.0,0.0,1231623,95
+2024,2025-02-22,Felgueiras 1932,FC Porto B,1.0,0.0,1.0,0.0,1231622,95
+2024,2025-02-22,Benfica B,Pacos Ferreira,0.0,0.0,0.0,0.0,1231625,95
+2024,2025-02-22,Mafra,Vizela,0.0,3.0,1.0,4.0,1231621,95
+2024,2025-02-22,Maritimo,União de Leiria,0.0,0.0,1.0,2.0,1231629,95
+2024,2025-02-22,Feirense,Oliveirense,1.0,0.0,3.0,1.0,1231624,95
+2024,2025-02-23,Torreense,Chaves,0.0,2.0,1.0,2.0,1231627,95
+2024,2025-02-23,Leixoes,Alverca,1.0,0.0,1.0,1.0,1231628,95
+2024,2025-02-23,Academico Viseu,Tondela,1.0,0.0,1.0,1.0,1231626,95
+2024,2025-02-28,Chaves,Benfica B,1.0,0.0,1.0,2.0,1231635,95
+2024,2025-03-01,Academico Viseu,Felgueiras 1932,0.0,0.0,0.0,0.0,1231630,95
+2024,2025-03-01,Alverca,Mafra,1.0,0.0,2.0,0.0,1231631,95
+2024,2025-03-01,Tondela,Torreense,1.0,0.0,2.0,2.0,1231632,95
+2024,2025-03-02,Portimonense,Leixoes,0.0,1.0,2.0,1.0,1231636,95
+2024,2025-03-02,FC Porto B,Maritimo,0.0,0.0,0.0,1.0,1231638,95
+2024,2025-03-02,União de Leiria,Penafiel,1.0,0.0,1.0,0.0,1231634,95
+2024,2025-03-02,Vizela,Feirense,3.0,0.0,5.0,0.0,1231637,95
+2024,2025-03-03,Pacos Ferreira,Oliveirense,0.0,0.0,0.0,1.0,1231633,95
+2024,2025-03-07,Feirense,Chaves,0.0,1.0,0.0,1.0,1231644,95
+2024,2025-03-08,Penafiel,Alverca,2.0,2.0,3.0,2.0,1231645,95
+2024,2025-03-08,Felgueiras 1932,União de Leiria,0.0,1.0,2.0,2.0,1231639,95
+2024,2025-03-08,Torreense,Pacos Ferreira,2.0,0.0,3.0,0.0,1231647,95
+2024,2025-03-09,Mafra,FC Porto B,0.0,0.0,0.0,0.0,1231643,95
+2024,2025-03-09,Maritimo,Academico Viseu,0.0,0.0,1.0,1.0,1231646,95
+2024,2025-03-09,Oliveirense,Vizela,0.0,0.0,0.0,1.0,1231642,95
+2024,2025-03-09,Benfica B,Portimonense,0.0,0.0,0.0,0.0,1231641,95
+2024,2025-03-10,Leixoes,Tondela,0.0,1.0,0.0,1.0,1231640,95
+2024,2025-03-14,Portimonense,Feirense,1.0,1.0,1.0,2.0,1231655,95
+2024,2025-03-14,Alverca,Torreense,2.0,1.0,2.0,2.0,1231648,95
+2024,2025-03-15,Academico Viseu,Penafiel,1.0,0.0,1.0,0.0,1231649,95
+2024,2025-03-15,Maritimo,Felgueiras 1932,0.0,0.0,0.0,0.0,1231654,95
+2024,2025-03-15,Chaves,Oliveirense,1.0,0.0,4.0,0.0,1231650,95
+2024,2025-03-16,Tondela,Benfica B,1.0,0.0,2.0,1.0,1231653,95
+2024,2025-03-16,União de Leiria,Mafra,1.0,1.0,3.0,1.0,1231651,95
+2024,2025-03-16,FC Porto B,Leixoes,0.0,1.0,0.0,1.0,1231656,95
+2024,2025-03-16,Vizela,Pacos Ferreira,1.0,0.0,2.0,1.0,1231652,95
+2024,2025-03-29,Oliveirense,Tondela,0.0,1.0,1.0,3.0,1231659,95
+2024,2025-03-29,Penafiel,Maritimo,0.0,1.0,0.0,1.0,1231660,95
+2024,2025-03-29,Vizela,Portimonense,1.0,1.0,3.0,2.0,1231657,95
+2024,2025-03-30,Leixoes,União de Leiria,0.0,0.0,0.0,1.0,1231658,95
+2024,2025-03-30,Torreense,FC Porto B,2.0,3.0,2.0,4.0,1231665,95
+2024,2025-03-30,Pacos Ferreira,Chaves,0.0,0.0,2.0,0.0,1231661,95
+2024,2025-03-30,Feirense,Alverca,0.0,0.0,0.0,1.0,1231664,95
+2024,2025-03-31,Benfica B,Academico Viseu,0.0,0.0,1.0,0.0,1231662,95
+2024,2025-03-31,Mafra,Felgueiras 1932,0.0,0.0,1.0,0.0,1231663,95
+2024,2025-04-05,Tondela,Feirense,0.0,1.0,2.0,1.0,1231671,95
+2024,2025-04-05,Felgueiras 1932,Penafiel,0.0,0.0,1.0,0.0,1231666,95
+2024,2025-04-05,Maritimo,Leixoes,0.0,1.0,1.0,1.0,1231672,95
+2024,2025-04-05,Chaves,Vizela,0.0,2.0,1.0,2.0,1231667,95
+2024,2025-04-06,FC Porto B,Pacos Ferreira,0.0,0.0,1.0,0.0,1231673,95
+2024,2025-04-06,União de Leiria,Torreense,1.0,1.0,1.0,3.0,1231668,95
+2024,2025-04-06,Academico Viseu,Mafra,1.0,1.0,3.0,1.0,1231670,95
+2024,2025-04-06,Portimonense,Oliveirense,1.0,0.0,2.0,3.0,1231674,95
+2024,2025-04-06,Alverca,Benfica B,0.0,0.0,0.0,0.0,1231669,95
+2024,2025-04-11,Feirense,União de Leiria,0.0,1.0,2.0,1.0,1231683,95
+2024,2025-04-12,Pacos Ferreira,Tondela,0.0,0.0,0.0,1.0,1231678,95
+2024,2025-04-12,Leixoes,Academico Viseu,0.0,1.0,1.0,1.0,1231680,95
+2024,2025-04-12,Chaves,Portimonense,0.0,0.0,2.0,0.0,1231675,95
+2024,2025-04-13,Torreense,Felgueiras 1932,0.0,0.0,1.0,1.0,1231681,95
+2024,2025-04-13,Benfica B,Maritimo,1.0,0.0,1.0,2.0,1231676,95
+2024,2025-04-13,Vizela,Alverca,1.0,0.0,1.0,1.0,1231682,95
+2024,2025-04-13,Oliveirense,FC Porto B,0.0,1.0,1.0,1.0,1231677,95
+2024,2025-04-14,Mafra,Penafiel,2.0,2.0,4.0,2.0,1231679,95
+2024,2025-04-18,União de Leiria,Benfica B,0.0,0.0,1.0,3.0,1231687,95
+2024,2025-04-18,Felgueiras 1932,Leixoes,2.0,0.0,4.0,0.0,1231686,95
+2024,2025-04-18,Portimonense,Pacos Ferreira,2.0,0.0,2.0,0.0,1231692,95
+2024,2025-04-19,Penafiel,Feirense,1.0,2.0,1.0,2.0,1231691,95
+2024,2025-04-19,Academico Viseu,Torreense,1.0,0.0,1.0,2.0,1231684,95
+2024,2025-04-19,FC Porto B,Chaves,0.0,0.0,1.0,2.0,1231689,95
+2024,2025-04-20,Alverca,Oliveirense,1.0,0.0,4.0,0.0,1231688,95
+2024,2025-04-20,Maritimo,Mafra,0.0,0.0,2.0,0.0,1231690,95
+2024,2025-04-20,Tondela,Vizela,0.0,1.0,0.0,1.0,1231685,95
+2024,2025-04-25,Oliveirense,Academico Viseu,1.0,0.0,2.0,0.0,1231698,95
+2024,2025-04-25,Pacos Ferreira,União de Leiria,1.0,1.0,2.0,3.0,1231697,95
+2024,2025-04-26,Torreense,Maritimo,2.0,1.0,2.0,2.0,1231701,95
+2024,2025-04-26,Vizela,Felgueiras 1932,0.0,1.0,1.0,1.0,1231699,95
+2024,2025-04-27,Feirense,FC Porto B,0.0,0.0,0.0,1.0,1231696,95
+2024,2025-04-27,Portimonense,Tondela,0.0,1.0,2.0,2.0,1231694,95
+2024,2025-04-27,Leixoes,Penafiel,0.0,1.0,3.0,1.0,1231693,95
+2024,2025-04-29,Chaves,Alverca,0.0,1.0,0.0,2.0,1231700,95
+2024,2025-04-30,Benfica B,Mafra,2.0,0.0,5.0,0.0,1231695,95
+2024,2025-05-02,União de Leiria,Oliveirense,2.0,0.0,5.0,0.0,1231704,95
+2024,2025-05-03,Academico Viseu,Portimonense,1.0,1.0,2.0,1.0,1231705,95
+2024,2025-05-03,FC Porto B,Vizela,0.0,0.0,0.0,1.0,1231703,95
+2024,2025-05-04,Alverca,Pacos Ferreira,1.0,0.0,1.0,0.0,1231702,95
+2024,2025-05-04,Felgueiras 1932,Benfica B,1.0,1.0,3.0,3.0,1231707,95
+2024,2025-05-04,Mafra,Leixoes,1.0,2.0,1.0,2.0,1231710,95
+2024,2025-05-04,Maritimo,Feirense,0.0,0.0,1.0,1.0,1231709,95
+2024,2025-05-04,Tondela,Chaves,1.0,0.0,2.0,1.0,1231708,95
+2024,2025-05-05,Penafiel,Torreense,0.0,1.0,0.0,1.0,1231706,95
+2024,2025-05-09,Feirense,Mafra,0.0,0.0,2.0,1.0,1231715,95
+2024,2025-05-10,Pacos Ferreira,Felgueiras 1932,1.0,0.0,1.0,2.0,1231719,95
+2024,2025-05-10,Oliveirense,Maritimo,1.0,0.0,1.0,1.0,1231711,95
+2024,2025-05-10,Chaves,União de Leiria,0.0,1.0,0.0,2.0,1231712,95
+2024,2025-05-11,Torreense,Leixoes,1.0,2.0,3.0,2.0,1231714,95
+2024,2025-05-11,Tondela,Alverca,1.0,2.0,1.0,2.0,1231717,95
+2024,2025-05-11,Vizela,Academico Viseu,1.0,0.0,1.0,1.0,1231718,95
+2024,2025-05-11,Portimonense,FC Porto B,0.0,2.0,0.0,3.0,1231716,95
+2024,2025-05-11,Benfica B,Penafiel,0.0,0.0,1.0,1.0,1231713,95
+2024,2025-05-14,Leixoes,Feirense,1.0,0.0,2.0,0.0,1231727,95
+2024,2025-05-15,Penafiel,Chaves,0.0,0.0,0.0,0.0,1231726,95
+2024,2025-05-15,Mafra,Torreense,1.0,0.0,2.0,0.0,1231720,95
+2024,2025-05-16,Maritimo,Vizela,1.0,1.0,1.0,2.0,1231722,95
+2024,2025-05-16,União de Leiria,Tondela,0.0,0.0,0.0,2.0,1231724,95
+2024,2025-05-16,Alverca,Portimonense,1.0,0.0,2.0,1.0,1231723,95
+2024,2025-05-17,FC Porto B,Benfica B,0.0,1.0,1.0,4.0,1231728,95
+2024,2025-05-17,Academico Viseu,Pacos Ferreira,0.0,1.0,0.0,1.0,1231725,95
+2024,2025-05-17,Felgueiras 1932,Oliveirense,0.0,1.0,2.0,1.0,1231721,95
+2024,2025-05-24,CF Os Belenenses,Pacos Ferreira,0.0,0.0,2.0,1.0,1376352,95
+2024,2025-06-01,Pacos Ferreira,CF Os Belenenses,0.0,0.0,2.0,0.0,1376353,95
+2025,2025-08-09,Pacos Ferreira,Vizela,1.0,0.0,1.0,2.0,1397975,95
+2025,2025-08-09,Torreense,Sporting CP B,0.0,0.0,0.0,1.0,1397977,95
+2025,2025-08-09,Portimonense,Penafiel,1.0,1.0,2.0,1.0,1397976,95
+2025,2025-08-10,Chaves,Benfica B,1.0,1.0,1.0,1.0,1397969,95
+2025,2025-08-10,Maritimo,Lusitânia Lourosa,0.0,0.0,0.0,1.0,1397973,95
+2025,2025-08-10,Leixoes,Felgueiras 1932,2.0,0.0,3.0,0.0,1397972,95
+2025,2025-08-10,FC Porto B,Feirense,0.0,0.0,0.0,0.0,1397970,95
+2025,2025-08-10,União de Leiria,Academico Viseu,1.0,1.0,3.0,2.0,1397971,95
+2025,2025-08-11,Oliveirense,Farense,1.0,0.0,1.0,1.0,1397974,95
+2025,2025-08-15,Feirense,Portimonense,,,,,1397980,95
+2025,2025-08-16,Felgueiras 1932,Maritimo,,,,,1397981,95
+2025,2025-08-16,Vizela,FC Porto B,,,,,1397986,95
+2025,2025-08-16,Academico Viseu,Pacos Ferreira,,,,,1397978,95
+2025,2025-08-16,Lusitânia Lourosa,Chaves,,,,,1397982,95
+2025,2025-08-17,Farense,Torreense,,,,,1397984,95
+2025,2025-08-17,Sporting CP B,União de Leiria,,,,,1397985,95
+2025,2025-08-17,Penafiel,Oliveirense,,,,,1397983,95
+2025,2025-08-17,Benfica B,Leixoes,,,,,1397979,95
+2025,2025-08-24,Maritimo,Feirense,,,,,1397991,95
+2025,2025-08-24,Portimonense,Vizela,,,,,1397994,95
+2025,2025-08-24,Chaves,Felgueiras 1932,,,,,1397987,95
+2025,2025-08-24,Oliveirense,Sporting CP B,,,,,1397992,95
+2025,2025-08-24,Pacos Ferreira,União de Leiria,,,,,1397993,95
+2025,2025-08-24,FC Porto B,Farense,,,,,1397988,95
+2025,2025-08-24,Leixoes,Penafiel,,,,,1397989,95
+2025,2025-08-24,Torreense,Academico Viseu,,,,,1397995,95
+2025,2025-08-24,Lusitânia Lourosa,Benfica B,,,,,1397990,95
+2025,2025-08-31,Feirense,Leixoes,,,,,1397998,95
+2025,2025-08-31,Benfica B,Portimonense,,,,,1397997,95
+2025,2025-08-31,Farense,Maritimo,,,,,1398002,95
+2025,2025-08-31,Penafiel,Chaves,,,,,1398001,95
+2025,2025-08-31,Academico Viseu,FC Porto B,,,,,1397996,95
+2025,2025-08-31,Sporting CP B,Pacos Ferreira,,,,,1398003,95
+2025,2025-08-31,Vizela,Oliveirense,,,,,1398004,95
+2025,2025-08-31,União de Leiria,Torreense,,,,,1398000,95
+2025,2025-08-31,Felgueiras 1932,Lusitânia Lourosa,,,,,1397999,95
+2025,2025-09-14,Maritimo,Vizela,,,,,1398010,95
+2025,2025-09-14,Portimonense,Sporting CP B,,,,,1398012,95
+2025,2025-09-14,Chaves,Feirense,,,,,1398005,95
+2025,2025-09-14,Oliveirense,Academico Viseu,,,,,1398011,95
+2025,2025-09-14,FC Porto B,União de Leiria,,,,,1398006,95
+2025,2025-09-14,Leixoes,Farense,,,,,1398008,95
+2025,2025-09-14,Felgueiras 1932,Benfica B,,,,,1398007,95
+2025,2025-09-14,Torreense,Pacos Ferreira,,,,,1398013,95
+2025,2025-09-14,Lusitânia Lourosa,Penafiel,,,,,1398009,95
+2025,2025-09-28,Feirense,Lusitânia Lourosa,,,,,1398016,95
+2025,2025-09-28,Benfica B,Torreense,,,,,1398015,95
+2025,2025-09-28,Farense,Chaves,,,,,1398020,95
+2025,2025-09-28,Pacos Ferreira,FC Porto B,,,,,1398018,95
+2025,2025-09-28,Penafiel,Felgueiras 1932,,,,,1398019,95
+2025,2025-09-28,Academico Viseu,Portimonense,,,,,1398014,95
+2025,2025-09-28,Sporting CP B,Maritimo,,,,,1398021,95
+2025,2025-09-28,Vizela,Leixoes,,,,,1398022,95
+2025,2025-09-28,União de Leiria,Oliveirense,,,,,1398017,95
+2025,2025-10-05,Maritimo,Academico Viseu,,,,,1398029,95
+2025,2025-10-05,Portimonense,União de Leiria,,,,,1398031,95
+2025,2025-10-05,Chaves,Vizela,,,,,1398024,95
+2025,2025-10-05,Benfica B,Penafiel,,,,,1398023,95
+2025,2025-10-05,Oliveirense,Pacos Ferreira,,,,,1398030,95
+2025,2025-10-05,FC Porto B,Torreense,,,,,1398025,95
+2025,2025-10-05,Leixoes,Sporting CP B,,,,,1398027,95
+2025,2025-10-05,Felgueiras 1932,Feirense,,,,,1398026,95
+2025,2025-10-05,Lusitânia Lourosa,Farense,,,,,1398028,95
+2025,2025-10-26,Feirense,Benfica B,,,,,1398034,95
+2025,2025-10-26,Farense,Penafiel,,,,,1398037,95
+2025,2025-10-26,Pacos Ferreira,Portimonense,,,,,1398036,95
+2025,2025-10-26,Academico Viseu,Chaves,,,,,1398032,95
+2025,2025-10-26,FC Porto B,Maritimo,,,,,1398033,95
+2025,2025-10-26,Sporting CP B,Lusitânia Lourosa,,,,,1398038,95
+2025,2025-10-26,Vizela,Felgueiras 1932,,,,,1398040,95
+2025,2025-10-26,União de Leiria,Leixoes,,,,,1398035,95
+2025,2025-10-26,Torreense,Oliveirense,,,,,1398039,95
+2025,2025-10-29,Maritimo,União de Leiria,,,,,1398046,95
+2025,2025-10-29,Portimonense,Torreense,,,,,1398049,95
+2025,2025-10-29,Chaves,Sporting CP B,,,,,1398042,95
+2025,2025-10-29,Benfica B,Pacos Ferreira,,,,,1398041,95
+2025,2025-10-29,Oliveirense,FC Porto B,,,,,1398047,95
+2025,2025-10-29,Penafiel,Feirense,,,,,1398048,95
+2025,2025-10-29,Leixoes,Academico Viseu,,,,,1398044,95
+2025,2025-10-29,Felgueiras 1932,Farense,,,,,1398043,95
+2025,2025-10-29,Lusitânia Lourosa,Vizela,,,,,1398045,95
+2025,2025-11-02,Farense,Benfica B,,,,,1398055,95
+2025,2025-11-02,Oliveirense,Maritimo,,,,,1398053,95
+2025,2025-11-02,Pacos Ferreira,Leixoes,,,,,1398054,95
+2025,2025-11-02,Academico Viseu,Lusitânia Lourosa,,,,,1398050,95
+2025,2025-11-02,FC Porto B,Portimonense,,,,,1398051,95
+2025,2025-11-02,Sporting CP B,Feirense,,,,,1398056,95
+2025,2025-11-02,Vizela,Penafiel,,,,,1398058,95
+2025,2025-11-02,União de Leiria,Chaves,,,,,1398052,95
+2025,2025-11-02,Torreense,Felgueiras 1932,,,,,1398057,95
+2025,2025-11-09,Feirense,Farense,,,,,1398061,95
+2025,2025-11-09,Maritimo,Pacos Ferreira,,,,,1398065,95
+2025,2025-11-09,Portimonense,Oliveirense,,,,,1398067,95
+2025,2025-11-09,Chaves,FC Porto B,,,,,1398060,95
+2025,2025-11-09,Benfica B,Vizela,,,,,1398059,95
+2025,2025-11-09,Penafiel,Sporting CP B,,,,,1398066,95
+2025,2025-11-09,Leixoes,Torreense,,,,,1398063,95
+2025,2025-11-09,Felgueiras 1932,Academico Viseu,,,,,1398062,95
+2025,2025-11-09,Lusitânia Lourosa,União de Leiria,,,,,1398064,95
+2025,2025-11-30,Portimonense,Maritimo,,,,,1398073,95
+2025,2025-11-30,Oliveirense,Leixoes,,,,,1398071,95
+2025,2025-11-30,Pacos Ferreira,Felgueiras 1932,,,,,1398072,95
+2025,2025-11-30,Academico Viseu,Penafiel,,,,,1398068,95
+2025,2025-11-30,FC Porto B,Lusitânia Lourosa,,,,,1398069,95
+2025,2025-11-30,Sporting CP B,Farense,,,,,1398074,95
+2025,2025-11-30,Vizela,Feirense,,,,,1398076,95
+2025,2025-11-30,União de Leiria,Benfica B,,,,,1398070,95
+2025,2025-11-30,Torreense,Chaves,,,,,1398075,95
+2025,2025-12-07,Feirense,Academico Viseu,,,,,1398079,95
+2025,2025-12-07,Maritimo,Torreense,,,,,1398083,95
+2025,2025-12-07,Chaves,Pacos Ferreira,,,,,1398078,95
+2025,2025-12-07,Benfica B,Oliveirense,,,,,1398077,95
+2025,2025-12-07,Farense,Vizela,,,,,1398085,95
+2025,2025-12-07,Penafiel,União de Leiria,,,,,1398084,95
+2025,2025-12-07,Leixoes,FC Porto B,,,,,1398081,95
+2025,2025-12-07,Felgueiras 1932,Sporting CP B,,,,,1398080,95
+2025,2025-12-07,Lusitânia Lourosa,Portimonense,,,,,1398082,95
+2025,2025-12-14,Maritimo,Benfica B,,,,,1398089,95
+2025,2025-12-14,Portimonense,Leixoes,,,,,1398092,95
+2025,2025-12-14,Oliveirense,Chaves,,,,,1398090,95
+2025,2025-12-14,Pacos Ferreira,Lusitânia Lourosa,,,,,1398091,95
+2025,2025-12-14,Academico Viseu,Farense,,,,,1398086,95
+2025,2025-12-14,FC Porto B,Penafiel,,,,,1398087,95
+2025,2025-12-14,Sporting CP B,Vizela,,,,,1398093,95
+2025,2025-12-14,União de Leiria,Felgueiras 1932,,,,,1398088,95
+2025,2025-12-14,Torreense,Feirense,,,,,1398094,95
+2025,2025-12-21,Feirense,Pacos Ferreira,,,,,1398097,95
+2025,2025-12-21,Chaves,Portimonense,,,,,1398096,95
+2025,2025-12-21,Benfica B,Sporting CP B,,,,,1398095,95
+2025,2025-12-21,Farense,União de Leiria,,,,,1398102,95
+2025,2025-12-21,Penafiel,Torreense,,,,,1398101,95
+2025,2025-12-21,Leixoes,Maritimo,,,,,1398099,95
+2025,2025-12-21,Vizela,Academico Viseu,,,,,1398103,95
+2025,2025-12-21,Felgueiras 1932,FC Porto B,,,,,1398098,95
+2025,2025-12-21,Lusitânia Lourosa,Oliveirense,,,,,1398100,95
+2025,2025-12-28,Maritimo,Penafiel,,,,,1398108,95
+2025,2025-12-28,Portimonense,Felgueiras 1932,,,,,1398111,95
+2025,2025-12-28,Oliveirense,Feirense,,,,,1398109,95
+2025,2025-12-28,Pacos Ferreira,Farense,,,,,1398110,95
+2025,2025-12-28,Academico Viseu,Benfica B,,,,,1398104,95
+2025,2025-12-28,FC Porto B,Sporting CP B,,,,,1398105,95
+2025,2025-12-28,Leixoes,Chaves,,,,,1398107,95
+2025,2025-12-28,União de Leiria,Vizela,,,,,1398106,95
+2025,2025-12-28,Torreense,Lusitânia Lourosa,,,,,1398112,95
+2025,2026-01-04,Feirense,União de Leiria,,,,,1398115,95
+2025,2026-01-04,Chaves,Maritimo,,,,,1398114,95
+2025,2026-01-04,Benfica B,FC Porto B,,,,,1398113,95
+2025,2026-01-04,Farense,Portimonense,,,,,1398119,95
+2025,2026-01-04,Penafiel,Pacos Ferreira,,,,,1398118,95
+2025,2026-01-04,Sporting CP B,Academico Viseu,,,,,1398120,95
+2025,2026-01-04,Vizela,Torreense,,,,,1398121,95
+2025,2026-01-04,Felgueiras 1932,Oliveirense,,,,,1398116,95
+2025,2026-01-04,Lusitânia Lourosa,Leixoes,,,,,1398117,95
+2025,2026-01-18,Feirense,FC Porto B,,,,,1398124,95
+2025,2026-01-18,Benfica B,Chaves,,,,,1398123,95
+2025,2026-01-18,Farense,Oliveirense,,,,,1398128,95
+2025,2026-01-18,Penafiel,Portimonense,,,,,1398127,95
+2025,2026-01-18,Academico Viseu,União de Leiria,,,,,1398122,95
+2025,2026-01-18,Sporting CP B,Torreense,,,,,1398129,95
+2025,2026-01-18,Vizela,Pacos Ferreira,,,,,1398130,95
+2025,2026-01-18,Felgueiras 1932,Leixoes,,,,,1398125,95
+2025,2026-01-18,Lusitânia Lourosa,Maritimo,,,,,1398126,95
+2025,2026-01-25,Maritimo,Felgueiras 1932,,,,,1398135,95
+2025,2026-01-25,Portimonense,Feirense,,,,,1398138,95
+2025,2026-01-25,Chaves,Lusitânia Lourosa,,,,,1398131,95
+2025,2026-01-25,Oliveirense,Penafiel,,,,,1398136,95
+2025,2026-01-25,Pacos Ferreira,Academico Viseu,,,,,1398137,95
+2025,2026-01-25,FC Porto B,Vizela,,,,,1398132,95
+2025,2026-01-25,Leixoes,Benfica B,,,,,1398134,95
+2025,2026-01-25,União de Leiria,Sporting CP B,,,,,1398133,95
+2025,2026-01-25,Torreense,Farense,,,,,1398139,95
+2025,2026-02-01,Feirense,Maritimo,,,,,1398142,95
+2025,2026-02-01,Benfica B,Lusitânia Lourosa,,,,,1398141,95
+2025,2026-02-01,Farense,FC Porto B,,,,,1398146,95
+2025,2026-02-01,Penafiel,Leixoes,,,,,1398145,95
+2025,2026-02-01,Academico Viseu,Torreense,,,,,1398140,95
+2025,2026-02-01,Sporting CP B,Oliveirense,,,,,1398147,95
+2025,2026-02-01,Vizela,Portimonense,,,,,1398148,95
+2025,2026-02-01,União de Leiria,Pacos Ferreira,,,,,1398144,95
+2025,2026-02-01,Felgueiras 1932,Chaves,,,,,1398143,95
+2025,2026-02-08,Maritimo,Farense,,,,,1398153,95
+2025,2026-02-08,Portimonense,Benfica B,,,,,1398156,95
+2025,2026-02-08,Chaves,Penafiel,,,,,1398149,95
+2025,2026-02-08,Oliveirense,Vizela,,,,,1398154,95
+2025,2026-02-08,Pacos Ferreira,Sporting CP B,,,,,1398155,95
+2025,2026-02-08,FC Porto B,Academico Viseu,,,,,1398150,95
+2025,2026-02-08,Leixoes,Feirense,,,,,1398151,95
+2025,2026-02-08,Torreense,União de Leiria,,,,,1398157,95
+2025,2026-02-08,Lusitânia Lourosa,Felgueiras 1932,,,,,1398152,95
+2025,2026-02-15,Feirense,Chaves,,,,,1398160,95
+2025,2026-02-15,Benfica B,Felgueiras 1932,,,,,1398159,95
+2025,2026-02-15,Farense,Leixoes,,,,,1398164,95
+2025,2026-02-15,Pacos Ferreira,Torreense,,,,,1398162,95
+2025,2026-02-15,Penafiel,Lusitânia Lourosa,,,,,1398163,95
+2025,2026-02-15,Academico Viseu,Oliveirense,,,,,1398158,95
+2025,2026-02-15,Sporting CP B,Portimonense,,,,,1398165,95
+2025,2026-02-15,Vizela,Maritimo,,,,,1398166,95
+2025,2026-02-15,União de Leiria,FC Porto B,,,,,1398161,95
+2025,2026-02-22,Maritimo,Sporting CP B,,,,,1398172,95
+2025,2026-02-22,Portimonense,Academico Viseu,,,,,1398174,95
+2025,2026-02-22,Chaves,Farense,,,,,1398167,95
+2025,2026-02-22,Oliveirense,União de Leiria,,,,,1398173,95
+2025,2026-02-22,FC Porto B,Pacos Ferreira,,,,,1398168,95
+2025,2026-02-22,Leixoes,Vizela,,,,,1398170,95
+2025,2026-02-22,Felgueiras 1932,Penafiel,,,,,1398169,95
+2025,2026-02-22,Torreense,Benfica B,,,,,1398175,95
+2025,2026-02-22,Lusitânia Lourosa,Feirense,,,,,1398171,95
+2025,2026-03-01,Feirense,Felgueiras 1932,,,,,1398177,95
+2025,2026-03-01,Farense,Lusitânia Lourosa,,,,,1398181,95
+2025,2026-03-01,Pacos Ferreira,Oliveirense,,,,,1398179,95
+2025,2026-03-01,Penafiel,Benfica B,,,,,1398180,95
+2025,2026-03-01,Academico Viseu,Maritimo,,,,,1398176,95
+2025,2026-03-01,Sporting CP B,Leixoes,,,,,1398182,95
+2025,2026-03-01,Vizela,Chaves,,,,,1398184,95
+2025,2026-03-01,União de Leiria,Portimonense,,,,,1398178,95
+2025,2026-03-01,Torreense,FC Porto B,,,,,1398183,95
+2025,2026-03-08,Maritimo,FC Porto B,,,,,1398190,95
+2025,2026-03-08,Portimonense,Pacos Ferreira,,,,,1398193,95
+2025,2026-03-08,Chaves,Academico Viseu,,,,,1398186,95
+2025,2026-03-08,Benfica B,Feirense,,,,,1398185,95
+2025,2026-03-08,Oliveirense,Torreense,,,,,1398191,95
+2025,2026-03-08,Penafiel,Farense,,,,,1398192,95
+2025,2026-03-08,Leixoes,União de Leiria,,,,,1398188,95
+2025,2026-03-08,Felgueiras 1932,Vizela,,,,,1398187,95
+2025,2026-03-08,Lusitânia Lourosa,Sporting CP B,,,,,1398189,95
+2025,2026-03-15,Feirense,Penafiel,,,,,1398196,95
+2025,2026-03-15,Farense,Felgueiras 1932,,,,,1398199,95
+2025,2026-03-15,Pacos Ferreira,Benfica B,,,,,1398198,95
+2025,2026-03-15,Academico Viseu,Leixoes,,,,,1398194,95
+2025,2026-03-15,FC Porto B,Oliveirense,,,,,1398195,95
+2025,2026-03-15,Sporting CP B,Chaves,,,,,1398200,95
+2025,2026-03-15,Vizela,Lusitânia Lourosa,,,,,1398202,95
+2025,2026-03-15,União de Leiria,Maritimo,,,,,1398197,95
+2025,2026-03-15,Torreense,Portimonense,,,,,1398201,95
+2025,2026-03-22,Feirense,Sporting CP B,,,,,1398205,95
+2025,2026-03-22,Maritimo,Oliveirense,,,,,1398209,95
+2025,2026-03-22,Portimonense,FC Porto B,,,,,1398211,95
+2025,2026-03-22,Chaves,União de Leiria,,,,,1398204,95
+2025,2026-03-22,Benfica B,Farense,,,,,1398203,95
+2025,2026-03-22,Penafiel,Vizela,,,,,1398210,95
+2025,2026-03-22,Leixoes,Pacos Ferreira,,,,,1398207,95
+2025,2026-03-22,Felgueiras 1932,Torreense,,,,,1398206,95
+2025,2026-03-22,Lusitânia Lourosa,Academico Viseu,,,,,1398208,95
+2025,2026-04-04,Farense,Feirense,,,,,1398217,95
+2025,2026-04-04,Oliveirense,Portimonense,,,,,1398215,95
+2025,2026-04-04,Pacos Ferreira,Maritimo,,,,,1398216,95
+2025,2026-04-04,Academico Viseu,Felgueiras 1932,,,,,1398212,95
+2025,2026-04-04,FC Porto B,Chaves,,,,,1398213,95
+2025,2026-04-04,Sporting CP B,Penafiel,,,,,1398218,95
+2025,2026-04-04,Vizela,Benfica B,,,,,1398220,95
+2025,2026-04-04,União de Leiria,Lusitânia Lourosa,,,,,1398214,95
+2025,2026-04-04,Torreense,Leixoes,,,,,1398219,95
+2025,2026-04-12,Feirense,Vizela,,,,,1398223,95
+2025,2026-04-12,Maritimo,Portimonense,,,,,1398227,95
+2025,2026-04-12,Chaves,Torreense,,,,,1398222,95
+2025,2026-04-12,Benfica B,União de Leiria,,,,,1398221,95
+2025,2026-04-12,Farense,Sporting CP B,,,,,1398229,95
+2025,2026-04-12,Penafiel,Academico Viseu,,,,,1398228,95
+2025,2026-04-12,Leixoes,Oliveirense,,,,,1398225,95
+2025,2026-04-12,Felgueiras 1932,Pacos Ferreira,,,,,1398224,95
+2025,2026-04-12,Lusitânia Lourosa,FC Porto B,,,,,1398226,95
+2025,2026-04-19,Portimonense,Lusitânia Lourosa,,,,,1398235,95
+2025,2026-04-19,Oliveirense,Benfica B,,,,,1398233,95
+2025,2026-04-19,Pacos Ferreira,Chaves,,,,,1398234,95
+2025,2026-04-19,Academico Viseu,Feirense,,,,,1398230,95
+2025,2026-04-19,FC Porto B,Leixoes,,,,,1398231,95
+2025,2026-04-19,Sporting CP B,Felgueiras 1932,,,,,1398236,95
+2025,2026-04-19,Vizela,Farense,,,,,1398238,95
+2025,2026-04-19,União de Leiria,Penafiel,,,,,1398232,95
+2025,2026-04-19,Torreense,Maritimo,,,,,1398237,95
+2025,2026-04-26,Feirense,Torreense,,,,,1398241,95
+2025,2026-04-26,Chaves,Oliveirense,,,,,1398240,95
+2025,2026-04-26,Benfica B,Maritimo,,,,,1398239,95
+2025,2026-04-26,Farense,Academico Viseu,,,,,1398246,95
+2025,2026-04-26,Penafiel,FC Porto B,,,,,1398245,95
+2025,2026-04-26,Leixoes,Portimonense,,,,,1398243,95
+2025,2026-04-26,Vizela,Sporting CP B,,,,,1398247,95
+2025,2026-04-26,Felgueiras 1932,União de Leiria,,,,,1398242,95
+2025,2026-04-26,Lusitânia Lourosa,Pacos Ferreira,,,,,1398244,95
+2025,2026-05-03,Maritimo,Leixoes,,,,,1398251,95
+2025,2026-05-03,Portimonense,Chaves,,,,,1398254,95
+2025,2026-05-03,Oliveirense,Lusitânia Lourosa,,,,,1398252,95
+2025,2026-05-03,Pacos Ferreira,Feirense,,,,,1398253,95
+2025,2026-05-03,Academico Viseu,Vizela,,,,,1398248,95
+2025,2026-05-03,FC Porto B,Felgueiras 1932,,,,,1398249,95
+2025,2026-05-03,Sporting CP B,Benfica B,,,,,1398255,95
+2025,2026-05-03,União de Leiria,Farense,,,,,1398250,95
+2025,2026-05-03,Torreense,Penafiel,,,,,1398256,95
+2025,2026-05-10,Feirense,Oliveirense,,,,,1398259,95
+2025,2026-05-10,Chaves,Leixoes,,,,,1398258,95
+2025,2026-05-10,Benfica B,Academico Viseu,,,,,1398257,95
+2025,2026-05-10,Farense,Pacos Ferreira,,,,,1398263,95
+2025,2026-05-10,Penafiel,Maritimo,,,,,1398262,95
+2025,2026-05-10,Sporting CP B,FC Porto B,,,,,1398264,95
+2025,2026-05-10,Vizela,União de Leiria,,,,,1398265,95
+2025,2026-05-10,Felgueiras 1932,Portimonense,,,,,1398260,95
+2025,2026-05-10,Lusitânia Lourosa,Torreense,,,,,1398261,95
+2025,2026-05-17,Maritimo,Chaves,,,,,1398270,95
+2025,2026-05-17,Portimonense,Farense,,,,,1398273,95
+2025,2026-05-17,Oliveirense,Felgueiras 1932,,,,,1398271,95
+2025,2026-05-17,Pacos Ferreira,Penafiel,,,,,1398272,95
+2025,2026-05-17,Academico Viseu,Sporting CP B,,,,,1398266,95
+2025,2026-05-17,FC Porto B,Benfica B,,,,,1398267,95
+2025,2026-05-17,Leixoes,Lusitânia Lourosa,,,,,1398269,95
+2025,2026-05-17,União de Leiria,Feirense,,,,,1398268,95
+2025,2026-05-17,Torreense,Vizela,,,,,1398274,95

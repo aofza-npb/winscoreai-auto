@@ -1,0 +1,485 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-07-20,Lokomotiv,Akron,2,2,3,2
+2024,2024-07-20,Krylia Sovetov,Zenit,0,3,0,4
+2024,2024-07-20,FC Rostov,CSKA Moscow,0,0,0,0
+2024,2024-07-20,Dynamo,Fakel,3,0,3,1
+2024,2024-07-21,FC Orenburg,Spartak Moscow,0,0,2,0
+2024,2024-07-21,Akhmat,FC Krasnodar,1,1,1,1
+2024,2024-07-21,Khimki,Makhachkala,0,1,1,1
+2024,2024-07-22,Nizhny Novgorod,Rubin,1,3,2,4
+2024,2024-07-26,Krylia Sovetov,FC Rostov,0,1,1,3
+2024,2024-07-27,Nizhny Novgorod,CSKA Moscow,0,1,0,3
+2024,2024-07-27,Rubin,Zenit,0,2,0,4
+2024,2024-07-27,Dynamo,Lokomotiv,1,1,3,1
+2024,2024-07-27,Fakel,Akron,0,0,0,2
+2024,2024-07-28,Khimki,Spartak Moscow,0,0,1,3
+2024,2024-07-28,FC Orenburg,Akhmat,0,0,0,0
+2024,2024-07-28,FC Krasnodar,Makhachkala,0,0,0,0
+2024,2024-08-03,Akron,Dynamo,0,1,0,2
+2024,2024-08-03,Zenit,FC Rostov,4,0,5,0
+2024,2024-08-03,Rubin,Khimki,1,0,2,3
+2024,2024-08-04,CSKA Moscow,FC Orenburg,3,1,5,1
+2024,2024-08-04,Fakel,FC Krasnodar,0,0,0,0
+2024,2024-08-04,Akhmat,Lokomotiv,0,3,0,5
+2024,2024-08-04,Makhachkala,Nizhny Novgorod,0,0,0,1
+2024,2024-08-05,Spartak Moscow,Krylia Sovetov,2,0,3,0
+2024,2024-08-09,Nizhny Novgorod,Khimki,1,0,1,0
+2024,2024-08-09,FC Rostov,Rubin,1,0,1,1
+2024,2024-08-10,Lokomotiv,Makhachkala,1,0,2,0
+2024,2024-08-10,Zenit,Dynamo,0,0,1,0
+2024,2024-08-10,FC Orenburg,Akron,0,1,2,2
+2024,2024-08-10,FC Krasnodar,CSKA Moscow,1,0,2,1
+2024,2024-08-11,Krylia Sovetov,Fakel,0,0,2,0
+2024,2024-08-11,Spartak Moscow,Akhmat,0,0,0,0
+2024,2024-08-17,Dynamo,Krylia Sovetov,0,0,1,0
+2024,2024-08-17,FC Rostov,FC Orenburg,0,2,3,2
+2024,2024-08-18,Khimki,Zenit,0,0,1,1
+2024,2024-08-18,CSKA Moscow,Lokomotiv,0,0,0,1
+2024,2024-08-18,Spartak Moscow,Fakel,2,0,3,0
+2024,2024-08-18,FC Krasnodar,Nizhny Novgorod,0,1,2,1
+2024,2024-08-19,Akron,Rubin,1,0,1,2
+2024,2024-08-19,Makhachkala,Akhmat,0,0,1,0
+2024,2024-08-23,Rubin,Makhachkala,1,0,2,0
+2024,2024-08-24,CSKA Moscow,Akron,0,0,4,0
+2024,2024-08-24,Zenit,Spartak Moscow,0,0,0,0
+2024,2024-08-24,Fakel,FC Orenburg,0,0,1,0
+2024,2024-08-24,Akhmat,Khimki,0,1,3,3
+2024,2024-08-25,Krylia Sovetov,Nizhny Novgorod,0,0,3,1
+2024,2024-08-25,Dynamo,FC Krasnodar,0,1,0,1
+2024,2024-08-25,Lokomotiv,FC Rostov,2,1,3,2
+2024,2024-08-31,Khimki,CSKA Moscow,0,1,0,2
+2024,2024-08-31,Nizhny Novgorod,Zenit,0,1,0,3
+2024,2024-08-31,Spartak Moscow,Rubin,0,0,1,0
+2024,2024-08-31,Akhmat,Akron,0,0,0,0
+2024,2024-09-01,FC Orenburg,Dynamo,1,0,2,2
+2024,2024-09-01,Krylia Sovetov,Makhachkala,0,1,0,1
+2024,2024-09-01,Lokomotiv,FC Krasnodar,0,2,0,3
+2024,2024-09-01,FC Rostov,Fakel,2,0,4,1
+2024,2024-09-13,Rubin,Krylia Sovetov,0,2,0,2
+2024,2024-09-14,FC Orenburg,Lokomotiv,1,2,2,4
+2024,2024-09-14,Fakel,Nizhny Novgorod,0,0,0,0
+2024,2024-09-14,CSKA Moscow,Zenit,0,1,0,1
+2024,2024-09-14,FC Krasnodar,FC Rostov,1,0,2,0
+2024,2024-09-15,Dynamo,Akhmat,1,0,4,2
+2024,2024-09-15,Akron,Khimki,2,0,3,0
+2024,2024-09-15,Makhachkala,Spartak Moscow,1,1,1,1
+2024,2024-09-21,Akron,FC Krasnodar,0,2,2,5
+2024,2024-09-21,Zenit,Fakel,0,1,3,1
+2024,2024-09-21,Rubin,CSKA Moscow,0,1,1,1
+2024,2024-09-22,Khimki,FC Orenburg,0,0,0,0
+2024,2024-09-22,Spartak Moscow,Dynamo,2,1,2,2
+2024,2024-09-22,FC Rostov,Makhachkala,0,0,0,0
+2024,2024-09-22,Nizhny Novgorod,Lokomotiv,1,1,1,3
+2024,2024-09-23,Akhmat,Krylia Sovetov,0,0,1,1
+2024,2024-09-27,FC Orenburg,Nizhny Novgorod,0,1,1,2
+2024,2024-09-27,Fakel,Rubin,0,0,0,0
+2024,2024-09-28,CSKA Moscow,Akhmat,2,0,3,0
+2024,2024-09-28,Lokomotiv,Spartak Moscow,2,1,3,1
+2024,2024-09-28,FC Krasnodar,Zenit,0,0,2,0
+2024,2024-09-28,FC Rostov,Akron,0,2,0,2
+2024,2024-09-29,Krylia Sovetov,Khimki,0,0,0,0
+2024,2024-09-29,Makhachkala,Dynamo,0,1,0,1
+2024,2024-10-05,Akron,Nizhny Novgorod,1,0,2,2
+2024,2024-10-05,Zenit,FC Orenburg,0,0,1,0
+2024,2024-10-05,Spartak Moscow,FC Rostov,3,0,3,0
+2024,2024-10-05,Rubin,Akhmat,1,0,2,0
+2024,2024-10-06,Fakel,Makhachkala,0,1,1,1
+2024,2024-10-06,Lokomotiv,Krylia Sovetov,0,0,1,0
+2024,2024-10-06,FC Krasnodar,Khimki,1,0,4,0
+2024,2024-10-06,Dynamo,CSKA Moscow,0,1,1,2
+2024,2024-10-18,Akron,Zenit,0,3,0,5
+2024,2024-10-18,Akhmat,Fakel,2,1,2,3
+2024,2024-10-19,Nizhny Novgorod,FC Rostov,0,0,1,1
+2024,2024-10-19,Spartak Moscow,FC Krasnodar,0,2,0,3
+2024,2024-10-19,Khimki,Lokomotiv,0,0,2,0
+2024,2024-10-19,Makhachkala,CSKA Moscow,0,0,0,1
+2024,2024-10-20,FC Orenburg,Krylia Sovetov,0,2,2,2
+2024,2024-10-20,Rubin,Dynamo,0,2,0,4
+2024,2024-10-26,Makhachkala,Akron,0,0,1,1
+2024,2024-10-26,CSKA Moscow,Fakel,0,0,0,0
+2024,2024-10-26,FC Rostov,Akhmat,1,2,2,3
+2024,2024-10-27,FC Orenburg,Rubin,1,0,1,2
+2024,2024-10-27,Nizhny Novgorod,Spartak Moscow,0,0,0,2
+2024,2024-10-27,Khimki,Dynamo,2,2,3,4
+2024,2024-10-27,Zenit,Lokomotiv,0,0,1,1
+2024,2024-10-28,Krylia Sovetov,FC Krasnodar,0,1,1,2
+2024,2024-11-01,Dynamo,FC Rostov,1,1,1,1
+2024,2024-11-02,Zenit,Makhachkala,2,0,2,1
+2024,2024-11-02,Lokomotiv,Rubin,0,0,1,0
+2024,2024-11-02,CSKA Moscow,Spartak Moscow,0,1,0,2
+2024,2024-11-03,Akron,Krylia Sovetov,1,0,2,0
+2024,2024-11-03,Akhmat,Nizhny Novgorod,0,0,0,2
+2024,2024-11-03,Fakel,Khimki,1,1,1,1
+2024,2024-11-03,FC Krasnodar,FC Orenburg,1,0,4,0
+2024,2024-11-09,Lokomotiv,Fakel,1,0,2,1
+2024,2024-11-09,Makhachkala,FC Orenburg,0,1,2,1
+2024,2024-11-09,FC Rostov,Khimki,1,0,3,1
+2024,2024-11-09,Dynamo,Nizhny Novgorod,2,1,3,1
+2024,2024-11-10,Krylia Sovetov,CSKA Moscow,0,1,1,2
+2024,2024-11-10,Spartak Moscow,Akron,1,0,4,0
+2024,2024-11-10,Akhmat,Zenit,1,2,1,2
+2024,2024-11-10,Rubin,FC Krasnodar,1,0,1,1
+2024,2024-11-22,Rubin,Akron,2,0,3,0
+2024,2024-11-23,FC Orenburg,Zenit,0,0,0,1
+2024,2024-11-23,CSKA Moscow,FC Rostov,1,0,1,2
+2024,2024-11-23,Khimki,FC Krasnodar,0,0,2,2
+2024,2024-11-23,Spartak Moscow,Lokomotiv,3,0,5,2
+2024,2024-11-24,Krylia Sovetov,Akhmat,0,1,2,1
+2024,2024-11-24,Fakel,Dynamo,0,1,1,1
+2024,2024-11-24,Nizhny Novgorod,Makhachkala,0,0,0,0
+2024,2024-11-30,Akron,FC Orenburg,0,0,1,0
+2024,2024-11-30,CSKA Moscow,Rubin,0,1,2,2
+2024,2024-11-30,FC Rostov,Nizhny Novgorod,1,0,4,0
+2024,2024-12-01,Lokomotiv,Khimki,1,2,1,3
+2024,2024-12-01,Zenit,Krylia Sovetov,1,3,2,3
+2024,2024-12-01,Makhachkala,Fakel,0,0,0,0
+2024,2024-12-01,FC Krasnodar,Spartak Moscow,0,2,0,3
+2024,2024-12-02,Akhmat,Dynamo,1,0,1,1
+2024,2024-12-07,Spartak Moscow,Nizhny Novgorod,0,0,3,0
+2024,2024-12-07,Zenit,Akron,1,2,1,2
+2024,2024-12-07,FC Rostov,Krylia Sovetov,1,1,3,1
+2024,2024-12-07,Makhachkala,Rubin,2,1,2,3
+2024,2024-12-08,Dynamo,Khimki,1,0,4,1
+2024,2024-12-08,Fakel,CSKA Moscow,0,1,0,1
+2024,2024-12-08,Akhmat,FC Orenburg,0,0,1,0
+2024,2024-12-08,FC Krasnodar,Lokomotiv,0,0,0,0
+2024,2025-02-28,Makhachkala,Lokomotiv,1,0,1,1
+2024,2025-03-01,Nizhny Novgorod,Akron,0,0,2,1
+2024,2025-03-01,Zenit,CSKA Moscow,0,0,0,0
+2024,2025-03-01,Akhmat,Rubin,1,1,2,1
+2024,2025-03-01,FC Krasnodar,Krylia Sovetov,0,1,1,1
+2024,2025-03-02,Khimki,Fakel,1,0,1,0
+2024,2025-03-02,Spartak Moscow,FC Orenburg,0,0,2,0
+2024,2025-03-02,FC Rostov,Dynamo,0,0,1,1
+2024,2025-03-07,Nizhny Novgorod,FC Krasnodar,0,2,0,3
+2024,2025-03-07,Lokomotiv,Akhmat,1,1,1,1
+2024,2025-03-08,FC Orenburg,FC Rostov,1,1,1,2
+2024,2025-03-08,Fakel,Zenit,0,1,0,2
+2024,2025-03-08,CSKA Moscow,Khimki,0,0,1,0
+2024,2025-03-08,Dynamo,Makhachkala,1,0,4,0
+2024,2025-03-09,Krylia Sovetov,Akron,0,1,0,2
+2024,2025-03-09,Rubin,Spartak Moscow,2,1,2,1
+2024,2025-03-15,FC Orenburg,Fakel,0,0,1,0
+2024,2025-03-15,Khimki,Akhmat,0,0,1,1
+2024,2025-03-15,Makhachkala,Krylia Sovetov,2,0,4,0
+2024,2025-03-15,Lokomotiv,Dynamo,1,1,2,1
+2024,2025-03-16,Akron,CSKA Moscow,0,1,1,2
+2024,2025-03-16,Rubin,Nizhny Novgorod,0,0,1,0
+2024,2025-03-16,FC Rostov,FC Krasnodar,0,0,0,1
+2024,2025-03-16,Spartak Moscow,Zenit,1,0,2,1
+2024,2025-03-28,Krylia Sovetov,Lokomotiv,4,0,5,1
+2024,2025-03-29,Dynamo,FC Orenburg,2,0,5,1
+2024,2025-03-29,Khimki,Nizhny Novgorod,1,0,2,0
+2024,2025-03-29,CSKA Moscow,Makhachkala,1,0,2,0
+2024,2025-03-30,FC Krasnodar,Fakel,0,0,5,0
+2024,2025-03-30,Akhmat,Spartak Moscow,0,0,0,0
+2024,2025-03-30,Zenit,Rubin,0,0,4,0
+2024,2025-03-31,Akron,FC Rostov,1,1,2,3
+2024,2025-04-04,Nizhny Novgorod,FC Orenburg,1,2,1,2
+2024,2025-04-05,Krylia Sovetov,Rubin,1,0,1,1
+2024,2025-04-05,Fakel,Akhmat,0,0,0,0
+2024,2025-04-05,Lokomotiv,Zenit,0,0,1,1
+2024,2025-04-05,FC Krasnodar,Akron,0,0,1,0
+2024,2025-04-06,Makhachkala,Khimki,3,0,4,1
+2024,2025-04-06,FC Rostov,Spartak Moscow,0,0,0,3
+2024,2025-04-06,CSKA Moscow,Dynamo,1,1,3,1
+2024,2025-04-11,Spartak Moscow,Makhachkala,0,2,1,2
+2024,2025-04-12,FC Orenburg,CSKA Moscow,0,0,0,2
+2024,2025-04-12,Nizhny Novgorod,Dynamo,0,0,1,1
+2024,2025-04-12,Rubin,Lokomotiv,0,0,1,0
+2024,2025-04-12,Akhmat,FC Rostov,0,0,2,1
+2024,2025-04-13,Akron,Fakel,0,0,1,0
+2024,2025-04-13,Zenit,FC Krasnodar,2,1,4,1
+2024,2025-04-13,Khimki,Krylia Sovetov,1,0,1,3
+2024,2025-04-19,FC Orenburg,Makhachkala,0,1,2,1
+2024,2025-04-19,Akron,Spartak Moscow,2,1,2,3
+2024,2025-04-19,Lokomotiv,Nizhny Novgorod,1,0,3,0
+2024,2025-04-19,FC Krasnodar,Akhmat,1,0,3,1
+2024,2025-04-20,Dynamo,Rubin,1,1,3,1
+2024,2025-04-20,Fakel,FC Rostov,0,1,0,2
+2024,2025-04-20,Zenit,Khimki,1,0,1,0
+2024,2025-04-20,CSKA Moscow,Krylia Sovetov,0,0,1,1
+2024,2025-04-25,Makhachkala,FC Krasnodar,1,2,2,3
+2024,2025-04-26,Dynamo,Zenit,1,1,1,1
+2024,2025-04-26,Nizhny Novgorod,Akhmat,1,0,1,0
+2024,2025-04-26,FC Rostov,Lokomotiv,1,0,1,1
+2024,2025-04-26,Spartak Moscow,CSKA Moscow,0,1,1,2
+2024,2025-04-27,Krylia Sovetov,FC Orenburg,0,0,2,0
+2024,2025-04-27,Khimki,Akron,2,1,2,2
+2024,2025-04-27,Rubin,Fakel,0,1,2,1
+2024,2025-05-02,Akron,Makhachkala,0,0,1,0
+2024,2025-05-03,Lokomotiv,FC Orenburg,0,0,1,1
+2024,2025-05-03,FC Krasnodar,Rubin,2,0,2,1
+2024,2025-05-04,Fakel,Spartak Moscow,0,0,0,0
+2024,2025-05-04,Akhmat,CSKA Moscow,1,1,1,1
+2024,2025-05-04,Zenit,Nizhny Novgorod,0,1,2,1
+2024,2025-05-04,Khimki,FC Rostov,0,0,1,1
+2024,2025-05-05,Krylia Sovetov,Dynamo,1,1,1,3
+2024,2025-05-10,FC Orenburg,Khimki,0,0,1,1
+2024,2025-05-10,Makhachkala,Zenit,0,1,0,1
+2024,2025-05-10,CSKA Moscow,FC Krasnodar,0,0,1,0
+2024,2025-05-11,Akron,Akhmat,2,1,3,2
+2024,2025-05-11,Fakel,Lokomotiv,0,1,0,1
+2024,2025-05-11,Rubin,FC Rostov,0,0,1,0
+2024,2025-05-11,Dynamo,Spartak Moscow,2,0,2,0
+2024,2025-05-12,Nizhny Novgorod,Krylia Sovetov,4,1,5,2
+2024,2025-05-17,FC Orenburg,FC Krasnodar,1,1,1,2
+2024,2025-05-17,Khimki,Rubin,1,1,3,2
+2024,2025-05-17,Nizhny Novgorod,Fakel,0,1,1,1
+2024,2025-05-18,Krylia Sovetov,Spartak Moscow,0,2,0,2
+2024,2025-05-18,Akhmat,Makhachkala,0,1,1,1
+2024,2025-05-18,Dynamo,Akron,1,0,2,1
+2024,2025-05-18,FC Rostov,Zenit,0,1,0,1
+2024,2025-05-19,Lokomotiv,CSKA Moscow,2,0,2,2
+2024,2025-05-24,CSKA Moscow,Nizhny Novgorod,1,0,2,0
+2024,2025-05-24,Spartak Moscow,Khimki,2,0,5,0
+2024,2025-05-24,Zenit,Akhmat,2,0,3,0
+2024,2025-05-24,FC Krasnodar,Dynamo,0,0,3,0
+2024,2025-05-24,Rubin,FC Orenburg,3,2,4,2
+2024,2025-05-24,Fakel,Krylia Sovetov,0,1,1,1
+2024,2025-05-24,Akron,Lokomotiv,0,1,1,4
+2024,2025-05-24,Makhachkala,FC Rostov,1,0,1,1
+2024,2025-05-28,Ural,Akhmat,0,1,2,1
+2024,2025-05-28,FC Sochi,Nizhny Novgorod,1,1,1,2
+2024,2025-05-31,Nizhny Novgorod,FC Sochi,0,3,1,3
+2024,2025-05-31,Akhmat,Ural,0,0,2,0
+2025,2025-07-18,Dynamo,Baltika,0,1,1,1
+2025,2025-07-19,Akron,Krylia Sovetov,1,0,1,1
+2025,2025-07-19,Lokomotiv,FC Sochi,0,0,3,0
+2025,2025-07-19,Spartak Moscow,Makhachkala,1,0,1,0
+2025,2025-07-20,Nizhny Novgorod,FC Krasnodar,0,1,0,3
+2025,2025-07-20,Zenit,FC Rostov,0,1,2,1
+2025,2025-07-20,Akhmat,Rubin,0,1,0,2
+2025,2025-07-21,FC Orenburg,CSKA Moscow,0,0,0,0
+2025,2025-07-25,Krylia Sovetov,Nizhny Novgorod,0,0,2,0
+2025,2025-07-26,Spartak Moscow,Baltika,0,0,0,3
+2025,2025-07-26,Dynamo,FC Rostov,1,0,1,0
+2025,2025-07-26,FC Krasnodar,Lokomotiv,0,1,1,2
+2025,2025-07-26,FC Sochi,Akron,0,4,0,4
+2025,2025-07-27,CSKA Moscow,Akhmat,2,1,2,1
+2025,2025-07-27,FC Orenburg,Makhachkala,0,0,1,1
+2025,2025-07-27,Rubin,Zenit,0,2,2,2
+2025,2025-08-02,FC Rostov,Krylia Sovetov,0,1,1,4
+2025,2025-08-02,FC Krasnodar,Dynamo,0,0,1,0
+2025,2025-08-02,Nizhny Novgorod,Lokomotiv,0,1,2,3
+2025,2025-08-03,Akron,Spartak Moscow,0,0,1,1
+2025,2025-08-03,Baltika,FC Orenburg,1,0,3,2
+2025,2025-08-03,Zenit,CSKA Moscow,0,1,1,1
+2025,2025-08-03,Makhachkala,Akhmat,1,0,1,0
+2025,2025-08-04,Rubin,FC Sochi,1,0,2,1
+2025,2025-08-08,Makhachkala,Akron,1,0,1,1
+2025,2025-08-09,Krylia Sovetov,Baltika,1,0,1,1
+2025,2025-08-09,CSKA Moscow,Rubin,4,1,5,1
+2025,2025-08-09,Lokomotiv,Spartak Moscow,1,1,4,2
+2025,2025-08-09,Akhmat,Zenit,1,0,1,0
+2025,2025-08-10,FC Orenburg,FC Krasnodar,0,0,0,1
+2025,2025-08-10,FC Sochi,Dynamo,0,1,1,1
+2025,2025-08-10,FC Rostov,Nizhny Novgorod,0,0,1,0
+2025,2025-08-16,Spartak Moscow,Zenit,,,,
+2025,2025-08-16,Akhmat,Krylia Sovetov,,,,
+2025,2025-08-17,Akron,FC Orenburg,,,,
+2025,2025-08-17,Rubin,FC Rostov,,,,
+2025,2025-08-17,Dynamo,CSKA Moscow,,,,
+2025,2025-08-17,Baltika,Lokomotiv,,,,
+2025,2025-08-17,FC Krasnodar,FC Sochi,,,,
+2025,2025-08-18,Nizhny Novgorod,Makhachkala,,,,
+2025,2025-08-22,FC Orenburg,Akhmat,,,,
+2025,2025-08-23,Zenit,Makhachkala,,,,
+2025,2025-08-23,Lokomotiv,FC Rostov,,,,
+2025,2025-08-23,Dynamo,Nizhny Novgorod,,,,
+2025,2025-08-24,CSKA Moscow,Akron,,,,
+2025,2025-08-24,Krylia Sovetov,FC Krasnodar,,,,
+2025,2025-08-24,Rubin,Spartak Moscow,,,,
+2025,2025-08-24,FC Sochi,Baltika,,,,
+2025,2025-08-30,FC Orenburg,Rubin,,,,
+2025,2025-08-30,Zenit,Nizhny Novgorod,,,,
+2025,2025-08-30,Spartak Moscow,FC Sochi,,,,
+2025,2025-08-30,FC Rostov,Akhmat,,,,
+2025,2025-08-31,Akron,Baltika,,,,
+2025,2025-08-31,Lokomotiv,Krylia Sovetov,,,,
+2025,2025-08-31,CSKA Moscow,FC Krasnodar,,,,
+2025,2025-08-31,Makhachkala,Dynamo,,,,
+2025,2025-09-12,Rubin,Makhachkala,,,,
+2025,2025-09-13,Nizhny Novgorod,FC Orenburg,,,,
+2025,2025-09-13,Akhmat,Lokomotiv,,,,
+2025,2025-09-13,FC Krasnodar,Akron,,,,
+2025,2025-09-14,Krylia Sovetov,FC Sochi,,,,
+2025,2025-09-14,Baltika,Zenit,,,,
+2025,2025-09-14,Dynamo,Spartak Moscow,,,,
+2025,2025-09-14,FC Rostov,CSKA Moscow,,,,
+2025,2025-09-20,Nizhny Novgorod,Akhmat,,,,
+2025,2025-09-20,Akron,Rubin,,,,
+2025,2025-09-20,Makhachkala,Lokomotiv,,,,
+2025,2025-09-21,FC Orenburg,Dynamo,,,,
+2025,2025-09-21,Spartak Moscow,Krylia Sovetov,,,,
+2025,2025-09-21,Baltika,FC Rostov,,,,
+2025,2025-09-21,FC Krasnodar,Zenit,,,,
+2025,2025-09-22,FC Sochi,CSKA Moscow,,,,
+2025,2025-09-26,Krylia Sovetov,Dynamo,,,,
+2025,2025-09-27,Akhmat,Akron,,,,
+2025,2025-09-27,Zenit,FC Orenburg,,,,
+2025,2025-09-27,Lokomotiv,Rubin,,,,
+2025,2025-09-27,FC Rostov,FC Krasnodar,,,,
+2025,2025-09-28,CSKA Moscow,Baltika,,,,
+2025,2025-09-28,Makhachkala,FC Sochi,,,,
+2025,2025-09-28,Spartak Moscow,Nizhny Novgorod,,,,
+2025,2025-10-04,Akron,Zenit,,,,
+2025,2025-10-04,Rubin,Krylia Sovetov,,,,
+2025,2025-10-04,FC Krasnodar,Akhmat,,,,
+2025,2025-10-04,Dynamo,Lokomotiv,,,,
+2025,2025-10-05,FC Orenburg,FC Rostov,,,,
+2025,2025-10-05,FC Sochi,Nizhny Novgorod,,,,
+2025,2025-10-05,CSKA Moscow,Spartak Moscow,,,,
+2025,2025-10-05,Baltika,Makhachkala,,,,
+2025,2025-10-17,Nizhny Novgorod,Akron,,,,
+2025,2025-10-18,Krylia Sovetov,FC Orenburg,,,,
+2025,2025-10-18,Spartak Moscow,FC Rostov,,,,
+2025,2025-10-18,Makhachkala,FC Krasnodar,,,,
+2025,2025-10-18,Lokomotiv,CSKA Moscow,,,,
+2025,2025-10-19,FC Sochi,Zenit,,,,
+2025,2025-10-19,Rubin,Baltika,,,,
+2025,2025-10-19,Dynamo,Akhmat,,,,
+2025,2025-10-25,Spartak Moscow,FC Orenburg,,,,
+2025,2025-10-25,FC Rostov,Makhachkala,,,,
+2025,2025-10-25,CSKA Moscow,Krylia Sovetov,,,,
+2025,2025-10-26,Akron,Lokomotiv,,,,
+2025,2025-10-26,Nizhny Novgorod,Baltika,,,,
+2025,2025-10-26,Zenit,Dynamo,,,,
+2025,2025-10-26,FC Krasnodar,Rubin,,,,
+2025,2025-10-27,Akhmat,FC Sochi,,,,
+2025,2025-11-01,Baltika,Akhmat,,,,
+2025,2025-11-02,CSKA Moscow,Nizhny Novgorod,,,,
+2025,2025-11-02,Zenit,Lokomotiv,,,,
+2025,2025-11-02,FC Krasnodar,Spartak Moscow,,,,
+2025,2025-11-02,FC Rostov,Akron,,,,
+2025,2025-11-02,FC Orenburg,FC Sochi,,,,
+2025,2025-11-02,Rubin,Dynamo,,,,
+2025,2025-11-02,Makhachkala,Krylia Sovetov,,,,
+2025,2025-11-09,Lokomotiv,FC Orenburg,,,,
+2025,2025-11-09,Krylia Sovetov,Zenit,,,,
+2025,2025-11-09,Akhmat,Spartak Moscow,,,,
+2025,2025-11-09,Dynamo,Akron,,,,
+2025,2025-11-09,Baltika,FC Krasnodar,,,,
+2025,2025-11-09,Nizhny Novgorod,Rubin,,,,
+2025,2025-11-09,FC Sochi,FC Rostov,,,,
+2025,2025-11-09,Makhachkala,CSKA Moscow,,,,
+2025,2025-11-23,Spartak Moscow,CSKA Moscow,,,,
+2025,2025-11-23,Lokomotiv,FC Krasnodar,,,,
+2025,2025-11-23,Krylia Sovetov,FC Rostov,,,,
+2025,2025-11-23,FC Orenburg,Baltika,,,,
+2025,2025-11-23,Rubin,Akhmat,,,,
+2025,2025-11-23,Dynamo,Makhachkala,,,,
+2025,2025-11-23,Nizhny Novgorod,Zenit,,,,
+2025,2025-11-23,Akron,FC Sochi,,,,
+2025,2025-11-30,CSKA Moscow,FC Orenburg,,,,
+2025,2025-11-30,Zenit,Rubin,,,,
+2025,2025-11-30,FC Krasnodar,Krylia Sovetov,,,,
+2025,2025-11-30,FC Rostov,Lokomotiv,,,,
+2025,2025-11-30,Akhmat,Dynamo,,,,
+2025,2025-11-30,Baltika,Spartak Moscow,,,,
+2025,2025-11-30,FC Sochi,Makhachkala,,,,
+2025,2025-11-30,Akron,Nizhny Novgorod,,,,
+2025,2025-12-07,Spartak Moscow,Dynamo,,,,
+2025,2025-12-07,Zenit,Akron,,,,
+2025,2025-12-07,FC Krasnodar,CSKA Moscow,,,,
+2025,2025-12-07,FC Rostov,Rubin,,,,
+2025,2025-12-07,Akhmat,FC Orenburg,,,,
+2025,2025-12-07,Baltika,Krylia Sovetov,,,,
+2025,2025-12-07,FC Sochi,Lokomotiv,,,,
+2025,2025-12-07,Makhachkala,Nizhny Novgorod,,,,
+2025,2026-03-01,Zenit,Baltika,,,,
+2025,2026-03-01,Lokomotiv,Nizhny Novgorod,,,,
+2025,2026-03-01,FC Krasnodar,FC Rostov,,,,
+2025,2026-03-01,FC Orenburg,Akron,,,,
+2025,2026-03-01,Akhmat,CSKA Moscow,,,,
+2025,2026-03-01,Dynamo,Krylia Sovetov,,,,
+2025,2026-03-01,FC Sochi,Spartak Moscow,,,,
+2025,2026-03-01,Makhachkala,Rubin,,,,
+2025,2026-03-08,CSKA Moscow,Dynamo,,,,
+2025,2026-03-08,Spartak Moscow,Akron,,,,
+2025,2026-03-08,Lokomotiv,Akhmat,,,,
+2025,2026-03-08,FC Rostov,Baltika,,,,
+2025,2026-03-08,Krylia Sovetov,Makhachkala,,,,
+2025,2026-03-08,FC Orenburg,Zenit,,,,
+2025,2026-03-08,Rubin,FC Krasnodar,,,,
+2025,2026-03-08,Nizhny Novgorod,FC Sochi,,,,
+2025,2026-03-15,Zenit,Spartak Moscow,,,,
+2025,2026-03-15,FC Rostov,Dynamo,,,,
+2025,2026-03-15,Rubin,Lokomotiv,,,,
+2025,2026-03-15,Baltika,CSKA Moscow,,,,
+2025,2026-03-15,Nizhny Novgorod,Krylia Sovetov,,,,
+2025,2026-03-15,FC Sochi,FC Krasnodar,,,,
+2025,2026-03-15,Akron,Akhmat,,,,
+2025,2026-03-15,Makhachkala,FC Orenburg,,,,
+2025,2026-03-22,CSKA Moscow,Makhachkala,,,,
+2025,2026-03-22,Lokomotiv,Akron,,,,
+2025,2026-03-22,FC Krasnodar,Nizhny Novgorod,,,,
+2025,2026-03-22,Krylia Sovetov,Rubin,,,,
+2025,2026-03-22,FC Orenburg,Spartak Moscow,,,,
+2025,2026-03-22,Akhmat,FC Rostov,,,,
+2025,2026-03-22,Dynamo,Zenit,,,,
+2025,2026-03-22,Baltika,FC Sochi,,,,
+2025,2026-04-05,Spartak Moscow,Lokomotiv,,,,
+2025,2026-04-05,Zenit,Krylia Sovetov,,,,
+2025,2026-04-05,Akhmat,FC Krasnodar,,,,
+2025,2026-04-05,Dynamo,FC Orenburg,,,,
+2025,2026-04-05,Nizhny Novgorod,FC Rostov,,,,
+2025,2026-04-05,FC Sochi,Rubin,,,,
+2025,2026-04-05,Akron,CSKA Moscow,,,,
+2025,2026-04-05,Makhachkala,Baltika,,,,
+2025,2026-04-12,CSKA Moscow,FC Sochi,,,,
+2025,2026-04-12,Zenit,FC Krasnodar,,,,
+2025,2026-04-12,Lokomotiv,Makhachkala,,,,
+2025,2026-04-12,FC Rostov,Spartak Moscow,,,,
+2025,2026-04-12,Krylia Sovetov,Akhmat,,,,
+2025,2026-04-12,Rubin,FC Orenburg,,,,
+2025,2026-04-12,Baltika,Nizhny Novgorod,,,,
+2025,2026-04-12,Akron,Dynamo,,,,
+2025,2026-04-19,Spartak Moscow,Akhmat,,,,
+2025,2026-04-19,FC Krasnodar,Baltika,,,,
+2025,2026-04-19,FC Rostov,FC Sochi,,,,
+2025,2026-04-19,Krylia Sovetov,CSKA Moscow,,,,
+2025,2026-04-19,FC Orenburg,Lokomotiv,,,,
+2025,2026-04-19,Rubin,Akron,,,,
+2025,2026-04-19,Nizhny Novgorod,Dynamo,,,,
+2025,2026-04-19,Makhachkala,Zenit,,,,
+2025,2026-04-23,CSKA Moscow,FC Rostov,,,,
+2025,2026-04-23,Spartak Moscow,FC Krasnodar,,,,
+2025,2026-04-23,Lokomotiv,Zenit,,,,
+2025,2026-04-23,FC Orenburg,Nizhny Novgorod,,,,
+2025,2026-04-23,Akhmat,Baltika,,,,
+2025,2026-04-23,Dynamo,Rubin,,,,
+2025,2026-04-23,FC Sochi,Krylia Sovetov,,,,
+2025,2026-04-23,Akron,Makhachkala,,,,
+2025,2026-04-26,Zenit,Akhmat,,,,
+2025,2026-04-26,FC Krasnodar,Makhachkala,,,,
+2025,2026-04-26,FC Rostov,FC Orenburg,,,,
+2025,2026-04-26,Krylia Sovetov,Lokomotiv,,,,
+2025,2026-04-26,Rubin,CSKA Moscow,,,,
+2025,2026-04-26,Dynamo,FC Sochi,,,,
+2025,2026-04-26,Baltika,Akron,,,,
+2025,2026-04-26,Nizhny Novgorod,Spartak Moscow,,,,
+2025,2026-05-03,CSKA Moscow,Zenit,,,,
+2025,2026-05-03,Lokomotiv,Dynamo,,,,
+2025,2026-05-03,Krylia Sovetov,Spartak Moscow,,,,
+2025,2026-05-03,Akhmat,Nizhny Novgorod,,,,
+2025,2026-05-03,Baltika,Rubin,,,,
+2025,2026-05-03,FC Sochi,FC Orenburg,,,,
+2025,2026-05-03,Akron,FC Krasnodar,,,,
+2025,2026-05-03,Makhachkala,FC Rostov,,,,
+2025,2026-05-10,Spartak Moscow,Rubin,,,,
+2025,2026-05-10,Zenit,FC Sochi,,,,
+2025,2026-05-10,Lokomotiv,Baltika,,,,
+2025,2026-05-10,FC Orenburg,Krylia Sovetov,,,,
+2025,2026-05-10,Akhmat,Makhachkala,,,,
+2025,2026-05-10,Dynamo,FC Krasnodar,,,,
+2025,2026-05-10,Nizhny Novgorod,CSKA Moscow,,,,
+2025,2026-05-10,Akron,FC Rostov,,,,
+2025,2026-05-17,CSKA Moscow,Lokomotiv,,,,
+2025,2026-05-17,FC Krasnodar,FC Orenburg,,,,
+2025,2026-05-17,FC Rostov,Zenit,,,,
+2025,2026-05-17,Krylia Sovetov,Akron,,,,
+2025,2026-05-17,Rubin,Nizhny Novgorod,,,,
+2025,2026-05-17,Baltika,Dynamo,,,,
+2025,2026-05-17,FC Sochi,Akhmat,,,,
+2025,2026-05-17,Makhachkala,Spartak Moscow,,,,

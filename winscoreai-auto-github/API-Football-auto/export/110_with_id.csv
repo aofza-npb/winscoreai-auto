@@ -1,0 +1,329 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away,fixture_id,league_id
+2024,2024-08-09,Newtown AFC,Aberystwyth Town,0.0,1.0,4.0,1.0,1212306,110
+2024,2024-08-10,Barry Town,Bala Town,1.0,0.0,1.0,1.0,1212307,110
+2024,2024-08-10,Flint Town United,Cardiff MET,1.0,1.0,1.0,2.0,1212308,110
+2024,2024-08-11,GAP Connah S Quay FC,Haverfordwest County AFC,0.0,0.0,0.0,1.0,1212310,110
+2024,2024-08-11,Briton Ferry,Penybont,0.0,2.0,0.0,2.0,1212309,110
+2024,2024-08-16,Bala Town,Briton Ferry,1.0,0.0,2.0,0.0,1212312,110
+2024,2024-08-16,Cardiff MET,Barry Town,1.0,0.0,1.0,1.0,1212313,110
+2024,2024-08-16,Penybont,Newtown AFC,0.0,0.0,0.0,0.0,1212315,110
+2024,2024-08-16,Flint Town United,The New Saints,0.0,2.0,1.0,4.0,1212314,110
+2024,2024-08-16,Aberystwyth Town,GAP Connah S Quay FC,0.0,0.0,1.0,1.0,1212316,110
+2024,2024-08-17,Caernarfon Town,Haverfordwest County AFC,0.0,0.0,1.0,2.0,1212317,110
+2024,2024-08-23,Bala Town,Flint Town United,1.0,0.0,2.0,0.0,1212318,110
+2024,2024-08-23,Newtown AFC,Caernarfon Town,0.0,1.0,0.0,4.0,1212322,110
+2024,2024-08-23,Haverfordwest County AFC,Penybont,0.0,0.0,0.0,0.0,1212321,110
+2024,2024-08-23,Briton Ferry,Cardiff MET,0.0,2.0,1.0,5.0,1212319,110
+2024,2024-08-23,Aberystwyth Town,Barry Town,1.0,0.0,1.0,0.0,1212323,110
+2024,2024-08-26,Cardiff MET,Haverfordwest County AFC,0.0,0.0,0.0,0.0,1212325,110
+2024,2024-08-26,Caernarfon Town,Bala Town,0.0,0.0,0.0,0.0,1212324,110
+2024,2024-08-26,Barry Town,Newtown AFC,1.0,1.0,1.0,2.0,1212329,110
+2024,2024-08-26,Penybont,Aberystwyth Town,2.0,1.0,5.0,1.0,1212327,110
+2024,2024-08-26,Flint Town United,GAP Connah S Quay FC,0.0,0.0,0.0,1.0,1212326,110
+2024,2024-08-30,Haverfordwest County AFC,Newtown AFC,1.0,0.0,3.0,0.0,1212331,110
+2024,2024-08-31,Bala Town,Penybont,1.0,0.0,1.0,2.0,1212332,110
+2024,2024-08-31,Caernarfon Town,Cardiff MET,1.0,2.0,1.0,2.0,1212335,110
+2024,2024-08-31,Barry Town,Flint Town United,0.0,2.0,3.0,2.0,1212333,110
+2024,2024-08-31,Briton Ferry,GAP Connah S Quay FC,1.0,1.0,1.0,5.0,1212334,110
+2024,2024-09-03,The New Saints,Aberystwyth Town,0.0,0.0,2.0,0.0,1212330,110
+2024,2024-09-07,Bala Town,Cardiff MET,0.0,1.0,0.0,1.0,1212337,110
+2024,2024-09-07,GAP Connah S Quay FC,Barry Town,1.0,0.0,1.0,2.0,1212338,110
+2024,2024-09-07,Newtown AFC,Briton Ferry,0.0,0.0,1.0,0.0,1212340,110
+2024,2024-09-07,Penybont,Caernarfon Town,1.0,0.0,2.0,0.0,1212341,110
+2024,2024-09-07,Haverfordwest County AFC,The New Saints,0.0,1.0,0.0,1.0,1212339,110
+2024,2024-09-07,Aberystwyth Town,Flint Town United,0.0,1.0,0.0,2.0,1212336,110
+2024,2024-09-13,Bala Town,Aberystwyth Town,3.0,0.0,3.0,0.0,1212342,110
+2024,2024-09-13,Newtown AFC,Cardiff MET,1.0,0.0,2.0,1.0,1212343,110
+2024,2024-09-14,The New Saints,Barry Town,1.0,0.0,4.0,0.0,1212346,110
+2024,2024-09-14,Caernarfon Town,Briton Ferry,2.0,1.0,3.0,2.0,1212344,110
+2024,2024-09-14,Flint Town United,Haverfordwest County AFC,0.0,0.0,1.0,0.0,1212345,110
+2024,2024-09-15,GAP Connah S Quay FC,Penybont,0.0,0.0,0.0,1.0,1212347,110
+2024,2024-09-20,Bala Town,Newtown AFC,1.0,2.0,2.0,2.0,1212348,110
+2024,2024-09-20,Penybont,The New Saints,1.0,1.0,2.0,1.0,1212349,110
+2024,2024-09-20,Aberystwyth Town,Haverfordwest County AFC,0.0,0.0,0.0,3.0,1212350,110
+2024,2024-09-21,Cardiff MET,GAP Connah S Quay FC,1.0,1.0,2.0,1.0,1212353,110
+2024,2024-09-21,Barry Town,Caernarfon Town,1.0,1.0,1.0,1.0,1212351,110
+2024,2024-09-21,Briton Ferry,Flint Town United,0.0,0.0,1.0,1.0,1212352,110
+2024,2024-09-24,The New Saints,Bala Town,1.0,1.0,2.0,3.0,1212357,110
+2024,2024-09-24,GAP Connah S Quay FC,Newtown AFC,1.0,1.0,1.0,1.0,1212354,110
+2024,2024-09-24,Penybont,Briton Ferry,0.0,0.0,0.0,1.0,1212356,110
+2024,2024-09-24,Haverfordwest County AFC,Barry Town,1.0,1.0,1.0,1.0,1212355,110
+2024,2024-09-24,Aberystwyth Town,Cardiff MET,0.0,1.0,1.0,2.0,1212358,110
+2024,2024-09-25,Flint Town United,Caernarfon Town,1.0,1.0,1.0,2.0,1212359,110
+2024,2024-09-27,Newtown AFC,The New Saints,0.0,2.0,1.0,6.0,1212362,110
+2024,2024-09-27,Barry Town,Aberystwyth Town,0.0,0.0,1.0,0.0,1212360,110
+2024,2024-09-27,Haverfordwest County AFC,Cardiff MET,0.0,0.0,1.0,0.0,1212363,110
+2024,2024-09-28,Briton Ferry,Bala Town,2.0,1.0,2.0,2.0,1212364,110
+2024,2024-09-28,Flint Town United,Penybont,0.0,0.0,0.0,1.0,1212365,110
+2024,2024-09-28,Caernarfon Town,GAP Connah S Quay FC,2.0,0.0,3.0,1.0,1212361,110
+2024,2024-10-04,Bala Town,Haverfordwest County AFC,0.0,0.0,0.0,2.0,1212366,110
+2024,2024-10-04,GAP Connah S Quay FC,Aberystwyth Town,2.0,0.0,3.0,0.0,1212368,110
+2024,2024-10-04,Newtown AFC,Flint Town United,1.0,2.0,2.0,4.0,1212369,110
+2024,2024-10-04,Penybont,Barry Town,0.0,1.0,4.0,1.0,1212370,110
+2024,2024-10-05,Cardiff MET,Caernarfon Town,1.0,1.0,1.0,2.0,1212371,110
+2024,2024-10-09,The New Saints,Caernarfon Town,1.0,1.0,1.0,2.0,1212311,110
+2024,2024-10-12,Aberystwyth Town,Penybont,0.0,2.0,0.0,3.0,1212372,110
+2024,2024-10-12,The New Saints,Cardiff MET,2.0,0.0,3.0,0.0,1212377,110
+2024,2024-10-12,Caernarfon Town,Newtown AFC,0.0,1.0,1.0,2.0,1212374,110
+2024,2024-10-12,Barry Town,Briton Ferry,2.0,1.0,3.0,1.0,1212373,110
+2024,2024-10-12,Haverfordwest County AFC,GAP Connah S Quay FC,0.0,0.0,0.0,0.0,1212376,110
+2024,2024-10-12,Flint Town United,Bala Town,1.0,0.0,2.0,2.0,1212375,110
+2024,2024-10-15,Bala Town,GAP Connah S Quay FC,0.0,0.0,0.0,0.0,1212378,110
+2024,2024-10-15,Cardiff MET,Penybont,0.0,1.0,1.0,1.0,1212381,110
+2024,2024-10-15,The New Saints,Flint Town United,3.0,0.0,5.0,0.0,1212383,110
+2024,2024-10-15,Caernarfon Town,Aberystwyth Town,0.0,3.0,1.0,4.0,1212380,110
+2024,2024-10-15,Newtown AFC,Barry Town,2.0,0.0,2.0,4.0,1212382,110
+2024,2024-10-15,Briton Ferry,Haverfordwest County AFC,1.0,1.0,1.0,2.0,1212379,110
+2024,2024-10-25,Cardiff MET,Newtown AFC,1.0,1.0,2.0,1.0,1212385,110
+2024,2024-10-26,Penybont,Bala Town,1.0,0.0,1.0,1.0,1212388,110
+2024,2024-10-26,Flint Town United,Barry Town,0.0,2.0,1.0,2.0,1212386,110
+2024,2024-10-26,Haverfordwest County AFC,Caernarfon Town,0.0,0.0,0.0,0.0,1212387,110
+2024,2024-10-27,Aberystwyth Town,The New Saints,1.0,3.0,2.0,4.0,1212384,110
+2024,2024-10-27,GAP Connah S Quay FC,Briton Ferry,2.0,0.0,2.0,1.0,1212389,110
+2024,2024-10-30,GAP Connah S Quay FC,The New Saints,0.0,0.0,1.0,2.0,1212320,110
+2024,2024-11-02,Barry Town,The New Saints,1.0,3.0,1.0,4.0,1212391,110
+2024,2024-11-02,Caernarfon Town,Penybont,0.0,2.0,1.0,5.0,1212392,110
+2024,2024-11-02,GAP Connah S Quay FC,Cardiff MET,0.0,0.0,1.0,0.0,1212393,110
+2024,2024-11-02,Newtown AFC,Bala Town,0.0,0.0,0.0,0.0,1212395,110
+2024,2024-11-02,Haverfordwest County AFC,Flint Town United,2.0,1.0,4.0,1.0,1212394,110
+2024,2024-11-02,Briton Ferry,Aberystwyth Town,2.0,0.0,4.0,0.0,1212390,110
+2024,2024-11-08,Aberystwyth Town,Newtown AFC,2.0,0.0,3.0,1.0,1212396,110
+2024,2024-11-09,Barry Town,GAP Connah S Quay FC,1.0,0.0,3.0,2.0,1212398,110
+2024,2024-11-09,Penybont,Flint Town United,3.0,0.0,3.0,1.0,1212400,110
+2024,2024-11-09,Briton Ferry,Caernarfon Town,0.0,1.0,0.0,1.0,1212399,110
+2024,2024-11-09,Cardiff MET,Bala Town,1.0,1.0,3.0,3.0,1212397,110
+2024,2024-11-10,The New Saints,Haverfordwest County AFC,1.0,1.0,2.0,1.0,1212401,110
+2024,2024-11-20,Briton Ferry,The New Saints,3.0,1.0,3.0,1.0,1212367,110
+2024,2024-11-23,Cardiff MET,Aberystwyth Town,0.0,0.0,3.0,0.0,1212403,110
+2024,2024-11-23,The New Saints,Penybont,0.0,2.0,3.0,2.0,1212407,110
+2024,2024-11-23,Haverfordwest County AFC,Bala Town,0.0,0.0,0.0,0.0,1212405,110
+2024,2024-11-23,Flint Town United,Briton Ferry,0.0,0.0,2.0,1.0,1212404,110
+2024,2024-11-30,Newtown AFC,GAP Connah S Quay FC,0.0,1.0,0.0,3.0,1212406,110
+2024,2024-12-03,GAP Connah S Quay FC,Caernarfon Town,1.0,0.0,1.0,1.0,1212411,110
+2024,2024-12-03,Penybont,Haverfordwest County AFC,0.0,0.0,1.0,0.0,1212412,110
+2024,2024-12-03,Briton Ferry,Newtown AFC,0.0,0.0,2.0,1.0,1212410,110
+2024,2024-12-04,Bala Town,The New Saints,1.0,0.0,1.0,0.0,1212408,110
+2024,2024-12-04,Flint Town United,Aberystwyth Town,2.0,0.0,3.0,0.0,1212413,110
+2024,2024-12-10,Barry Town,Cardiff MET,0.0,1.0,2.0,1.0,1212409,110
+2024,2024-12-14,Cardiff MET,Flint Town United,0.0,0.0,2.0,0.0,1212418,110
+2024,2024-12-14,Caernarfon Town,Barry Town,2.0,1.0,3.0,2.0,1212402,110
+2024,2024-12-21,Aberystwyth Town,Caernarfon Town,1.0,0.0,3.0,1.0,1212416,110
+2024,2024-12-21,Bala Town,Barry Town,1.0,0.0,3.0,1.0,1212417,110
+2024,2024-12-22,The New Saints,Briton Ferry,3.0,1.0,5.0,2.0,1212328,110
+2024,2024-12-26,Cardiff MET,Briton Ferry,1.0,1.0,1.0,3.0,1212421,110
+2024,2024-12-26,Barry Town,Penybont,1.0,0.0,1.0,2.0,1212420,110
+2024,2024-12-26,Aberystwyth Town,Bala Town,0.0,0.0,0.0,0.0,1212422,110
+2024,2024-12-26,Caernarfon Town,The New Saints,2.0,3.0,2.0,5.0,1212423,110
+2024,2024-12-26,GAP Connah S Quay FC,Flint Town United,6.0,1.0,7.0,2.0,1212424,110
+2024,2024-12-26,Newtown AFC,Haverfordwest County AFC,0.0,1.0,0.0,2.0,1212425,110
+2024,2024-12-31,Briton Ferry,Barry Town,0.0,0.0,0.0,0.0,1212428,110
+2024,2024-12-31,The New Saints,GAP Connah S Quay FC,2.0,1.0,2.0,1.0,1212427,110
+2024,2024-12-31,Penybont,Cardiff MET,1.0,0.0,2.0,2.0,1212431,110
+2024,2025-01-01,Haverfordwest County AFC,Aberystwyth Town,1.0,0.0,1.0,0.0,1212430,110
+2024,2025-01-01,Flint Town United,Newtown AFC,0.0,0.0,2.0,0.0,1212429,110
+2024,2025-01-04,The New Saints,Newtown AFC,0.0,1.0,2.0,1.0,1212415,110
+2024,2025-01-04,Penybont,GAP Connah S Quay FC,0.0,0.0,1.0,0.0,1212419,110
+2024,2025-01-04,Haverfordwest County AFC,Briton Ferry,1.0,1.0,5.0,1.0,1212414,110
+2024,2025-01-11,Aberystwyth Town,Briton Ferry,1.0,2.0,1.0,6.0,1212432,110
+2024,2025-01-11,Bala Town,Caernarfon Town,0.0,1.0,0.0,2.0,1212426,110
+2024,2025-01-14,Cardiff MET,The New Saints,0.0,1.0,0.0,2.0,1212435,110
+2024,2025-01-14,Caernarfon Town,Flint Town United,0.0,0.0,3.0,0.0,1212434,110
+2024,2025-01-14,Newtown AFC,Penybont,0.0,1.0,1.0,2.0,1212437,110
+2024,2025-01-14,Barry Town,Haverfordwest County AFC,1.0,1.0,1.0,1.0,1212433,110
+2024,2025-01-17,GAP Connah S Quay FC,Bala Town,0.0,0.0,0.0,2.0,1212436,110
+2024,2025-01-24,Cardiff MET,Penybont,0.0,0.0,2.0,1.0,1338855,110
+2024,2025-01-24,Newtown AFC,Briton Ferry,2.0,1.0,2.0,2.0,1338884,110
+2024,2025-01-24,Aberystwyth Town,Barry Town,0.0,0.0,1.0,2.0,1338885,110
+2024,2025-01-25,Haverfordwest County AFC,Bala Town,1.0,1.0,3.0,2.0,1338856,110
+2024,2025-01-25,Flint Town United,GAP Connah S Quay FC,1.0,0.0,2.0,1.0,1338886,110
+2024,2025-01-31,Bala Town,Caernarfon Town,0.0,2.0,1.0,3.0,1338857,110
+2024,2025-02-01,Penybont,Haverfordwest County AFC,0.0,0.0,0.0,0.0,1338858,110
+2024,2025-02-01,The New Saints,Cardiff MET,1.0,1.0,3.0,1.0,1338859,110
+2024,2025-02-01,GAP Connah S Quay FC,Newtown AFC,1.0,0.0,1.0,0.0,1338889,110
+2024,2025-02-01,Barry Town,Flint Town United,2.0,1.0,3.0,1.0,1338887,110
+2024,2025-02-01,Briton Ferry,Aberystwyth Town,0.0,1.0,2.0,3.0,1338888,110
+2024,2025-02-07,Flint Town United,Aberystwyth Town,0.0,0.0,2.0,0.0,1338890,110
+2024,2025-02-08,The New Saints,Penybont,1.0,0.0,4.0,0.0,1338860,110
+2024,2025-02-08,Cardiff MET,Bala Town,1.0,0.0,2.0,1.0,1338862,110
+2024,2025-02-08,Caernarfon Town,Haverfordwest County AFC,1.0,1.0,1.0,1.0,1338861,110
+2024,2025-02-08,GAP Connah S Quay FC,Briton Ferry,0.0,0.0,0.0,1.0,1338891,110
+2024,2025-02-08,Newtown AFC,Barry Town,0.0,1.0,1.0,1.0,1338892,110
+2024,2025-02-11,Caernarfon Town,The New Saints,0.0,1.0,0.0,1.0,1338854,110
+2024,2025-02-21,Bala Town,The New Saints,0.0,1.0,0.0,2.0,1338863,110
+2024,2025-02-21,Haverfordwest County AFC,Cardiff MET,0.0,0.0,1.0,0.0,1338864,110
+2024,2025-02-22,Aberystwyth Town,Newtown AFC,0.0,0.0,0.0,1.0,1338893,110
+2024,2025-02-22,Caernarfon Town,Penybont,1.0,0.0,3.0,2.0,1338865,110
+2024,2025-02-22,Barry Town,GAP Connah S Quay FC,0.0,1.0,0.0,2.0,1338894,110
+2024,2025-02-22,Flint Town United,Briton Ferry,2.0,0.0,3.0,1.0,1338895,110
+2024,2025-03-07,GAP Connah S Quay FC,Aberystwyth Town,1.0,0.0,3.0,0.0,1338897,110
+2024,2025-03-07,Newtown AFC,Flint Town United,1.0,1.0,2.0,2.0,1338898,110
+2024,2025-03-07,Briton Ferry,Barry Town,1.0,2.0,3.0,4.0,1338896,110
+2024,2025-03-08,The New Saints,Haverfordwest County AFC,3.0,1.0,5.0,1.0,1338868,110
+2024,2025-03-08,Cardiff MET,Caernarfon Town,1.0,1.0,4.0,2.0,1338866,110
+2024,2025-03-08,Penybont,Bala Town,1.0,0.0,3.0,2.0,1338867,110
+2024,2025-03-11,The New Saints,Caernarfon Town,1.0,0.0,2.0,0.0,1338870,110
+2024,2025-03-11,GAP Connah S Quay FC,Flint Town United,2.0,0.0,4.0,0.0,1338901,110
+2024,2025-03-11,Barry Town,Aberystwyth Town,1.0,0.0,2.0,1.0,1338899,110
+2024,2025-03-11,Briton Ferry,Newtown AFC,0.0,0.0,1.0,1.0,1338900,110
+2024,2025-03-14,Penybont,Cardiff MET,0.0,0.0,0.0,0.0,1338869,110
+2024,2025-03-15,Bala Town,Haverfordwest County AFC,0.0,0.0,0.0,0.0,1338871,110
+2024,2025-03-21,Caernarfon Town,Bala Town,1.0,0.0,5.0,0.0,1338872,110
+2024,2025-03-21,Newtown AFC,GAP Connah S Quay FC,0.0,2.0,2.0,3.0,1338902,110
+2024,2025-03-21,Haverfordwest County AFC,Penybont,1.0,1.0,1.0,2.0,1338873,110
+2024,2025-03-21,Aberystwyth Town,Briton Ferry,0.0,0.0,0.0,1.0,1338903,110
+2024,2025-03-22,Cardiff MET,The New Saints,0.0,2.0,0.0,6.0,1338874,110
+2024,2025-03-22,Flint Town United,Barry Town,2.0,1.0,3.0,2.0,1338904,110
+2024,2025-03-28,Barry Town,Newtown AFC,1.0,0.0,2.0,1.0,1338905,110
+2024,2025-03-28,Aberystwyth Town,Flint Town United,0.0,1.0,1.0,2.0,1338906,110
+2024,2025-03-29,Bala Town,Cardiff MET,0.0,0.0,0.0,0.0,1338875,110
+2024,2025-03-29,Penybont,The New Saints,0.0,0.0,1.0,0.0,1338877,110
+2024,2025-03-29,Haverfordwest County AFC,Caernarfon Town,0.0,0.0,1.0,1.0,1338876,110
+2024,2025-03-29,Briton Ferry,GAP Connah S Quay FC,0.0,0.0,1.0,0.0,1338907,110
+2024,2025-04-11,Cardiff MET,Haverfordwest County AFC,1.0,0.0,1.0,1.0,1338878,110
+2024,2025-04-11,The New Saints,Bala Town,1.0,0.0,2.0,1.0,1338879,110
+2024,2025-04-12,Newtown AFC,Aberystwyth Town,1.0,1.0,2.0,3.0,1338909,110
+2024,2025-04-12,Briton Ferry,Flint Town United,1.0,1.0,1.0,2.0,1338908,110
+2024,2025-04-13,GAP Connah S Quay FC,Barry Town,0.0,1.0,0.0,2.0,1338910,110
+2024,2025-04-13,Penybont,Caernarfon Town,1.0,1.0,3.0,1.0,1338880,110
+2024,2025-04-19,Aberystwyth Town,GAP Connah S Quay FC,1.0,1.0,1.0,1.0,1338911,110
+2024,2025-04-19,Caernarfon Town,Cardiff MET,0.0,1.0,2.0,1.0,1338882,110
+2024,2025-04-19,Barry Town,Briton Ferry,3.0,0.0,5.0,0.0,1338912,110
+2024,2025-04-19,Haverfordwest County AFC,The New Saints,0.0,0.0,1.0,3.0,1338883,110
+2024,2025-04-19,Flint Town United,Newtown AFC,3.0,0.0,4.0,0.0,1338913,110
+2024,2025-04-19,Bala Town,Penybont,1.0,0.0,3.0,2.0,1338881,110
+2024,2025-04-26,Caernarfon Town,Barry Town,2.0,1.0,5.0,2.0,1372661,110
+2024,2025-04-26,Cardiff MET,Bala Town,0.0,0.0,1.0,0.0,1372662,110
+2024,2025-05-11,Caernarfon Town,Cardiff MET,0.0,0.0,0.0,0.0,1374376,110
+2024,2025-05-18,Haverfordwest County AFC,Caernarfon Town,2.0,0.0,3.0,1.0,1375263,110
+2025,2025-08-08,Bala Town,Flint Town United,1.0,1.0,1.0,1.0,1401021,110
+2025,2025-08-08,llanelli AFC,Barry Town,0.0,2.0,0.0,2.0,1401020,110
+2025,2025-08-08,Haverfordwest County AFC,Penybont,0.0,0.0,0.0,1.0,1401023,110
+2025,2025-08-09,Cardiff MET,Caernarfon Town,2.0,0.0,2.0,2.0,1401024,110
+2025,2025-08-10,The New Saints,Briton Ferry,0.0,1.0,0.0,3.0,1401022,110
+2025,2025-08-10,Colwyn Bay,GAP Connah S Quay FC,1.0,1.0,1.0,1.0,1401025,110
+2025,2025-08-15,GAP Connah S Quay FC,Bala Town,,,,,1401027,110
+2025,2025-08-15,Briton Ferry,Cardiff MET,,,,,1401026,110
+2025,2025-08-16,Barry Town,Colwyn Bay,,,,,1401028,110
+2025,2025-08-16,Caernarfon Town,llanelli AFC,,,,,1401030,110
+2025,2025-08-16,Flint Town United,Haverfordwest County AFC,,,,,1401029,110
+2025,2025-08-16,Penybont,The New Saints,,,,,1401431,110
+2025,2025-08-22,Bala Town,Colwyn Bay,,,,,1401035,110
+2025,2025-08-22,The New Saints,GAP Connah S Quay FC,,,,,1401036,110
+2025,2025-08-22,llanelli AFC,Briton Ferry,,,,,1401034,110
+2025,2025-08-22,Barry Town,Penybont,,,,,1401033,110
+2025,2025-08-22,Haverfordwest County AFC,Cardiff MET,,,,,1401032,110
+2025,2025-08-22,Flint Town United,Caernarfon Town,,,,,1401031,110
+2025,2025-08-25,Cardiff MET,Barry Town,,,,,1401038,110
+2025,2025-08-25,Caernarfon Town,Bala Town,,,,,1401039,110
+2025,2025-08-25,Penybont,llanelli AFC,,,,,1401041,110
+2025,2025-08-25,Briton Ferry,Haverfordwest County AFC,,,,,1401037,110
+2025,2025-08-25,Colwyn Bay,The New Saints,,,,,1401040,110
+2025,2025-08-25,GAP Connah S Quay FC,Flint Town United,,,,,1423755,110
+2025,2025-08-30,llanelli AFC,Bala Town,,,,,1401042,110
+2025,2025-08-30,Barry Town,The New Saints,,,,,1401046,110
+2025,2025-08-30,Penybont,GAP Connah S Quay FC,,,,,1401045,110
+2025,2025-08-30,Colwyn Bay,Briton Ferry,,,,,1401043,110
+2025,2025-08-30,Flint Town United,Cardiff MET,,,,,1401044,110
+2025,2025-08-30,Haverfordwest County AFC,Caernarfon Town,,,,,1401047,110
+2025,2025-09-06,Bala Town,Penybont,,,,,1423756,110
+2025,2025-09-06,Cardiff MET,Colwyn Bay,,,,,1423757,110
+2025,2025-09-06,The New Saints,Haverfordwest County AFC,,,,,1401049,110
+2025,2025-09-06,llanelli AFC,Flint Town United,,,,,1401048,110
+2025,2025-09-06,GAP Connah S Quay FC,Briton Ferry,,,,,1401050,110
+2025,2025-09-07,Caernarfon Town,Barry Town,,,,,1401051,110
+2025,2025-09-13,The New Saints,llanelli AFC,,,,,1401056,110
+2025,2025-09-13,GAP Connah S Quay FC,Cardiff MET,,,,,1401055,110
+2025,2025-09-13,Barry Town,Bala Town,,,,,1401052,110
+2025,2025-09-13,Penybont,Flint Town United,,,,,1401054,110
+2025,2025-09-13,Briton Ferry,Caernarfon Town,,,,,1401057,110
+2025,2025-09-13,Colwyn Bay,Haverfordwest County AFC,,,,,1401053,110
+2025,2025-09-19,Bala Town,Briton Ferry,,,,,1401058,110
+2025,2025-09-19,Cardiff MET,The New Saints,,,,,1423758,110
+2025,2025-09-20,llanelli AFC,Colwyn Bay,,,,,1401062,110
+2025,2025-09-20,Caernarfon Town,Penybont,,,,,1401060,110
+2025,2025-09-20,Haverfordwest County AFC,GAP Connah S Quay FC,,,,,1401061,110
+2025,2025-09-20,Flint Town United,Barry Town,,,,,1401059,110
+2025,2025-09-23,Cardiff MET,Penybont,,,,,1401063,110
+2025,2025-09-23,The New Saints,Flint Town United,,,,,1401065,110
+2025,2025-09-23,GAP Connah S Quay FC,Caernarfon Town,,,,,1423759,110
+2025,2025-09-23,Haverfordwest County AFC,Barry Town,,,,,1423760,110
+2025,2025-09-23,Briton Ferry,llanelli AFC,,,,,1401064,110
+2025,2025-09-23,Colwyn Bay,Bala Town,,,,,1401066,110
+2025,2025-09-26,Bala Town,The New Saints,,,,,1401068,110
+2025,2025-09-26,llanelli AFC,Haverfordwest County AFC,,,,,1401067,110
+2025,2025-09-27,Barry Town,GAP Connah S Quay FC,,,,,1401070,110
+2025,2025-09-27,Penybont,Colwyn Bay,,,,,1401071,110
+2025,2025-09-27,Flint Town United,Briton Ferry,,,,,1401069,110
+2025,2025-09-28,Caernarfon Town,Cardiff MET,,,,,1401072,110
+2025,2025-10-03,Briton Ferry,Penybont,,,,,1401074,110
+2025,2025-10-03,Colwyn Bay,Caernarfon Town,,,,,1401073,110
+2025,2025-10-04,GAP Connah S Quay FC,llanelli AFC,,,,,1401075,110
+2025,2025-10-04,Cardiff MET,Bala Town,,,,,1401076,110
+2025,2025-10-04,The New Saints,Barry Town,,,,,1401077,110
+2025,2025-10-04,Haverfordwest County AFC,Flint Town United,,,,,1401078,110
+2025,2025-10-07,Bala Town,GAP Connah S Quay FC,,,,,1401080,110
+2025,2025-10-07,llanelli AFC,Cardiff MET,,,,,1401082,110
+2025,2025-10-07,Caernarfon Town,The New Saints,,,,,1401084,110
+2025,2025-10-07,Barry Town,Briton Ferry,,,,,1401079,110
+2025,2025-10-07,Penybont,Haverfordwest County AFC,,,,,1401083,110
+2025,2025-10-07,Flint Town United,Colwyn Bay,,,,,1401081,110
+2025,2025-10-10,Haverfordwest County AFC,Bala Town,,,,,1401085,110
+2025,2025-10-11,Briton Ferry,GAP Connah S Quay FC,,,,,1401086,110
+2025,2025-10-11,The New Saints,Penybont,,,,,1401087,110
+2025,2025-10-11,Barry Town,Caernarfon Town,,,,,1401088,110
+2025,2025-10-11,Colwyn Bay,Cardiff MET,,,,,1401089,110
+2025,2025-10-11,Flint Town United,llanelli AFC,,,,,1401090,110
+2025,2025-10-24,llanelli AFC,The New Saints,,,,,1401091,110
+2025,2025-10-25,GAP Connah S Quay FC,Haverfordwest County AFC,,,,,1401092,110
+2025,2025-10-25,Bala Town,Barry Town,,,,,1401096,110
+2025,2025-10-25,Cardiff MET,Flint Town United,,,,,1401093,110
+2025,2025-10-25,Penybont,Caernarfon Town,,,,,1401094,110
+2025,2025-10-25,Briton Ferry,Colwyn Bay,,,,,1401095,110
+2025,2025-10-31,Bala Town,llanelli AFC,,,,,1401097,110
+2025,2025-11-01,Cardiff MET,GAP Connah S Quay FC,,,,,1401100,110
+2025,2025-11-01,Caernarfon Town,Briton Ferry,,,,,1401099,110
+2025,2025-11-01,Haverfordwest County AFC,The New Saints,,,,,1401102,110
+2025,2025-11-01,Colwyn Bay,Barry Town,,,,,1401101,110
+2025,2025-11-01,Flint Town United,Penybont,,,,,1401098,110
+2025,2025-11-07,The New Saints,Cardiff MET,,,,,1401103,110
+2025,2025-11-07,Briton Ferry,Bala Town,,,,,1401104,110
+2025,2025-11-08,GAP Connah S Quay FC,Penybont,,,,,1401105,110
+2025,2025-11-08,Caernarfon Town,Haverfordwest County AFC,,,,,1401108,110
+2025,2025-11-08,Barry Town,Flint Town United,,,,,1401106,110
+2025,2025-11-08,Colwyn Bay,llanelli AFC,,,,,1401107,110
+2025,2025-11-14,Cardiff MET,Briton Ferry,,,,,1401109,110
+2025,2025-11-14,Flint Town United,The New Saints,,,,,1401110,110
+2025,2025-11-15,GAP Connah S Quay FC,Barry Town,,,,,1401111,110
+2025,2025-11-15,llanelli AFC,Caernarfon Town,,,,,1401112,110
+2025,2025-11-15,Penybont,Bala Town,,,,,1401113,110
+2025,2025-11-15,Haverfordwest County AFC,Colwyn Bay,,,,,1401114,110
+2025,2025-11-28,The New Saints,Caernarfon Town,,,,,1401115,110
+2025,2025-11-28,Barry Town,Haverfordwest County AFC,,,,,1401116,110
+2025,2025-11-29,Bala Town,Cardiff MET,,,,,1401117,110
+2025,2025-11-29,Briton Ferry,Flint Town United,,,,,1401118,110
+2025,2025-11-29,Colwyn Bay,Penybont,,,,,1401119,110
+2025,2025-11-29,llanelli AFC,GAP Connah S Quay FC,,,,,1401120,110
+2025,2025-12-05,Bala Town,Haverfordwest County AFC,,,,,1401123,110
+2025,2025-12-05,Cardiff MET,llanelli AFC,,,,,1401125,110
+2025,2025-12-05,Caernarfon Town,Flint Town United,,,,,1401126,110
+2025,2025-12-05,GAP Connah S Quay FC,Colwyn Bay,,,,,1401122,110
+2025,2025-12-05,Penybont,Barry Town,,,,,1401121,110
+2025,2025-12-05,Briton Ferry,The New Saints,,,,,1401124,110
+2025,2025-12-26,Barry Town,Cardiff MET,,,,,1401127,110
+2025,2025-12-26,The New Saints,Bala Town,,,,,1401131,110
+2025,2025-12-26,Penybont,Briton Ferry,,,,,1401130,110
+2025,2025-12-26,Haverfordwest County AFC,llanelli AFC,,,,,1401128,110
+2025,2025-12-26,Flint Town United,GAP Connah S Quay FC,,,,,1401129,110
+2025,2025-12-27,Caernarfon Town,Colwyn Bay,,,,,1401132,110
+2025,2025-12-30,Cardiff MET,Haverfordwest County AFC,,,,,1401133,110
+2025,2025-12-31,Bala Town,Caernarfon Town,,,,,1401134,110
+2025,2025-12-31,Briton Ferry,Barry Town,,,,,1401135,110
+2025,2025-12-31,GAP Connah S Quay FC,The New Saints,,,,,1401136,110
+2025,2026-01-01,llanelli AFC,Penybont,,,,,1401137,110
+2025,2026-01-01,Colwyn Bay,Flint Town United,,,,,1401138,110
+2025,2026-01-09,The New Saints,Colwyn Bay,,,,,1401141,110
+2025,2026-01-09,Caernarfon Town,GAP Connah S Quay FC,,,,,1401144,110
+2025,2026-01-09,Barry Town,llanelli AFC,,,,,1401139,110
+2025,2026-01-09,Penybont,Cardiff MET,,,,,1401143,110
+2025,2026-01-09,Haverfordwest County AFC,Briton Ferry,,,,,1401142,110
+2025,2026-01-09,Flint Town United,Bala Town,,,,,1401140,110

@@ -1,0 +1,432 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-08-09,Glentoran,Crusaders FC,0,1,0,1
+2024,2024-08-10,Ballymena United,Linfield,0,0,0,2
+2024,2024-08-10,Carrick Rangers,Glenavon FC,2,0,2,0
+2024,2024-08-10,Dungannon Swifts,Coleraine FC,1,0,1,1
+2024,2024-08-11,Cliftonville FC,Portadown,1,0,1,0
+2024,2024-08-16,Coleraine FC,Ballymena United,1,1,4,2
+2024,2024-08-17,Linfield,Dungannon Swifts,3,0,3,1
+2024,2024-08-17,Glenavon FC,Cliftonville FC,0,1,1,2
+2024,2024-08-17,Loughgall,Carrick Rangers,2,0,3,0
+2024,2024-08-17,Portadown,Glentoran,0,1,1,2
+2024,2024-08-20,Ballymena United,Crusaders FC,0,1,0,1
+2024,2024-08-20,Cliftonville FC,Dungannon Swifts,0,0,1,0
+2024,2024-08-20,Glenavon FC,Linfield,0,3,0,3
+2024,2024-08-20,Loughgall,Portadown,1,1,2,2
+2024,2024-08-20,Glentoran,Coleraine FC,0,0,0,0
+2024,2024-08-23,Carrick Rangers,Glentoran,1,2,2,3
+2024,2024-08-24,Linfield,Loughgall,4,0,5,1
+2024,2024-08-24,Coleraine FC,Glenavon FC,0,1,0,2
+2024,2024-08-24,Crusaders FC,Cliftonville FC,1,1,1,1
+2024,2024-08-24,Dungannon Swifts,Ballymena United,1,0,1,0
+2024,2024-08-30,Ballymena United,Glenavon FC,2,1,3,1
+2024,2024-08-30,Portadown,Linfield,1,1,2,2
+2024,2024-08-31,Crusaders FC,Carrick Rangers,0,1,2,1
+2024,2024-08-31,Loughgall,Dungannon Swifts,0,1,0,2
+2024,2024-08-31,Glentoran,Cliftonville FC,1,0,1,0
+2024,2024-09-01,Coleraine FC,Larne,1,0,1,1
+2024,2024-09-07,Glenavon FC,Loughgall,0,0,2,2
+2024,2024-09-07,Carrick Rangers,Portadown,0,0,0,1
+2024,2024-09-07,Dungannon Swifts,Glentoran,1,0,1,0
+2024,2024-09-07,Larne,Ballymena United,0,0,0,1
+2024,2024-09-13,Portadown,Dungannon Swifts,0,1,2,1
+2024,2024-09-14,Linfield,Larne,0,0,0,1
+2024,2024-09-14,Ballymena United,Glentoran,0,0,1,0
+2024,2024-09-14,Coleraine FC,Carrick Rangers,1,1,3,1
+2024,2024-09-14,Crusaders FC,Glenavon FC,0,1,0,1
+2024,2024-09-14,Loughgall,Cliftonville FC,0,3,1,5
+2024,2024-09-17,Cliftonville FC,Linfield,0,0,0,0
+2024,2024-09-17,Glenavon FC,Larne,0,0,0,0
+2024,2024-09-17,Portadown,Coleraine FC,0,1,2,2
+2024,2024-09-17,Carrick Rangers,Ballymena United,0,2,1,4
+2024,2024-09-17,Dungannon Swifts,Crusaders FC,1,0,1,0
+2024,2024-09-17,Glentoran,Loughgall,1,0,2,0
+2024,2024-09-20,Larne,Glentoran,1,0,2,0
+2024,2024-09-21,Linfield,Carrick Rangers,0,0,1,0
+2024,2024-09-21,Ballymena United,Cliftonville FC,1,1,3,2
+2024,2024-09-21,Coleraine FC,Loughgall,1,0,2,0
+2024,2024-09-21,Crusaders FC,Portadown,0,1,0,3
+2024,2024-09-21,Glenavon FC,Dungannon Swifts,0,1,1,1
+2024,2024-09-24,Larne,Loughgall,1,0,2,0
+2024,2024-09-27,Cliftonville FC,Larne,1,0,1,3
+2024,2024-09-28,Coleraine FC,Linfield,0,3,0,3
+2024,2024-09-28,Loughgall,Crusaders FC,0,0,0,4
+2024,2024-09-28,Portadown,Ballymena United,0,1,0,1
+2024,2024-09-28,Dungannon Swifts,Carrick Rangers,2,0,4,0
+2024,2024-09-28,Glentoran,Glenavon FC,0,0,0,0
+2024,2024-10-04,Linfield,Glentoran,1,0,1,3
+2024,2024-10-05,Ballymena United,Loughgall,3,1,4,1
+2024,2024-10-05,Crusaders FC,Coleraine FC,1,1,2,1
+2024,2024-10-05,Glenavon FC,Portadown,0,1,2,1
+2024,2024-10-05,Carrick Rangers,Cliftonville FC,1,0,2,0
+2024,2024-10-06,Larne,Dungannon Swifts,0,1,0,3
+2024,2024-10-12,Crusaders FC,Linfield,0,1,2,3
+2024,2024-10-12,Glenavon FC,Ballymena United,0,0,0,1
+2024,2024-10-12,Carrick Rangers,Coleraine FC,2,0,2,1
+2024,2024-10-12,Glentoran,Dungannon Swifts,0,0,2,0
+2024,2024-10-12,Portadown,Loughgall,1,0,1,0
+2024,2024-10-18,Loughgall,Linfield,0,2,1,3
+2024,2024-10-19,Cliftonville FC,Glenavon FC,0,0,0,0
+2024,2024-10-19,Ballymena United,Coleraine FC,0,0,0,1
+2024,2024-10-19,Dungannon Swifts,Portadown,0,0,2,0
+2024,2024-10-19,Glentoran,Carrick Rangers,1,0,1,1
+2024,2024-10-19,Larne,Crusaders FC,0,0,1,1
+2024,2024-10-22,Cliftonville FC,Coleraine FC,1,1,2,1
+2024,2024-10-26,Linfield,Cliftonville FC,1,0,1,2
+2024,2024-10-26,Coleraine FC,Glentoran,0,1,2,1
+2024,2024-10-26,Crusaders FC,Ballymena United,0,0,1,0
+2024,2024-10-26,Glenavon FC,Carrick Rangers,0,0,1,1
+2024,2024-10-26,Dungannon Swifts,Loughgall,1,0,1,3
+2024,2024-10-27,Portadown,Larne,0,1,2,1
+2024,2024-11-01,Ballymena United,Portadown,0,0,0,3
+2024,2024-11-01,Cliftonville FC,Crusaders FC,1,0,1,0
+2024,2024-11-02,Coleraine FC,Dungannon Swifts,1,0,4,1
+2024,2024-11-02,Loughgall,Glenavon FC,2,0,3,0
+2024,2024-11-02,Glentoran,Larne,0,1,0,2
+2024,2024-11-03,Carrick Rangers,Linfield,1,0,1,3
+2024,2024-11-09,Linfield,Ballymena United,0,0,2,0
+2024,2024-11-09,Crusaders FC,Loughgall,2,0,3,1
+2024,2024-11-09,Glenavon FC,Glentoran,0,1,0,3
+2024,2024-11-09,Portadown,Carrick Rangers,0,1,1,1
+2024,2024-11-09,Dungannon Swifts,Cliftonville FC,1,3,1,4
+2024,2024-11-10,Larne,Coleraine FC,0,0,2,1
+2024,2024-11-16,Cliftonville FC,Ballymena United,0,0,0,1
+2024,2024-11-16,Loughgall,Coleraine FC,0,3,0,4
+2024,2024-11-16,Carrick Rangers,Crusaders FC,2,0,3,0
+2024,2024-11-16,Dungannon Swifts,Glenavon FC,1,0,2,0
+2024,2024-11-16,Glentoran,Portadown,0,0,0,2
+2024,2024-11-16,Larne,Linfield,0,1,0,1
+2024,2024-11-22,Glentoran,Linfield,1,0,1,0
+2024,2024-11-23,Cliftonville FC,Loughgall,1,0,4,0
+2024,2024-11-23,Portadown,Glenavon FC,1,0,1,0
+2024,2024-11-23,Carrick Rangers,Dungannon Swifts,0,0,0,1
+2024,2024-11-24,Coleraine FC,Crusaders FC,0,2,1,2
+2024,2024-11-30,Linfield,Portadown,0,0,2,1
+2024,2024-11-30,Ballymena United,Carrick Rangers,0,0,1,2
+2024,2024-11-30,Crusaders FC,Dungannon Swifts,0,2,2,2
+2024,2024-11-30,Glenavon FC,Coleraine FC,0,2,3,3
+2024,2024-11-30,Loughgall,Glentoran,2,1,2,2
+2024,2024-12-01,Larne,Cliftonville FC,0,1,1,1
+2024,2024-12-13,Crusaders FC,Glentoran,1,0,1,3
+2024,2024-12-14,Linfield,Coleraine FC,1,0,3,0
+2024,2024-12-14,Ballymena United,Dungannon Swifts,0,0,0,1
+2024,2024-12-14,Portadown,Cliftonville FC,2,0,2,0
+2024,2024-12-14,Carrick Rangers,Loughgall,0,0,0,0
+2024,2024-12-17,Glenavon FC,Crusaders FC,1,1,3,1
+2024,2024-12-17,Dungannon Swifts,Linfield,0,0,0,1
+2024,2024-12-21,Linfield,Glenavon FC,1,0,1,0
+2024,2024-12-21,Cliftonville FC,Glentoran,1,1,1,2
+2024,2024-12-21,Loughgall,Ballymena United,1,2,2,3
+2024,2024-12-21,Portadown,Crusaders FC,0,0,1,0
+2024,2024-12-23,Dungannon Swifts,Larne,0,0,0,1
+2024,2024-12-26,Coleraine FC,Ballymena United,0,2,2,2
+2024,2024-12-26,Crusaders FC,Cliftonville FC,0,0,2,0
+2024,2024-12-26,Glenavon FC,Portadown,1,0,2,0
+2024,2024-12-26,Dungannon Swifts,Loughgall,1,0,2,1
+2024,2024-12-26,Glentoran,Linfield,0,0,0,0
+2024,2024-12-26,Larne,Carrick Rangers,0,0,0,0
+2024,2024-12-30,Ballymena United,Glenavon FC,0,0,0,2
+2024,2024-12-30,Loughgall,Coleraine FC,1,0,1,3
+2024,2024-12-30,Portadown,Glentoran,0,1,0,2
+2024,2024-12-30,Carrick Rangers,Crusaders FC,0,0,0,0
+2024,2025-01-07,Crusaders FC,Larne,1,1,1,3
+2024,2025-01-10,Larne,Cliftonville FC,0,0,2,0
+2024,2025-01-11,Linfield,Carrick Rangers,0,0,3,0
+2024,2025-01-11,Crusaders FC,Dungannon Swifts,0,2,1,5
+2024,2025-01-11,Loughgall,Portadown,0,1,0,1
+2024,2025-01-17,Dungannon Swifts,Glenavon FC,0,2,2,3
+2024,2025-01-18,Coleraine FC,Crusaders FC,0,1,0,2
+2024,2025-01-18,Cliftonville FC,Loughgall,0,0,2,0
+2024,2025-01-18,Portadown,Linfield,0,3,1,3
+2024,2025-01-18,Carrick Rangers,Ballymena United,0,0,0,0
+2024,2025-01-25,Crusaders FC,Portadown,1,1,3,2
+2024,2025-01-25,Glenavon FC,Carrick Rangers,0,0,2,1
+2024,2025-01-25,Loughgall,Glentoran,1,0,1,2
+2024,2025-01-25,Dungannon Swifts,Coleraine FC,1,0,1,1
+2024,2025-01-25,Larne,Ballymena United,2,1,2,1
+2024,2025-01-25,Linfield,Cliftonville FC,0,0,2,1
+2024,2025-01-28,Linfield,Crusaders FC,2,1,2,1
+2024,2025-02-01,Larne,Portadown,0,0,1,1
+2024,2025-02-04,Coleraine FC,Cliftonville FC,0,0,0,0
+2024,2025-02-04,Carrick Rangers,Larne,1,0,1,2
+2024,2025-02-07,Ballymena United,Linfield,1,1,2,2
+2024,2025-02-08,Carrick Rangers,Coleraine FC,0,0,0,1
+2024,2025-02-08,Glentoran,Dungannon Swifts,0,0,1,0
+2024,2025-02-08,Larne,Crusaders FC,0,1,0,1
+2024,2025-02-09,Cliftonville FC,Portadown,1,1,2,2
+2024,2025-02-11,Linfield,Larne,0,0,1,0
+2024,2025-02-12,Cliftonville FC,Carrick Rangers,1,0,3,0
+2024,2025-02-14,Coleraine FC,Glentoran,0,1,1,2
+2024,2025-02-15,Linfield,Loughgall,1,0,1,0
+2024,2025-02-15,Crusaders FC,Ballymena United,2,1,3,1
+2024,2025-02-15,Glenavon FC,Cliftonville FC,2,0,3,1
+2024,2025-02-15,Dungannon Swifts,Carrick Rangers,3,0,3,1
+2024,2025-02-15,Portadown,Larne,2,0,2,0
+2024,2025-02-18,Ballymena United,Glentoran,0,0,1,1
+2024,2025-02-18,Larne,Glenavon FC,1,0,1,1
+2024,2025-02-21,Cliftonville FC,Glentoran,0,0,2,0
+2024,2025-02-22,Linfield,Coleraine FC,0,1,0,2
+2024,2025-02-22,Ballymena United,Portadown,1,0,2,0
+2024,2025-02-22,Glenavon FC,Crusaders FC,0,1,0,1
+2024,2025-02-22,Carrick Rangers,Loughgall,0,0,0,0
+2024,2025-02-22,Larne,Dungannon Swifts,0,1,0,1
+2024,2025-02-26,Loughgall,Larne,1,2,1,4
+2024,2025-03-01,Coleraine FC,Portadown,1,0,2,0
+2024,2025-03-04,Loughgall,Glenavon FC,0,2,0,2
+2024,2025-03-04,Carrick Rangers,Larne,0,0,1,0
+2024,2025-03-04,Glentoran,Ballymena United,0,0,1,0
+2024,2025-03-07,Crusaders FC,Linfield,0,0,0,2
+2024,2025-03-08,Glenavon FC,Coleraine FC,0,0,0,1
+2024,2025-03-08,Loughgall,Larne,0,1,0,1
+2024,2025-03-08,Dungannon Swifts,Ballymena United,0,1,0,3
+2024,2025-03-08,Portadown,Carrick Rangers,0,0,1,0
+2024,2025-03-11,Ballymena United,Larne,1,1,1,2
+2024,2025-03-12,Cliftonville FC,Dungannon Swifts,0,0,0,2
+2024,2025-03-12,Glentoran,Glenavon FC,0,2,3,3
+2024,2025-03-15,Linfield,Glenavon FC,0,0,2,0
+2024,2025-03-15,Ballymena United,Cliftonville FC,0,0,1,0
+2024,2025-03-15,Crusaders FC,Loughgall,0,0,1,1
+2024,2025-03-15,Carrick Rangers,Glentoran,0,0,0,0
+2024,2025-03-15,Portadown,Dungannon Swifts,0,0,1,1
+2024,2025-03-15,Larne,Coleraine FC,0,0,1,1
+2024,2025-03-18,Coleraine FC,Cliftonville FC,0,0,2,2
+2024,2025-03-18,Glentoran,Larne,1,0,2,2
+2024,2025-03-22,Coleraine FC,Portadown,0,0,1,0
+2024,2025-03-22,Cliftonville FC,Carrick Rangers,1,0,3,0
+2024,2025-03-22,Glenavon FC,Larne,0,0,0,1
+2024,2025-03-22,Loughgall,Ballymena United,1,1,2,1
+2024,2025-03-22,Glentoran,Crusaders FC,0,0,0,1
+2024,2025-03-24,Dungannon Swifts,Linfield,0,2,0,3
+2024,2025-04-01,Linfield,Crusaders FC,1,0,3,1
+2024,2025-04-01,Ballymena United,Loughgall,3,0,5,2
+2024,2025-04-01,Portadown,Glenavon FC,1,1,1,1
+2024,2025-04-01,Carrick Rangers,Cliftonville FC,1,1,1,3
+2024,2025-04-01,Dungannon Swifts,Larne,1,1,1,1
+2024,2025-04-01,Glentoran,Coleraine FC,1,0,2,1
+2024,2025-04-05,Linfield,Glentoran,2,1,2,1
+2024,2025-04-05,Coleraine FC,Dungannon Swifts,2,1,3,2
+2024,2025-04-05,Crusaders FC,Larne,0,1,2,2
+2024,2025-04-05,Cliftonville FC,Ballymena United,1,0,5,0
+2024,2025-04-05,Glenavon FC,Loughgall,0,0,0,1
+2024,2025-04-05,Carrick Rangers,Portadown,3,1,4,1
+2024,2025-04-12,Linfield,Dungannon Swifts,1,0,2,0
+2024,2025-04-12,Ballymena United,Carrick Rangers,0,0,1,1
+2024,2025-04-12,Coleraine FC,Larne,1,1,1,2
+2024,2025-04-12,Crusaders FC,Glentoran,0,2,0,4
+2024,2025-04-12,Cliftonville FC,Glenavon FC,0,0,2,0
+2024,2025-04-12,Portadown,Loughgall,1,0,3,1
+2024,2025-04-18,Larne,Linfield,0,1,2,1
+2024,2025-04-19,Crusaders FC,Coleraine FC,1,0,3,0
+2024,2025-04-19,Glenavon FC,Ballymena United,0,0,2,0
+2024,2025-04-19,Loughgall,Carrick Rangers,1,1,2,2
+2024,2025-04-19,Portadown,Cliftonville FC,1,0,2,0
+2024,2025-04-19,Dungannon Swifts,Glentoran,2,1,3,2
+2024,2025-04-26,Carrick Rangers,Glenavon FC,0,1,0,4
+2024,2025-04-26,Coleraine FC,Linfield,1,0,1,0
+2024,2025-04-26,Loughgall,Cliftonville FC,0,1,1,4
+2024,2025-04-26,Portadown,Ballymena United,2,1,2,1
+2024,2025-04-26,Dungannon Swifts,Crusaders FC,0,0,1,0
+2024,2025-04-26,Larne,Glentoran,0,0,0,0
+2024,2025-04-29,Annagh United,Carrick Rangers,0,4,2,5
+2024,2025-05-02,Carrick Rangers,Annagh United,1,1,3,1
+2024,2025-05-07,Coleraine FC,Crusaders FC,1,0,1,0
+2024,2025-05-07,Glentoran,Cliftonville FC,0,0,0,2
+2024,2025-05-11,Coleraine FC,Cliftonville FC,0,1,0,2
+2025,2025-08-09,Crusaders FC,Carrick Rangers,3,2,3,4
+2025,2025-08-09,Glenavon FC,Ballymena United,0,1,0,2
+2025,2025-08-09,Portadown,Glentoran,0,1,0,1
+2025,2025-08-10,Linfield,Dungannon Swifts,0,0,3,0
+2025,2025-08-10,Coleraine FC,Larne,0,0,1,0
+2025,2025-08-10,Bangor,Cliftonville FC,1,0,3,1
+2025,2025-08-15,Ballymena United,Linfield,,,,
+2025,2025-08-15,Larne,Crusaders FC,,,,
+2025,2025-08-16,Cliftonville FC,Coleraine FC,,,,
+2025,2025-08-16,Carrick Rangers,Glenavon FC,,,,
+2025,2025-08-16,Dungannon Swifts,Portadown,,,,
+2025,2025-08-16,Glentoran,Bangor,,,,
+2025,2025-08-19,Coleraine FC,Dungannon Swifts,,,,
+2025,2025-08-19,Cliftonville FC,Larne,,,,
+2025,2025-08-19,Portadown,Ballymena United,,,,
+2025,2025-08-19,Carrick Rangers,Linfield,,,,
+2025,2025-08-19,Glentoran,Glenavon FC,,,,
+2025,2025-08-19,Bangor,Crusaders FC,,,,
+2025,2025-08-22,Larne,Portadown,,,,
+2025,2025-08-23,Linfield,Cliftonville FC,,,,
+2025,2025-08-23,Ballymena United,Bangor,,,,
+2025,2025-08-23,Crusaders FC,Glentoran,,,,
+2025,2025-08-23,Glenavon FC,Coleraine FC,,,,
+2025,2025-08-23,Dungannon Swifts,Carrick Rangers,,,,
+2025,2025-08-29,Coleraine FC,Linfield,,,,
+2025,2025-08-29,Portadown,Crusaders FC,,,,
+2025,2025-08-29,Larne,Ballymena United,,,,
+2025,2025-08-30,Cliftonville FC,Glenavon FC,,,,
+2025,2025-08-30,Glentoran,Carrick Rangers,,,,
+2025,2025-08-30,Bangor,Dungannon Swifts,,,,
+2025,2025-09-06,Linfield,Portadown,,,,
+2025,2025-09-06,Ballymena United,Glentoran,,,,
+2025,2025-09-06,Crusaders FC,Coleraine FC,,,,
+2025,2025-09-06,Glenavon FC,Dungannon Swifts,,,,
+2025,2025-09-06,Carrick Rangers,Cliftonville FC,,,,
+2025,2025-09-06,Bangor,Larne,,,,
+2025,2025-09-12,Glentoran,Linfield,,,,
+2025,2025-09-13,Cliftonville FC,Ballymena United,,,,
+2025,2025-09-13,Portadown,Coleraine FC,,,,
+2025,2025-09-13,Carrick Rangers,Bangor,,,,
+2025,2025-09-13,Dungannon Swifts,Crusaders FC,,,,
+2025,2025-09-13,Larne,Glenavon FC,,,,
+2025,2025-09-19,Portadown,Bangor,,,,
+2025,2025-09-20,Linfield,Glenavon FC,,,,
+2025,2025-09-20,Coleraine FC,Glentoran,,,,
+2025,2025-09-20,Crusaders FC,Ballymena United,,,,
+2025,2025-09-20,Dungannon Swifts,Cliftonville FC,,,,
+2025,2025-09-20,Larne,Carrick Rangers,,,,
+2025,2025-09-27,Ballymena United,Dungannon Swifts,,,,
+2025,2025-09-27,Coleraine FC,Carrick Rangers,,,,
+2025,2025-09-27,Cliftonville FC,Portadown,,,,
+2025,2025-09-27,Glenavon FC,Crusaders FC,,,,
+2025,2025-09-27,Glentoran,Larne,,,,
+2025,2025-09-27,Bangor,Linfield,,,,
+2025,2025-10-03,Linfield,Crusaders FC,,,,
+2025,2025-10-04,Cliftonville FC,Glentoran,,,,
+2025,2025-10-04,Carrick Rangers,Ballymena United,,,,
+2025,2025-10-04,Dungannon Swifts,Larne,,,,
+2025,2025-10-04,Bangor,Coleraine FC,,,,
+2025,2025-10-04,Portadown,Glenavon FC,,,,
+2025,2025-10-11,Ballymena United,Coleraine FC,,,,
+2025,2025-10-11,Crusaders FC,Cliftonville FC,,,,
+2025,2025-10-11,Glenavon FC,Bangor,,,,
+2025,2025-10-11,Carrick Rangers,Portadown,,,,
+2025,2025-10-11,Dungannon Swifts,Glentoran,,,,
+2025,2025-10-11,Larne,Linfield,,,,
+2025,2025-10-18,Coleraine FC,Dungannon Swifts,,,,
+2025,2025-10-18,Cliftonville FC,Larne,,,,
+2025,2025-10-18,Glenavon FC,Carrick Rangers,,,,
+2025,2025-10-18,Portadown,Linfield,,,,
+2025,2025-10-18,Glentoran,Ballymena United,,,,
+2025,2025-10-18,Bangor,Crusaders FC,,,,
+2025,2025-10-25,Linfield,Ballymena United,,,,
+2025,2025-10-25,Crusaders FC,Glentoran,,,,
+2025,2025-10-25,Portadown,Coleraine FC,,,,
+2025,2025-10-25,Carrick Rangers,Cliftonville FC,,,,
+2025,2025-10-25,Dungannon Swifts,Glenavon FC,,,,
+2025,2025-10-25,Larne,Bangor,,,,
+2025,2025-11-01,Coleraine FC,Glenavon FC,,,,
+2025,2025-11-01,Cliftonville FC,Linfield,,,,
+2025,2025-11-01,Dungannon Swifts,Crusaders FC,,,,
+2025,2025-11-01,Glentoran,Portadown,,,,
+2025,2025-11-01,Bangor,Carrick Rangers,,,,
+2025,2025-11-01,Ballymena United,Larne,,,,
+2025,2025-11-08,Linfield,Coleraine FC,,,,
+2025,2025-11-08,Cliftonville FC,Dungannon Swifts,,,,
+2025,2025-11-08,Glenavon FC,Glentoran,,,,
+2025,2025-11-08,Carrick Rangers,Crusaders FC,,,,
+2025,2025-11-08,Larne,Portadown,,,,
+2025,2025-11-08,Bangor,Ballymena United,,,,
+2025,2025-11-15,Ballymena United,Cliftonville FC,,,,
+2025,2025-11-15,Coleraine FC,Larne,,,,
+2025,2025-11-15,Crusaders FC,Glenavon FC,,,,
+2025,2025-11-15,Portadown,Bangor,,,,
+2025,2025-11-15,Dungannon Swifts,Linfield,,,,
+2025,2025-11-15,Glentoran,Carrick Rangers,,,,
+2025,2025-11-22,Ballymena United,Crusaders FC,,,,
+2025,2025-11-22,Cliftonville FC,Coleraine FC,,,,
+2025,2025-11-22,Carrick Rangers,Portadown,,,,
+2025,2025-11-22,Glentoran,Dungannon Swifts,,,,
+2025,2025-11-22,Larne,Glenavon FC,,,,
+2025,2025-11-22,Bangor,Linfield,,,,
+2025,2025-11-29,Linfield,Carrick Rangers,,,,
+2025,2025-11-29,Crusaders FC,Coleraine FC,,,,
+2025,2025-11-29,Glenavon FC,Ballymena United,,,,
+2025,2025-11-29,Portadown,Cliftonville FC,,,,
+2025,2025-11-29,Dungannon Swifts,Larne,,,,
+2025,2025-11-29,Bangor,Glentoran,,,,
+2025,2025-12-06,Ballymena United,Dungannon Swifts,,,,
+2025,2025-12-06,Coleraine FC,Carrick Rangers,,,,
+2025,2025-12-06,Crusaders FC,Portadown,,,,
+2025,2025-12-06,Glenavon FC,Bangor,,,,
+2025,2025-12-06,Glentoran,Cliftonville FC,,,,
+2025,2025-12-06,Larne,Linfield,,,,
+2025,2025-12-13,Linfield,Crusaders FC,,,,
+2025,2025-12-13,Coleraine FC,Bangor,,,,
+2025,2025-12-13,Cliftonville FC,Glenavon FC,,,,
+2025,2025-12-13,Portadown,Ballymena United,,,,
+2025,2025-12-13,Carrick Rangers,Dungannon Swifts,,,,
+2025,2025-12-13,Larne,Glentoran,,,,
+2025,2025-12-20,Ballymena United,Carrick Rangers,,,,
+2025,2025-12-20,Crusaders FC,Larne,,,,
+2025,2025-12-20,Glenavon FC,Linfield,,,,
+2025,2025-12-20,Dungannon Swifts,Portadown,,,,
+2025,2025-12-20,Glentoran,Coleraine FC,,,,
+2025,2025-12-20,Bangor,Cliftonville FC,,,,
+2025,2025-12-26,Linfield,Glentoran,,,,
+2025,2025-12-26,Ballymena United,Coleraine FC,,,,
+2025,2025-12-26,Cliftonville FC,Crusaders FC,,,,
+2025,2025-12-26,Portadown,Glenavon FC,,,,
+2025,2025-12-26,Carrick Rangers,Larne,,,,
+2025,2025-12-26,Dungannon Swifts,Bangor,,,,
+2025,2025-12-30,Coleraine FC,Linfield,,,,
+2025,2025-12-30,Crusaders FC,Carrick Rangers,,,,
+2025,2025-12-30,Glenavon FC,Dungannon Swifts,,,,
+2025,2025-12-30,Glentoran,Portadown,,,,
+2025,2025-12-30,Larne,Cliftonville FC,,,,
+2025,2025-12-30,Bangor,Ballymena United,,,,
+2025,2026-01-03,Linfield,Bangor,,,,
+2025,2026-01-03,Ballymena United,Glenavon FC,,,,
+2025,2026-01-03,Crusaders FC,Dungannon Swifts,,,,
+2025,2026-01-03,Portadown,Cliftonville FC,,,,
+2025,2026-01-03,Carrick Rangers,Glentoran,,,,
+2025,2026-01-03,Larne,Coleraine FC,,,,
+2025,2026-01-17,Linfield,Larne,,,,
+2025,2026-01-17,Coleraine FC,Crusaders FC,,,,
+2025,2026-01-17,Cliftonville FC,Carrick Rangers,,,,
+2025,2026-01-17,Glenavon FC,Glentoran,,,,
+2025,2026-01-17,Dungannon Swifts,Ballymena United,,,,
+2025,2026-01-17,Bangor,Portadown,,,,
+2025,2026-01-24,Ballymena United,Portadown,,,,
+2025,2026-01-24,Coleraine FC,Glenavon FC,,,,
+2025,2026-01-24,Crusaders FC,Linfield,,,,
+2025,2026-01-24,Carrick Rangers,Dungannon Swifts,,,,
+2025,2026-01-24,Glentoran,Cliftonville FC,,,,
+2025,2026-01-24,Larne,Bangor,,,,
+2025,2026-01-31,Linfield,Ballymena United,,,,
+2025,2026-01-31,Crusaders FC,Larne,,,,
+2025,2026-01-31,Glenavon FC,Cliftonville FC,,,,
+2025,2026-01-31,Portadown,Carrick Rangers,,,,
+2025,2026-01-31,Dungannon Swifts,Glentoran,,,,
+2025,2026-01-31,Bangor,Coleraine FC,,,,
+2025,2026-02-10,Linfield,Dungannon Swifts,,,,
+2025,2026-02-10,Ballymena United,Crusaders FC,,,,
+2025,2026-02-10,Coleraine FC,Portadown,,,,
+2025,2026-02-10,Cliftonville FC,Bangor,,,,
+2025,2026-02-10,Carrick Rangers,Glenavon FC,,,,
+2025,2026-02-10,Larne,Glentoran,,,,
+2025,2026-02-14,Crusaders FC,Bangor,,,,
+2025,2026-02-14,Glenavon FC,Linfield,,,,
+2025,2026-02-14,Portadown,Larne,,,,
+2025,2026-02-14,Carrick Rangers,Coleraine FC,,,,
+2025,2026-02-14,Dungannon Swifts,Cliftonville FC,,,,
+2025,2026-02-14,Glentoran,Ballymena United,,,,
+2025,2026-02-21,Linfield,Glentoran,,,,
+2025,2026-02-21,Coleraine FC,Ballymena United,,,,
+2025,2026-02-21,Cliftonville FC,Crusaders FC,,,,
+2025,2026-02-21,Portadown,Dungannon Swifts,,,,
+2025,2026-02-21,Larne,Carrick Rangers,,,,
+2025,2026-02-21,Bangor,Glenavon FC,,,,
+2025,2026-02-28,Ballymena United,Larne,,,,
+2025,2026-02-28,Cliftonville FC,Linfield,,,,
+2025,2026-02-28,Glenavon FC,Portadown,,,,
+2025,2026-02-28,Carrick Rangers,Bangor,,,,
+2025,2026-02-28,Dungannon Swifts,Coleraine FC,,,,
+2025,2026-02-28,Glentoran,Crusaders FC,,,,
+2025,2026-03-14,Linfield,Portadown,,,,
+2025,2026-03-14,Ballymena United,Carrick Rangers,,,,
+2025,2026-03-14,Coleraine FC,Cliftonville FC,,,,
+2025,2026-03-14,Crusaders FC,Glenavon FC,,,,
+2025,2026-03-14,Larne,Dungannon Swifts,,,,
+2025,2026-03-14,Bangor,Glentoran,,,,
+2025,2026-03-20,Cliftonville FC,Ballymena United,,,,
+2025,2026-03-20,Glenavon FC,Larne,,,,
+2025,2026-03-20,Portadown,Crusaders FC,,,,
+2025,2026-03-20,Carrick Rangers,Linfield,,,,
+2025,2026-03-20,Dungannon Swifts,Bangor,,,,
+2025,2026-03-20,Glentoran,Coleraine FC,,,,

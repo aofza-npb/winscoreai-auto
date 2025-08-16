@@ -1,0 +1,560 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-07-12,Farul Constanta,Unirea Slobozia,0,1,0,1
+2024,2024-07-12,AFC Hermannstadt,Universitatea Craiova,0,0,0,0
+2024,2024-07-13,Sepsi OSK Sfantu Gheorghe,Politehnica Iasi,1,0,1,0
+2024,2024-07-13,Uta Arad,Rapid,0,1,1,1
+2024,2024-07-13,FCSB,Universitatea Cluj,0,0,1,1
+2024,2024-07-14,CFR 1907 Cluj,Dinamo Bucuresti,1,2,3,2
+2024,2024-07-15,FC Botosani,Oţelul,1,1,2,3
+2024,2024-07-15,Petrolul Ploiesti,SCM Gloria Buzău,0,0,0,0
+2024,2024-07-19,Politehnica Iasi,FC Botosani,1,0,1,0
+2024,2024-07-19,Unirea Slobozia,FCSB,1,1,2,2
+2024,2024-07-20,Universitatea Craiova,Uta Arad,1,1,4,2
+2024,2024-07-20,Rapid,CFR 1907 Cluj,0,1,2,2
+2024,2024-07-21,Universitatea Cluj,AFC Hermannstadt,3,1,3,1
+2024,2024-07-21,Dinamo Bucuresti,Petrolul Ploiesti,2,0,4,1
+2024,2024-07-22,SCM Gloria Buzău,Sepsi OSK Sfantu Gheorghe,0,2,1,2
+2024,2024-07-22,Oţelul,Farul Constanta,0,0,0,0
+2024,2024-07-26,AFC Hermannstadt,Unirea Slobozia,1,1,1,1
+2024,2024-07-26,FCSB,Oţelul,0,1,0,2
+2024,2024-07-27,Politehnica Iasi,SCM Gloria Buzău,1,1,1,2
+2024,2024-07-27,Sepsi OSK Sfantu Gheorghe,Dinamo Bucuresti,1,0,1,1
+2024,2024-07-28,Farul Constanta,FC Botosani,0,0,0,1
+2024,2024-07-28,CFR 1907 Cluj,Universitatea Craiova,0,0,0,2
+2024,2024-07-29,Uta Arad,Universitatea Cluj,0,0,0,0
+2024,2024-07-29,Petrolul Ploiesti,Rapid,1,0,1,0
+2024,2024-08-02,Oţelul,AFC Hermannstadt,0,0,1,0
+2024,2024-08-02,Dinamo Bucuresti,SCM Gloria Buzău,2,0,4,1
+2024,2024-08-03,Farul Constanta,Politehnica Iasi,2,0,2,0
+2024,2024-08-04,Universitatea Craiova,Petrolul Ploiesti,0,0,0,0
+2024,2024-08-04,CFR 1907 Cluj,Universitatea Cluj,1,0,2,3
+2024,2024-08-05,Unirea Slobozia,Uta Arad,0,0,0,1
+2024,2024-08-05,Rapid,Sepsi OSK Sfantu Gheorghe,2,1,2,2
+2024,2024-08-09,FCSB,Farul Constanta,1,2,3,2
+2024,2024-08-10,AFC Hermannstadt,FC Botosani,0,1,2,1
+2024,2024-08-10,Uta Arad,Oţelul,0,1,1,1
+2024,2024-08-10,SCM Gloria Buzău,Rapid,0,1,1,1
+2024,2024-08-11,Sepsi OSK Sfantu Gheorghe,Universitatea Craiova,0,1,1,2
+2024,2024-08-11,CFR 1907 Cluj,Unirea Slobozia,1,0,3,0
+2024,2024-08-12,Petrolul Ploiesti,Universitatea Cluj,0,0,0,0
+2024,2024-08-12,Politehnica Iasi,Dinamo Bucuresti,2,1,2,2
+2024,2024-08-16,Unirea Slobozia,Petrolul Ploiesti,1,1,1,2
+2024,2024-08-16,Universitatea Craiova,SCM Gloria Buzău,2,0,5,1
+2024,2024-08-17,FC Botosani,Uta Arad,0,0,1,0
+2024,2024-08-17,FCSB,Politehnica Iasi,0,1,0,1
+2024,2024-08-18,Rapid,Dinamo Bucuresti,0,0,1,1
+2024,2024-08-19,Universitatea Cluj,Sepsi OSK Sfantu Gheorghe,1,0,3,0
+2024,2024-08-19,Farul Constanta,AFC Hermannstadt,1,0,3,2
+2024,2024-08-23,Petrolul Ploiesti,Oţelul,0,0,0,0
+2024,2024-08-23,Politehnica Iasi,Rapid,0,1,1,2
+2024,2024-08-24,Sepsi OSK Sfantu Gheorghe,Unirea Slobozia,0,0,0,1
+2024,2024-08-24,Dinamo Bucuresti,Universitatea Craiova,2,1,2,1
+2024,2024-08-25,CFR 1907 Cluj,FC Botosani,0,0,3,0
+2024,2024-08-25,AFC Hermannstadt,FCSB,0,0,2,0
+2024,2024-08-26,SCM Gloria Buzău,Universitatea Cluj,0,2,0,2
+2024,2024-08-26,Uta Arad,Farul Constanta,1,0,1,1
+2024,2024-08-30,Oţelul,Sepsi OSK Sfantu Gheorghe,2,0,2,0
+2024,2024-08-31,AFC Hermannstadt,Politehnica Iasi,4,1,6,2
+2024,2024-08-31,Universitatea Craiova,Rapid,1,1,1,1
+2024,2024-09-01,FC Botosani,Petrolul Ploiesti,0,0,0,2
+2024,2024-09-01,Farul Constanta,CFR 1907 Cluj,0,1,0,3
+2024,2024-09-01,FCSB,Uta Arad,1,0,2,0
+2024,2024-09-02,Unirea Slobozia,SCM Gloria Buzău,1,0,2,1
+2024,2024-09-02,Universitatea Cluj,Dinamo Bucuresti,0,0,1,0
+2024,2024-09-13,Sepsi OSK Sfantu Gheorghe,FC Botosani,1,0,3,0
+2024,2024-09-13,Dinamo Bucuresti,Unirea Slobozia,1,0,1,0
+2024,2024-09-14,SCM Gloria Buzău,Oţelul,0,0,0,0
+2024,2024-09-14,Petrolul Ploiesti,Farul Constanta,0,0,1,1
+2024,2024-09-15,Politehnica Iasi,Universitatea Craiova,1,0,2,0
+2024,2024-09-15,CFR 1907 Cluj,FCSB,1,0,2,2
+2024,2024-09-16,Uta Arad,AFC Hermannstadt,0,0,1,1
+2024,2024-09-16,Rapid,Universitatea Cluj,0,1,0,2
+2024,2024-09-20,FC Botosani,SCM Gloria Buzău,0,1,3,3
+2024,2024-09-20,Oţelul,Dinamo Bucuresti,1,1,1,1
+2024,2024-09-21,AFC Hermannstadt,CFR 1907 Cluj,0,0,0,0
+2024,2024-09-21,FCSB,Petrolul Ploiesti,1,0,1,1
+2024,2024-09-22,Farul Constanta,Sepsi OSK Sfantu Gheorghe,1,0,2,1
+2024,2024-09-22,Universitatea Cluj,Universitatea Craiova,1,0,1,1
+2024,2024-09-23,Uta Arad,Politehnica Iasi,0,0,0,0
+2024,2024-09-23,Unirea Slobozia,Rapid,1,1,1,2
+2024,2024-09-27,Petrolul Ploiesti,AFC Hermannstadt,3,0,4,1
+2024,2024-09-27,Dinamo Bucuresti,FC Botosani,1,0,2,2
+2024,2024-09-28,Politehnica Iasi,Universitatea Cluj,0,0,1,0
+2024,2024-09-28,CFR 1907 Cluj,Uta Arad,0,1,1,3
+2024,2024-09-28,Rapid,Oţelul,0,0,0,0
+2024,2024-09-29,SCM Gloria Buzău,Farul Constanta,0,0,1,0
+2024,2024-09-29,Sepsi OSK Sfantu Gheorghe,FCSB,0,1,0,1
+2024,2024-09-30,Universitatea Craiova,Unirea Slobozia,2,0,3,0
+2024,2024-10-04,Uta Arad,Petrolul Ploiesti,2,0,3,1
+2024,2024-10-04,Farul Constanta,Dinamo Bucuresti,0,1,1,1
+2024,2024-10-05,Unirea Slobozia,Universitatea Cluj,2,0,2,2
+2024,2024-10-05,CFR 1907 Cluj,Politehnica Iasi,2,0,2,1
+2024,2024-10-05,Oţelul,Universitatea Craiova,1,1,1,1
+2024,2024-10-06,AFC Hermannstadt,Sepsi OSK Sfantu Gheorghe,0,2,0,4
+2024,2024-10-06,FC Botosani,Rapid,0,0,2,0
+2024,2024-10-06,FCSB,SCM Gloria Buzău,1,1,3,2
+2024,2024-10-18,SCM Gloria Buzău,AFC Hermannstadt,1,0,3,0
+2024,2024-10-18,Universitatea Cluj,Oţelul,0,0,2,0
+2024,2024-10-19,Sepsi OSK Sfantu Gheorghe,Uta Arad,1,0,1,0
+2024,2024-10-19,Petrolul Ploiesti,CFR 1907 Cluj,0,0,0,0
+2024,2024-10-20,Universitatea Craiova,FC Botosani,0,0,0,0
+2024,2024-10-20,Dinamo Bucuresti,FCSB,0,1,0,2
+2024,2024-10-21,Politehnica Iasi,Unirea Slobozia,1,0,1,0
+2024,2024-10-21,Rapid,Farul Constanta,3,0,5,0
+2024,2024-10-25,CFR 1907 Cluj,Sepsi OSK Sfantu Gheorghe,0,1,3,3
+2024,2024-10-26,Uta Arad,SCM Gloria Buzău,1,0,1,0
+2024,2024-10-26,Petrolul Ploiesti,Politehnica Iasi,1,1,3,1
+2024,2024-10-26,AFC Hermannstadt,Dinamo Bucuresti,0,1,0,2
+2024,2024-10-27,Oţelul,Unirea Slobozia,0,0,0,2
+2024,2024-10-27,FCSB,Rapid,0,0,0,0
+2024,2024-10-28,FC Botosani,Universitatea Cluj,1,1,1,2
+2024,2024-10-28,Farul Constanta,Universitatea Craiova,2,0,3,2
+2024,2024-11-01,SCM Gloria Buzău,CFR 1907 Cluj,0,0,0,1
+2024,2024-11-02,Sepsi OSK Sfantu Gheorghe,Petrolul Ploiesti,0,1,1,1
+2024,2024-11-02,Dinamo Bucuresti,Uta Arad,1,0,1,0
+2024,2024-11-03,Politehnica Iasi,Oţelul,0,1,2,1
+2024,2024-11-03,Universitatea Cluj,Farul Constanta,1,1,1,1
+2024,2024-11-03,Universitatea Craiova,FCSB,0,1,1,1
+2024,2024-11-04,Unirea Slobozia,FC Botosani,0,0,1,0
+2024,2024-11-04,Rapid,AFC Hermannstadt,1,0,1,0
+2024,2024-11-08,Oţelul,FC Botosani,0,0,0,0
+2024,2024-11-08,Dinamo Bucuresti,CFR 1907 Cluj,1,1,1,1
+2024,2024-11-09,Politehnica Iasi,Sepsi OSK Sfantu Gheorghe,1,1,1,2
+2024,2024-11-09,Universitatea Craiova,AFC Hermannstadt,1,1,3,1
+2024,2024-11-09,Rapid,Uta Arad,0,0,2,0
+2024,2024-11-10,Unirea Slobozia,Farul Constanta,0,1,0,1
+2024,2024-11-10,Universitatea Cluj,FCSB,0,1,1,2
+2024,2024-11-11,SCM Gloria Buzău,Petrolul Ploiesti,0,1,0,1
+2024,2024-11-11,Oţelul,CFR 1907 Cluj,0,1,0,1
+2024,2024-11-21,FC Botosani,FCSB,0,0,1,0
+2024,2024-11-22,Sepsi OSK Sfantu Gheorghe,SCM Gloria Buzău,2,0,2,0
+2024,2024-11-22,Farul Constanta,Oţelul,0,0,0,1
+2024,2024-11-23,AFC Hermannstadt,Universitatea Cluj,1,0,2,1
+2024,2024-11-23,CFR 1907 Cluj,Rapid,0,0,1,1
+2024,2024-11-24,FCSB,Unirea Slobozia,2,0,3,0
+2024,2024-11-24,Petrolul Ploiesti,Dinamo Bucuresti,0,1,0,1
+2024,2024-11-25,FC Botosani,Politehnica Iasi,1,0,1,1
+2024,2024-11-25,Uta Arad,Universitatea Craiova,1,0,1,2
+2024,2024-11-29,FC Botosani,Farul Constanta,0,0,0,0
+2024,2024-11-29,Rapid,Petrolul Ploiesti,0,0,1,1
+2024,2024-11-30,Unirea Slobozia,AFC Hermannstadt,1,0,1,2
+2024,2024-11-30,SCM Gloria Buzău,Politehnica Iasi,1,0,2,0
+2024,2024-11-30,Dinamo Bucuresti,Sepsi OSK Sfantu Gheorghe,1,0,1,1
+2024,2024-12-01,Universitatea Craiova,CFR 1907 Cluj,0,1,0,2
+2024,2024-12-02,Universitatea Cluj,Uta Arad,0,1,0,1
+2024,2024-12-02,Oţelul,FCSB,0,2,1,4
+2024,2024-12-06,Sepsi OSK Sfantu Gheorghe,Rapid,0,0,2,0
+2024,2024-12-07,SCM Gloria Buzău,Dinamo Bucuresti,0,0,0,1
+2024,2024-12-07,Petrolul Ploiesti,Universitatea Craiova,1,0,1,1
+2024,2024-12-08,Uta Arad,Unirea Slobozia,1,1,3,4
+2024,2024-12-08,Politehnica Iasi,Farul Constanta,1,0,2,2
+2024,2024-12-08,FCSB,FC Botosani,1,0,2,1
+2024,2024-12-09,AFC Hermannstadt,Oţelul,1,0,1,0
+2024,2024-12-09,Universitatea Cluj,CFR 1907 Cluj,0,1,3,2
+2024,2024-12-13,FC Botosani,AFC Hermannstadt,1,1,1,2
+2024,2024-12-13,Dinamo Bucuresti,Politehnica Iasi,0,0,2,0
+2024,2024-12-14,Oţelul,Uta Arad,0,1,1,1
+2024,2024-12-14,Universitatea Craiova,Sepsi OSK Sfantu Gheorghe,1,1,2,1
+2024,2024-12-14,Universitatea Cluj,Petrolul Ploiesti,0,0,4,1
+2024,2024-12-15,Unirea Slobozia,CFR 1907 Cluj,1,0,1,1
+2024,2024-12-15,Farul Constanta,FCSB,0,1,1,1
+2024,2024-12-16,Rapid,SCM Gloria Buzău,2,0,2,0
+2024,2024-12-20,Sepsi OSK Sfantu Gheorghe,Universitatea Cluj,0,0,0,0
+2024,2024-12-21,AFC Hermannstadt,Farul Constanta,0,0,0,0
+2024,2024-12-21,SCM Gloria Buzău,Universitatea Craiova,0,1,0,2
+2024,2024-12-22,Petrolul Ploiesti,Unirea Slobozia,1,1,2,1
+2024,2024-12-22,CFR 1907 Cluj,Oţelul,1,1,3,2
+2024,2024-12-22,Dinamo Bucuresti,Rapid,0,0,0,0
+2024,2024-12-23,Uta Arad,FC Botosani,1,0,2,0
+2024,2024-12-23,Politehnica Iasi,FCSB,0,1,0,2
+2024,2025-01-17,Unirea Slobozia,Sepsi OSK Sfantu Gheorghe,2,0,3,2
+2024,2025-01-17,FCSB,AFC Hermannstadt,0,1,1,1
+2024,2025-01-18,Universitatea Cluj,SCM Gloria Buzău,0,1,2,1
+2024,2025-01-18,Oţelul,Petrolul Ploiesti,0,0,0,0
+2024,2025-01-19,FC Botosani,CFR 1907 Cluj,0,1,1,1
+2024,2025-01-19,Universitatea Craiova,Dinamo Bucuresti,1,0,1,1
+2024,2025-01-20,Farul Constanta,Uta Arad,0,0,1,1
+2024,2025-01-20,Rapid,Politehnica Iasi,2,1,2,1
+2024,2025-01-24,SCM Gloria Buzău,Unirea Slobozia,0,0,3,0
+2024,2025-01-24,Dinamo Bucuresti,Universitatea Cluj,0,0,0,0
+2024,2025-01-25,Politehnica Iasi,AFC Hermannstadt,0,0,0,2
+2024,2025-01-25,Rapid,Universitatea Craiova,1,0,1,0
+2024,2025-01-26,Sepsi OSK Sfantu Gheorghe,Oţelul,0,0,2,0
+2024,2025-01-26,Uta Arad,FCSB,0,0,0,1
+2024,2025-01-27,Petrolul Ploiesti,FC Botosani,3,0,3,1
+2024,2025-01-27,CFR 1907 Cluj,Farul Constanta,2,0,3,1
+2024,2025-01-31,AFC Hermannstadt,Uta Arad,0,0,0,0
+2024,2025-01-31,Unirea Slobozia,Dinamo Bucuresti,1,1,1,3
+2024,2025-02-01,FC Botosani,Sepsi OSK Sfantu Gheorghe,0,0,0,0
+2024,2025-02-01,Oţelul,SCM Gloria Buzău,1,1,2,1
+2024,2025-02-01,Universitatea Cluj,Rapid,1,1,2,1
+2024,2025-02-02,Universitatea Craiova,Politehnica Iasi,2,1,4,1
+2024,2025-02-02,FCSB,CFR 1907 Cluj,0,0,1,1
+2024,2025-02-03,Farul Constanta,Petrolul Ploiesti,1,1,2,1
+2024,2025-02-04,SCM Gloria Buzău,FC Botosani,0,1,0,2
+2024,2025-02-04,Rapid,Unirea Slobozia,1,1,2,1
+2024,2025-02-04,Dinamo Bucuresti,Oţelul,0,0,1,0
+2024,2025-02-05,CFR 1907 Cluj,AFC Hermannstadt,1,0,1,0
+2024,2025-02-05,Universitatea Craiova,Universitatea Cluj,1,0,1,0
+2024,2025-02-06,Politehnica Iasi,Uta Arad,0,0,0,1
+2024,2025-02-06,Sepsi OSK Sfantu Gheorghe,Farul Constanta,1,0,1,0
+2024,2025-02-06,Petrolul Ploiesti,FCSB,0,0,0,0
+2024,2025-02-07,FC Botosani,Dinamo Bucuresti,1,1,1,1
+2024,2025-02-08,Unirea Slobozia,Universitatea Craiova,0,0,0,1
+2024,2025-02-08,Oţelul,Rapid,0,0,1,1
+2024,2025-02-09,AFC Hermannstadt,Petrolul Ploiesti,0,0,1,1
+2024,2025-02-09,Universitatea Cluj,Politehnica Iasi,0,0,2,2
+2024,2025-02-09,FCSB,Sepsi OSK Sfantu Gheorghe,3,0,3,0
+2024,2025-02-10,Farul Constanta,SCM Gloria Buzău,0,0,1,0
+2024,2025-02-10,Uta Arad,CFR 1907 Cluj,0,0,1,4
+2024,2025-02-14,Sepsi OSK Sfantu Gheorghe,AFC Hermannstadt,0,0,2,3
+2024,2025-02-14,Universitatea Craiova,Oţelul,0,0,2,1
+2024,2025-02-15,Petrolul Ploiesti,Uta Arad,0,1,0,1
+2024,2025-02-15,Dinamo Bucuresti,Farul Constanta,0,1,0,2
+2024,2025-02-16,Politehnica Iasi,CFR 1907 Cluj,0,1,1,1
+2024,2025-02-16,SCM Gloria Buzău,FCSB,0,0,0,2
+2024,2025-02-17,Universitatea Cluj,Unirea Slobozia,1,2,3,2
+2024,2025-02-17,Rapid,FC Botosani,1,0,1,0
+2024,2025-02-21,AFC Hermannstadt,SCM Gloria Buzău,1,1,2,1
+2024,2025-02-21,Oţelul,Universitatea Cluj,0,1,0,1
+2024,2025-02-22,FC Botosani,Universitatea Craiova,1,1,2,2
+2024,2025-02-22,CFR 1907 Cluj,Petrolul Ploiesti,0,0,2,0
+2024,2025-02-23,Unirea Slobozia,Politehnica Iasi,0,0,0,0
+2024,2025-02-23,FCSB,Dinamo Bucuresti,1,1,2,1
+2024,2025-02-24,Uta Arad,Sepsi OSK Sfantu Gheorghe,0,1,1,2
+2024,2025-02-24,Farul Constanta,Rapid,1,2,1,3
+2024,2025-02-28,Unirea Slobozia,Oţelul,0,0,0,1
+2024,2025-02-28,Sepsi OSK Sfantu Gheorghe,CFR 1907 Cluj,1,0,1,1
+2024,2025-03-01,Universitatea Cluj,FC Botosani,0,0,0,1
+2024,2025-03-01,Universitatea Craiova,Farul Constanta,1,0,1,0
+2024,2025-03-02,Politehnica Iasi,Petrolul Ploiesti,1,0,1,0
+2024,2025-03-02,Rapid,FCSB,0,0,0,0
+2024,2025-03-03,SCM Gloria Buzău,Uta Arad,0,0,1,1
+2024,2025-03-03,Dinamo Bucuresti,AFC Hermannstadt,0,0,2,0
+2024,2025-03-07,Oţelul,Politehnica Iasi,2,2,2,3
+2024,2025-03-07,Farul Constanta,Universitatea Cluj,0,1,1,1
+2024,2025-03-08,Petrolul Ploiesti,Sepsi OSK Sfantu Gheorghe,0,0,1,0
+2024,2025-03-08,AFC Hermannstadt,Rapid,0,0,1,0
+2024,2025-03-09,CFR 1907 Cluj,SCM Gloria Buzău,3,0,6,0
+2024,2025-03-09,FCSB,Universitatea Craiova,1,0,1,0
+2024,2025-03-10,FC Botosani,Unirea Slobozia,1,0,1,0
+2024,2025-03-10,Uta Arad,Dinamo Bucuresti,0,1,0,2
+2024,2025-03-14,Petrolul Ploiesti,FC Botosani,0,1,0,2
+2024,2025-03-14,Universitatea Craiova,Universitatea Cluj,1,0,3,0
+2024,2025-03-15,Farul Constanta,Politehnica Iasi,0,0,0,0
+2024,2025-03-15,CFR 1907 Cluj,Dinamo Bucuresti,2,0,3,1
+2024,2025-03-16,AFC Hermannstadt,Unirea Slobozia,0,0,1,1
+2024,2025-03-16,Uta Arad,Oţelul,2,0,2,0
+2024,2025-03-16,FCSB,Rapid,1,1,3,3
+2024,2025-03-17,Sepsi OSK Sfantu Gheorghe,SCM Gloria Buzău,1,1,1,2
+2024,2025-03-28,Unirea Slobozia,Petrolul Ploiesti,0,0,0,0
+2024,2025-03-28,Sepsi OSK Sfantu Gheorghe,AFC Hermannstadt,0,2,0,2
+2024,2025-03-29,FC Botosani,Farul Constanta,2,0,4,3
+2024,2025-03-29,Rapid,Universitatea Craiova,0,1,1,2
+2024,2025-03-30,Politehnica Iasi,Uta Arad,3,0,4,0
+2024,2025-03-30,Dinamo Bucuresti,FCSB,1,1,1,2
+2024,2025-03-31,SCM Gloria Buzău,Oţelul,0,2,0,2
+2024,2025-03-31,Universitatea Cluj,CFR 1907 Cluj,1,0,1,0
+2024,2025-04-04,Oţelul,Politehnica Iasi,1,0,1,0
+2024,2025-04-04,Petrolul Ploiesti,Sepsi OSK Sfantu Gheorghe,2,1,2,1
+2024,2025-04-05,Uta Arad,FC Botosani,0,0,1,0
+2024,2025-04-05,FCSB,Universitatea Cluj,0,0,1,0
+2024,2025-04-06,AFC Hermannstadt,SCM Gloria Buzău,0,2,0,2
+2024,2025-04-06,Rapid,Dinamo Bucuresti,1,0,1,0
+2024,2025-04-07,Farul Constanta,Unirea Slobozia,1,0,1,1
+2024,2025-04-07,CFR 1907 Cluj,Universitatea Craiova,2,0,2,0
+2024,2025-04-11,SCM Gloria Buzău,Politehnica Iasi,0,1,0,1
+2024,2025-04-11,AFC Hermannstadt,Petrolul Ploiesti,0,1,1,1
+2024,2025-04-12,Sepsi OSK Sfantu Gheorghe,Farul Constanta,1,0,1,4
+2024,2025-04-12,Universitatea Cluj,Dinamo Bucuresti,2,3,2,4
+2024,2025-04-13,Unirea Slobozia,Uta Arad,0,0,2,1
+2024,2025-04-13,Universitatea Craiova,FCSB,0,0,0,0
+2024,2025-04-14,FC Botosani,Oţelul,0,1,0,1
+2024,2025-04-14,CFR 1907 Cluj,Rapid,1,0,1,1
+2024,2025-04-18,Oţelul,Unirea Slobozia,1,0,2,0
+2024,2025-04-18,Uta Arad,Sepsi OSK Sfantu Gheorghe,1,1,1,1
+2024,2025-04-19,Farul Constanta,AFC Hermannstadt,0,1,1,1
+2024,2025-04-19,Rapid,Universitatea Cluj,0,1,0,2
+2024,2025-04-20,Politehnica Iasi,FC Botosani,2,0,3,0
+2024,2025-04-20,FCSB,CFR 1907 Cluj,1,0,3,2
+2024,2025-04-21,Petrolul Ploiesti,SCM Gloria Buzău,2,0,4,0
+2024,2025-04-21,Dinamo Bucuresti,Universitatea Craiova,0,0,0,2
+2024,2025-04-25,Unirea Slobozia,Politehnica Iasi,1,0,1,1
+2024,2025-04-25,Sepsi OSK Sfantu Gheorghe,Oţelul,0,2,0,3
+2024,2025-04-26,AFC Hermannstadt,Uta Arad,2,0,3,0
+2024,2025-04-26,Universitatea Cluj,Universitatea Craiova,0,1,2,1
+2024,2025-04-27,SCM Gloria Buzău,FC Botosani,0,1,0,2
+2024,2025-04-27,Rapid,FCSB,0,2,1,2
+2024,2025-04-28,Petrolul Ploiesti,Farul Constanta,0,0,0,1
+2024,2025-04-28,Dinamo Bucuresti,CFR 1907 Cluj,0,0,1,1
+2024,2025-05-02,Politehnica Iasi,Sepsi OSK Sfantu Gheorghe,0,0,0,0
+2024,2025-05-02,Universitatea Craiova,Rapid,0,0,1,2
+2024,2025-05-03,FC Botosani,Unirea Slobozia,0,0,1,1
+2024,2025-05-03,Farul Constanta,SCM Gloria Buzău,1,0,1,0
+2024,2025-05-03,CFR 1907 Cluj,Universitatea Cluj,1,0,1,0
+2024,2025-05-04,Oţelul,AFC Hermannstadt,1,0,1,2
+2024,2025-05-05,Uta Arad,Petrolul Ploiesti,0,0,2,0
+2024,2025-05-05,FCSB,Dinamo Bucuresti,3,0,3,1
+2024,2025-05-09,SCM Gloria Buzău,Unirea Slobozia,0,1,0,3
+2024,2025-05-09,Sepsi OSK Sfantu Gheorghe,FC Botosani,0,0,2,0
+2024,2025-05-10,Farul Constanta,Uta Arad,0,1,1,2
+2024,2025-05-10,AFC Hermannstadt,Politehnica Iasi,0,0,1,0
+2024,2025-05-10,Universitatea Craiova,CFR 1907 Cluj,0,0,2,2
+2024,2025-05-11,Universitatea Cluj,FCSB,0,0,0,2
+2024,2025-05-12,Petrolul Ploiesti,Oţelul,1,1,1,3
+2024,2025-05-12,Dinamo Bucuresti,Rapid,0,0,0,0
+2024,2025-05-16,Oţelul,Farul Constanta,0,0,0,0
+2024,2025-05-16,Dinamo Bucuresti,Universitatea Cluj,1,0,1,3
+2024,2025-05-17,Uta Arad,SCM Gloria Buzău,0,0,0,0
+2024,2025-05-17,FCSB,Universitatea Craiova,1,0,1,0
+2024,2025-05-18,FC Botosani,AFC Hermannstadt,0,0,2,1
+2024,2025-05-18,Politehnica Iasi,Petrolul Ploiesti,0,2,0,2
+2024,2025-05-18,Unirea Slobozia,Sepsi OSK Sfantu Gheorghe,1,0,2,1
+2024,2025-05-19,Rapid,CFR 1907 Cluj,0,3,1,4
+2024,2025-05-23,CFR 1907 Cluj,FCSB,0,1,1,1
+2024,2025-05-24,Universitatea Cluj,Rapid,2,1,2,2
+2024,2025-05-24,Universitatea Craiova,Dinamo Bucuresti,0,1,2,1
+2024,2025-05-25,Politehnica Iasi,Metaloglobus,1,0,1,1
+2024,2025-05-26,FC Voluntari,Unirea Slobozia,1,1,2,1
+2024,2025-06-01,Metaloglobus,Politehnica Iasi,0,0,1,0
+2024,2025-06-02,Unirea Slobozia,FC Voluntari,1,0,1,0
+2025,2025-07-11,Metaloglobus,Universitatea Cluj,0,1,1,4
+2025,2025-07-11,Arges Pitesti,Rapid,0,2,0,2
+2025,2025-07-12,Uta Arad,Universitatea Craiova,0,2,3,3
+2025,2025-07-12,FCSB,AFC Hermannstadt,0,0,1,1
+2025,2025-07-13,Oţelul,Petrolul Ploiesti,0,0,0,0
+2025,2025-07-13,CFR 1907 Cluj,Unirea Slobozia,1,1,2,1
+2025,2025-07-14,FC Botosani,Farul Constanta,0,0,1,1
+2025,2025-07-14,Csikszereda,Dinamo Bucuresti,2,2,2,2
+2025,2025-07-18,AFC Hermannstadt,Metaloglobus,2,0,2,2
+2025,2025-07-18,Universitatea Craiova,Arges Pitesti,2,1,3,1
+2025,2025-07-19,Universitatea Cluj,Uta Arad,0,1,1,1
+2025,2025-07-19,Petrolul Ploiesti,FCSB,0,0,0,1
+2025,2025-07-20,Farul Constanta,Oţelul,2,1,3,2
+2025,2025-07-20,Rapid,CFR 1907 Cluj,0,1,1,1
+2025,2025-07-21,Unirea Slobozia,Csikszereda,2,1,6,1
+2025,2025-07-21,Dinamo Bucuresti,FC Botosani,0,0,0,0
+2025,2025-07-25,Metaloglobus,Petrolul Ploiesti,0,3,0,3
+2025,2025-07-25,Csikszereda,Rapid,0,2,0,2
+2025,2025-07-26,Uta Arad,AFC Hermannstadt,1,0,1,0
+2025,2025-07-26,FCSB,Farul Constanta,1,0,1,2
+2025,2025-07-27,CFR 1907 Cluj,Arges Pitesti,0,1,0,2
+2025,2025-07-27,Oţelul,Dinamo Bucuresti,1,0,2,1
+2025,2025-07-28,FC Botosani,Unirea Slobozia,2,0,4,0
+2025,2025-07-28,Universitatea Craiova,Universitatea Cluj,0,1,2,1
+2025,2025-08-01,Farul Constanta,Metaloglobus,1,0,2,1
+2025,2025-08-01,Petrolul Ploiesti,Uta Arad,1,1,1,2
+2025,2025-08-02,Arges Pitesti,Csikszereda,2,1,3,1
+2025,2025-08-02,Dinamo Bucuresti,FCSB,2,1,4,3
+2025,2025-08-03,AFC Hermannstadt,Universitatea Cluj,0,1,2,2
+2025,2025-08-03,CFR 1907 Cluj,Universitatea Craiova,0,2,2,3
+2025,2025-08-04,Unirea Slobozia,Oţelul,0,0,0,0
+2025,2025-08-04,Rapid,FC Botosani,0,0,2,1
+2025,2025-08-08,Metaloglobus,Dinamo Bucuresti,0,1,0,1
+2025,2025-08-09,Uta Arad,Farul Constanta,1,0,2,1
+2025,2025-08-09,Universitatea Cluj,Petrolul Ploiesti,1,0,1,1
+2025,2025-08-10,Universitatea Craiova,AFC Hermannstadt,1,0,1,0
+2025,2025-08-10,FCSB,Unirea Slobozia,0,1,0,1
+2025,2025-08-11,FC Botosani,Arges Pitesti,2,0,3,1
+2025,2025-08-11,Oţelul,Rapid,1,0,1,1
+2025,2025-08-15,Unirea Slobozia,Metaloglobus,,,,
+2025,2025-08-15,Dinamo Bucuresti,Uta Arad,,,,
+2025,2025-08-16,Petrolul Ploiesti,AFC Hermannstadt,,,,
+2025,2025-08-17,Csikszereda,Universitatea Craiova,,,,
+2025,2025-08-17,CFR 1907 Cluj,FC Botosani,,,,
+2025,2025-08-17,Rapid,FCSB,,,,
+2025,2025-08-18,Arges Pitesti,Oţelul,,,,
+2025,2025-08-18,Farul Constanta,Universitatea Cluj,,,,
+2025,2025-08-22,Uta Arad,Unirea Slobozia,,,,
+2025,2025-08-22,Metaloglobus,Rapid,,,,
+2025,2025-08-23,FC Botosani,Csikszereda,,,,
+2025,2025-08-23,Universitatea Cluj,Dinamo Bucuresti,,,,
+2025,2025-08-24,Oţelul,CFR 1907 Cluj,,,,
+2025,2025-08-24,Universitatea Craiova,Petrolul Ploiesti,,,,
+2025,2025-08-24,FCSB,Arges Pitesti,,,,
+2025,2025-08-25,AFC Hermannstadt,Farul Constanta,,,,
+2025,2025-08-30,Dinamo Bucuresti,AFC Hermannstadt,,,,
+2025,2025-08-30,CFR 1907 Cluj,FCSB,,,,
+2025,2025-08-30,FC Botosani,Universitatea Craiova,,,,
+2025,2025-08-30,Arges Pitesti,Metaloglobus,,,,
+2025,2025-08-30,Farul Constanta,Petrolul Ploiesti,,,,
+2025,2025-08-30,Csikszereda,Oţelul,,,,
+2025,2025-08-30,Rapid,Uta Arad,,,,
+2025,2025-08-30,Unirea Slobozia,Universitatea Cluj,,,,
+2025,2025-09-13,FCSB,Csikszereda,,,,
+2025,2025-09-13,Universitatea Craiova,Farul Constanta,,,,
+2025,2025-09-13,AFC Hermannstadt,Unirea Slobozia,,,,
+2025,2025-09-13,Uta Arad,Arges Pitesti,,,,
+2025,2025-09-13,Petrolul Ploiesti,Dinamo Bucuresti,,,,
+2025,2025-09-13,Universitatea Cluj,Rapid,,,,
+2025,2025-09-13,Metaloglobus,CFR 1907 Cluj,,,,
+2025,2025-09-13,Oţelul,FC Botosani,,,,
+2025,2025-09-20,Dinamo Bucuresti,Farul Constanta,,,,
+2025,2025-09-20,CFR 1907 Cluj,Uta Arad,,,,
+2025,2025-09-20,FC Botosani,FCSB,,,,
+2025,2025-09-20,Arges Pitesti,Universitatea Cluj,,,,
+2025,2025-09-20,Csikszereda,Metaloglobus,,,,
+2025,2025-09-20,Rapid,AFC Hermannstadt,,,,
+2025,2025-09-20,Oţelul,Universitatea Craiova,,,,
+2025,2025-09-20,Unirea Slobozia,Petrolul Ploiesti,,,,
+2025,2025-09-27,FCSB,Oţelul,,,,
+2025,2025-09-27,Universitatea Craiova,Dinamo Bucuresti,,,,
+2025,2025-09-27,AFC Hermannstadt,Arges Pitesti,,,,
+2025,2025-09-27,Uta Arad,Csikszereda,,,,
+2025,2025-09-27,Farul Constanta,Unirea Slobozia,,,,
+2025,2025-09-27,Petrolul Ploiesti,Rapid,,,,
+2025,2025-09-27,Universitatea Cluj,CFR 1907 Cluj,,,,
+2025,2025-09-27,Metaloglobus,FC Botosani,,,,
+2025,2025-10-04,FCSB,Universitatea Craiova,,,,
+2025,2025-10-04,CFR 1907 Cluj,AFC Hermannstadt,,,,
+2025,2025-10-04,FC Botosani,Uta Arad,,,,
+2025,2025-10-04,Arges Pitesti,Petrolul Ploiesti,,,,
+2025,2025-10-04,Csikszereda,Universitatea Cluj,,,,
+2025,2025-10-04,Rapid,Farul Constanta,,,,
+2025,2025-10-04,Oţelul,Metaloglobus,,,,
+2025,2025-10-04,Unirea Slobozia,Dinamo Bucuresti,,,,
+2025,2025-10-16,Csikszereda,CFR 1907 Cluj,,,,
+2025,2025-10-18,Universitatea Craiova,Unirea Slobozia,,,,
+2025,2025-10-18,Dinamo Bucuresti,Rapid,,,,
+2025,2025-10-18,AFC Hermannstadt,Csikszereda,,,,
+2025,2025-10-18,Uta Arad,Oţelul,,,,
+2025,2025-10-18,Farul Constanta,Arges Pitesti,,,,
+2025,2025-10-18,Petrolul Ploiesti,CFR 1907 Cluj,,,,
+2025,2025-10-18,Universitatea Cluj,FC Botosani,,,,
+2025,2025-10-18,Metaloglobus,FCSB,,,,
+2025,2025-10-25,FCSB,Uta Arad,,,,
+2025,2025-10-25,CFR 1907 Cluj,Farul Constanta,,,,
+2025,2025-10-25,FC Botosani,AFC Hermannstadt,,,,
+2025,2025-10-25,Arges Pitesti,Dinamo Bucuresti,,,,
+2025,2025-10-25,Metaloglobus,Universitatea Craiova,,,,
+2025,2025-10-25,Csikszereda,Petrolul Ploiesti,,,,
+2025,2025-10-25,Rapid,Unirea Slobozia,,,,
+2025,2025-10-25,Oţelul,Universitatea Cluj,,,,
+2025,2025-11-01,Universitatea Craiova,Rapid,,,,
+2025,2025-11-01,Dinamo Bucuresti,CFR 1907 Cluj,,,,
+2025,2025-11-01,AFC Hermannstadt,Oţelul,,,,
+2025,2025-11-01,Uta Arad,Metaloglobus,,,,
+2025,2025-11-01,Farul Constanta,Csikszereda,,,,
+2025,2025-11-01,Petrolul Ploiesti,FC Botosani,,,,
+2025,2025-11-01,Universitatea Cluj,FCSB,,,,
+2025,2025-11-01,Unirea Slobozia,Arges Pitesti,,,,
+2025,2025-11-08,Universitatea Craiova,Uta Arad,,,,
+2025,2025-11-08,Dinamo Bucuresti,Csikszereda,,,,
+2025,2025-11-08,Farul Constanta,FC Botosani,,,,
+2025,2025-11-08,Petrolul Ploiesti,Oţelul,,,,
+2025,2025-11-08,Universitatea Cluj,Metaloglobus,,,,
+2025,2025-11-08,Rapid,Arges Pitesti,,,,
+2025,2025-11-08,Unirea Slobozia,CFR 1907 Cluj,,,,
+2025,2025-11-08,AFC Hermannstadt,FCSB,,,,
+2025,2025-11-22,FCSB,Petrolul Ploiesti,,,,
+2025,2025-11-22,FC Botosani,Dinamo Bucuresti,,,,
+2025,2025-11-22,Arges Pitesti,Universitatea Craiova,,,,
+2025,2025-11-22,Metaloglobus,AFC Hermannstadt,,,,
+2025,2025-11-22,Csikszereda,Unirea Slobozia,,,,
+2025,2025-11-22,Oţelul,Farul Constanta,,,,
+2025,2025-11-22,CFR 1907 Cluj,Rapid,,,,
+2025,2025-11-22,Uta Arad,Universitatea Cluj,,,,
+2025,2025-11-29,Dinamo Bucuresti,Oţelul,,,,
+2025,2025-11-29,AFC Hermannstadt,Uta Arad,,,,
+2025,2025-11-29,Arges Pitesti,CFR 1907 Cluj,,,,
+2025,2025-11-29,Farul Constanta,FCSB,,,,
+2025,2025-11-29,Petrolul Ploiesti,Metaloglobus,,,,
+2025,2025-11-29,Universitatea Cluj,Universitatea Craiova,,,,
+2025,2025-11-29,Rapid,Csikszereda,,,,
+2025,2025-11-29,Unirea Slobozia,FC Botosani,,,,
+2025,2025-12-06,FCSB,Dinamo Bucuresti,,,,
+2025,2025-12-06,Universitatea Craiova,CFR 1907 Cluj,,,,
+2025,2025-12-06,FC Botosani,Rapid,,,,
+2025,2025-12-06,Uta Arad,Petrolul Ploiesti,,,,
+2025,2025-12-06,Universitatea Cluj,AFC Hermannstadt,,,,
+2025,2025-12-06,Metaloglobus,Farul Constanta,,,,
+2025,2025-12-06,Csikszereda,Arges Pitesti,,,,
+2025,2025-12-06,Oţelul,Unirea Slobozia,,,,
+2025,2025-12-13,Dinamo Bucuresti,Metaloglobus,,,,
+2025,2025-12-13,CFR 1907 Cluj,Csikszereda,,,,
+2025,2025-12-13,AFC Hermannstadt,Universitatea Craiova,,,,
+2025,2025-12-13,Arges Pitesti,FC Botosani,,,,
+2025,2025-12-13,Farul Constanta,Uta Arad,,,,
+2025,2025-12-13,Petrolul Ploiesti,Universitatea Cluj,,,,
+2025,2025-12-13,Rapid,Oţelul,,,,
+2025,2025-12-13,Unirea Slobozia,FCSB,,,,
+2025,2025-12-20,FCSB,Rapid,,,,
+2025,2025-12-20,Universitatea Craiova,Csikszereda,,,,
+2025,2025-12-20,AFC Hermannstadt,Petrolul Ploiesti,,,,
+2025,2025-12-20,FC Botosani,CFR 1907 Cluj,,,,
+2025,2025-12-20,Uta Arad,Dinamo Bucuresti,,,,
+2025,2025-12-20,Universitatea Cluj,Farul Constanta,,,,
+2025,2025-12-20,Metaloglobus,Unirea Slobozia,,,,
+2025,2025-12-20,Oţelul,Arges Pitesti,,,,
+2025,2026-01-17,Dinamo Bucuresti,Universitatea Cluj,,,,
+2025,2026-01-17,CFR 1907 Cluj,Oţelul,,,,
+2025,2026-01-17,Arges Pitesti,FCSB,,,,
+2025,2026-01-17,Farul Constanta,AFC Hermannstadt,,,,
+2025,2026-01-17,Petrolul Ploiesti,Universitatea Craiova,,,,
+2025,2026-01-17,Csikszereda,FC Botosani,,,,
+2025,2026-01-17,Rapid,Metaloglobus,,,,
+2025,2026-01-17,Unirea Slobozia,Uta Arad,,,,
+2025,2026-01-24,FCSB,CFR 1907 Cluj,,,,
+2025,2026-01-24,Universitatea Craiova,FC Botosani,,,,
+2025,2026-01-24,AFC Hermannstadt,Dinamo Bucuresti,,,,
+2025,2026-01-24,Uta Arad,Rapid,,,,
+2025,2026-01-24,Petrolul Ploiesti,Farul Constanta,,,,
+2025,2026-01-24,Universitatea Cluj,Unirea Slobozia,,,,
+2025,2026-01-24,Metaloglobus,Arges Pitesti,,,,
+2025,2026-01-24,Oţelul,Csikszereda,,,,
+2025,2026-01-31,Dinamo Bucuresti,Petrolul Ploiesti,,,,
+2025,2026-01-31,CFR 1907 Cluj,Metaloglobus,,,,
+2025,2026-01-31,FC Botosani,Oţelul,,,,
+2025,2026-01-31,Arges Pitesti,Uta Arad,,,,
+2025,2026-01-31,Farul Constanta,Universitatea Craiova,,,,
+2025,2026-01-31,Csikszereda,FCSB,,,,
+2025,2026-01-31,Rapid,Universitatea Cluj,,,,
+2025,2026-01-31,Unirea Slobozia,AFC Hermannstadt,,,,
+2025,2026-02-03,FCSB,FC Botosani,,,,
+2025,2026-02-03,Universitatea Craiova,Oţelul,,,,
+2025,2026-02-03,AFC Hermannstadt,Rapid,,,,
+2025,2026-02-03,Uta Arad,CFR 1907 Cluj,,,,
+2025,2026-02-03,Farul Constanta,Dinamo Bucuresti,,,,
+2025,2026-02-03,Petrolul Ploiesti,Unirea Slobozia,,,,
+2025,2026-02-03,Universitatea Cluj,Arges Pitesti,,,,
+2025,2026-02-03,Metaloglobus,Csikszereda,,,,
+2025,2026-02-07,Dinamo Bucuresti,Universitatea Craiova,,,,
+2025,2026-02-07,CFR 1907 Cluj,Universitatea Cluj,,,,
+2025,2026-02-07,FC Botosani,Metaloglobus,,,,
+2025,2026-02-07,Arges Pitesti,AFC Hermannstadt,,,,
+2025,2026-02-07,Csikszereda,Uta Arad,,,,
+2025,2026-02-07,Rapid,Petrolul Ploiesti,,,,
+2025,2026-02-07,Oţelul,FCSB,,,,
+2025,2026-02-07,Unirea Slobozia,Farul Constanta,,,,
+2025,2026-02-14,Universitatea Craiova,FCSB,,,,
+2025,2026-02-14,Dinamo Bucuresti,Unirea Slobozia,,,,
+2025,2026-02-14,AFC Hermannstadt,CFR 1907 Cluj,,,,
+2025,2026-02-14,Uta Arad,FC Botosani,,,,
+2025,2026-02-14,Farul Constanta,Rapid,,,,
+2025,2026-02-14,Petrolul Ploiesti,Arges Pitesti,,,,
+2025,2026-02-14,Universitatea Cluj,Csikszereda,,,,
+2025,2026-02-14,Metaloglobus,Oţelul,,,,
+2025,2026-02-21,FCSB,Metaloglobus,,,,
+2025,2026-02-21,CFR 1907 Cluj,Petrolul Ploiesti,,,,
+2025,2026-02-21,FC Botosani,Universitatea Cluj,,,,
+2025,2026-02-21,Arges Pitesti,Farul Constanta,,,,
+2025,2026-02-21,Csikszereda,AFC Hermannstadt,,,,
+2025,2026-02-21,Rapid,Dinamo Bucuresti,,,,
+2025,2026-02-21,Oţelul,Uta Arad,,,,
+2025,2026-02-21,Unirea Slobozia,Universitatea Craiova,,,,
+2025,2026-02-28,Universitatea Craiova,Metaloglobus,,,,
+2025,2026-02-28,Dinamo Bucuresti,Arges Pitesti,,,,
+2025,2026-02-28,AFC Hermannstadt,FC Botosani,,,,
+2025,2026-02-28,Uta Arad,FCSB,,,,
+2025,2026-02-28,Farul Constanta,CFR 1907 Cluj,,,,
+2025,2026-02-28,Petrolul Ploiesti,Csikszereda,,,,
+2025,2026-02-28,Universitatea Cluj,Oţelul,,,,
+2025,2026-02-28,Unirea Slobozia,Rapid,,,,
+2025,2026-03-07,FCSB,Universitatea Cluj,,,,
+2025,2026-03-07,CFR 1907 Cluj,Dinamo Bucuresti,,,,
+2025,2026-03-07,FC Botosani,Petrolul Ploiesti,,,,
+2025,2026-03-07,Arges Pitesti,Unirea Slobozia,,,,
+2025,2026-03-07,Metaloglobus,Uta Arad,,,,
+2025,2026-03-07,Csikszereda,Farul Constanta,,,,
+2025,2026-03-07,Rapid,Universitatea Craiova,,,,
+2025,2026-03-07,Oţelul,AFC Hermannstadt,,,,

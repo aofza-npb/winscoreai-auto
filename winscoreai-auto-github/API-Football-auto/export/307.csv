@@ -1,0 +1,613 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2023,2023-08-11,Al-Ahli Jeddah,Al-Hazm,2,0,3,1
+2023,2023-08-12,Al Taee,Damac,0,0,1,0
+2023,2023-08-12,Al-Fayha,Al Khaleej Saihat,2,0,3,1
+2023,2023-08-13,Al-Fateh,Al Taawon,1,1,1,1
+2023,2023-08-13,Al Riyadh,Al Wehda Club,1,0,1,0
+2023,2023-08-14,Al-Raed,Al-Ittihad FC,0,0,0,3
+2023,2023-08-14,Abha,Al-Hilal Saudi FC,1,1,1,3
+2023,2023-08-14,Al-Ettifaq,Al-Nassr,0,1,2,1
+2023,2023-08-14,Al Shabab,Al Akhdoud,0,1,1,1
+2023,2023-08-17,Damac,Al Riyadh,0,2,2,2
+2023,2023-08-17,Al Khaleej Saihat,Al-Ahli Jeddah,0,2,1,3
+2023,2023-08-18,Al Akhdoud,Al-Fateh,1,2,1,3
+2023,2023-08-18,Al Wehda Club,Al Shabab,2,0,3,1
+2023,2023-08-18,Al-Nassr,Al Taawon,0,1,0,2
+2023,2023-08-18,Al-Hazm,Al-Ettifaq,0,1,0,2
+2023,2023-08-19,Abha,Al-Raed,0,0,1,0
+2023,2023-08-19,Al-Hilal Saudi FC,Al-Fayha,1,1,1,1
+2023,2023-08-19,Al-Ittihad FC,Al Taee,0,0,2,0
+2023,2023-08-24,Al Taee,Al Wehda Club,0,1,0,3
+2023,2023-08-24,Al-Ahli Jeddah,Al Akhdoud,0,0,1,0
+2023,2023-08-24,Al-Ettifaq,Al Khaleej Saihat,0,1,1,1
+2023,2023-08-24,Al-Raed,Al-Hilal Saudi FC,0,1,0,4
+2023,2023-08-24,Al Riyadh,Al-Ittihad FC,0,3,0,4
+2023,2023-08-25,Al-Fayha,Al-Hazm,0,0,0,0
+2023,2023-08-25,Al-Fateh,Al-Nassr,0,2,0,5
+2023,2023-08-25,Al Taawon,Abha,0,0,1,0
+2023,2023-08-25,Al Shabab,Damac,0,0,1,1
+2023,2023-08-28,Abha,Al-Fayha,1,0,2,1
+2023,2023-08-28,Al-Hilal Saudi FC,Al-Ettifaq,2,0,2,0
+2023,2023-08-28,Al-Raed,Al Riyadh,2,0,3,0
+2023,2023-08-28,Al Wehda Club,Al-Ittihad FC,0,0,0,3
+2023,2023-08-29,Damac,Al-Fateh,2,0,2,2
+2023,2023-08-29,Al Akhdoud,Al Taawon,0,1,0,1
+2023,2023-08-29,Al Khaleej Saihat,Al-Hazm,1,0,1,1
+2023,2023-08-29,Al-Ahli Jeddah,Al Taee,1,0,2,0
+2023,2023-08-29,Al-Nassr,Al Shabab,3,0,4,0
+2023,2023-09-01,Al Taee,Abha,0,0,1,0
+2023,2023-09-01,Al-Fayha,Al-Raed,0,0,0,0
+2023,2023-09-01,Al-Ittihad FC,Al-Hilal Saudi FC,3,1,3,4
+2023,2023-09-01,Al Riyadh,Al Akhdoud,0,0,0,1
+2023,2023-09-02,Al-Fateh,Al-Ahli Jeddah,1,1,5,1
+2023,2023-09-02,Al-Ettifaq,Damac,2,1,3,1
+2023,2023-09-02,Al Taawon,Al Wehda Club,2,0,4,1
+2023,2023-09-02,Al Shabab,Al Khaleej Saihat,1,1,1,3
+2023,2023-09-02,Al-Hazm,Al-Nassr,0,2,1,5
+2023,2023-09-14,Al Akhdoud,Al-Ittihad FC,0,0,0,1
+2023,2023-09-14,Al Wehda Club,Damac,2,1,4,2
+2023,2023-09-15,Al-Fayha,Al Shabab,0,0,0,1
+2023,2023-09-15,Al Khaleej Saihat,Al-Fateh,0,2,1,3
+2023,2023-09-15,Al-Hilal Saudi FC,Al Riyadh,2,0,6,1
+2023,2023-09-16,Abha,Al-Ettifaq,0,0,1,3
+2023,2023-09-16,Al-Raed,Al-Nassr,0,1,1,3
+2023,2023-09-16,Al-Hazm,Al Taee,1,1,1,1
+2023,2023-09-16,Al-Ahli Jeddah,Al Taawon,2,1,3,2
+2023,2023-09-21,Al-Ettifaq,Al Taee,2,2,4,3
+2023,2023-09-21,Al Taawon,Al-Raed,2,1,2,1
+2023,2023-09-21,Damac,Al-Hilal Saudi FC,0,1,1,1
+2023,2023-09-21,Al-Ittihad FC,Al-Fateh,2,1,2,1
+2023,2023-09-21,Al Shabab,Al-Hazm,2,0,4,1
+2023,2023-09-22,Al Akhdoud,Al Khaleej Saihat,0,0,0,1
+2023,2023-09-22,Al Riyadh,Al-Fayha,0,1,1,3
+2023,2023-09-22,Al Wehda Club,Abha,2,0,4,0
+2023,2023-09-22,Al-Nassr,Al-Ahli Jeddah,3,1,4,3
+2023,2023-09-29,Al Taee,Al-Nassr,0,1,1,2
+2023,2023-09-29,Al-Fayha,Al-Ittihad FC,0,0,0,0
+2023,2023-09-29,Al-Hazm,Al Taawon,0,0,1,3
+2023,2023-09-29,Al-Hilal Saudi FC,Al Shabab,0,0,2,0
+2023,2023-09-30,Abha,Al Riyadh,0,0,0,1
+2023,2023-09-30,Al-Fateh,Al Wehda Club,1,1,5,1
+2023,2023-09-30,Al-Raed,Al Akhdoud,1,1,1,2
+2023,2023-09-30,Al Khaleej Saihat,Damac,0,1,0,2
+2023,2023-09-30,Al-Ahli Jeddah,Al-Ettifaq,0,0,0,0
+2023,2023-10-05,Damac,Al-Hazm,2,0,4,1
+2023,2023-10-05,Al Taawon,Al Taee,2,0,3,0
+2023,2023-10-05,Al Riyadh,Al Shabab,1,0,2,2
+2023,2023-10-05,Al-Ettifaq,Al-Fateh,0,0,1,2
+2023,2023-10-06,Al-Nassr,Abha,2,1,2,2
+2023,2023-10-06,Al-Ittihad FC,Al-Ahli Jeddah,0,1,0,1
+2023,2023-10-07,Al Akhdoud,Al-Hilal Saudi FC,0,1,0,3
+2023,2023-10-07,Al Khaleej Saihat,Al-Raed,0,0,0,0
+2023,2023-10-07,Al Wehda Club,Al-Fayha,0,1,1,1
+2023,2023-10-20,Al Taawon,Al-Ittihad FC,1,1,1,1
+2023,2023-10-20,Al Akhdoud,Al-Fayha,1,1,1,2
+2023,2023-10-20,Al-Fateh,Abha,2,0,4,1
+2023,2023-10-20,Al-Hilal Saudi FC,Al Khaleej Saihat,1,0,1,0
+2023,2023-10-21,Al-Nassr,Damac,0,1,2,1
+2023,2023-10-21,Al-Hazm,Al-Raed,3,2,4,3
+2023,2023-10-21,Al-Ahli Jeddah,Al Wehda Club,1,0,3,1
+2023,2023-10-21,Al Shabab,Al Taee,0,0,2,0
+2023,2023-10-22,Al Riyadh,Al-Ettifaq,1,0,1,0
+2023,2023-10-26,Al Khaleej Saihat,Al Taawon,1,1,1,1
+2023,2023-10-26,Damac,Al Akhdoud,0,0,2,0
+2023,2023-10-26,Al-Ittihad FC,Al-Hazm,1,0,2,2
+2023,2023-10-27,Al-Raed,Al-Fateh,0,2,1,2
+2023,2023-10-27,Al Taee,Al Riyadh,3,1,3,2
+2023,2023-10-27,Al-Hilal Saudi FC,Al-Ahli Jeddah,2,0,3,1
+2023,2023-10-28,Al-Fayha,Al-Nassr,0,0,1,3
+2023,2023-10-28,Abha,Al Shabab,0,0,2,1
+2023,2023-10-28,Al Wehda Club,Al-Ettifaq,1,1,2,3
+2023,2023-11-03,Al-Fateh,Al-Hilal Saudi FC,0,1,0,2
+2023,2023-11-03,Al Taee,Al-Fayha,3,1,3,3
+2023,2023-11-03,Al Shabab,Al-Ittihad FC,1,0,1,0
+2023,2023-11-04,Abha,Al Akhdoud,1,2,3,2
+2023,2023-11-04,Al-Ettifaq,Al-Raed,0,0,0,0
+2023,2023-11-04,Al-Nassr,Al Khaleej Saihat,1,0,2,0
+2023,2023-11-05,Al Taawon,Damac,0,0,0,0
+2023,2023-11-05,Al-Hazm,Al Wehda Club,1,0,1,2
+2023,2023-11-05,Al-Ahli Jeddah,Al Riyadh,2,0,3,0
+2023,2023-11-09,Al Khaleej Saihat,Al Taee,1,1,3,1
+2023,2023-11-09,Al-Raed,Al Shabab,1,0,2,1
+2023,2023-11-09,Damac,Al-Ahli Jeddah,0,2,2,2
+2023,2023-11-09,Al Riyadh,Al-Fateh,0,1,1,1
+2023,2023-11-10,Al-Hilal Saudi FC,Al Taawon,0,0,2,0
+2023,2023-11-10,Al-Ittihad FC,Abha,1,0,4,2
+2023,2023-11-11,Al-Fayha,Al-Ettifaq,0,0,0,0
+2023,2023-11-11,Al Akhdoud,Al-Hazm,1,0,2,1
+2023,2023-11-11,Al Wehda Club,Al-Nassr,0,2,1,3
+2023,2023-11-24,Al-Ettifaq,Al-Ittihad FC,1,0,1,1
+2023,2023-11-24,Al Taawon,Al Riyadh,1,0,1,2
+2023,2023-11-24,Al-Nassr,Al Akhdoud,1,0,3,0
+2023,2023-11-24,Al Taee,Al-Raed,1,2,4,3
+2023,2023-11-25,Al-Hazm,Al-Hilal Saudi FC,0,3,0,9
+2023,2023-11-25,Al-Ahli Jeddah,Al Shabab,0,0,0,0
+2023,2023-11-25,Al-Fateh,Al-Fayha,0,1,0,1
+2023,2023-11-25,Al Wehda Club,Al Khaleej Saihat,1,1,3,1
+2023,2023-11-25,Damac,Abha,2,0,4,2
+2023,2023-11-30,Abha,Al-Ahli Jeddah,0,5,0,6
+2023,2023-11-30,Al Riyadh,Al-Hazm,0,0,0,0
+2023,2023-11-30,Al-Ittihad FC,Al Khaleej Saihat,2,1,4,2
+2023,2023-12-01,Al-Fayha,Damac,0,2,2,4
+2023,2023-12-01,Al-Hilal Saudi FC,Al-Nassr,0,0,3,0
+2023,2023-12-02,Al-Fateh,Al Taee,0,0,0,1
+2023,2023-12-02,Al Akhdoud,Al-Ettifaq,0,0,1,0
+2023,2023-12-02,Al-Raed,Al Wehda Club,1,0,2,0
+2023,2023-12-02,Al Shabab,Al Taawon,1,0,1,2
+2023,2023-12-07,Al-Hazm,Al-Fateh,2,0,2,0
+2023,2023-12-07,Damac,Al-Ittihad FC,2,1,3,1
+2023,2023-12-07,Al Shabab,Al-Ettifaq,0,0,0,0
+2023,2023-12-08,Al Khaleej Saihat,Abha,2,0,3,1
+2023,2023-12-08,Al Taawon,Al-Fayha,2,1,4,1
+2023,2023-12-08,Al Taee,Al-Hilal Saudi FC,1,2,1,2
+2023,2023-12-08,Al-Nassr,Al Riyadh,2,0,4,1
+2023,2023-12-09,Al-Ahli Jeddah,Al-Raed,0,0,0,0
+2023,2023-12-09,Al Wehda Club,Al Akhdoud,1,0,2,0
+2023,2023-12-14,Abha,Al-Hazm,0,0,1,1
+2023,2023-12-14,Al Akhdoud,Al Taee,0,0,1,0
+2023,2023-12-14,Al-Fayha,Al-Ahli Jeddah,0,4,0,4
+2023,2023-12-15,Al-Fateh,Al Shabab,1,0,1,1
+2023,2023-12-15,Al-Hilal Saudi FC,Al Wehda Club,1,0,2,0
+2023,2023-12-15,Al-Raed,Damac,0,1,0,1
+2023,2023-12-16,Al Riyadh,Al Khaleej Saihat,0,1,0,1
+2023,2023-12-16,Al-Ettifaq,Al Taawon,0,1,0,2
+2023,2023-12-21,Al Khaleej Saihat,Al-Fayha,2,0,3,0
+2023,2023-12-21,Damac,Al Taee,0,0,3,0
+2023,2023-12-21,Al-Hilal Saudi FC,Abha,2,0,7,0
+2023,2023-12-22,Al-Nassr,Al-Ettifaq,1,0,3,1
+2023,2023-12-22,Al-Hazm,Al-Ahli Jeddah,0,1,0,4
+2023,2023-12-22,Al Akhdoud,Al Shabab,1,0,1,0
+2023,2023-12-23,Al Taawon,Al-Fateh,0,3,1,3
+2023,2023-12-23,Al-Ittihad FC,Al-Raed,1,1,1,3
+2023,2023-12-24,Al Wehda Club,Al Riyadh,1,0,3,1
+2023,2023-12-26,Al-Ittihad FC,Al-Nassr,1,2,2,5
+2023,2023-12-28,Al-Ettifaq,Al-Hazm,0,0,1,1
+2023,2023-12-28,Al Riyadh,Damac,0,0,1,0
+2023,2023-12-29,Al-Raed,Abha,1,2,4,3
+2023,2023-12-29,Al-Fayha,Al-Hilal Saudi FC,0,0,0,2
+2023,2023-12-29,Al-Ahli Jeddah,Al Khaleej Saihat,0,0,1,0
+2023,2023-12-30,Al-Fateh,Al Akhdoud,0,0,0,0
+2023,2023-12-30,Al Taawon,Al-Nassr,1,2,1,4
+2023,2023-12-30,Al Shabab,Al Wehda Club,0,0,1,0
+2023,2024-02-07,Al Taee,Al-Ittihad FC,0,2,0,3
+2023,2024-02-15,Abha,Al Taawon,0,0,1,1
+2023,2024-02-15,Al Khaleej Saihat,Al-Ettifaq,0,0,0,2
+2023,2024-02-16,Damac,Al Shabab,0,0,0,1
+2023,2024-02-16,Al Wehda Club,Al Taee,0,0,1,1
+2023,2024-02-16,Al Akhdoud,Al-Ahli Jeddah,2,2,3,2
+2023,2024-02-17,Al-Hazm,Al-Fayha,1,1,1,3
+2023,2024-02-17,Al-Nassr,Al-Fateh,1,1,2,1
+2023,2024-02-18,Al-Hilal Saudi FC,Al-Raed,2,0,3,1
+2023,2024-02-18,Al-Ittihad FC,Al Riyadh,1,0,2,0
+2023,2024-02-23,Al Taawon,Al Akhdoud,2,0,3,1
+2023,2024-02-23,Al Riyadh,Al-Raed,0,1,1,1
+2023,2024-02-23,Al-Fateh,Damac,0,0,1,1
+2023,2024-02-24,Al Taee,Al-Ahli Jeddah,1,1,1,4
+2023,2024-02-24,Al-Hazm,Al Khaleej Saihat,0,1,1,1
+2023,2024-02-25,Al-Fayha,Abha,1,1,3,2
+2023,2024-02-25,Al Shabab,Al-Nassr,1,1,2,3
+2023,2024-02-26,Al-Ettifaq,Al-Hilal Saudi FC,0,2,0,2
+2023,2024-02-26,Al-Ittihad FC,Al Wehda Club,0,1,2,1
+2023,2024-02-29,Al-Raed,Al-Fayha,0,0,1,2
+2023,2024-02-29,Al Wehda Club,Al Taawon,2,2,3,3
+2023,2024-02-29,Al-Nassr,Al-Hazm,1,0,4,4
+2023,2024-03-01,Abha,Al Taee,1,0,2,0
+2023,2024-03-01,Al Akhdoud,Al Riyadh,0,1,1,2
+2023,2024-03-01,Al-Hilal Saudi FC,Al-Ittihad FC,1,1,3,1
+2023,2024-03-02,Al Khaleej Saihat,Al Shabab,0,0,0,0
+2023,2024-03-02,Damac,Al-Ettifaq,0,2,0,2
+2023,2024-03-02,Al-Ahli Jeddah,Al-Fateh,0,1,1,1
+2023,2024-03-07,Al Shabab,Al-Fayha,0,0,2,3
+2023,2024-03-07,Damac,Al Wehda Club,1,0,1,0
+2023,2024-03-07,Al-Nassr,Al-Raed,1,1,1,3
+2023,2024-03-08,Al Taee,Al-Hazm,1,0,1,0
+2023,2024-03-08,Al Riyadh,Al-Hilal Saudi FC,0,0,1,3
+2023,2024-03-08,Al-Ittihad FC,Al Akhdoud,1,0,2,1
+2023,2024-03-09,Al-Fateh,Al Khaleej Saihat,0,1,1,2
+2023,2024-03-09,Al-Ettifaq,Abha,0,0,3,0
+2023,2024-03-09,Al Taawon,Al-Ahli Jeddah,0,0,0,1
+2023,2024-03-14,Al Khaleej Saihat,Al Akhdoud,2,0,2,2
+2023,2024-03-14,Al-Hazm,Al Shabab,0,1,0,3
+2023,2024-03-14,Abha,Al Wehda Club,1,0,1,0
+2023,2024-03-15,Al-Ahli Jeddah,Al-Nassr,0,0,0,1
+2023,2024-03-15,Al Taee,Al-Ettifaq,1,1,1,1
+2023,2024-03-15,Al-Fayha,Al Riyadh,1,0,1,1
+2023,2024-03-16,Al-Fateh,Al-Ittihad FC,1,2,2,4
+2023,2024-03-16,Al-Hilal Saudi FC,Damac,0,0,2,1
+2023,2024-03-16,Al-Raed,Al Taawon,0,0,0,0
+2023,2024-03-29,Al-Ettifaq,Al-Ahli Jeddah,1,1,2,2
+2023,2024-03-29,Al Taawon,Al-Hazm,0,0,4,0
+2023,2024-03-29,Al-Ittihad FC,Al-Fayha,2,1,3,1
+2023,2024-03-29,Damac,Al Khaleej Saihat,0,1,0,1
+2023,2024-03-29,Al Akhdoud,Al-Raed,1,2,1,3
+2023,2024-03-30,Al Wehda Club,Al-Fateh,1,1,2,3
+2023,2024-03-30,Al-Nassr,Al Taee,2,1,5,1
+2023,2024-03-30,Al Shabab,Al-Hilal Saudi FC,1,3,3,4
+2023,2024-03-30,Al Riyadh,Abha,0,1,1,1
+2023,2024-04-01,Al-Ahli Jeddah,Al-Ittihad FC,1,0,1,0
+2023,2024-04-01,Al-Raed,Al Khaleej Saihat,0,1,0,1
+2023,2024-04-01,Al-Hazm,Damac,0,0,0,0
+2023,2024-04-02,Al-Hilal Saudi FC,Al Akhdoud,1,0,3,0
+2023,2024-04-02,Al Taee,Al Taawon,2,1,2,3
+2023,2024-04-02,Al-Fayha,Al Wehda Club,0,0,1,2
+2023,2024-04-02,Abha,Al-Nassr,0,5,0,8
+2023,2024-04-03,Al-Fateh,Al-Ettifaq,0,0,1,0
+2023,2024-04-03,Al Shabab,Al Riyadh,1,0,1,0
+2023,2024-04-05,Al Khaleej Saihat,Al-Hilal Saudi FC,1,2,1,4
+2023,2024-04-05,Al Wehda Club,Al-Ahli Jeddah,0,0,1,1
+2023,2024-04-05,Al-Ittihad FC,Al Taawon,0,0,0,0
+2023,2024-04-05,Damac,Al-Nassr,0,0,0,1
+2023,2024-04-06,Al-Ettifaq,Al Riyadh,1,0,1,0
+2023,2024-04-06,Al Taee,Al Shabab,0,0,0,0
+2023,2024-04-07,Al-Raed,Al-Hazm,1,0,2,0
+2023,2024-04-07,Al-Fayha,Al Akhdoud,1,0,3,0
+2023,2024-04-07,Abha,Al-Fateh,1,0,2,1
+2023,2024-04-18,Al Taawon,Al Khaleej Saihat,1,1,1,1
+2023,2024-04-18,Al-Fateh,Al-Raed,2,0,3,1
+2023,2024-04-18,Al Shabab,Abha,1,0,5,0
+2023,2024-04-19,Al-Nassr,Al-Fayha,0,1,3,1
+2023,2024-04-19,Al Riyadh,Al Taee,0,1,1,2
+2023,2024-04-20,Al Akhdoud,Damac,0,2,1,2
+2023,2024-04-20,Al-Ettifaq,Al Wehda Club,0,0,0,0
+2023,2024-04-20,Al-Hazm,Al-Ittihad FC,0,1,2,3
+2023,2024-04-25,Al-Fayha,Al Taee,0,0,1,0
+2023,2024-04-25,Al Wehda Club,Al-Hazm,0,0,0,2
+2023,2024-04-25,Al Riyadh,Al-Ahli Jeddah,1,1,2,1
+2023,2024-04-26,Al-Hilal Saudi FC,Al-Fateh,0,0,3,1
+2023,2024-04-26,Damac,Al Taawon,0,0,0,1
+2023,2024-04-26,Al-Ittihad FC,Al Shabab,0,0,1,3
+2023,2024-04-27,Al-Raed,Al-Ettifaq,1,0,2,2
+2023,2024-04-27,Al Akhdoud,Abha,1,0,4,0
+2023,2024-04-27,Al Khaleej Saihat,Al-Nassr,0,0,0,1
+2023,2024-05-02,Al-Hazm,Al Akhdoud,0,0,0,0
+2023,2024-05-02,Al-Ahli Jeddah,Damac,4,0,4,1
+2023,2024-05-02,Al-Fateh,Al Riyadh,1,0,2,2
+2023,2024-05-03,Al Taawon,Al-Hilal Saudi FC,0,1,0,3
+2023,2024-05-03,Al-Ettifaq,Al-Fayha,0,0,1,2
+2023,2024-05-03,Abha,Al-Ittihad FC,0,0,3,1
+2023,2024-05-04,Al Shabab,Al-Raed,0,0,2,0
+2023,2024-05-04,Al Taee,Al Khaleej Saihat,0,0,0,0
+2023,2024-05-04,Al-Nassr,Al Wehda Club,4,0,6,0
+2023,2024-05-06,Al-Ahli Jeddah,Al-Hilal Saudi FC,1,0,1,2
+2023,2024-05-09,Al-Fayha,Al-Fateh,1,0,2,2
+2023,2024-05-09,Al Riyadh,Al Taawon,0,0,0,0
+2023,2024-05-09,Al Akhdoud,Al-Nassr,0,2,2,3
+2023,2024-05-10,Abha,Damac,0,0,0,0
+2023,2024-05-10,Al Khaleej Saihat,Al Wehda Club,0,1,1,2
+2023,2024-05-10,Al-Ittihad FC,Al-Ettifaq,0,4,0,5
+2023,2024-05-11,Al-Hilal Saudi FC,Al-Hazm,4,1,4,1
+2023,2024-05-11,Al-Raed,Al Taee,0,1,1,1
+2023,2024-05-11,Al Shabab,Al-Ahli Jeddah,1,1,1,2
+2023,2024-05-16,Al Taee,Al-Fateh,1,1,3,1
+2023,2024-05-16,Al Khaleej Saihat,Al-Ittihad FC,0,1,1,1
+2023,2024-05-16,Al Wehda Club,Al-Raed,0,0,0,1
+2023,2024-05-17,Damac,Al-Fayha,0,1,1,1
+2023,2024-05-17,Al-Ettifaq,Al Akhdoud,0,0,1,1
+2023,2024-05-17,Al-Nassr,Al-Hilal Saudi FC,1,0,1,1
+2023,2024-05-18,Al Taawon,Al Shabab,0,0,1,0
+2023,2024-05-18,Al-Hazm,Al Riyadh,0,0,1,1
+2023,2024-05-18,Al-Ahli Jeddah,Abha,2,0,5,1
+2023,2024-05-23,Al-Fateh,Al-Hazm,2,1,2,1
+2023,2024-05-23,Al-Hilal Saudi FC,Al Taee,2,0,3,1
+2023,2024-05-23,Al-Ettifaq,Al Shabab,1,0,1,0
+2023,2024-05-23,Al-Raed,Al-Ahli Jeddah,0,0,0,0
+2023,2024-05-23,Al-Ittihad FC,Damac,1,0,4,1
+2023,2024-05-23,Al-Fayha,Al Taawon,1,1,1,1
+2023,2024-05-23,Abha,Al Khaleej Saihat,1,0,2,1
+2023,2024-05-23,Al Akhdoud,Al Wehda Club,1,1,1,1
+2023,2024-05-23,Al Riyadh,Al-Nassr,2,1,2,2
+2023,2024-05-27,Al Khaleej Saihat,Al Riyadh,0,0,1,2
+2023,2024-05-27,Al-Ahli Jeddah,Al-Fayha,0,0,1,0
+2023,2024-05-27,Al Taawon,Al-Ettifaq,0,0,1,0
+2023,2024-05-27,Al Wehda Club,Al-Hilal Saudi FC,0,1,1,2
+2023,2024-05-27,Al-Nassr,Al-Ittihad FC,1,0,4,2
+2023,2024-05-27,Al Shabab,Al-Fateh,1,0,3,2
+2023,2024-05-27,Al Taee,Al Akhdoud,0,1,0,2
+2023,2024-05-27,Al-Hazm,Abha,0,0,2,1
+2023,2024-05-27,Damac,Al-Raed,1,0,1,1
+2024,2024-08-22,Al Taawon,Al-Fayha,0,0,1,0
+2024,2024-08-22,Al Wehda Club,Al Riyadh,1,0,3,3
+2024,2024-08-22,Al-Nassr,Al-Raed,1,0,1,1
+2024,2024-08-23,Damac,Al Khaleej Saihat,0,1,0,1
+2024,2024-08-23,Al-Ahli Jeddah,Al Orubah,1,0,2,0
+2024,2024-08-23,Al-Qadisiyah FC,Al-Fateh,1,0,3,0
+2024,2024-08-24,Al Kholood,Al-Ittihad FC,0,0,0,1
+2024,2024-08-24,Al Shabab,Al-Ettifaq,0,0,0,1
+2024,2024-08-24,Al Akhdoud,Al-Hilal Saudi FC,0,3,0,3
+2024,2024-08-27,Al-Fateh,Al-Ahli Jeddah,0,0,1,0
+2024,2024-08-27,Al-Raed,Al-Qadisiyah FC,0,0,0,1
+2024,2024-08-27,Al-Fayha,Al-Nassr,0,2,1,4
+2024,2024-08-28,Al-Ettifaq,Al Akhdoud,0,0,1,0
+2024,2024-08-28,Al-Hilal Saudi FC,Damac,1,0,3,2
+2024,2024-08-28,Al Wehda Club,Al Orubah,1,1,2,1
+2024,2024-08-29,Al Riyadh,Al Kholood,1,0,3,1
+2024,2024-08-29,Al Khaleej Saihat,Al Shabab,0,0,0,1
+2024,2024-08-29,Al-Ittihad FC,Al Taawon,0,0,2,1
+2024,2024-09-13,Al Taawon,Al Khaleej Saihat,1,0,2,0
+2024,2024-09-13,Damac,Al Akhdoud,3,0,3,1
+2024,2024-09-13,Al-Nassr,Al-Ahli Jeddah,0,0,1,1
+2024,2024-09-14,Al-Fateh,Al-Ettifaq,0,1,1,2
+2024,2024-09-14,Al-Fayha,Al-Raed,0,3,0,5
+2024,2024-09-14,Al Riyadh,Al-Hilal Saudi FC,0,0,0,3
+2024,2024-09-15,Al-Qadisiyah FC,Al Shabab,0,1,0,1
+2024,2024-09-15,Al Kholood,Al Orubah,1,1,3,3
+2024,2024-09-15,Al-Ittihad FC,Al Wehda Club,3,1,7,1
+2024,2024-09-19,Al Akhdoud,Al-Qadisiyah FC,0,0,0,0
+2024,2024-09-19,Al Orubah,Al-Fateh,0,0,1,0
+2024,2024-09-19,Al Wehda Club,Al Kholood,0,0,0,1
+2024,2024-09-20,Al Khaleej Saihat,Al-Fayha,0,0,0,0
+2024,2024-09-20,Al-Ahli Jeddah,Damac,1,1,4,2
+2024,2024-09-20,Al-Ettifaq,Al-Nassr,0,1,0,3
+2024,2024-09-21,Al Shabab,Al Taawon,1,0,1,0
+2024,2024-09-21,Al-Raed,Al Riyadh,0,0,1,2
+2024,2024-09-21,Al-Hilal Saudi FC,Al-Ittihad FC,3,0,3,1
+2024,2024-09-27,Al-Nassr,Al Wehda Club,1,0,2,0
+2024,2024-09-27,Al-Qadisiyah FC,Al-Ahli Jeddah,1,0,1,0
+2024,2024-09-27,Al-Ittihad FC,Al Khaleej Saihat,0,1,4,1
+2024,2024-09-28,Al-Fateh,Al Akhdoud,2,1,2,4
+2024,2024-09-28,Al Orubah,Damac,1,0,1,0
+2024,2024-09-28,Al Kholood,Al-Hilal Saudi FC,0,3,2,4
+2024,2024-09-29,Al-Fayha,Al Riyadh,2,0,2,0
+2024,2024-09-29,Al Taawon,Al-Ettifaq,1,0,1,1
+2024,2024-09-29,Al Shabab,Al-Raed,1,1,2,1
+2024,2024-10-03,Al-Ettifaq,Al-Raed,0,1,0,1
+2024,2024-10-03,Al Wehda Club,Al-Fayha,1,0,2,2
+2024,2024-10-03,Al Akhdoud,Al-Ittihad FC,0,0,1,2
+2024,2024-10-04,Al Khaleej Saihat,Al Kholood,0,0,1,0
+2024,2024-10-04,Al Riyadh,Al-Qadisiyah FC,1,0,2,1
+2024,2024-10-04,Damac,Al Shabab,0,0,1,0
+2024,2024-10-05,Al-Nassr,Al Orubah,2,0,3,0
+2024,2024-10-05,Al Taawon,Al-Fateh,1,0,2,0
+2024,2024-10-05,Al-Ahli Jeddah,Al-Hilal Saudi FC,1,0,1,2
+2024,2024-10-18,Al Khaleej Saihat,Al-Ahli Jeddah,0,0,0,3
+2024,2024-10-18,Al-Hilal Saudi FC,Al-Fayha,1,0,3,0
+2024,2024-10-18,Al Shabab,Al-Nassr,0,0,1,2
+2024,2024-10-19,Al-Raed,Al Wehda Club,0,0,2,2
+2024,2024-10-19,Damac,Al Taawon,0,1,2,2
+2024,2024-10-19,Al-Ittihad FC,Al-Qadisiyah FC,1,1,3,1
+2024,2024-10-20,Al-Fateh,Al Kholood,0,1,1,1
+2024,2024-10-20,Al Akhdoud,Al Riyadh,0,0,0,1
+2024,2024-10-20,Al-Ettifaq,Al Orubah,2,1,2,3
+2024,2024-10-24,Al Orubah,Al Shabab,0,1,0,3
+2024,2024-10-24,Al Wehda Club,Al Khaleej Saihat,1,0,1,3
+2024,2024-10-24,Al Riyadh,Al-Ittihad FC,0,1,0,1
+2024,2024-10-25,Al-Qadisiyah FC,Damac,1,0,2,1
+2024,2024-10-25,Al Kholood,Al-Nassr,2,2,3,3
+2024,2024-10-25,Al-Ahli Jeddah,Al Akhdoud,0,1,1,1
+2024,2024-10-26,Al-Fayha,Al-Ettifaq,1,0,1,1
+2024,2024-10-26,Al-Raed,Al-Fateh,1,0,2,1
+2024,2024-10-26,Al-Hilal Saudi FC,Al Taawon,1,0,2,0
+2024,2024-10-31,Al Shabab,Al Wehda Club,1,0,3,1
+2024,2024-10-31,Al Akhdoud,Al Orubah,1,0,4,0
+2024,2024-10-31,Al-Ittihad FC,Al-Ahli Jeddah,1,0,1,0
+2024,2024-11-01,Al Khaleej Saihat,Al-Raed,2,0,4,0
+2024,2024-11-01,Damac,Al Riyadh,1,1,2,2
+2024,2024-11-01,Al-Nassr,Al-Hilal Saudi FC,1,0,1,1
+2024,2024-11-02,Al-Fateh,Al-Fayha,0,1,1,1
+2024,2024-11-02,Al Taawon,Al Kholood,1,1,1,1
+2024,2024-11-02,Al-Ettifaq,Al-Qadisiyah FC,0,2,0,2
+2024,2024-11-07,Al-Qadisiyah FC,Al-Fayha,2,0,2,0
+2024,2024-11-07,Al Kholood,Al Shabab,0,0,0,2
+2024,2024-11-07,Al Orubah,Al-Ittihad FC,0,1,0,2
+2024,2024-11-08,Al-Hilal Saudi FC,Al-Ettifaq,1,0,3,1
+2024,2024-11-08,Al-Ahli Jeddah,Al-Raed,0,0,2,0
+2024,2024-11-08,Al Riyadh,Al-Nassr,0,1,0,1
+2024,2024-11-09,Al-Fateh,Al Khaleej Saihat,0,0,1,2
+2024,2024-11-09,Al Wehda Club,Damac,0,1,2,3
+2024,2024-11-09,Al Taawon,Al Akhdoud,0,0,1,0
+2024,2024-11-22,Al-Fayha,Al-Ahli Jeddah,0,1,0,1
+2024,2024-11-22,Al Akhdoud,Al Shabab,0,1,1,1
+2024,2024-11-22,Al-Nassr,Al-Qadisiyah FC,1,1,1,2
+2024,2024-11-23,Al-Raed,Al Orubah,2,1,3,1
+2024,2024-11-23,Al Wehda Club,Al Taawon,1,0,1,0
+2024,2024-11-23,Al Khaleej Saihat,Al-Hilal Saudi FC,1,2,3,2
+2024,2024-11-24,Damac,Al Kholood,1,1,2,1
+2024,2024-11-24,Al Riyadh,Al-Ettifaq,0,0,0,0
+2024,2024-11-24,Al-Ittihad FC,Al-Fateh,0,0,2,0
+2024,2024-11-28,Al-Fayha,Al Orubah,0,0,0,1
+2024,2024-11-28,Al Akhdoud,Al Kholood,0,1,1,2
+2024,2024-11-28,Al-Fateh,Al Riyadh,1,0,1,2
+2024,2024-11-29,Al-Qadisiyah FC,Al Khaleej Saihat,0,0,1,0
+2024,2024-11-29,Al-Nassr,Damac,1,0,2,0
+2024,2024-11-29,Al-Ahli Jeddah,Al Wehda Club,0,0,1,0
+2024,2024-11-30,Al-Raed,Al Taawon,0,0,0,1
+2024,2024-11-30,Al-Ettifaq,Al-Ittihad FC,0,1,0,4
+2024,2024-11-30,Al Shabab,Al-Hilal Saudi FC,1,1,1,2
+2024,2024-12-05,Damac,Al-Fayha,1,0,2,2
+2024,2024-12-05,Al Wehda Club,Al Akhdoud,1,3,2,3
+2024,2024-12-05,Al Shabab,Al-Fateh,0,0,2,2
+2024,2024-12-06,Al Kholood,Al-Qadisiyah FC,0,1,0,3
+2024,2024-12-06,Al Orubah,Al Riyadh,0,0,0,1
+2024,2024-12-06,Al-Ittihad FC,Al-Nassr,0,0,2,1
+2024,2024-12-07,Al Khaleej Saihat,Al-Ettifaq,1,1,1,2
+2024,2024-12-07,Al-Hilal Saudi FC,Al-Raed,1,1,3,2
+2024,2024-12-07,Al Taawon,Al-Ahli Jeddah,2,1,2,4
+2024,2025-01-09,Al-Fateh,Al Wehda Club,0,2,1,2
+2024,2025-01-09,Al Riyadh,Al Khaleej Saihat,0,1,2,2
+2024,2025-01-09,Al-Nassr,Al Akhdoud,2,1,3,1
+2024,2025-01-10,Al-Ettifaq,Al Kholood,1,1,2,3
+2024,2025-01-10,Al-Raed,Damac,0,1,0,2
+2024,2025-01-10,Al-Ahli Jeddah,Al Shabab,2,0,3,2
+2024,2025-01-11,Al Orubah,Al-Hilal Saudi FC,0,1,0,5
+2024,2025-01-11,Al-Qadisiyah FC,Al Taawon,0,2,0,3
+2024,2025-01-11,Al-Fayha,Al-Ittihad FC,0,0,1,1
+2024,2025-01-15,Al Shabab,Al Riyadh,0,0,2,1
+2024,2025-01-15,Damac,Al-Ettifaq,0,2,0,3
+2024,2025-01-15,Al Kholood,Al-Ahli Jeddah,0,0,1,0
+2024,2025-01-16,Al Akhdoud,Al-Fayha,1,1,1,2
+2024,2025-01-16,Al-Hilal Saudi FC,Al-Fateh,4,0,9,0
+2024,2025-01-16,Al-Ittihad FC,Al-Raed,2,0,4,1
+2024,2025-01-17,Al Khaleej Saihat,Al Orubah,2,0,3,0
+2024,2025-01-17,Al Wehda Club,Al-Qadisiyah FC,0,1,0,3
+2024,2025-01-17,Al Taawon,Al-Nassr,1,0,1,1
+2024,2025-01-20,Al-Fayha,Al Kholood,0,0,1,0
+2024,2025-01-20,Al-Raed,Al Akhdoud,0,1,0,2
+2024,2025-01-20,Al-Ettifaq,Al-Ahli Jeddah,0,1,1,2
+2024,2025-01-21,Al Khaleej Saihat,Al-Nassr,0,0,1,3
+2024,2025-01-21,Al Riyadh,Al Taawon,0,0,1,0
+2024,2025-01-21,Al-Hilal Saudi FC,Al Wehda Club,2,0,4,1
+2024,2025-01-22,Al Orubah,Al-Qadisiyah FC,0,2,0,2
+2024,2025-01-22,Al-Fateh,Damac,0,0,2,1
+2024,2025-01-22,Al-Ittihad FC,Al Shabab,2,1,2,1
+2024,2025-01-25,Al Kholood,Al-Raed,0,1,2,1
+2024,2025-01-25,Al Wehda Club,Al-Ettifaq,1,0,2,2
+2024,2025-01-26,Al Taawon,Al Orubah,0,0,0,0
+2024,2025-01-26,Al Akhdoud,Al Khaleej Saihat,0,0,1,2
+2024,2025-01-26,Al-Ahli Jeddah,Al Riyadh,1,0,5,0
+2024,2025-01-26,Al-Nassr,Al-Fateh,1,0,3,1
+2024,2025-01-27,Damac,Al-Ittihad FC,1,1,2,1
+2024,2025-01-27,Al Shabab,Al-Fayha,1,0,2,1
+2024,2025-01-27,Al-Qadisiyah FC,Al-Hilal Saudi FC,1,0,2,1
+2024,2025-01-30,Al Orubah,Al-Ahli Jeddah,0,1,0,2
+2024,2025-01-30,Al Riyadh,Al Wehda Club,0,0,1,0
+2024,2025-01-30,Al-Raed,Al-Nassr,0,1,1,2
+2024,2025-01-31,Al-Fayha,Al Taawon,0,0,0,0
+2024,2025-01-31,Al-Hilal Saudi FC,Al Akhdoud,3,0,4,0
+2024,2025-01-31,Al-Ettifaq,Al Shabab,2,1,3,1
+2024,2025-02-01,Al Khaleej Saihat,Damac,1,1,1,1
+2024,2025-02-01,Al-Fateh,Al-Qadisiyah FC,0,1,1,1
+2024,2025-02-01,Al-Ittihad FC,Al Kholood,2,2,4,3
+2024,2025-02-06,Al-Qadisiyah FC,Al-Raed,1,0,2,0
+2024,2025-02-06,Al Shabab,Al Khaleej Saihat,1,1,5,1
+2024,2025-02-06,Al Taawon,Al-Ittihad FC,1,1,1,2
+2024,2025-02-07,Al Orubah,Al Wehda Club,2,1,4,2
+2024,2025-02-07,Al-Nassr,Al-Fayha,1,0,3,0
+2024,2025-02-07,Al-Ahli Jeddah,Al-Fateh,1,0,2,0
+2024,2025-02-08,Al Kholood,Al Riyadh,0,1,3,2
+2024,2025-02-08,Al Akhdoud,Al-Ettifaq,0,1,0,2
+2024,2025-02-08,Damac,Al-Hilal Saudi FC,0,1,2,2
+2024,2025-02-13,Al Akhdoud,Damac,0,0,0,0
+2024,2025-02-13,Al Shabab,Al-Qadisiyah FC,1,0,2,3
+2024,2025-02-13,Al-Ahli Jeddah,Al-Nassr,0,1,2,3
+2024,2025-02-14,Al Orubah,Al Kholood,0,0,2,0
+2024,2025-02-14,Al-Ettifaq,Al-Fateh,1,2,1,2
+2024,2025-02-14,Al-Hilal Saudi FC,Al Riyadh,0,1,1,1
+2024,2025-02-15,Al Khaleej Saihat,Al Taawon,0,0,0,1
+2024,2025-02-15,Al-Raed,Al-Fayha,0,0,0,2
+2024,2025-02-15,Al Wehda Club,Al-Ittihad FC,1,2,1,4
+2024,2025-02-20,Al-Fateh,Al Orubah,1,0,1,0
+2024,2025-02-20,Al-Fayha,Al Khaleej Saihat,0,0,0,0
+2024,2025-02-20,Al Riyadh,Al-Raed,0,2,1,3
+2024,2025-02-21,Damac,Al-Ahli Jeddah,0,1,0,2
+2024,2025-02-21,Al-Qadisiyah FC,Al Akhdoud,1,0,2,0
+2024,2025-02-21,Al-Nassr,Al-Ettifaq,0,0,2,3
+2024,2025-02-22,Al Kholood,Al Wehda Club,1,0,1,0
+2024,2025-02-22,Al Taawon,Al Shabab,1,2,2,2
+2024,2025-02-22,Al-Ittihad FC,Al-Hilal Saudi FC,2,1,4,1
+2024,2025-02-24,Al Akhdoud,Al-Fateh,1,1,1,3
+2024,2025-02-24,Damac,Al Orubah,0,0,1,2
+2024,2025-02-25,Al-Raed,Al Shabab,0,1,1,2
+2024,2025-02-25,Al-Hilal Saudi FC,Al Kholood,4,0,5,1
+2024,2025-02-25,Al Wehda Club,Al-Nassr,0,0,0,2
+2024,2025-02-25,Al-Ahli Jeddah,Al-Qadisiyah FC,3,0,4,1
+2024,2025-02-26,Al-Ettifaq,Al Taawon,0,0,1,0
+2024,2025-02-26,Al Riyadh,Al-Fayha,0,0,0,0
+2024,2025-02-26,Al Khaleej Saihat,Al-Ittihad FC,0,0,1,1
+2024,2025-02-28,Al-Hilal Saudi FC,Al-Ahli Jeddah,0,0,2,3
+2024,2025-02-28,Al Shabab,Damac,0,0,2,0
+2024,2025-02-28,Al Orubah,Al-Nassr,1,0,2,1
+2024,2025-03-01,Al-Fateh,Al Taawon,1,0,1,2
+2024,2025-03-01,Al-Fayha,Al Wehda Club,0,0,0,0
+2024,2025-03-01,Al Kholood,Al Khaleej Saihat,2,1,2,1
+2024,2025-03-02,Al-Qadisiyah FC,Al Riyadh,0,0,1,0
+2024,2025-03-02,Al-Raed,Al-Ettifaq,0,0,1,1
+2024,2025-03-02,Al-Ittihad FC,Al Akhdoud,1,0,1,1
+2024,2025-03-06,Al-Qadisiyah FC,Al-Ittihad FC,0,0,1,1
+2024,2025-03-06,Al Kholood,Al-Fateh,1,0,2,1
+2024,2025-03-06,Al Wehda Club,Al-Raed,1,1,3,1
+2024,2025-03-07,Al-Ahli Jeddah,Al Khaleej Saihat,1,2,2,2
+2024,2025-03-07,Al-Nassr,Al Shabab,2,1,2,2
+2024,2025-03-07,Al-Fayha,Al-Hilal Saudi FC,0,1,0,2
+2024,2025-03-08,Al Taawon,Damac,3,0,3,0
+2024,2025-03-08,Al Orubah,Al-Ettifaq,0,1,1,2
+2024,2025-03-08,Al Riyadh,Al Akhdoud,0,0,1,0
+2024,2025-03-13,Al-Fateh,Al-Raed,1,0,3,1
+2024,2025-03-13,Al-Ittihad FC,Al Riyadh,0,0,2,1
+2024,2025-03-13,Al Shabab,Al Orubah,2,0,6,0
+2024,2025-03-14,Al Khaleej Saihat,Al Wehda Club,0,1,0,2
+2024,2025-03-14,Al-Nassr,Al Kholood,3,0,3,1
+2024,2025-03-14,Damac,Al-Qadisiyah FC,0,0,1,0
+2024,2025-03-15,Al-Ettifaq,Al-Fayha,0,1,0,2
+2024,2025-03-15,Al Taawon,Al-Hilal Saudi FC,0,1,0,2
+2024,2025-03-15,Al Akhdoud,Al-Ahli Jeddah,0,1,2,1
+2024,2025-04-04,Al Kholood,Al Taawon,0,0,0,2
+2024,2025-04-04,Al Orubah,Al Akhdoud,0,1,0,1
+2024,2025-04-04,Al-Hilal Saudi FC,Al-Nassr,0,1,1,3
+2024,2025-04-05,Al-Qadisiyah FC,Al-Ettifaq,1,0,1,1
+2024,2025-04-05,Al Riyadh,Damac,0,0,0,0
+2024,2025-04-05,Al-Ahli Jeddah,Al-Ittihad FC,0,0,2,2
+2024,2025-04-06,Al-Fayha,Al-Fateh,0,1,1,1
+2024,2025-04-06,Al-Raed,Al Khaleej Saihat,1,0,1,2
+2024,2025-04-06,Al Wehda Club,Al Shabab,0,1,1,3
+2024,2025-04-10,Al Shabab,Al Kholood,2,0,2,0
+2024,2025-04-10,Damac,Al Wehda Club,0,0,0,1
+2024,2025-04-10,Al-Ittihad FC,Al Orubah,1,0,2,0
+2024,2025-04-11,Al Akhdoud,Al Taawon,1,0,1,1
+2024,2025-04-11,Al-Raed,Al-Ahli Jeddah,0,1,0,2
+2024,2025-04-11,Al-Ettifaq,Al-Hilal Saudi FC,1,0,1,1
+2024,2025-04-12,Al Khaleej Saihat,Al-Fateh,1,1,1,5
+2024,2025-04-12,Al-Fayha,Al-Qadisiyah FC,1,0,2,1
+2024,2025-04-12,Al-Nassr,Al Riyadh,0,1,2,1
+2024,2025-04-17,Al-Ettifaq,Al Riyadh,0,0,1,0
+2024,2025-04-17,Al-Hilal Saudi FC,Al Khaleej Saihat,1,0,3,0
+2024,2025-04-17,Al Shabab,Al Akhdoud,0,0,0,0
+2024,2025-04-17,Al-Fateh,Al-Ittihad FC,1,0,2,0
+2024,2025-04-18,Al Kholood,Damac,0,2,1,3
+2024,2025-04-18,Al-Ahli Jeddah,Al-Fayha,3,0,5,0
+2024,2025-04-18,Al-Qadisiyah FC,Al-Nassr,1,0,2,1
+2024,2025-04-19,Al Orubah,Al-Raed,0,1,0,4
+2024,2025-04-19,Al Taawon,Al Wehda Club,0,1,0,2
+2024,2025-04-21,Al-Hilal Saudi FC,Al Shabab,1,1,2,2
+2024,2025-04-21,Al-Ittihad FC,Al-Ettifaq,3,1,3,2
+2024,2025-04-22,Damac,Al-Nassr,1,1,2,3
+2024,2025-04-22,Al Wehda Club,Al-Ahli Jeddah,0,1,2,3
+2024,2025-04-23,Al Riyadh,Al-Fateh,1,1,2,2
+2024,2025-04-23,Al Kholood,Al Akhdoud,0,0,0,1
+2024,2025-04-23,Al Khaleej Saihat,Al-Qadisiyah FC,1,0,1,1
+2024,2025-04-24,Al Orubah,Al-Fayha,2,0,2,2
+2024,2025-04-24,Al Taawon,Al-Raed,3,1,4,3
+2024,2025-05-01,Al Akhdoud,Al Wehda Club,0,0,1,2
+2024,2025-05-01,Al Riyadh,Al Orubah,2,1,2,4
+2024,2025-05-01,Al-Fateh,Al Shabab,3,1,3,1
+2024,2025-05-02,Al-Ettifaq,Al Khaleej Saihat,1,1,2,1
+2024,2025-05-02,Al-Fayha,Damac,0,1,2,1
+2024,2025-05-02,Al-Qadisiyah FC,Al Kholood,3,0,4,1
+2024,2025-05-07,Al-Raed,Al-Hilal Saudi FC,1,2,3,5
+2024,2025-05-07,Al-Ahli Jeddah,Al Taawon,2,0,2,0
+2024,2025-05-07,Al-Nassr,Al-Ittihad FC,2,0,2,3
+2024,2025-05-10,Al Kholood,Al-Ettifaq,0,0,1,0
+2024,2025-05-10,Al Wehda Club,Al-Fateh,1,0,1,0
+2024,2025-05-10,Al Khaleej Saihat,Al Riyadh,1,0,1,2
+2024,2025-05-11,Al Shabab,Al-Ahli Jeddah,2,1,3,1
+2024,2025-05-11,Damac,Al-Raed,0,0,1,0
+2024,2025-05-11,Al Taawon,Al-Qadisiyah FC,0,0,0,1
+2024,2025-05-11,Al-Ittihad FC,Al-Fayha,1,0,3,0
+2024,2025-05-12,Al-Hilal Saudi FC,Al Orubah,1,0,4,0
+2024,2025-05-12,Al Akhdoud,Al-Nassr,0,4,0,9
+2024,2025-05-15,Al-Qadisiyah FC,Al Wehda Club,1,1,3,1
+2024,2025-05-15,Al Riyadh,Al Shabab,1,2,1,3
+2024,2025-05-15,Al-Raed,Al-Ittihad FC,1,2,1,3
+2024,2025-05-16,Al-Fateh,Al-Hilal Saudi FC,2,0,3,4
+2024,2025-05-16,Al Orubah,Al Khaleej Saihat,1,1,1,2
+2024,2025-05-16,Al-Nassr,Al Taawon,0,0,1,1
+2024,2025-05-17,Al-Ettifaq,Damac,0,0,0,0
+2024,2025-05-17,Al-Fayha,Al Akhdoud,0,0,2,0
+2024,2025-05-17,Al-Ahli Jeddah,Al Kholood,0,0,4,1
+2024,2025-05-20,Al-Qadisiyah FC,Al Orubah,0,0,3,1
+2024,2025-05-20,Al Taawon,Al Riyadh,1,2,3,2
+2024,2025-05-20,Al Shabab,Al-Ittihad FC,1,2,2,3
+2024,2025-05-21,Al-Nassr,Al Khaleej Saihat,0,0,2,0
+2024,2025-05-21,Al Kholood,Al-Fayha,1,0,2,0
+2024,2025-05-21,Al Wehda Club,Al-Hilal Saudi FC,0,0,1,1
+2024,2025-05-22,Al Akhdoud,Al-Raed,0,0,1,0
+2024,2025-05-22,Damac,Al-Fateh,0,0,0,1
+2024,2025-05-22,Al-Ahli Jeddah,Al-Ettifaq,1,0,1,3
+2024,2025-05-26,Al Khaleej Saihat,Al Akhdoud,0,0,2,3
+2024,2025-05-26,Al-Fateh,Al-Nassr,1,1,3,2
+2024,2025-05-26,Al-Hilal Saudi FC,Al-Qadisiyah FC,1,0,2,0
+2024,2025-05-26,Al-Ettifaq,Al Wehda Club,1,0,2,1
+2024,2025-05-26,Al-Raed,Al Kholood,0,1,1,2
+2024,2025-05-26,Al-Ittihad FC,Damac,0,0,1,0
+2024,2025-05-26,Al-Fayha,Al Shabab,0,1,0,2
+2024,2025-05-26,Al Orubah,Al Taawon,2,2,3,2
+2024,2025-05-26,Al Riyadh,Al-Ahli Jeddah,0,1,0,1

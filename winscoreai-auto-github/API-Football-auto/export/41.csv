@@ -1,0 +1,1110 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-08-09,Barnsley,Mansfield Town,1,2,1,2
+2024,2024-08-10,Birmingham,Reading,0,1,1,1
+2024,2024-08-10,Wigan,Charlton,0,0,0,1
+2024,2024-08-10,Burton Albion,Lincoln,2,2,2,3
+2024,2024-08-10,Bristol Rovers,Northampton,0,0,1,0
+2024,2024-08-10,Peterborough,Huddersfield,0,2,0,2
+2024,2024-08-10,Crawley Town,Blackpool,2,0,2,1
+2024,2024-08-10,Exeter City,Rotherham,0,0,1,0
+2024,2024-08-10,Stevenage,Shrewsbury,0,0,1,0
+2024,2024-08-10,Leyton Orient,Bolton,1,1,1,2
+2024,2024-08-10,Wrexham,Wycombe,2,0,3,2
+2024,2024-08-10,Stockport County,Cambridge United,1,0,2,0
+2024,2024-08-17,Charlton,Leyton Orient,0,0,1,0
+2024,2024-08-17,Shrewsbury,Peterborough,1,1,1,4
+2024,2024-08-17,Huddersfield,Stevenage,1,0,2,1
+2024,2024-08-17,Reading,Wigan,1,0,2,0
+2024,2024-08-17,Rotherham,Bristol Rovers,0,0,0,0
+2024,2024-08-17,Northampton,Exeter City,0,1,2,1
+2024,2024-08-17,Blackpool,Stockport County,0,0,0,3
+2024,2024-08-17,Wycombe,Birmingham,1,1,2,3
+2024,2024-08-17,Cambridge United,Crawley Town,0,0,0,1
+2024,2024-08-17,Mansfield Town,Burton Albion,2,1,3,3
+2024,2024-08-17,Lincoln,Barnsley,0,1,1,2
+2024,2024-08-18,Bolton,Wrexham,0,0,0,0
+2024,2024-08-24,Burton Albion,Stevenage,0,0,0,0
+2024,2024-08-24,Stockport County,Bristol Rovers,1,0,2,0
+2024,2024-08-24,Huddersfield,Shrewsbury,1,0,1,0
+2024,2024-08-24,Wigan,Crawley Town,1,0,1,0
+2024,2024-08-24,Barnsley,Northampton,1,0,2,2
+2024,2024-08-24,Charlton,Bolton,1,0,2,0
+2024,2024-08-24,Wycombe,Rotherham,0,0,2,0
+2024,2024-08-24,Exeter City,Peterborough,1,2,1,2
+2024,2024-08-24,Cambridge United,Blackpool,1,3,4,4
+2024,2024-08-24,Leyton Orient,Birmingham,1,2,1,2
+2024,2024-08-24,Lincoln,Mansfield Town,2,0,4,1
+2024,2024-08-24,Wrexham,Reading,2,0,3,0
+2024,2024-08-31,Rotherham,Huddersfield,0,0,2,1
+2024,2024-08-31,Blackpool,Wycombe,1,1,2,2
+2024,2024-08-31,Reading,Charlton,0,0,2,0
+2024,2024-08-31,Birmingham,Wigan,1,0,2,1
+2024,2024-08-31,Bolton,Exeter City,0,1,0,2
+2024,2024-08-31,Bristol Rovers,Cambridge United,1,0,2,0
+2024,2024-08-31,Northampton,Burton Albion,0,0,0,0
+2024,2024-08-31,Peterborough,Wrexham,0,2,0,2
+2024,2024-08-31,Shrewsbury,Leyton Orient,1,0,3,0
+2024,2024-08-31,Crawley Town,Barnsley,0,3,0,3
+2024,2024-08-31,Stevenage,Lincoln,0,0,0,1
+2024,2024-08-31,Mansfield Town,Stockport County,1,1,1,1
+2024,2024-09-07,Barnsley,Bristol Rovers,1,1,2,1
+2024,2024-09-07,Charlton,Rotherham,0,0,1,1
+2024,2024-09-07,Wrexham,Shrewsbury,2,0,3,0
+2024,2024-09-14,Northampton,Wycombe,1,1,1,2
+2024,2024-09-14,Mansfield Town,Cambridge United,1,0,2,1
+2024,2024-09-14,Reading,Leyton Orient,0,1,0,1
+2024,2024-09-14,Bolton,Huddersfield,0,1,0,4
+2024,2024-09-14,Rotherham,Burton Albion,1,1,2,2
+2024,2024-09-14,Bristol Rovers,Wigan,0,2,0,4
+2024,2024-09-14,Peterborough,Lincoln,0,1,1,1
+2024,2024-09-14,Shrewsbury,Charlton,0,0,0,1
+2024,2024-09-14,Blackpool,Exeter City,1,0,2,1
+2024,2024-09-14,Crawley Town,Stockport County,0,1,1,1
+2024,2024-09-14,Stevenage,Barnsley,0,0,3,0
+2024,2024-09-16,Birmingham,Wrexham,1,1,3,1
+2024,2024-09-21,Exeter City,Stevenage,1,0,2,0
+2024,2024-09-21,Lincoln,Wigan,0,0,0,0
+2024,2024-09-21,Huddersfield,Northampton,0,2,1,3
+2024,2024-09-21,Bolton,Reading,4,1,5,2
+2024,2024-09-21,Rotherham,Birmingham,0,2,0,2
+2024,2024-09-21,Burton Albion,Barnsley,0,1,1,2
+2024,2024-09-21,Charlton,Blackpool,0,2,1,2
+2024,2024-09-21,Peterborough,Bristol Rovers,2,0,3,2
+2024,2024-09-21,Wycombe,Cambridge United,1,1,2,1
+2024,2024-09-21,Mansfield Town,Shrewsbury,0,1,2,1
+2024,2024-09-21,Wrexham,Crawley Town,1,0,2,1
+2024,2024-09-21,Stockport County,Leyton Orient,0,2,1,4
+2024,2024-09-24,Huddersfield,Blackpool,0,2,0,2
+2024,2024-09-24,Wigan,Stevenage,0,0,0,0
+2024,2024-09-24,Leyton Orient,Peterborough,1,2,2,2
+2024,2024-09-28,Reading,Huddersfield,1,1,2,1
+2024,2024-09-28,Crawley Town,Bolton,0,1,0,2
+2024,2024-09-28,Birmingham,Peterborough,1,2,3,2
+2024,2024-09-28,Wigan,Exeter City,0,0,0,0
+2024,2024-09-28,Bristol Rovers,Wycombe,1,0,1,2
+2024,2024-09-28,Northampton,Mansfield Town,0,0,0,2
+2024,2024-09-28,Shrewsbury,Rotherham,1,0,1,1
+2024,2024-09-28,Blackpool,Burton Albion,1,0,3,0
+2024,2024-09-28,Stevenage,Charlton,0,0,1,0
+2024,2024-09-28,Cambridge United,Lincoln,0,1,0,2
+2024,2024-09-28,Leyton Orient,Wrexham,0,0,0,0
+2024,2024-09-28,Barnsley,Stockport County,1,0,1,1
+2024,2024-10-01,Birmingham,Huddersfield,0,0,1,0
+2024,2024-10-01,Wigan,Peterborough,1,0,3,0
+2024,2024-10-01,Barnsley,Wycombe,0,0,2,2
+2024,2024-10-01,Bristol Rovers,Charlton,1,0,3,2
+2024,2024-10-01,Northampton,Bolton,0,2,2,4
+2024,2024-10-01,Shrewsbury,Stockport County,0,1,0,2
+2024,2024-10-01,Blackpool,Lincoln,0,0,1,1
+2024,2024-10-01,Crawley Town,Mansfield Town,0,1,0,2
+2024,2024-10-01,Stevenage,Wrexham,1,0,1,0
+2024,2024-10-01,Cambridge United,Rotherham,0,0,0,1
+2024,2024-10-01,Leyton Orient,Exeter City,0,1,0,1
+2024,2024-10-01,Reading,Burton Albion,2,0,3,1
+2024,2024-10-05,Huddersfield,Barnsley,0,0,2,0
+2024,2024-10-05,Peterborough,Stevenage,1,0,2,1
+2024,2024-10-05,Bolton,Shrewsbury,0,2,2,2
+2024,2024-10-05,Rotherham,Reading,0,1,2,1
+2024,2024-10-05,Burton Albion,Bristol Rovers,1,0,1,3
+2024,2024-10-05,Charlton,Birmingham,0,0,1,0
+2024,2024-10-05,Wycombe,Crawley Town,1,0,1,0
+2024,2024-10-05,Exeter City,Cambridge United,1,0,1,0
+2024,2024-10-05,Mansfield Town,Blackpool,2,0,2,0
+2024,2024-10-05,Lincoln,Leyton Orient,0,0,2,1
+2024,2024-10-05,Wrexham,Northampton,2,1,4,1
+2024,2024-10-05,Stockport County,Wigan,0,0,0,0
+2024,2024-10-12,Peterborough,Rotherham,1,3,3,3
+2024,2024-10-12,Crawley Town,Shrewsbury,1,1,3,5
+2024,2024-10-17,Shrewsbury,Exeter City,0,1,0,2
+2024,2024-10-19,Reading,Crawley Town,2,1,4,1
+2024,2024-10-19,Wycombe,Peterborough,0,0,3,1
+2024,2024-10-19,Huddersfield,Bristol Rovers,2,0,3,1
+2024,2024-10-19,Bolton,Burton Albion,0,0,2,1
+2024,2024-10-19,Rotherham,Wrexham,0,1,0,1
+2024,2024-10-19,Charlton,Stockport County,0,1,1,1
+2024,2024-10-19,Northampton,Leyton Orient,0,0,1,0
+2024,2024-10-19,Blackpool,Barnsley,0,1,1,2
+2024,2024-10-19,Cambridge United,Wigan,2,0,2,0
+2024,2024-10-19,Mansfield Town,Stevenage,0,1,0,1
+2024,2024-10-19,Lincoln,Birmingham,1,1,1,3
+2024,2024-10-22,Birmingham,Bolton,1,0,2,0
+2024,2024-10-22,Wigan,Mansfield Town,0,1,1,2
+2024,2024-10-22,Barnsley,Charlton,1,0,2,2
+2024,2024-10-22,Burton Albion,Wycombe,1,1,2,3
+2024,2024-10-22,Bristol Rovers,Shrewsbury,0,0,1,0
+2024,2024-10-22,Peterborough,Blackpool,3,1,5,1
+2024,2024-10-22,Crawley Town,Lincoln,0,0,3,0
+2024,2024-10-22,Exeter City,Reading,0,2,1,2
+2024,2024-10-22,Stevenage,Cambridge United,0,1,0,2
+2024,2024-10-22,Leyton Orient,Rotherham,0,0,1,0
+2024,2024-10-22,Wrexham,Huddersfield,0,0,0,0
+2024,2024-10-22,Stockport County,Northampton,0,0,1,1
+2024,2024-10-26,Reading,Bristol Rovers,0,0,1,0
+2024,2024-10-26,Mansfield Town,Birmingham,0,1,1,1
+2024,2024-10-26,Huddersfield,Exeter City,1,0,2,0
+2024,2024-10-26,Bolton,Peterborough,0,0,1,0
+2024,2024-10-26,Rotherham,Stevenage,0,0,2,0
+2024,2024-10-26,Charlton,Wrexham,1,1,2,2
+2024,2024-10-26,Northampton,Crawley Town,2,0,3,0
+2024,2024-10-26,Shrewsbury,Barnsley,0,1,0,2
+2024,2024-10-26,Wycombe,Leyton Orient,2,0,3,0
+2024,2024-10-26,Cambridge United,Burton Albion,0,0,1,0
+2024,2024-10-26,Lincoln,Stockport County,1,1,2,1
+2024,2024-10-28,Blackpool,Wigan,1,2,2,2
+2024,2024-10-29,Stevenage,Bolton,0,2,1,4
+2024,2024-10-29,Lincoln,Northampton,1,1,2,1
+2024,2024-10-29,Stockport County,Reading,3,1,4,1
+2024,2024-11-05,Burton Albion,Crawley Town,0,0,0,0
+2024,2024-11-05,Stockport County,Wycombe,0,3,0,5
+2024,2024-11-08,Barnsley,Rotherham,1,0,2,0
+2024,2024-11-09,Burton Albion,Shrewsbury,1,0,2,0
+2024,2024-11-09,Wrexham,Mansfield Town,1,0,1,0
+2024,2024-11-09,Birmingham,Northampton,0,0,1,1
+2024,2024-11-09,Wigan,Wycombe,0,1,0,1
+2024,2024-11-09,Bristol Rovers,Lincoln,1,0,1,1
+2024,2024-11-09,Peterborough,Cambridge United,4,0,6,1
+2024,2024-11-09,Crawley Town,Huddersfield,1,0,2,2
+2024,2024-11-09,Exeter City,Charlton,0,0,1,0
+2024,2024-11-09,Stevenage,Reading,1,0,1,1
+2024,2024-11-09,Leyton Orient,Blackpool,1,0,3,0
+2024,2024-11-09,Stockport County,Bolton,1,0,5,0
+2024,2024-11-16,Exeter City,Lincoln,0,0,0,0
+2024,2024-11-16,Bristol Rovers,Crawley Town,0,0,0,0
+2024,2024-11-16,Blackpool,Northampton,0,0,0,0
+2024,2024-11-16,Cambridge United,Barnsley,1,1,1,1
+2024,2024-11-16,Stockport County,Wrexham,1,0,1,0
+2024,2024-11-23,Bolton,Blackpool,0,1,2,1
+2024,2024-11-23,Shrewsbury,Birmingham,2,1,3,2
+2024,2024-11-23,Stevenage,Leyton Orient,0,0,0,0
+2024,2024-11-23,Huddersfield,Charlton,1,1,2,1
+2024,2024-11-23,Barnsley,Wigan,0,1,0,1
+2024,2024-11-23,Burton Albion,Stockport County,0,2,0,3
+2024,2024-11-23,Northampton,Cambridge United,0,0,0,0
+2024,2024-11-23,Peterborough,Reading,0,2,1,2
+2024,2024-11-23,Crawley Town,Rotherham,1,0,1,0
+2024,2024-11-23,Mansfield Town,Bristol Rovers,0,0,0,1
+2024,2024-11-23,Lincoln,Wycombe,1,2,2,3
+2024,2024-11-23,Wrexham,Exeter City,2,0,3,0
+2024,2024-11-26,Wigan,Northampton,2,0,2,1
+2024,2024-11-26,Barnsley,Reading,1,0,2,2
+2024,2024-11-26,Burton Albion,Charlton,0,0,0,1
+2024,2024-11-26,Bristol Rovers,Blackpool,0,1,0,2
+2024,2024-11-26,Wycombe,Mansfield Town,0,0,1,0
+2024,2024-11-26,Exeter City,Birmingham,0,1,0,2
+2024,2024-11-26,Cambridge United,Bolton,0,0,1,1
+2024,2024-11-26,Leyton Orient,Huddersfield,0,1,0,2
+2024,2024-11-26,Wrexham,Lincoln,0,0,1,0
+2024,2024-12-03,Bolton,Mansfield Town,0,1,3,1
+2024,2024-12-03,Rotherham,Lincoln,1,0,2,1
+2024,2024-12-03,Charlton,Crawley Town,0,1,1,2
+2024,2024-12-03,Exeter City,Wycombe,2,1,2,2
+2024,2024-12-03,Stevenage,Northampton,0,0,2,0
+2024,2024-12-03,Leyton Orient,Bristol Rovers,3,0,3,0
+2024,2024-12-03,Wrexham,Barnsley,0,0,1,0
+2024,2024-12-03,Huddersfield,Wigan,0,0,1,0
+2024,2024-12-03,Reading,Cambridge United,0,0,3,0
+2024,2024-12-04,Birmingham,Stockport County,2,0,2,0
+2024,2024-12-04,Peterborough,Burton Albion,0,0,0,1
+2024,2024-12-04,Shrewsbury,Blackpool,1,0,1,2
+2024,2024-12-07,Wigan,Leyton Orient,0,1,0,2
+2024,2024-12-07,Lincoln,Charlton,0,0,0,0
+2024,2024-12-07,Barnsley,Birmingham,0,0,1,2
+2024,2024-12-07,Burton Albion,Wrexham,0,0,0,1
+2024,2024-12-07,Wycombe,Reading,1,1,1,1
+2024,2024-12-07,Cambridge United,Shrewsbury,2,0,4,1
+2024,2024-12-07,Mansfield Town,Huddersfield,1,2,1,2
+2024,2024-12-07,Stockport County,Exeter City,0,0,2,0
+2024,2024-12-09,Northampton,Peterborough,1,1,2,1
+2024,2024-12-14,Bolton,Wigan,0,1,0,2
+2024,2024-12-14,Leyton Orient,Burton Albion,0,0,0,0
+2024,2024-12-14,Huddersfield,Lincoln,0,2,2,2
+2024,2024-12-14,Reading,Blackpool,0,2,0,3
+2024,2024-12-14,Birmingham,Bristol Rovers,2,0,2,0
+2024,2024-12-14,Rotherham,Northampton,2,0,3,0
+2024,2024-12-14,Charlton,Mansfield Town,0,0,0,0
+2024,2024-12-14,Peterborough,Crawley Town,2,1,4,3
+2024,2024-12-14,Shrewsbury,Wycombe,0,2,1,4
+2024,2024-12-14,Exeter City,Barnsley,1,0,1,2
+2024,2024-12-14,Stevenage,Stockport County,1,1,2,1
+2024,2024-12-14,Wrexham,Cambridge United,1,1,2,2
+2024,2024-12-20,Wycombe,Bolton,0,0,0,0
+2024,2024-12-20,Cambridge United,Huddersfield,0,3,0,4
+2024,2024-12-20,Stockport County,Peterborough,1,1,2,1
+2024,2024-12-21,Bristol Rovers,Wrexham,0,1,1,1
+2024,2024-12-21,Lincoln,Reading,1,0,2,0
+2024,2024-12-21,Wigan,Shrewsbury,1,0,2,2
+2024,2024-12-21,Barnsley,Leyton Orient,0,2,0,4
+2024,2024-12-21,Burton Albion,Exeter City,1,1,1,2
+2024,2024-12-21,Northampton,Charlton,0,3,0,5
+2024,2024-12-21,Blackpool,Stevenage,0,0,0,0
+2024,2024-12-21,Mansfield Town,Rotherham,1,0,1,0
+2024,2024-12-23,Crawley Town,Birmingham,0,0,0,1
+2024,2024-12-26,Leyton Orient,Crawley Town,1,0,3,0
+2024,2024-12-26,Huddersfield,Stockport County,1,0,1,0
+2024,2024-12-26,Reading,Northampton,2,0,4,1
+2024,2024-12-26,Birmingham,Burton Albion,1,0,2,0
+2024,2024-12-26,Bolton,Barnsley,1,0,1,2
+2024,2024-12-26,Rotherham,Wigan,0,1,0,1
+2024,2024-12-26,Charlton,Cambridge United,2,0,2,1
+2024,2024-12-26,Peterborough,Mansfield Town,0,3,0,3
+2024,2024-12-26,Shrewsbury,Lincoln,1,0,1,0
+2024,2024-12-26,Exeter City,Bristol Rovers,0,0,3,1
+2024,2024-12-26,Stevenage,Wycombe,0,2,0,3
+2024,2024-12-26,Wrexham,Blackpool,1,1,2,1
+2024,2024-12-29,Rotherham,Stockport County,1,1,1,1
+2024,2024-12-29,Charlton,Wycombe,0,0,2,1
+2024,2024-12-29,Huddersfield,Burton Albion,0,1,1,1
+2024,2024-12-29,Reading,Mansfield Town,1,1,2,1
+2024,2024-12-29,Birmingham,Blackpool,0,0,0,0
+2024,2024-12-29,Bolton,Lincoln,1,0,3,0
+2024,2024-12-29,Peterborough,Barnsley,0,0,1,3
+2024,2024-12-29,Shrewsbury,Northampton,0,0,1,1
+2024,2024-12-29,Exeter City,Crawley Town,1,4,4,4
+2024,2024-12-29,Stevenage,Bristol Rovers,1,0,3,0
+2024,2024-12-29,Leyton Orient,Cambridge United,1,0,2,0
+2024,2024-12-29,Wrexham,Wigan,0,0,2,1
+2024,2025-01-01,Barnsley,Wrexham,2,0,2,1
+2024,2025-01-01,Burton Albion,Peterborough,2,1,2,2
+2024,2025-01-01,Bristol Rovers,Leyton Orient,1,2,2,3
+2024,2025-01-01,Northampton,Stevenage,0,0,0,0
+2024,2025-01-01,Blackpool,Shrewsbury,0,0,1,1
+2024,2025-01-01,Wycombe,Exeter City,0,0,2,1
+2024,2025-01-01,Cambridge United,Reading,0,1,1,3
+2024,2025-01-01,Mansfield Town,Bolton,2,1,2,1
+2024,2025-01-01,Lincoln,Rotherham,0,0,0,1
+2024,2025-01-01,Stockport County,Birmingham,0,1,1,1
+2024,2025-01-04,Burton Albion,Northampton,0,0,0,1
+2024,2025-01-04,Cambridge United,Bristol Rovers,0,1,0,1
+2024,2025-01-04,Huddersfield,Rotherham,0,0,0,0
+2024,2025-01-04,Wigan,Birmingham,0,2,0,3
+2024,2025-01-04,Barnsley,Crawley Town,1,0,3,0
+2024,2025-01-04,Charlton,Reading,0,0,0,0
+2024,2025-01-04,Wycombe,Blackpool,1,0,1,1
+2024,2025-01-04,Exeter City,Bolton,0,0,1,2
+2024,2025-01-04,Leyton Orient,Shrewsbury,0,0,1,0
+2024,2025-01-04,Lincoln,Stevenage,0,0,0,0
+2024,2025-01-04,Wrexham,Peterborough,0,0,1,0
+2024,2025-01-04,Stockport County,Mansfield Town,1,2,1,2
+2024,2025-01-07,Wycombe,Huddersfield,0,1,0,1
+2024,2025-01-11,Rotherham,Bolton,2,0,3,1
+2024,2025-01-16,Shrewsbury,Wrexham,1,1,2,1
+2024,2025-01-18,Peterborough,Leyton Orient,0,0,0,0
+2024,2025-01-18,Blackpool,Huddersfield,2,0,2,2
+2024,2025-01-18,Northampton,Lincoln,0,1,0,1
+2024,2025-01-18,Reading,Stockport County,0,2,1,3
+2024,2025-01-18,Birmingham,Exeter City,1,0,1,0
+2024,2025-01-18,Bolton,Cambridge United,1,2,2,2
+2024,2025-01-18,Rotherham,Charlton,3,1,4,2
+2024,2025-01-18,Bristol Rovers,Barnsley,1,0,3,1
+2024,2025-01-18,Crawley Town,Burton Albion,0,1,1,1
+2024,2025-01-18,Stevenage,Wigan,0,0,1,2
+2024,2025-01-18,Mansfield Town,Wycombe,0,0,1,2
+2024,2025-01-21,Wigan,Burton Albion,1,1,1,2
+2024,2025-01-21,Bolton,Charlton,0,0,1,2
+2024,2025-01-21,Peterborough,Exeter City,1,0,1,1
+2024,2025-01-23,Wrexham,Birmingham,1,1,1,1
+2024,2025-01-25,Huddersfield,Bolton,0,0,0,1
+2024,2025-01-25,Cambridge United,Mansfield Town,2,0,3,2
+2024,2025-01-25,Wigan,Bristol Rovers,1,0,2,0
+2024,2025-01-25,Barnsley,Stevenage,0,0,0,1
+2024,2025-01-25,Burton Albion,Rotherham,3,1,4,2
+2024,2025-01-25,Charlton,Shrewsbury,0,0,1,0
+2024,2025-01-25,Wycombe,Northampton,0,0,0,0
+2024,2025-01-25,Exeter City,Blackpool,0,3,1,3
+2024,2025-01-25,Leyton Orient,Reading,1,0,2,0
+2024,2025-01-25,Lincoln,Peterborough,2,0,5,1
+2024,2025-01-25,Stockport County,Crawley Town,2,0,2,0
+2024,2025-01-28,Bolton,Northampton,2,1,3,1
+2024,2025-01-28,Rotherham,Cambridge United,0,0,2,1
+2024,2025-01-28,Burton Albion,Reading,2,0,3,2
+2024,2025-01-28,Charlton,Bristol Rovers,2,0,2,0
+2024,2025-01-28,Peterborough,Wigan,1,0,1,0
+2024,2025-01-28,Wycombe,Barnsley,0,1,2,1
+2024,2025-01-28,Exeter City,Leyton Orient,0,4,2,6
+2024,2025-01-28,Mansfield Town,Crawley Town,0,0,0,1
+2024,2025-01-28,Lincoln,Blackpool,0,1,0,2
+2024,2025-01-28,Wrexham,Stevenage,0,2,2,3
+2024,2025-01-28,Stockport County,Shrewsbury,1,0,1,0
+2024,2025-01-28,Huddersfield,Birmingham,0,0,0,1
+2024,2025-02-01,Barnsley,Burton Albion,0,0,0,0
+2024,2025-02-01,Stevenage,Exeter City,2,1,4,1
+2024,2025-02-01,Reading,Bolton,0,0,1,0
+2024,2025-02-01,Birmingham,Rotherham,0,1,2,1
+2024,2025-02-01,Wigan,Lincoln,1,0,1,1
+2024,2025-02-01,Northampton,Huddersfield,2,0,3,2
+2024,2025-02-01,Shrewsbury,Mansfield Town,0,1,2,1
+2024,2025-02-01,Blackpool,Charlton,0,0,2,2
+2024,2025-02-01,Crawley Town,Wrexham,0,1,1,2
+2024,2025-02-01,Cambridge United,Wycombe,0,1,1,1
+2024,2025-02-01,Leyton Orient,Stockport County,0,1,0,1
+2024,2025-02-02,Bristol Rovers,Peterborough,1,0,3,1
+2024,2025-02-07,Mansfield Town,Northampton,0,0,0,1
+2024,2025-02-08,Charlton,Stevenage,1,0,2,0
+2024,2025-02-08,Stockport County,Barnsley,2,0,2,1
+2024,2025-02-08,Huddersfield,Reading,0,0,0,0
+2024,2025-02-08,Bolton,Crawley Town,0,0,4,3
+2024,2025-02-08,Rotherham,Shrewsbury,0,0,1,2
+2024,2025-02-08,Burton Albion,Blackpool,1,0,1,1
+2024,2025-02-08,Lincoln,Cambridge United,1,1,1,1
+2024,2025-02-11,Birmingham,Cambridge United,3,0,4,0
+2024,2025-02-11,Bristol Rovers,Stockport County,0,0,1,1
+2024,2025-02-11,Charlton,Peterborough,0,0,2,1
+2024,2025-02-11,Blackpool,Rotherham,0,0,0,0
+2024,2025-02-11,Crawley Town,Stevenage,0,0,3,1
+2024,2025-02-11,Leyton Orient,Mansfield Town,3,0,3,0
+2024,2025-02-11,Reading,Shrewsbury,1,0,1,1
+2024,2025-02-15,Northampton,Wrexham,0,2,0,2
+2024,2025-02-15,Cambridge United,Exeter City,0,0,0,1
+2024,2025-02-15,Reading,Rotherham,1,0,2,1
+2024,2025-02-15,Birmingham,Charlton,1,0,1,0
+2024,2025-02-15,Wigan,Stockport County,0,0,0,2
+2024,2025-02-15,Barnsley,Huddersfield,1,0,1,2
+2024,2025-02-15,Bristol Rovers,Burton Albion,1,0,3,1
+2024,2025-02-15,Shrewsbury,Bolton,1,0,2,3
+2024,2025-02-15,Blackpool,Mansfield Town,1,2,3,3
+2024,2025-02-15,Crawley Town,Wycombe,1,1,1,1
+2024,2025-02-15,Stevenage,Peterborough,0,0,1,1
+2024,2025-02-15,Leyton Orient,Lincoln,2,1,3,2
+2024,2025-02-18,Shrewsbury,Huddersfield,0,0,0,1
+2024,2025-02-18,Wycombe,Bristol Rovers,0,0,2,0
+2024,2025-02-18,Crawley Town,Wigan,1,1,1,1
+2024,2025-02-18,Stevenage,Burton Albion,0,1,0,1
+2024,2025-02-18,Mansfield Town,Lincoln,0,1,0,3
+2024,2025-02-18,Wrexham,Leyton Orient,1,1,1,2
+2024,2025-02-22,Reading,Birmingham,0,0,0,0
+2024,2025-02-22,Rotherham,Barnsley,0,0,0,1
+2024,2025-02-22,Huddersfield,Peterborough,0,1,0,1
+2024,2025-02-22,Bolton,Leyton Orient,0,1,2,1
+2024,2025-02-22,Charlton,Exeter City,1,0,3,0
+2024,2025-02-22,Northampton,Bristol Rovers,0,0,2,1
+2024,2025-02-22,Shrewsbury,Stevenage,0,1,0,1
+2024,2025-02-22,Blackpool,Crawley Town,2,1,3,1
+2024,2025-02-22,Wycombe,Wigan,0,0,0,0
+2024,2025-02-22,Cambridge United,Stockport County,2,0,2,0
+2024,2025-02-22,Lincoln,Burton Albion,0,0,0,1
+2024,2025-02-23,Mansfield Town,Wrexham,1,1,1,2
+2024,2025-02-25,Birmingham,Leyton Orient,0,0,2,0
+2024,2025-02-25,Wigan,Huddersfield,2,0,2,1
+2024,2025-02-25,Northampton,Barnsley,0,1,1,2
+2024,2025-03-01,Birmingham,Wycombe,1,0,1,0
+2024,2025-03-01,Wrexham,Bolton,0,0,0,0
+2024,2025-03-01,Wigan,Reading,0,0,1,2
+2024,2025-03-01,Barnsley,Lincoln,2,0,4,3
+2024,2025-03-01,Burton Albion,Mansfield Town,1,0,1,1
+2024,2025-03-01,Bristol Rovers,Rotherham,1,1,2,3
+2024,2025-03-01,Peterborough,Shrewsbury,2,1,3,1
+2024,2025-03-01,Crawley Town,Cambridge United,0,1,0,2
+2024,2025-03-01,Exeter City,Northampton,0,1,1,1
+2024,2025-03-01,Stevenage,Huddersfield,1,2,1,2
+2024,2025-03-01,Leyton Orient,Charlton,0,0,1,2
+2024,2025-03-01,Stockport County,Blackpool,0,1,2,1
+2024,2025-03-04,Huddersfield,Wrexham,0,0,0,1
+2024,2025-03-04,Bolton,Birmingham,1,1,3,1
+2024,2025-03-04,Rotherham,Leyton Orient,0,0,1,0
+2024,2025-03-04,Charlton,Barnsley,1,0,1,0
+2024,2025-03-04,Northampton,Stockport County,1,0,1,1
+2024,2025-03-04,Shrewsbury,Bristol Rovers,0,0,0,0
+2024,2025-03-04,Blackpool,Peterborough,0,0,0,0
+2024,2025-03-04,Cambridge United,Stevenage,0,0,0,1
+2024,2025-03-04,Mansfield Town,Wigan,0,0,0,0
+2024,2025-03-04,Lincoln,Crawley Town,3,1,4,1
+2024,2025-03-04,Reading,Exeter City,0,0,0,0
+2024,2025-03-04,Wycombe,Burton Albion,1,0,2,0
+2024,2025-03-08,Crawley Town,Reading,0,1,1,1
+2024,2025-03-08,Stockport County,Charlton,0,0,0,0
+2024,2025-03-08,Birmingham,Lincoln,0,0,1,0
+2024,2025-03-08,Wigan,Cambridge United,0,0,1,0
+2024,2025-03-08,Barnsley,Blackpool,0,0,0,3
+2024,2025-03-08,Burton Albion,Bolton,0,1,1,2
+2024,2025-03-08,Bristol Rovers,Huddersfield,1,0,1,0
+2024,2025-03-08,Peterborough,Wycombe,1,0,1,1
+2024,2025-03-08,Exeter City,Shrewsbury,1,0,2,0
+2024,2025-03-08,Stevenage,Mansfield Town,1,0,1,1
+2024,2025-03-08,Leyton Orient,Northampton,0,2,1,2
+2024,2025-03-08,Wrexham,Rotherham,0,0,1,0
+2024,2025-03-11,Birmingham,Stevenage,1,0,2,1
+2024,2025-03-11,Bristol Rovers,Bolton,1,1,3,2
+2024,2025-03-11,Blackpool,Cambridge United,1,1,2,1
+2024,2025-03-11,Crawley Town,Charlton,0,1,0,1
+2024,2025-03-11,Exeter City,Mansfield Town,1,0,2,0
+2024,2025-03-11,Reading,Wrexham,0,0,2,0
+2024,2025-03-15,Bolton,Stockport County,0,0,0,1
+2024,2025-03-15,Cambridge United,Peterborough,0,0,0,1
+2024,2025-03-15,Huddersfield,Crawley Town,4,0,5,1
+2024,2025-03-15,Reading,Stevenage,0,0,1,1
+2024,2025-03-15,Rotherham,Exeter City,1,0,1,1
+2024,2025-03-15,Charlton,Wigan,2,0,2,1
+2024,2025-03-15,Northampton,Birmingham,1,1,1,1
+2024,2025-03-15,Shrewsbury,Burton Albion,0,0,0,2
+2024,2025-03-15,Blackpool,Leyton Orient,0,1,1,2
+2024,2025-03-15,Wycombe,Wrexham,0,0,0,1
+2024,2025-03-15,Mansfield Town,Barnsley,1,0,2,1
+2024,2025-03-15,Lincoln,Bristol Rovers,1,0,5,0
+2024,2025-03-18,Rotherham,Wycombe,0,0,2,3
+2024,2025-03-22,Barnsley,Cambridge United,0,1,1,1
+2024,2025-03-22,Northampton,Blackpool,0,1,0,2
+2024,2025-03-22,Peterborough,Charlton,2,0,3,0
+2024,2025-03-22,Crawley Town,Bristol Rovers,1,0,1,0
+2024,2025-03-22,Lincoln,Exeter City,0,0,0,0
+2024,2025-03-22,Wrexham,Stockport County,1,0,1,0
+2024,2025-03-27,Leyton Orient,Stevenage,1,0,1,0
+2024,2025-03-29,Charlton,Huddersfield,2,0,4,0
+2024,2025-03-29,Stockport County,Burton Albion,1,0,2,1
+2024,2025-03-29,Reading,Peterborough,1,0,3,1
+2024,2025-03-29,Birmingham,Shrewsbury,1,0,4,1
+2024,2025-03-29,Wigan,Barnsley,0,1,1,1
+2024,2025-03-29,Rotherham,Crawley Town,0,1,0,4
+2024,2025-03-29,Bristol Rovers,Mansfield Town,1,1,1,2
+2024,2025-03-29,Blackpool,Bolton,1,1,2,1
+2024,2025-03-29,Wycombe,Lincoln,0,0,1,0
+2024,2025-03-29,Exeter City,Wrexham,0,1,0,2
+2024,2025-03-29,Cambridge United,Northampton,0,1,1,1
+2024,2025-04-01,Wigan,Bolton,0,0,0,1
+2024,2025-04-01,Barnsley,Exeter City,0,1,1,2
+2024,2025-04-01,Burton Albion,Leyton Orient,0,1,2,1
+2024,2025-04-01,Northampton,Rotherham,0,1,0,2
+2024,2025-04-01,Blackpool,Reading,0,0,3,0
+2024,2025-04-01,Wycombe,Shrewsbury,0,0,0,0
+2024,2025-04-01,Crawley Town,Peterborough,2,3,3,4
+2024,2025-04-01,Cambridge United,Wrexham,1,1,2,2
+2024,2025-04-01,Mansfield Town,Charlton,1,1,1,2
+2024,2025-04-01,Lincoln,Huddersfield,1,0,1,0
+2024,2025-04-01,Stockport County,Stevenage,1,0,3,0
+2024,2025-04-01,Bristol Rovers,Birmingham,1,1,1,2
+2024,2025-04-05,Reading,Wycombe,0,0,1,0
+2024,2025-04-05,Wrexham,Burton Albion,0,0,3,0
+2024,2025-04-05,Huddersfield,Mansfield Town,0,0,2,1
+2024,2025-04-05,Birmingham,Barnsley,1,1,6,2
+2024,2025-04-05,Bolton,Bristol Rovers,0,0,1,0
+2024,2025-04-05,Rotherham,Blackpool,1,0,2,1
+2024,2025-04-05,Charlton,Lincoln,0,1,2,2
+2024,2025-04-05,Peterborough,Northampton,0,3,0,4
+2024,2025-04-05,Shrewsbury,Cambridge United,0,0,0,1
+2024,2025-04-05,Exeter City,Stockport County,0,2,0,2
+2024,2025-04-05,Stevenage,Crawley Town,1,0,3,1
+2024,2025-04-05,Leyton Orient,Wigan,0,0,0,0
+2024,2025-04-08,Huddersfield,Wycombe,0,0,0,1
+2024,2025-04-08,Bolton,Rotherham,0,1,0,1
+2024,2025-04-08,Peterborough,Birmingham,1,2,1,2
+2024,2025-04-08,Shrewsbury,Reading,0,1,1,3
+2024,2025-04-08,Exeter City,Wigan,0,0,1,1
+2024,2025-04-08,Mansfield Town,Leyton Orient,1,1,2,3
+2024,2025-04-12,Wigan,Wrexham,0,0,0,0
+2024,2025-04-12,Wycombe,Stevenage,0,0,1,0
+2024,2025-04-12,Barnsley,Bolton,2,0,4,1
+2024,2025-04-12,Burton Albion,Huddersfield,2,0,3,0
+2024,2025-04-12,Bristol Rovers,Exeter City,0,2,1,2
+2024,2025-04-12,Northampton,Reading,0,0,0,0
+2024,2025-04-12,Crawley Town,Leyton Orient,0,0,1,3
+2024,2025-04-12,Cambridge United,Charlton,0,1,0,1
+2024,2025-04-12,Lincoln,Shrewsbury,1,1,1,1
+2024,2025-04-12,Stockport County,Rotherham,1,1,3,1
+2024,2025-04-18,Exeter City,Burton Albion,0,0,0,0
+2024,2025-04-18,Huddersfield,Cambridge United,0,0,1,2
+2024,2025-04-18,Reading,Lincoln,0,0,0,1
+2024,2025-04-18,Birmingham,Crawley Town,0,0,0,0
+2024,2025-04-18,Bolton,Wycombe,0,0,0,2
+2024,2025-04-18,Rotherham,Mansfield Town,2,1,3,3
+2024,2025-04-18,Charlton,Northampton,1,1,2,1
+2024,2025-04-18,Peterborough,Stockport County,1,0,1,1
+2024,2025-04-18,Shrewsbury,Wigan,0,0,0,1
+2024,2025-04-18,Stevenage,Blackpool,0,0,1,3
+2024,2025-04-18,Leyton Orient,Barnsley,0,2,4,3
+2024,2025-04-18,Wrexham,Bristol Rovers,0,1,1,1
+2024,2025-04-21,Wigan,Rotherham,1,0,1,0
+2024,2025-04-21,Barnsley,Peterborough,1,1,1,1
+2024,2025-04-21,Burton Albion,Birmingham,0,2,1,2
+2024,2025-04-21,Bristol Rovers,Stevenage,0,1,0,1
+2024,2025-04-21,Northampton,Shrewsbury,2,0,4,1
+2024,2025-04-21,Blackpool,Wrexham,0,0,1,2
+2024,2025-04-21,Wycombe,Charlton,0,2,0,4
+2024,2025-04-21,Crawley Town,Exeter City,3,1,3,1
+2024,2025-04-21,Cambridge United,Leyton Orient,1,0,1,2
+2024,2025-04-21,Mansfield Town,Reading,0,1,1,5
+2024,2025-04-21,Lincoln,Bolton,2,2,4,2
+2024,2025-04-21,Stockport County,Huddersfield,0,0,2,1
+2024,2025-04-24,Stevenage,Birmingham,0,0,0,1
+2024,2025-04-26,Bristol Rovers,Reading,0,0,0,2
+2024,2025-04-26,Leyton Orient,Wycombe,0,0,1,0
+2024,2025-04-26,Wigan,Blackpool,1,0,1,1
+2024,2025-04-26,Barnsley,Shrewsbury,0,1,1,2
+2024,2025-04-26,Burton Albion,Cambridge United,0,0,2,1
+2024,2025-04-26,Peterborough,Bolton,1,1,1,1
+2024,2025-04-26,Crawley Town,Northampton,1,0,3,0
+2024,2025-04-26,Exeter City,Huddersfield,1,1,3,1
+2024,2025-04-26,Stockport County,Lincoln,0,2,3,2
+2024,2025-04-26,Wrexham,Charlton,2,0,3,0
+2024,2025-04-27,Stevenage,Rotherham,0,1,1,1
+2024,2025-04-27,Birmingham,Mansfield Town,2,0,4,0
+2024,2025-04-29,Burton Albion,Wigan,0,0,1,1
+2024,2025-04-30,Blackpool,Birmingham,0,1,0,2
+2024,2025-04-30,Mansfield Town,Peterborough,3,0,4,2
+2024,2025-05-03,Huddersfield,Leyton Orient,1,2,1,4
+2024,2025-05-03,Reading,Barnsley,0,0,2,4
+2024,2025-05-03,Bolton,Stevenage,0,0,1,1
+2024,2025-05-03,Rotherham,Peterborough,1,1,2,1
+2024,2025-05-03,Charlton,Burton Albion,2,1,3,1
+2024,2025-05-03,Northampton,Wigan,1,0,1,1
+2024,2025-05-03,Shrewsbury,Crawley Town,0,0,1,2
+2024,2025-05-03,Blackpool,Bristol Rovers,1,1,4,1
+2024,2025-05-03,Wycombe,Stockport County,1,0,1,3
+2024,2025-05-03,Cambridge United,Birmingham,1,1,1,2
+2024,2025-05-03,Mansfield Town,Exeter City,2,0,3,0
+2024,2025-05-03,Lincoln,Wrexham,0,0,0,2
+2024,2025-05-10,Leyton Orient,Stockport County,1,0,2,2
+2024,2025-05-11,Wycombe,Charlton,0,0,0,0
+2024,2025-05-14,Stockport County,Leyton Orient,0,1,1,1
+2024,2025-05-15,Charlton,Wycombe,0,0,1,0
+2024,2025-05-25,Charlton,Leyton Orient,1,0,1,0
+2025,2025-08-01,Luton,AFC Wimbledon,0,0,1,0
+2025,2025-08-02,Cardiff,Peterborough,0,1,2,1
+2025,2025-08-02,Huddersfield,Leyton Orient,1,0,3,0
+2025,2025-08-02,Wigan,Northampton,2,0,3,1
+2025,2025-08-02,Rotherham,Port Vale,2,0,2,1
+2025,2025-08-02,Burton Albion,Mansfield Town,1,0,2,1
+2025,2025-08-02,Bradford,Wycombe,2,0,2,1
+2025,2025-08-02,Doncaster,Exeter City,0,0,1,0
+2025,2025-08-02,Blackpool,Stevenage,1,2,2,3
+2025,2025-08-02,Plymouth,Barnsley,0,2,1,3
+2025,2025-08-02,Lincoln,Reading,1,0,2,0
+2025,2025-08-03,Stockport County,Bolton,1,0,2,0
+2025,2025-08-07,Port Vale,Cardiff,0,0,0,0
+2025,2025-08-09,Reading,Huddersfield,0,0,0,2
+2025,2025-08-09,Peterborough,Luton,0,0,0,2
+2025,2025-08-09,Bolton,Plymouth,1,0,2,0
+2025,2025-08-09,Barnsley,Burton Albion,0,2,3,2
+2025,2025-08-09,AFC Wimbledon,Lincoln,1,0,2,0
+2025,2025-08-09,Northampton,Bradford,0,0,0,0
+2025,2025-08-09,Wycombe,Stockport County,0,1,1,2
+2025,2025-08-09,Exeter City,Blackpool,2,1,4,1
+2025,2025-08-09,Stevenage,Rotherham,1,0,1,0
+2025,2025-08-09,Leyton Orient,Wigan,1,0,2,0
+2025,2025-08-09,Mansfield Town,Doncaster,0,0,1,2
+2025,2025-08-16,Burton Albion,Port Vale,,,,
+2025,2025-08-16,Exeter City,Mansfield Town,,,,
+2025,2025-08-16,Cardiff,Rotherham,,,,
+2025,2025-08-16,Reading,AFC Wimbledon,,,,
+2025,2025-08-16,Wigan,Peterborough,,,,
+2025,2025-08-16,Barnsley,Bolton,,,,
+2025,2025-08-16,Bradford,Luton,,,,
+2025,2025-08-16,Doncaster,Wycombe,,,,
+2025,2025-08-16,Blackpool,Huddersfield,,,,
+2025,2025-08-16,Stevenage,Northampton,,,,
+2025,2025-08-16,Leyton Orient,Stockport County,,,,
+2025,2025-08-16,Lincoln,Plymouth,,,,
+2025,2025-08-19,Huddersfield,Doncaster,,,,
+2025,2025-08-19,Rotherham,Burton Albion,,,,
+2025,2025-08-19,AFC Wimbledon,Cardiff,,,,
+2025,2025-08-19,Northampton,Lincoln,,,,
+2025,2025-08-19,Peterborough,Barnsley,,,,
+2025,2025-08-19,Port Vale,Stevenage,,,,
+2025,2025-08-19,Plymouth,Leyton Orient,,,,
+2025,2025-08-19,Wycombe,Exeter City,,,,
+2025,2025-08-19,Luton,Wigan,,,,
+2025,2025-08-19,Mansfield Town,Blackpool,,,,
+2025,2025-08-19,Stockport County,Bradford,,,,
+2025,2025-08-20,Bolton,Reading,,,,
+2025,2025-08-23,Rotherham,Wigan,,,,
+2025,2025-08-23,Luton,Cardiff,,,,
+2025,2025-08-23,Huddersfield,Stevenage,,,,
+2025,2025-08-23,Bolton,Lincoln,,,,
+2025,2025-08-23,AFC Wimbledon,Barnsley,,,,
+2025,2025-08-23,Northampton,Exeter City,,,,
+2025,2025-08-23,Peterborough,Bradford,,,,
+2025,2025-08-23,Port Vale,Doncaster,,,,
+2025,2025-08-23,Plymouth,Blackpool,,,,
+2025,2025-08-23,Wycombe,Reading,,,,
+2025,2025-08-23,Mansfield Town,Leyton Orient,,,,
+2025,2025-08-23,Stockport County,Burton Albion,,,,
+2025,2025-08-30,Cardiff,Plymouth,,,,
+2025,2025-08-30,Doncaster,Rotherham,,,,
+2025,2025-08-30,Reading,Port Vale,,,,
+2025,2025-08-30,Wigan,Stockport County,,,,
+2025,2025-08-30,Barnsley,Huddersfield,,,,
+2025,2025-08-30,Burton Albion,Luton,,,,
+2025,2025-08-30,Bradford,AFC Wimbledon,,,,
+2025,2025-08-30,Blackpool,Bolton,,,,
+2025,2025-08-30,Exeter City,Peterborough,,,,
+2025,2025-08-30,Stevenage,Wycombe,,,,
+2025,2025-08-30,Leyton Orient,Northampton,,,,
+2025,2025-08-30,Lincoln,Mansfield Town,,,,
+2025,2025-09-06,Huddersfield,Peterborough,,,,
+2025,2025-09-06,Cardiff,Burton Albion,,,,
+2025,2025-09-06,Reading,Northampton,,,,
+2025,2025-09-06,Bolton,AFC Wimbledon,,,,
+2025,2025-09-06,Rotherham,Exeter City,,,,
+2025,2025-09-06,Port Vale,Leyton Orient,,,,
+2025,2025-09-06,Doncaster,Bradford,,,,
+2025,2025-09-06,Blackpool,Luton,,,,
+2025,2025-09-06,Plymouth,Stockport County,,,,
+2025,2025-09-06,Wycombe,Mansfield Town,,,,
+2025,2025-09-06,Stevenage,Barnsley,,,,
+2025,2025-09-06,Lincoln,Wigan,,,,
+2025,2025-09-13,Northampton,Blackpool,,,,
+2025,2025-09-13,Bradford,Huddersfield,,,,
+2025,2025-09-13,Wigan,Doncaster,,,,
+2025,2025-09-13,Barnsley,Reading,,,,
+2025,2025-09-13,Burton Albion,Lincoln,,,,
+2025,2025-09-13,AFC Wimbledon,Rotherham,,,,
+2025,2025-09-13,Peterborough,Wycombe,,,,
+2025,2025-09-13,Luton,Plymouth,,,,
+2025,2025-09-13,Exeter City,Port Vale,,,,
+2025,2025-09-13,Leyton Orient,Bolton,,,,
+2025,2025-09-13,Mansfield Town,Stevenage,,,,
+2025,2025-09-13,Stockport County,Cardiff,,,,
+2025,2025-09-20,Bolton,Wigan,,,,
+2025,2025-09-20,Blackpool,Barnsley,,,,
+2025,2025-09-20,Lincoln,Luton,,,,
+2025,2025-09-20,Huddersfield,Burton Albion,,,,
+2025,2025-09-20,Cardiff,Bradford,,,,
+2025,2025-09-20,Reading,Leyton Orient,,,,
+2025,2025-09-20,Rotherham,Stockport County,,,,
+2025,2025-09-20,Port Vale,Mansfield Town,,,,
+2025,2025-09-20,Doncaster,AFC Wimbledon,,,,
+2025,2025-09-20,Plymouth,Peterborough,,,,
+2025,2025-09-20,Wycombe,Northampton,,,,
+2025,2025-09-20,Stevenage,Exeter City,,,,
+2025,2025-09-27,AFC Wimbledon,Wycombe,,,,
+2025,2025-09-27,Leyton Orient,Stevenage,,,,
+2025,2025-09-27,Wigan,Cardiff,,,,
+2025,2025-09-27,Barnsley,Port Vale,,,,
+2025,2025-09-27,Burton Albion,Plymouth,,,,
+2025,2025-09-27,Northampton,Bolton,,,,
+2025,2025-09-27,Bradford,Blackpool,,,,
+2025,2025-09-27,Peterborough,Lincoln,,,,
+2025,2025-09-27,Luton,Doncaster,,,,
+2025,2025-09-27,Exeter City,Huddersfield,,,,
+2025,2025-09-27,Mansfield Town,Rotherham,,,,
+2025,2025-09-27,Stockport County,Reading,,,,
+2025,2025-10-02,Rotherham,Bradford,,,,
+2025,2025-10-04,Doncaster,Burton Albion,,,,
+2025,2025-10-04,Wycombe,Barnsley,,,,
+2025,2025-10-04,Huddersfield,Stockport County,,,,
+2025,2025-10-04,Cardiff,Leyton Orient,,,,
+2025,2025-10-04,Reading,Mansfield Town,,,,
+2025,2025-10-04,Bolton,Peterborough,,,,
+2025,2025-10-04,Port Vale,Northampton,,,,
+2025,2025-10-04,Blackpool,AFC Wimbledon,,,,
+2025,2025-10-04,Plymouth,Wigan,,,,
+2025,2025-10-04,Stevenage,Luton,,,,
+2025,2025-10-04,Lincoln,Exeter City,,,,
+2025,2025-10-11,Wigan,Wycombe,,,,
+2025,2025-10-11,Barnsley,Cardiff,,,,
+2025,2025-10-11,Burton Albion,Bolton,,,,
+2025,2025-10-11,AFC Wimbledon,Port Vale,,,,
+2025,2025-10-11,Northampton,Rotherham,,,,
+2025,2025-10-11,Bradford,Lincoln,,,,
+2025,2025-10-11,Peterborough,Stevenage,,,,
+2025,2025-10-11,Luton,Huddersfield,,,,
+2025,2025-10-11,Exeter City,Reading,,,,
+2025,2025-10-11,Leyton Orient,Doncaster,,,,
+2025,2025-10-11,Mansfield Town,Plymouth,,,,
+2025,2025-10-11,Stockport County,Blackpool,,,,
+2025,2025-10-16,Huddersfield,Bolton,,,,
+2025,2025-10-18,Burton Albion,Peterborough,,,,
+2025,2025-10-18,Lincoln,Stevenage,,,,
+2025,2025-10-18,Cardiff,Reading,,,,
+2025,2025-10-18,Wigan,Port Vale,,,,
+2025,2025-10-18,Rotherham,Leyton Orient,,,,
+2025,2025-10-18,Bradford,Barnsley,,,,
+2025,2025-10-18,Doncaster,Northampton,,,,
+2025,2025-10-18,Blackpool,Wycombe,,,,
+2025,2025-10-18,Plymouth,AFC Wimbledon,,,,
+2025,2025-10-18,Luton,Mansfield Town,,,,
+2025,2025-10-18,Stockport County,Exeter City,,,,
+2025,2025-10-23,Exeter City,Plymouth,,,,
+2025,2025-10-25,Bolton,Cardiff,,,,
+2025,2025-10-25,Mansfield Town,Wigan,,,,
+2025,2025-10-25,Reading,Doncaster,,,,
+2025,2025-10-25,Barnsley,Rotherham,,,,
+2025,2025-10-25,AFC Wimbledon,Burton Albion,,,,
+2025,2025-10-25,Northampton,Luton,,,,
+2025,2025-10-25,Peterborough,Blackpool,,,,
+2025,2025-10-25,Wycombe,Huddersfield,,,,
+2025,2025-10-25,Stevenage,Bradford,,,,
+2025,2025-10-25,Leyton Orient,Lincoln,,,,
+2025,2025-10-27,Port Vale,Stockport County,,,,
+2025,2025-11-06,Reading,Stevenage,,,,
+2025,2025-11-08,Northampton,Mansfield Town,,,,
+2025,2025-11-08,Wycombe,Leyton Orient,,,,
+2025,2025-11-08,Huddersfield,Plymouth,,,,
+2025,2025-11-08,Bolton,Port Vale,,,,
+2025,2025-11-08,Rotherham,Lincoln,,,,
+2025,2025-11-08,Bradford,Burton Albion,,,,
+2025,2025-11-08,Peterborough,AFC Wimbledon,,,,
+2025,2025-11-08,Doncaster,Barnsley,,,,
+2025,2025-11-08,Blackpool,Cardiff,,,,
+2025,2025-11-08,Exeter City,Wigan,,,,
+2025,2025-11-08,Stockport County,Luton,,,,
+2025,2025-11-15,Cardiff,Huddersfield,,,,
+2025,2025-11-15,Wigan,Reading,,,,
+2025,2025-11-15,Barnsley,Northampton,,,,
+2025,2025-11-15,Burton Albion,Blackpool,,,,
+2025,2025-11-15,AFC Wimbledon,Stockport County,,,,
+2025,2025-11-15,Port Vale,Wycombe,,,,
+2025,2025-11-15,Plymouth,Bradford,,,,
+2025,2025-11-15,Luton,Rotherham,,,,
+2025,2025-11-15,Stevenage,Bolton,,,,
+2025,2025-11-15,Leyton Orient,Exeter City,,,,
+2025,2025-11-15,Mansfield Town,Peterborough,,,,
+2025,2025-11-15,Lincoln,Doncaster,,,,
+2025,2025-11-20,Peterborough,Stockport County,,,,
+2025,2025-11-22,Port Vale,Plymouth,,,,
+2025,2025-11-22,Exeter City,Burton Albion,,,,
+2025,2025-11-22,Reading,Rotherham,,,,
+2025,2025-11-22,Bolton,Bradford,,,,
+2025,2025-11-22,Barnsley,Luton,,,,
+2025,2025-11-22,AFC Wimbledon,Wigan,,,,
+2025,2025-11-22,Northampton,Cardiff,,,,
+2025,2025-11-22,Wycombe,Lincoln,,,,
+2025,2025-11-22,Stevenage,Doncaster,,,,
+2025,2025-11-22,Leyton Orient,Blackpool,,,,
+2025,2025-11-22,Mansfield Town,Huddersfield,,,,
+2025,2025-11-29,Blackpool,Reading,,,,
+2025,2025-11-29,Stockport County,Barnsley,,,,
+2025,2025-11-29,Huddersfield,AFC Wimbledon,,,,
+2025,2025-11-29,Cardiff,Mansfield Town,,,,
+2025,2025-11-29,Wigan,Stevenage,,,,
+2025,2025-11-29,Rotherham,Wycombe,,,,
+2025,2025-11-29,Burton Albion,Leyton Orient,,,,
+2025,2025-11-29,Bradford,Exeter City,,,,
+2025,2025-11-29,Doncaster,Peterborough,,,,
+2025,2025-11-29,Plymouth,Northampton,,,,
+2025,2025-11-29,Luton,Bolton,,,,
+2025,2025-11-29,Lincoln,Port Vale,,,,
+2025,2025-12-09,Wigan,Burton Albion,,,,
+2025,2025-12-09,Rotherham,Blackpool,,,,
+2025,2025-12-09,Northampton,Huddersfield,,,,
+2025,2025-12-09,Port Vale,Bradford,,,,
+2025,2025-12-09,Doncaster,Stockport County,,,,
+2025,2025-12-09,Wycombe,Plymouth,,,,
+2025,2025-12-09,Exeter City,AFC Wimbledon,,,,
+2025,2025-12-09,Stevenage,Cardiff,,,,
+2025,2025-12-09,Leyton Orient,Luton,,,,
+2025,2025-12-09,Mansfield Town,Bolton,,,,
+2025,2025-12-09,Lincoln,Barnsley,,,,
+2025,2025-12-09,Reading,Peterborough,,,,
+2025,2025-12-13,Huddersfield,Wigan,,,,
+2025,2025-12-13,AFC Wimbledon,Mansfield Town,,,,
+2025,2025-12-13,Cardiff,Doncaster,,,,
+2025,2025-12-13,Bolton,Exeter City,,,,
+2025,2025-12-13,Barnsley,Leyton Orient,,,,
+2025,2025-12-13,Burton Albion,Wycombe,,,,
+2025,2025-12-13,Bradford,Reading,,,,
+2025,2025-12-13,Peterborough,Northampton,,,,
+2025,2025-12-13,Blackpool,Lincoln,,,,
+2025,2025-12-13,Plymouth,Rotherham,,,,
+2025,2025-12-13,Luton,Port Vale,,,,
+2025,2025-12-13,Stockport County,Stevenage,,,,
+2025,2025-12-18,Reading,Luton,,,,
+2025,2025-12-20,Wigan,Blackpool,,,,
+2025,2025-12-20,Stevenage,Burton Albion,,,,
+2025,2025-12-20,Rotherham,Huddersfield,,,,
+2025,2025-12-20,Northampton,AFC Wimbledon,,,,
+2025,2025-12-20,Port Vale,Peterborough,,,,
+2025,2025-12-20,Doncaster,Plymouth,,,,
+2025,2025-12-20,Wycombe,Bolton,,,,
+2025,2025-12-20,Exeter City,Barnsley,,,,
+2025,2025-12-20,Leyton Orient,Bradford,,,,
+2025,2025-12-20,Mansfield Town,Stockport County,,,,
+2025,2025-12-20,Lincoln,Cardiff,,,,
+2025,2025-12-26,Huddersfield,Port Vale,,,,
+2025,2025-12-26,Cardiff,Exeter City,,,,
+2025,2025-12-26,Bolton,Rotherham,,,,
+2025,2025-12-26,Barnsley,Mansfield Town,,,,
+2025,2025-12-26,Burton Albion,Northampton,,,,
+2025,2025-12-26,AFC Wimbledon,Stevenage,,,,
+2025,2025-12-26,Bradford,Wigan,,,,
+2025,2025-12-26,Peterborough,Leyton Orient,,,,
+2025,2025-12-26,Blackpool,Doncaster,,,,
+2025,2025-12-26,Plymouth,Reading,,,,
+2025,2025-12-26,Luton,Wycombe,,,,
+2025,2025-12-26,Stockport County,Lincoln,,,,
+2025,2025-12-29,Huddersfield,Northampton,,,,
+2025,2025-12-29,Cardiff,Stevenage,,,,
+2025,2025-12-29,Bolton,Mansfield Town,,,,
+2025,2025-12-29,Barnsley,Lincoln,,,,
+2025,2025-12-29,Burton Albion,Wigan,,,,
+2025,2025-12-29,AFC Wimbledon,Exeter City,,,,
+2025,2025-12-29,Bradford,Port Vale,,,,
+2025,2025-12-29,Peterborough,Reading,,,,
+2025,2025-12-29,Blackpool,Rotherham,,,,
+2025,2025-12-29,Plymouth,Wycombe,,,,
+2025,2025-12-29,Luton,Leyton Orient,,,,
+2025,2025-12-29,Stockport County,Doncaster,,,,
+2025,2026-01-01,Reading,Burton Albion,,,,
+2025,2026-01-01,Wigan,Barnsley,,,,
+2025,2026-01-01,Rotherham,Peterborough,,,,
+2025,2026-01-01,Northampton,Stockport County,,,,
+2025,2026-01-01,Port Vale,Blackpool,,,,
+2025,2026-01-01,Doncaster,Bolton,,,,
+2025,2026-01-01,Wycombe,Cardiff,,,,
+2025,2026-01-01,Exeter City,Luton,,,,
+2025,2026-01-01,Stevenage,Plymouth,,,,
+2025,2026-01-01,Leyton Orient,AFC Wimbledon,,,,
+2025,2026-01-01,Mansfield Town,Bradford,,,,
+2025,2026-01-01,Lincoln,Huddersfield,,,,
+2025,2026-01-04,Bolton,Northampton,,,,
+2025,2026-01-04,Lincoln,Peterborough,,,,
+2025,2026-01-04,Huddersfield,Exeter City,,,,
+2025,2026-01-04,Cardiff,Wigan,,,,
+2025,2026-01-04,Reading,Stockport County,,,,
+2025,2026-01-04,Rotherham,Mansfield Town,,,,
+2025,2026-01-04,Port Vale,Barnsley,,,,
+2025,2026-01-04,Doncaster,Luton,,,,
+2025,2026-01-04,Blackpool,Bradford,,,,
+2025,2026-01-04,Plymouth,Burton Albion,,,,
+2025,2026-01-04,Wycombe,AFC Wimbledon,,,,
+2025,2026-01-04,Stevenage,Leyton Orient,,,,
+2025,2026-01-10,Wigan,Plymouth,,,,
+2025,2026-01-10,Barnsley,Wycombe,,,,
+2025,2026-01-10,Burton Albion,Doncaster,,,,
+2025,2026-01-10,AFC Wimbledon,Blackpool,,,,
+2025,2026-01-10,Northampton,Port Vale,,,,
+2025,2026-01-10,Bradford,Rotherham,,,,
+2025,2026-01-10,Peterborough,Bolton,,,,
+2025,2026-01-10,Luton,Stevenage,,,,
+2025,2026-01-10,Exeter City,Lincoln,,,,
+2025,2026-01-10,Leyton Orient,Cardiff,,,,
+2025,2026-01-10,Mansfield Town,Reading,,,,
+2025,2026-01-10,Stockport County,Huddersfield,,,,
+2025,2026-01-17,Wigan,Bolton,,,,
+2025,2026-01-17,Barnsley,Blackpool,,,,
+2025,2026-01-17,Burton Albion,Huddersfield,,,,
+2025,2026-01-17,AFC Wimbledon,Doncaster,,,,
+2025,2026-01-17,Northampton,Wycombe,,,,
+2025,2026-01-17,Bradford,Cardiff,,,,
+2025,2026-01-17,Peterborough,Plymouth,,,,
+2025,2026-01-17,Luton,Lincoln,,,,
+2025,2026-01-17,Exeter City,Stevenage,,,,
+2025,2026-01-17,Leyton Orient,Reading,,,,
+2025,2026-01-17,Mansfield Town,Port Vale,,,,
+2025,2026-01-17,Stockport County,Rotherham,,,,
+2025,2026-01-24,Huddersfield,Bradford,,,,
+2025,2026-01-24,Cardiff,Stockport County,,,,
+2025,2026-01-24,Reading,Barnsley,,,,
+2025,2026-01-24,Bolton,Leyton Orient,,,,
+2025,2026-01-24,Rotherham,AFC Wimbledon,,,,
+2025,2026-01-24,Port Vale,Exeter City,,,,
+2025,2026-01-24,Doncaster,Wigan,,,,
+2025,2026-01-24,Blackpool,Northampton,,,,
+2025,2026-01-24,Plymouth,Luton,,,,
+2025,2026-01-24,Wycombe,Peterborough,,,,
+2025,2026-01-24,Stevenage,Mansfield Town,,,,
+2025,2026-01-24,Lincoln,Burton Albion,,,,
+2025,2026-01-27,Huddersfield,Luton,,,,
+2025,2026-01-27,Cardiff,Barnsley,,,,
+2025,2026-01-27,Bolton,Burton Albion,,,,
+2025,2026-01-27,Rotherham,Northampton,,,,
+2025,2026-01-27,Port Vale,AFC Wimbledon,,,,
+2025,2026-01-27,Doncaster,Leyton Orient,,,,
+2025,2026-01-27,Blackpool,Stockport County,,,,
+2025,2026-01-27,Plymouth,Mansfield Town,,,,
+2025,2026-01-27,Wycombe,Wigan,,,,
+2025,2026-01-27,Stevenage,Peterborough,,,,
+2025,2026-01-27,Lincoln,Bradford,,,,
+2025,2026-01-27,Reading,Exeter City,,,,
+2025,2026-01-31,Wigan,Lincoln,,,,
+2025,2026-01-31,Barnsley,Stevenage,,,,
+2025,2026-01-31,Burton Albion,Cardiff,,,,
+2025,2026-01-31,AFC Wimbledon,Bolton,,,,
+2025,2026-01-31,Northampton,Reading,,,,
+2025,2026-01-31,Bradford,Doncaster,,,,
+2025,2026-01-31,Peterborough,Huddersfield,,,,
+2025,2026-01-31,Luton,Blackpool,,,,
+2025,2026-01-31,Exeter City,Rotherham,,,,
+2025,2026-01-31,Leyton Orient,Port Vale,,,,
+2025,2026-01-31,Mansfield Town,Wycombe,,,,
+2025,2026-01-31,Stockport County,Plymouth,,,,
+2025,2026-02-07,Huddersfield,Blackpool,,,,
+2025,2026-02-07,Bolton,Barnsley,,,,
+2025,2026-02-07,Rotherham,Cardiff,,,,
+2025,2026-02-07,AFC Wimbledon,Reading,,,,
+2025,2026-02-07,Northampton,Stevenage,,,,
+2025,2026-02-07,Peterborough,Wigan,,,,
+2025,2026-02-07,Port Vale,Burton Albion,,,,
+2025,2026-02-07,Plymouth,Lincoln,,,,
+2025,2026-02-07,Wycombe,Doncaster,,,,
+2025,2026-02-07,Luton,Bradford,,,,
+2025,2026-02-07,Mansfield Town,Exeter City,,,,
+2025,2026-02-07,Stockport County,Leyton Orient,,,,
+2025,2026-02-14,Cardiff,Luton,,,,
+2025,2026-02-14,Reading,Wycombe,,,,
+2025,2026-02-14,Wigan,Rotherham,,,,
+2025,2026-02-14,Barnsley,AFC Wimbledon,,,,
+2025,2026-02-14,Burton Albion,Stockport County,,,,
+2025,2026-02-14,Bradford,Peterborough,,,,
+2025,2026-02-14,Doncaster,Port Vale,,,,
+2025,2026-02-14,Blackpool,Plymouth,,,,
+2025,2026-02-14,Exeter City,Northampton,,,,
+2025,2026-02-14,Stevenage,Huddersfield,,,,
+2025,2026-02-14,Leyton Orient,Mansfield Town,,,,
+2025,2026-02-14,Lincoln,Bolton,,,,
+2025,2026-02-17,Cardiff,AFC Wimbledon,,,,
+2025,2026-02-17,Wigan,Luton,,,,
+2025,2026-02-17,Barnsley,Peterborough,,,,
+2025,2026-02-17,Burton Albion,Rotherham,,,,
+2025,2026-02-17,Bradford,Stockport County,,,,
+2025,2026-02-17,Doncaster,Huddersfield,,,,
+2025,2026-02-17,Blackpool,Mansfield Town,,,,
+2025,2026-02-17,Exeter City,Wycombe,,,,
+2025,2026-02-17,Stevenage,Port Vale,,,,
+2025,2026-02-17,Leyton Orient,Plymouth,,,,
+2025,2026-02-17,Lincoln,Northampton,,,,
+2025,2026-02-17,Reading,Bolton,,,,
+2025,2026-02-21,Rotherham,Doncaster,,,,
+2025,2026-02-21,Huddersfield,Barnsley,,,,
+2025,2026-02-21,Bolton,Blackpool,,,,
+2025,2026-02-21,AFC Wimbledon,Bradford,,,,
+2025,2026-02-21,Northampton,Leyton Orient,,,,
+2025,2026-02-21,Peterborough,Exeter City,,,,
+2025,2026-02-21,Port Vale,Reading,,,,
+2025,2026-02-21,Plymouth,Cardiff,,,,
+2025,2026-02-21,Wycombe,Stevenage,,,,
+2025,2026-02-21,Luton,Burton Albion,,,,
+2025,2026-02-21,Mansfield Town,Lincoln,,,,
+2025,2026-02-21,Stockport County,Wigan,,,,
+2025,2026-02-28,Reading,Bradford,,,,
+2025,2026-02-28,Wigan,Huddersfield,,,,
+2025,2026-02-28,Rotherham,Plymouth,,,,
+2025,2026-02-28,Northampton,Peterborough,,,,
+2025,2026-02-28,Port Vale,Luton,,,,
+2025,2026-02-28,Doncaster,Cardiff,,,,
+2025,2026-02-28,Wycombe,Burton Albion,,,,
+2025,2026-02-28,Exeter City,Bolton,,,,
+2025,2026-02-28,Stevenage,Stockport County,,,,
+2025,2026-02-28,Leyton Orient,Barnsley,,,,
+2025,2026-02-28,Mansfield Town,AFC Wimbledon,,,,
+2025,2026-02-28,Lincoln,Blackpool,,,,
+2025,2026-03-07,Huddersfield,Rotherham,,,,
+2025,2026-03-07,Cardiff,Lincoln,,,,
+2025,2026-03-07,Bolton,Wycombe,,,,
+2025,2026-03-07,Barnsley,Exeter City,,,,
+2025,2026-03-07,Burton Albion,Stevenage,,,,
+2025,2026-03-07,AFC Wimbledon,Northampton,,,,
+2025,2026-03-07,Bradford,Leyton Orient,,,,
+2025,2026-03-07,Peterborough,Port Vale,,,,
+2025,2026-03-07,Blackpool,Wigan,,,,
+2025,2026-03-07,Plymouth,Doncaster,,,,
+2025,2026-03-07,Luton,Reading,,,,
+2025,2026-03-07,Stockport County,Mansfield Town,,,,
+2025,2026-03-14,Reading,Plymouth,,,,
+2025,2026-03-14,Wigan,Bradford,,,,
+2025,2026-03-14,Rotherham,Bolton,,,,
+2025,2026-03-14,Northampton,Burton Albion,,,,
+2025,2026-03-14,Port Vale,Huddersfield,,,,
+2025,2026-03-14,Doncaster,Blackpool,,,,
+2025,2026-03-14,Wycombe,Luton,,,,
+2025,2026-03-14,Exeter City,Cardiff,,,,
+2025,2026-03-14,Stevenage,AFC Wimbledon,,,,
+2025,2026-03-14,Leyton Orient,Peterborough,,,,
+2025,2026-03-14,Mansfield Town,Barnsley,,,,
+2025,2026-03-14,Lincoln,Stockport County,,,,
+2025,2026-03-17,Huddersfield,Lincoln,,,,
+2025,2026-03-17,Cardiff,Wycombe,,,,
+2025,2026-03-17,Bolton,Doncaster,,,,
+2025,2026-03-17,Barnsley,Wigan,,,,
+2025,2026-03-17,Burton Albion,Reading,,,,
+2025,2026-03-17,AFC Wimbledon,Leyton Orient,,,,
+2025,2026-03-17,Bradford,Mansfield Town,,,,
+2025,2026-03-17,Peterborough,Rotherham,,,,
+2025,2026-03-17,Blackpool,Port Vale,,,,
+2025,2026-03-17,Plymouth,Stevenage,,,,
+2025,2026-03-17,Luton,Exeter City,,,,
+2025,2026-03-17,Stockport County,Northampton,,,,
+2025,2026-03-21,Cardiff,Blackpool,,,,
+2025,2026-03-21,Wigan,Exeter City,,,,
+2025,2026-03-21,Barnsley,Doncaster,,,,
+2025,2026-03-21,Burton Albion,Bradford,,,,
+2025,2026-03-21,AFC Wimbledon,Peterborough,,,,
+2025,2026-03-21,Port Vale,Bolton,,,,
+2025,2026-03-21,Plymouth,Huddersfield,,,,
+2025,2026-03-21,Luton,Stockport County,,,,
+2025,2026-03-21,Stevenage,Reading,,,,
+2025,2026-03-21,Leyton Orient,Wycombe,,,,
+2025,2026-03-21,Mansfield Town,Northampton,,,,
+2025,2026-03-21,Lincoln,Rotherham,,,,
+2025,2026-03-28,Huddersfield,Cardiff,,,,
+2025,2026-03-28,Reading,Wigan,,,,
+2025,2026-03-28,Bolton,Stevenage,,,,
+2025,2026-03-28,Rotherham,Luton,,,,
+2025,2026-03-28,Northampton,Barnsley,,,,
+2025,2026-03-28,Bradford,Plymouth,,,,
+2025,2026-03-28,Peterborough,Mansfield Town,,,,
+2025,2026-03-28,Doncaster,Lincoln,,,,
+2025,2026-03-28,Blackpool,Burton Albion,,,,
+2025,2026-03-28,Wycombe,Port Vale,,,,
+2025,2026-03-28,Exeter City,Leyton Orient,,,,
+2025,2026-03-28,Stockport County,AFC Wimbledon,,,,
+2025,2026-04-03,Huddersfield,Reading,,,,
+2025,2026-04-03,Cardiff,Port Vale,,,,
+2025,2026-04-03,Wigan,Leyton Orient,,,,
+2025,2026-04-03,Rotherham,Stevenage,,,,
+2025,2026-04-03,Burton Albion,Barnsley,,,,
+2025,2026-04-03,Bradford,Northampton,,,,
+2025,2026-04-03,Doncaster,Mansfield Town,,,,
+2025,2026-04-03,Blackpool,Exeter City,,,,
+2025,2026-04-03,Plymouth,Bolton,,,,
+2025,2026-04-03,Luton,Peterborough,,,,
+2025,2026-04-03,Lincoln,AFC Wimbledon,,,,
+2025,2026-04-03,Stockport County,Wycombe,,,,
+2025,2026-04-06,Reading,Lincoln,,,,
+2025,2026-04-06,Bolton,Stockport County,,,,
+2025,2026-04-06,Barnsley,Plymouth,,,,
+2025,2026-04-06,AFC Wimbledon,Luton,,,,
+2025,2026-04-06,Northampton,Wigan,,,,
+2025,2026-04-06,Peterborough,Cardiff,,,,
+2025,2026-04-06,Port Vale,Rotherham,,,,
+2025,2026-04-06,Wycombe,Bradford,,,,
+2025,2026-04-06,Exeter City,Doncaster,,,,
+2025,2026-04-06,Stevenage,Blackpool,,,,
+2025,2026-04-06,Leyton Orient,Huddersfield,,,,
+2025,2026-04-06,Mansfield Town,Burton Albion,,,,
+2025,2026-04-11,Huddersfield,Wycombe,,,,
+2025,2026-04-11,Cardiff,Bolton,,,,
+2025,2026-04-11,Wigan,Mansfield Town,,,,
+2025,2026-04-11,Rotherham,Barnsley,,,,
+2025,2026-04-11,Burton Albion,AFC Wimbledon,,,,
+2025,2026-04-11,Bradford,Stevenage,,,,
+2025,2026-04-11,Doncaster,Reading,,,,
+2025,2026-04-11,Blackpool,Peterborough,,,,
+2025,2026-04-11,Plymouth,Exeter City,,,,
+2025,2026-04-11,Luton,Northampton,,,,
+2025,2026-04-11,Lincoln,Leyton Orient,,,,
+2025,2026-04-11,Stockport County,Port Vale,,,,
+2025,2026-04-18,Reading,Cardiff,,,,
+2025,2026-04-18,Bolton,Huddersfield,,,,
+2025,2026-04-18,Barnsley,Bradford,,,,
+2025,2026-04-18,AFC Wimbledon,Plymouth,,,,
+2025,2026-04-18,Northampton,Doncaster,,,,
+2025,2026-04-18,Peterborough,Burton Albion,,,,
+2025,2026-04-18,Port Vale,Wigan,,,,
+2025,2026-04-18,Wycombe,Blackpool,,,,
+2025,2026-04-18,Exeter City,Stockport County,,,,
+2025,2026-04-18,Stevenage,Lincoln,,,,
+2025,2026-04-18,Leyton Orient,Rotherham,,,,
+2025,2026-04-18,Mansfield Town,Luton,,,,
+2025,2026-04-25,Huddersfield,Mansfield Town,,,,
+2025,2026-04-25,Cardiff,Northampton,,,,
+2025,2026-04-25,Wigan,AFC Wimbledon,,,,
+2025,2026-04-25,Rotherham,Reading,,,,
+2025,2026-04-25,Burton Albion,Exeter City,,,,
+2025,2026-04-25,Bradford,Bolton,,,,
+2025,2026-04-25,Doncaster,Stevenage,,,,
+2025,2026-04-25,Blackpool,Leyton Orient,,,,
+2025,2026-04-25,Plymouth,Port Vale,,,,
+2025,2026-04-25,Luton,Barnsley,,,,
+2025,2026-04-25,Lincoln,Wycombe,,,,
+2025,2026-04-25,Stockport County,Peterborough,,,,
+2025,2026-05-02,Reading,Blackpool,,,,
+2025,2026-05-02,Bolton,Luton,,,,
+2025,2026-05-02,Barnsley,Stockport County,,,,
+2025,2026-05-02,AFC Wimbledon,Huddersfield,,,,
+2025,2026-05-02,Northampton,Plymouth,,,,
+2025,2026-05-02,Peterborough,Doncaster,,,,
+2025,2026-05-02,Port Vale,Lincoln,,,,
+2025,2026-05-02,Wycombe,Rotherham,,,,
+2025,2026-05-02,Exeter City,Bradford,,,,
+2025,2026-05-02,Stevenage,Wigan,,,,
+2025,2026-05-02,Leyton Orient,Burton Albion,,,,
+2025,2026-05-02,Mansfield Town,Cardiff,,,,

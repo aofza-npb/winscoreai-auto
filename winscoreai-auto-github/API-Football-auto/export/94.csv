@@ -1,0 +1,615 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-08-09,Sporting CP,Rio Ave,2,0,3,1
+2024,2024-08-10,AVS,Nacional,0,1,1,1
+2024,2024-08-10,Casa Pia,Boavista,0,0,0,1
+2024,2024-08-10,FC Porto,GIL Vicente,1,0,3,0
+2024,2024-08-11,Estoril,Santa Clara,1,1,1,4
+2024,2024-08-11,Farense,Moreirense,0,1,1,2
+2024,2024-08-11,Famalicao,Benfica,1,0,2,0
+2024,2024-08-11,SC Braga,Estrela,0,0,1,1
+2024,2024-08-12,Arouca,Guimaraes,0,1,0,1
+2024,2024-08-16,Santa Clara,FC Porto,0,2,0,2
+2024,2024-08-16,GIL Vicente,AVS,2,2,4,2
+2024,2024-08-17,Rio Ave,Farense,1,0,1,0
+2024,2024-08-17,Nacional,Sporting CP,1,2,1,6
+2024,2024-08-17,Benfica,Casa Pia,0,0,3,0
+2024,2024-08-18,Moreirense,Arouca,2,1,3,1
+2024,2024-08-18,Guimaraes,Estoril,1,0,1,0
+2024,2024-08-18,Boavista,SC Braga,0,1,0,1
+2024,2024-08-19,Estrela,Famalicao,0,1,0,3
+2024,2024-08-23,Farense,Sporting CP,0,2,0,5
+2024,2024-08-24,Casa Pia,Santa Clara,0,0,0,2
+2024,2024-08-24,FC Porto,Rio Ave,2,0,2,0
+2024,2024-08-24,Benfica,Estrela,1,0,1,0
+2024,2024-08-24,Famalicao,Boavista,1,0,1,0
+2024,2024-08-25,Arouca,Nacional,1,0,1,0
+2024,2024-08-25,Estoril,GIL Vicente,0,0,0,0
+2024,2024-08-25,SC Braga,Moreirense,1,0,3,1
+2024,2024-08-25,AVS,Guimaraes,0,0,1,0
+2024,2024-08-30,Moreirense,Benfica,0,0,1,1
+2024,2024-08-31,Santa Clara,AVS,1,1,2,1
+2024,2024-08-31,Boavista,Estoril,0,0,0,0
+2024,2024-08-31,Estrela,Casa Pia,0,0,0,1
+2024,2024-08-31,Sporting CP,FC Porto,0,0,2,0
+2024,2024-09-01,Nacional,Farense,1,0,2,0
+2024,2024-09-01,Rio Ave,Arouca,1,0,1,0
+2024,2024-09-01,Guimaraes,Famalicao,1,1,2,1
+2024,2024-09-01,GIL Vicente,SC Braga,0,0,0,0
+2024,2024-09-13,Arouca,Sporting CP,0,1,0,3
+2024,2024-09-14,Casa Pia,Moreirense,0,1,3,1
+2024,2024-09-14,AVS,Rio Ave,0,0,1,0
+2024,2024-09-14,Benfica,Santa Clara,2,1,4,1
+2024,2024-09-14,Famalicao,GIL Vicente,1,0,1,1
+2024,2024-09-15,FC Porto,Farense,0,0,2,1
+2024,2024-09-15,Estoril,Nacional,1,0,1,0
+2024,2024-09-15,SC Braga,Guimaraes,0,0,0,2
+2024,2024-09-16,Estrela,Boavista,1,2,2,2
+2024,2024-09-20,Nacional,SC Braga,0,0,0,3
+2024,2024-09-21,Rio Ave,Estoril,1,0,2,2
+2024,2024-09-21,Santa Clara,Estrela,0,0,1,0
+2024,2024-09-21,Guimaraes,FC Porto,0,0,0,3
+2024,2024-09-21,Moreirense,Famalicao,0,0,0,0
+2024,2024-09-22,GIL Vicente,Casa Pia,1,0,1,1
+2024,2024-09-22,Farense,Arouca,0,1,0,1
+2024,2024-09-22,Sporting CP,AVS,2,0,3,0
+2024,2024-09-23,Boavista,Benfica,0,2,0,3
+2024,2024-09-27,Estoril,Sporting CP,0,2,0,3
+2024,2024-09-28,Estrela,Moreirense,2,0,2,1
+2024,2024-09-28,Casa Pia,Guimaraes,1,0,1,1
+2024,2024-09-28,Benfica,GIL Vicente,2,1,5,1
+2024,2024-09-29,Famalicao,Nacional,0,0,0,0
+2024,2024-09-29,FC Porto,Arouca,0,0,4,0
+2024,2024-09-29,SC Braga,Rio Ave,2,0,4,0
+2024,2024-09-29,Santa Clara,Boavista,1,0,1,0
+2024,2024-09-30,AVS,Farense,0,0,0,0
+2024,2024-10-04,Rio Ave,Famalicao,0,0,1,1
+2024,2024-10-05,Moreirense,Santa Clara,0,0,1,0
+2024,2024-10-05,GIL Vicente,Estrela,2,0,3,0
+2024,2024-10-05,Arouca,AVS,1,0,1,1
+2024,2024-10-05,Sporting CP,Casa Pia,1,0,2,0
+2024,2024-10-06,Guimaraes,Boavista,1,0,2,2
+2024,2024-10-06,Farense,Estoril,0,0,1,0
+2024,2024-10-06,FC Porto,SC Braga,1,0,2,1
+2024,2024-10-25,Casa Pia,Nacional,1,0,1,0
+2024,2024-10-25,Santa Clara,GIL Vicente,2,1,2,1
+2024,2024-10-26,Estoril,Arouca,2,1,4,1
+2024,2024-10-26,Boavista,Moreirense,0,1,0,2
+2024,2024-10-26,Famalicao,Sporting CP,0,0,0,3
+2024,2024-10-27,SC Braga,Farense,1,0,2,0
+2024,2024-10-27,Benfica,Rio Ave,3,0,5,0
+2024,2024-10-27,Estrela,Guimaraes,1,1,2,2
+2024,2024-10-28,AVS,FC Porto,0,4,0,5
+2024,2024-11-01,Sporting CP,Estrela,3,1,5,1
+2024,2024-11-02,Rio Ave,Casa Pia,2,2,2,2
+2024,2024-11-02,Farense,Benfica,1,1,1,2
+2024,2024-11-02,GIL Vicente,Boavista,0,0,1,2
+2024,2024-11-03,AVS,Famalicao,2,2,2,3
+2024,2024-11-03,Guimaraes,Moreirense,0,0,1,0
+2024,2024-11-03,Arouca,SC Braga,0,1,1,2
+2024,2024-11-03,FC Porto,Estoril,2,0,4,0
+2024,2024-11-04,Nacional,Santa Clara,2,0,2,0
+2024,2024-11-08,Moreirense,GIL Vicente,0,1,3,2
+2024,2024-11-09,Estoril,AVS,0,0,0,0
+2024,2024-11-09,Casa Pia,Farense,1,1,1,1
+2024,2024-11-09,Famalicao,Arouca,0,0,0,0
+2024,2024-11-09,Boavista,Rio Ave,0,1,0,2
+2024,2024-11-10,Estrela,Nacional,0,0,2,0
+2024,2024-11-10,Santa Clara,Guimaraes,0,0,1,0
+2024,2024-11-10,SC Braga,Sporting CP,2,0,2,4
+2024,2024-11-10,Benfica,FC Porto,1,1,4,1
+2024,2024-11-29,Farense,Estrela,1,0,1,0
+2024,2024-11-30,Rio Ave,Moreirense,1,0,3,2
+2024,2024-11-30,Nacional,Boavista,0,0,0,0
+2024,2024-11-30,Sporting CP,Santa Clara,0,1,0,1
+2024,2024-12-01,Estoril,Famalicao,2,1,2,1
+2024,2024-12-01,Arouca,Benfica,0,1,0,2
+2024,2024-12-01,AVS,SC Braga,0,0,0,1
+2024,2024-12-02,Guimaraes,GIL Vicente,1,0,4,0
+2024,2024-12-02,FC Porto,Casa Pia,0,0,2,0
+2024,2024-12-05,Moreirense,Sporting CP,2,1,2,1
+2024,2024-12-06,SC Braga,Estoril,1,0,2,2
+2024,2024-12-07,GIL Vicente,Nacional,1,0,2,1
+2024,2024-12-07,Benfica,Guimaraes,1,0,1,0
+2024,2024-12-07,Santa Clara,Rio Ave,1,0,1,0
+2024,2024-12-07,Famalicao,FC Porto,1,0,1,1
+2024,2024-12-08,Boavista,Farense,0,0,1,1
+2024,2024-12-08,Casa Pia,AVS,1,0,1,1
+2024,2024-12-09,Estrela,Arouca,0,1,2,1
+2024,2024-12-14,Farense,GIL Vicente,0,0,0,1
+2024,2024-12-14,Nacional,Moreirense,0,0,1,0
+2024,2024-12-14,Sporting CP,Boavista,1,1,3,2
+2024,2024-12-15,Arouca,Santa Clara,0,0,1,0
+2024,2024-12-15,AVS,Benfica,0,1,1,1
+2024,2024-12-15,Estoril,Casa Pia,0,0,0,2
+2024,2024-12-16,SC Braga,Famalicao,0,1,3,3
+2024,2024-12-16,FC Porto,Estrela,1,0,2,0
+2024,2024-12-16,Rio Ave,Guimaraes,2,0,2,2
+2024,2024-12-19,Nacional,Benfica,0,0,0,2
+2024,2024-12-20,Casa Pia,Arouca,2,0,3,1
+2024,2024-12-21,Famalicao,Farense,0,1,1,2
+2024,2024-12-21,Boavista,AVS,0,0,0,0
+2024,2024-12-21,Moreirense,FC Porto,0,1,0,3
+2024,2024-12-22,Santa Clara,SC Braga,0,0,0,2
+2024,2024-12-22,GIL Vicente,Sporting CP,0,0,0,0
+2024,2024-12-23,Benfica,Estoril,1,0,3,0
+2024,2024-12-23,Guimaraes,Nacional,1,1,2,2
+2024,2024-12-23,Estrela,Rio Ave,1,0,1,0
+2024,2024-12-27,Arouca,GIL Vicente,0,0,1,1
+2024,2024-12-28,AVS,Estrela,0,1,1,1
+2024,2024-12-28,Estoril,Moreirense,2,1,2,2
+2024,2024-12-28,FC Porto,Boavista,1,0,4,0
+2024,2024-12-29,Rio Ave,Nacional,1,1,2,1
+2024,2024-12-29,Farense,Guimaraes,1,0,2,2
+2024,2024-12-29,SC Braga,Casa Pia,1,1,1,2
+2024,2024-12-29,Sporting CP,Benfica,1,0,1,0
+2024,2024-12-30,Famalicao,Santa Clara,0,1,1,2
+2024,2025-01-03,Guimaraes,Sporting CP,1,2,4,4
+2024,2025-01-04,Moreirense,AVS,1,1,1,1
+2024,2025-01-04,Benfica,SC Braga,0,2,1,2
+2024,2025-01-04,Boavista,Arouca,0,1,1,3
+2024,2025-01-05,Santa Clara,Farense,0,0,0,0
+2024,2025-01-05,Casa Pia,Famalicao,1,1,1,1
+2024,2025-01-05,Estrela,Estoril,0,3,2,4
+2024,2025-01-06,GIL Vicente,Rio Ave,1,0,1,1
+2024,2025-01-12,Nacional,FC Porto,2,0,2,0
+2024,2025-01-17,Benfica,Famalicao,2,0,4,0
+2024,2025-01-18,Santa Clara,Estoril,1,2,2,3
+2024,2025-01-18,Rio Ave,Sporting CP,0,2,0,3
+2024,2025-01-18,Guimaraes,Arouca,2,0,2,2
+2024,2025-01-19,Moreirense,Farense,0,0,0,0
+2024,2025-01-19,Nacional,AVS,3,1,3,1
+2024,2025-01-19,Estrela,SC Braga,0,0,0,1
+2024,2025-01-19,GIL Vicente,FC Porto,1,0,3,1
+2024,2025-01-20,Boavista,Casa Pia,1,2,2,3
+2024,2025-01-24,Arouca,Moreirense,0,0,1,0
+2024,2025-01-25,Farense,Rio Ave,0,1,1,2
+2024,2025-01-25,Famalicao,Estrela,0,0,0,0
+2024,2025-01-25,Casa Pia,Benfica,1,1,3,1
+2024,2025-01-25,Sporting CP,Nacional,1,0,2,0
+2024,2025-01-26,Estoril,Guimaraes,0,0,1,0
+2024,2025-01-26,FC Porto,Santa Clara,0,1,1,1
+2024,2025-01-26,SC Braga,Boavista,2,0,3,0
+2024,2025-01-27,AVS,GIL Vicente,0,0,1,0
+2024,2025-01-31,Boavista,Famalicao,0,1,0,2
+2024,2025-02-01,Nacional,Arouca,1,2,1,2
+2024,2025-02-01,Santa Clara,Casa Pia,0,1,2,1
+2024,2025-02-01,GIL Vicente,Estoril,1,1,1,2
+2024,2025-02-01,Guimaraes,AVS,0,0,2,0
+2024,2025-02-02,Sporting CP,Farense,2,1,3,1
+2024,2025-02-02,Estrela,Benfica,1,3,2,3
+2024,2025-02-03,Moreirense,SC Braga,1,0,1,2
+2024,2025-02-03,Rio Ave,FC Porto,1,0,2,2
+2024,2025-02-07,FC Porto,Sporting CP,0,1,1,1
+2024,2025-02-08,AVS,Santa Clara,0,0,1,2
+2024,2025-02-08,Benfica,Moreirense,3,1,3,2
+2024,2025-02-08,Famalicao,Guimaraes,0,0,0,0
+2024,2025-02-09,Estoril,Boavista,1,0,2,1
+2024,2025-02-09,Farense,Nacional,0,0,0,2
+2024,2025-02-09,SC Braga,GIL Vicente,1,0,2,0
+2024,2025-02-09,Casa Pia,Estrela,1,0,1,0
+2024,2025-02-10,Arouca,Rio Ave,0,0,1,1
+2024,2025-02-14,Boavista,Estrela,0,1,0,1
+2024,2025-02-15,Moreirense,Casa Pia,3,0,3,2
+2024,2025-02-15,Nacional,Estoril,1,1,2,2
+2024,2025-02-15,Santa Clara,Benfica,0,0,0,1
+2024,2025-02-15,Sporting CP,Arouca,1,2,2,2
+2024,2025-02-16,Rio Ave,AVS,0,1,1,1
+2024,2025-02-16,Farense,FC Porto,0,0,0,1
+2024,2025-02-16,Guimaraes,SC Braga,0,0,0,0
+2024,2025-02-17,GIL Vicente,Famalicao,0,1,0,2
+2024,2025-02-21,SC Braga,Nacional,1,0,1,0
+2024,2025-02-22,Casa Pia,GIL Vicente,0,0,1,0
+2024,2025-02-22,Benfica,Boavista,1,0,3,0
+2024,2025-02-22,Estoril,Rio Ave,0,0,2,1
+2024,2025-02-23,Arouca,Farense,0,1,2,2
+2024,2025-02-23,Estrela,Santa Clara,0,0,0,0
+2024,2025-02-23,AVS,Sporting CP,0,2,2,2
+2024,2025-02-23,Famalicao,Moreirense,0,0,2,0
+2024,2025-02-24,FC Porto,Guimaraes,0,0,1,1
+2024,2025-03-01,Nacional,Famalicao,1,0,2,1
+2024,2025-03-01,Arouca,FC Porto,0,1,0,2
+2024,2025-03-01,Guimaraes,Casa Pia,0,0,1,0
+2024,2025-03-02,Moreirense,Estrela,0,0,1,1
+2024,2025-03-02,Boavista,Santa Clara,0,0,1,0
+2024,2025-03-02,Farense,AVS,0,0,0,1
+2024,2025-03-02,Rio Ave,SC Braga,1,1,2,1
+2024,2025-03-03,Sporting CP,Estoril,2,0,3,1
+2024,2025-03-07,Estrela,GIL Vicente,0,0,1,1
+2024,2025-03-08,AVS,Arouca,0,0,0,1
+2024,2025-03-08,Benfica,Nacional,2,0,3,0
+2024,2025-03-08,Estoril,Farense,0,0,2,2
+2024,2025-03-08,SC Braga,FC Porto,1,0,1,0
+2024,2025-03-09,Santa Clara,Moreirense,0,0,1,1
+2024,2025-03-09,Casa Pia,Sporting CP,1,2,1,3
+2024,2025-03-09,Boavista,Guimaraes,1,0,1,2
+2024,2025-03-10,Famalicao,Rio Ave,1,0,1,0
+2024,2025-03-15,Farense,SC Braga,0,0,0,1
+2024,2025-03-15,GIL Vicente,Santa Clara,0,1,0,1
+2024,2025-03-15,FC Porto,AVS,1,0,2,0
+2024,2025-03-15,Sporting CP,Famalicao,1,1,3,1
+2024,2025-03-16,Nacional,Casa Pia,1,0,3,1
+2024,2025-03-16,Arouca,Estoril,1,0,1,1
+2024,2025-03-16,Rio Ave,Benfica,0,1,2,3
+2024,2025-03-16,Moreirense,Boavista,1,0,1,0
+2024,2025-03-16,Guimaraes,Estrela,1,0,2,0
+2024,2025-03-28,GIL Vicente,Benfica,0,1,0,3
+2024,2025-03-29,Casa Pia,Rio Ave,1,1,2,1
+2024,2025-03-29,Estrela,Sporting CP,0,0,0,3
+2024,2025-03-29,SC Braga,Arouca,2,0,2,1
+2024,2025-03-30,Santa Clara,Nacional,1,0,1,0
+2024,2025-03-30,Famalicao,AVS,0,0,4,1
+2024,2025-03-30,Estoril,FC Porto,1,1,1,2
+2024,2025-03-30,Moreirense,Guimaraes,1,1,2,2
+2024,2025-04-01,Boavista,GIL Vicente,0,0,1,3
+2024,2025-04-02,Benfica,Farense,2,1,3,2
+2024,2025-04-04,AVS,Estoril,0,2,0,3
+2024,2025-04-05,Arouca,Famalicao,0,1,1,2
+2024,2025-04-05,Guimaraes,Santa Clara,1,0,2,0
+2024,2025-04-06,GIL Vicente,Moreirense,0,0,0,1
+2024,2025-04-06,Nacional,Estrela,0,0,0,1
+2024,2025-04-06,FC Porto,Benfica,0,2,1,4
+2024,2025-04-07,Farense,Casa Pia,0,0,0,0
+2024,2025-04-07,Rio Ave,Boavista,0,1,0,2
+2024,2025-04-07,Sporting CP,SC Braga,1,0,1,1
+2024,2025-04-11,GIL Vicente,Guimaraes,0,0,0,1
+2024,2025-04-12,Boavista,Nacional,0,1,0,1
+2024,2025-04-12,Famalicao,Estoril,0,0,3,0
+2024,2025-04-12,Santa Clara,Sporting CP,0,0,0,1
+2024,2025-04-12,Casa Pia,FC Porto,0,1,0,1
+2024,2025-04-13,Estrela,Farense,0,0,0,1
+2024,2025-04-13,Benfica,Arouca,0,0,2,2
+2024,2025-04-13,SC Braga,AVS,3,1,4,1
+2024,2025-04-13,Moreirense,Rio Ave,0,0,0,2
+2024,2025-04-18,Rio Ave,Santa Clara,1,0,1,1
+2024,2025-04-18,Farense,Boavista,0,0,0,1
+2024,2025-04-18,FC Porto,Famalicao,1,0,2,1
+2024,2025-04-18,Sporting CP,Moreirense,2,0,3,1
+2024,2025-04-19,Nacional,GIL Vicente,0,1,0,3
+2024,2025-04-19,AVS,Casa Pia,1,0,1,1
+2024,2025-04-19,Estoril,SC Braga,0,2,0,2
+2024,2025-04-19,Arouca,Estrela,0,0,1,0
+2024,2025-04-19,Guimaraes,Benfica,0,1,0,3
+2024,2025-04-25,Famalicao,SC Braga,1,0,1,1
+2024,2025-04-26,Santa Clara,Arouca,2,0,2,0
+2024,2025-04-26,GIL Vicente,Farense,0,0,1,0
+2024,2025-04-26,Estrela,FC Porto,1,0,2,0
+2024,2025-04-27,Moreirense,Nacional,0,0,1,1
+2024,2025-04-27,Benfica,AVS,4,0,6,0
+2024,2025-04-27,Guimaraes,Rio Ave,3,0,3,0
+2024,2025-04-27,Boavista,Sporting CP,0,2,0,5
+2024,2025-04-29,Casa Pia,Estoril,1,1,1,3
+2024,2025-05-02,FC Porto,Moreirense,1,1,3,1
+2024,2025-05-03,Nacional,Guimaraes,0,1,1,2
+2024,2025-05-03,Farense,Famalicao,1,1,2,1
+2024,2025-05-03,SC Braga,Santa Clara,0,1,1,1
+2024,2025-05-03,Estoril,Benfica,0,2,1,2
+2024,2025-05-04,Arouca,Casa Pia,0,0,0,0
+2024,2025-05-04,Sporting CP,GIL Vicente,0,1,2,1
+2024,2025-05-05,Rio Ave,Estrela,0,0,2,0
+2024,2025-05-05,AVS,Boavista,0,0,1,2
+2024,2025-05-10,Nacional,Rio Ave,0,3,3,3
+2024,2025-05-10,Santa Clara,Famalicao,1,0,2,1
+2024,2025-05-10,Benfica,Sporting CP,0,1,1,1
+2024,2025-05-10,GIL Vicente,Arouca,0,0,1,1
+2024,2025-05-10,Casa Pia,SC Braga,1,1,2,1
+2024,2025-05-11,Estrela,AVS,0,0,0,1
+2024,2025-05-11,Moreirense,Estoril,1,0,2,2
+2024,2025-05-11,Guimaraes,Farense,0,1,1,2
+2024,2025-05-11,Boavista,FC Porto,1,2,1,2
+2024,2025-05-16,Rio Ave,GIL Vicente,1,1,1,1
+2024,2025-05-16,Famalicao,Casa Pia,1,0,2,1
+2024,2025-05-17,FC Porto,Nacional,1,0,3,0
+2024,2025-05-17,SC Braga,Benfica,1,0,1,1
+2024,2025-05-17,Sporting CP,Guimaraes,0,0,2,0
+2024,2025-05-17,Estoril,Estrela,4,0,4,0
+2024,2025-05-17,Farense,Santa Clara,1,1,1,2
+2024,2025-05-17,Arouca,Boavista,3,1,4,1
+2024,2025-05-17,AVS,Moreirense,0,2,0,3
+2024,2025-05-24,AVS,Vizela,0,0,3,0
+2024,2025-06-01,Vizela,AVS,1,1,2,2
+2025,2025-08-08,Casa Pia,Sporting CP,0,1,0,2
+2025,2025-08-09,Nacional,GIL Vicente,0,2,0,2
+2025,2025-08-09,Arouca,AVS,1,0,3,1
+2025,2025-08-10,Famalicao,Santa Clara,2,0,3,0
+2025,2025-08-10,Moreirense,Alverca,,,,
+2025,2025-08-10,SC Braga,Tondela,,,,
+2025,2025-08-11,Estoril,Estrela,,,,
+2025,2025-08-11,FC Porto,Guimaraes,,,,
+2025,2025-08-17,Tondela,Famalicao,,,,
+2025,2025-08-17,Guimaraes,Estoril,,,,
+2025,2025-08-17,Rio Ave,Nacional,,,,
+2025,2025-08-17,Santa Clara,Moreirense,,,,
+2025,2025-08-17,Sporting CP,Arouca,,,,
+2025,2025-08-17,GIL Vicente,FC Porto,,,,
+2025,2025-08-17,Alverca,SC Braga,,,,
+2025,2025-08-17,Estrela,Benfica,,,,
+2025,2025-08-17,AVS,Casa Pia,,,,
+2025,2025-08-24,Benfica,Tondela,,,,
+2025,2025-08-24,FC Porto,Casa Pia,,,,
+2025,2025-08-24,Moreirense,Guimaraes,,,,
+2025,2025-08-24,SC Braga,AVS,,,,
+2025,2025-08-24,Nacional,Sporting CP,,,,
+2025,2025-08-24,Estoril,Santa Clara,,,,
+2025,2025-08-24,Arouca,Rio Ave,,,,
+2025,2025-08-24,Famalicao,GIL Vicente,,,,
+2025,2025-08-24,Estrela,Alverca,,,,
+2025,2025-08-31,Tondela,Estoril,,,,
+2025,2025-08-31,Guimaraes,Arouca,,,,
+2025,2025-08-31,Rio Ave,SC Braga,,,,
+2025,2025-08-31,Santa Clara,Estrela,,,,
+2025,2025-08-31,Sporting CP,FC Porto,,,,
+2025,2025-08-31,GIL Vicente,Moreirense,,,,
+2025,2025-08-31,Casa Pia,Nacional,,,,
+2025,2025-08-31,Alverca,Benfica,,,,
+2025,2025-08-31,AVS,Famalicao,,,,
+2025,2025-09-14,Benfica,Santa Clara,,,,
+2025,2025-09-14,FC Porto,Nacional,,,,
+2025,2025-09-14,Moreirense,Rio Ave,,,,
+2025,2025-09-14,SC Braga,GIL Vicente,,,,
+2025,2025-09-14,Estoril,AVS,,,,
+2025,2025-09-14,Arouca,Casa Pia,,,,
+2025,2025-09-14,Famalicao,Sporting CP,,,,
+2025,2025-09-14,Alverca,Tondela,,,,
+2025,2025-09-14,Estrela,Guimaraes,,,,
+2025,2025-09-21,Tondela,Estrela,,,,
+2025,2025-09-21,Guimaraes,SC Braga,,,,
+2025,2025-09-21,Nacional,Arouca,,,,
+2025,2025-09-21,Rio Ave,FC Porto,,,,
+2025,2025-09-21,Santa Clara,Alverca,,,,
+2025,2025-09-21,Sporting CP,Moreirense,,,,
+2025,2025-09-21,GIL Vicente,Estoril,,,,
+2025,2025-09-21,Casa Pia,Famalicao,,,,
+2025,2025-09-21,AVS,Benfica,,,,
+2025,2025-09-23,Benfica,Rio Ave,,,,
+2025,2025-09-28,Benfica,GIL Vicente,,,,
+2025,2025-09-28,Moreirense,Casa Pia,,,,
+2025,2025-09-28,SC Braga,Nacional,,,,
+2025,2025-09-28,Santa Clara,Tondela,,,,
+2025,2025-09-28,Estoril,Sporting CP,,,,
+2025,2025-09-28,Arouca,FC Porto,,,,
+2025,2025-09-28,Famalicao,Rio Ave,,,,
+2025,2025-09-28,Alverca,Guimaraes,,,,
+2025,2025-09-28,Estrela,AVS,,,,
+2025,2025-10-05,FC Porto,Benfica,,,,
+2025,2025-10-05,Guimaraes,Santa Clara,,,,
+2025,2025-10-05,Nacional,Moreirense,,,,
+2025,2025-10-05,Rio Ave,Tondela,,,,
+2025,2025-10-05,Sporting CP,SC Braga,,,,
+2025,2025-10-05,Arouca,Famalicao,,,,
+2025,2025-10-05,GIL Vicente,Estrela,,,,
+2025,2025-10-05,Casa Pia,Estoril,,,,
+2025,2025-10-05,AVS,Alverca,,,,
+2025,2025-10-26,Benfica,Arouca,,,,
+2025,2025-10-26,Moreirense,FC Porto,,,,
+2025,2025-10-26,SC Braga,Casa Pia,,,,
+2025,2025-10-26,Tondela,Sporting CP,,,,
+2025,2025-10-26,Santa Clara,AVS,,,,
+2025,2025-10-26,Estoril,Nacional,,,,
+2025,2025-10-26,Famalicao,Guimaraes,,,,
+2025,2025-10-26,Alverca,GIL Vicente,,,,
+2025,2025-10-26,Estrela,Rio Ave,,,,
+2025,2025-11-02,FC Porto,SC Braga,,,,
+2025,2025-11-02,Guimaraes,Benfica,,,,
+2025,2025-11-02,Nacional,Famalicao,,,,
+2025,2025-11-02,Rio Ave,Estoril,,,,
+2025,2025-11-02,Sporting CP,Alverca,,,,
+2025,2025-11-02,Arouca,Moreirense,,,,
+2025,2025-11-02,GIL Vicente,Santa Clara,,,,
+2025,2025-11-02,Casa Pia,Estrela,,,,
+2025,2025-11-02,AVS,Tondela,,,,
+2025,2025-11-09,Benfica,Casa Pia,,,,
+2025,2025-11-09,SC Braga,Moreirense,,,,
+2025,2025-11-09,Tondela,Guimaraes,,,,
+2025,2025-11-09,Santa Clara,Sporting CP,,,,
+2025,2025-11-09,Estoril,Arouca,,,,
+2025,2025-11-09,Famalicao,FC Porto,,,,
+2025,2025-11-09,Alverca,Rio Ave,,,,
+2025,2025-11-09,Estrela,Nacional,,,,
+2025,2025-11-09,AVS,GIL Vicente,,,,
+2025,2025-11-30,FC Porto,Estoril,,,,
+2025,2025-11-30,Moreirense,Famalicao,,,,
+2025,2025-11-30,Guimaraes,AVS,,,,
+2025,2025-11-30,Nacional,Benfica,,,,
+2025,2025-11-30,Rio Ave,Santa Clara,,,,
+2025,2025-11-30,Sporting CP,Estrela,,,,
+2025,2025-11-30,Arouca,SC Braga,,,,
+2025,2025-11-30,GIL Vicente,Tondela,,,,
+2025,2025-11-30,Casa Pia,Alverca,,,,
+2025,2025-12-07,Benfica,Sporting CP,,,,
+2025,2025-12-07,Tondela,FC Porto,,,,
+2025,2025-12-07,Guimaraes,GIL Vicente,,,,
+2025,2025-12-07,Santa Clara,Casa Pia,,,,
+2025,2025-12-07,Estoril,Moreirense,,,,
+2025,2025-12-07,Famalicao,SC Braga,,,,
+2025,2025-12-07,Alverca,Nacional,,,,
+2025,2025-12-07,Estrela,Arouca,,,,
+2025,2025-12-07,AVS,Rio Ave,,,,
+2025,2025-12-14,FC Porto,Estrela,,,,
+2025,2025-12-14,Moreirense,Benfica,,,,
+2025,2025-12-14,SC Braga,Santa Clara,,,,
+2025,2025-12-14,Nacional,Tondela,,,,
+2025,2025-12-14,Rio Ave,Guimaraes,,,,
+2025,2025-12-14,Sporting CP,AVS,,,,
+2025,2025-12-14,Arouca,Alverca,,,,
+2025,2025-12-14,Famalicao,Estoril,,,,
+2025,2025-12-14,Casa Pia,GIL Vicente,,,,
+2025,2025-12-21,Benfica,Famalicao,,,,
+2025,2025-12-21,Tondela,Casa Pia,,,,
+2025,2025-12-21,Guimaraes,Sporting CP,,,,
+2025,2025-12-21,Santa Clara,Arouca,,,,
+2025,2025-12-21,Estoril,SC Braga,,,,
+2025,2025-12-21,GIL Vicente,Rio Ave,,,,
+2025,2025-12-21,Alverca,FC Porto,,,,
+2025,2025-12-21,Estrela,Moreirense,,,,
+2025,2025-12-21,AVS,Nacional,,,,
+2025,2025-12-28,FC Porto,AVS,,,,
+2025,2025-12-28,Moreirense,Tondela,,,,
+2025,2025-12-28,SC Braga,Benfica,,,,
+2025,2025-12-28,Nacional,Santa Clara,,,,
+2025,2025-12-28,Sporting CP,Rio Ave,,,,
+2025,2025-12-28,Estoril,Alverca,,,,
+2025,2025-12-28,Arouca,GIL Vicente,,,,
+2025,2025-12-28,Famalicao,Estrela,,,,
+2025,2025-12-28,Casa Pia,Guimaraes,,,,
+2025,2026-01-04,Benfica,Estoril,,,,
+2025,2026-01-04,Tondela,Arouca,,,,
+2025,2026-01-04,Guimaraes,Nacional,,,,
+2025,2026-01-04,Rio Ave,Casa Pia,,,,
+2025,2026-01-04,Santa Clara,FC Porto,,,,
+2025,2026-01-04,GIL Vicente,Sporting CP,,,,
+2025,2026-01-04,Alverca,Famalicao,,,,
+2025,2026-01-04,Estrela,SC Braga,,,,
+2025,2026-01-04,AVS,Moreirense,,,,
+2025,2026-01-18,Tondela,SC Braga,,,,
+2025,2026-01-18,Guimaraes,FC Porto,,,,
+2025,2026-01-18,Rio Ave,Benfica,,,,
+2025,2026-01-18,Santa Clara,Famalicao,,,,
+2025,2026-01-18,Sporting CP,Casa Pia,,,,
+2025,2026-01-18,GIL Vicente,Nacional,,,,
+2025,2026-01-18,Alverca,Moreirense,,,,
+2025,2026-01-18,Estrela,Estoril,,,,
+2025,2026-01-18,AVS,Arouca,,,,
+2025,2026-01-25,Benfica,Estrela,,,,
+2025,2026-01-25,FC Porto,GIL Vicente,,,,
+2025,2026-01-25,Moreirense,Santa Clara,,,,
+2025,2026-01-25,SC Braga,Alverca,,,,
+2025,2026-01-25,Nacional,Rio Ave,,,,
+2025,2026-01-25,Estoril,Guimaraes,,,,
+2025,2026-01-25,Arouca,Sporting CP,,,,
+2025,2026-01-25,Famalicao,Tondela,,,,
+2025,2026-01-25,Casa Pia,AVS,,,,
+2025,2026-02-01,Tondela,Benfica,,,,
+2025,2026-02-01,Rio Ave,Arouca,,,,
+2025,2026-02-01,Santa Clara,Estoril,,,,
+2025,2026-02-01,Sporting CP,Nacional,,,,
+2025,2026-02-01,GIL Vicente,Famalicao,,,,
+2025,2026-02-01,Casa Pia,FC Porto,,,,
+2025,2026-02-01,Alverca,Estrela,,,,
+2025,2026-02-01,AVS,SC Braga,,,,
+2025,2026-02-01,Guimaraes,Moreirense,,,,
+2025,2026-02-08,Benfica,Alverca,,,,
+2025,2026-02-08,FC Porto,Sporting CP,,,,
+2025,2026-02-08,Moreirense,GIL Vicente,,,,
+2025,2026-02-08,SC Braga,Rio Ave,,,,
+2025,2026-02-08,Nacional,Casa Pia,,,,
+2025,2026-02-08,Estoril,Tondela,,,,
+2025,2026-02-08,Arouca,Guimaraes,,,,
+2025,2026-02-08,Famalicao,AVS,,,,
+2025,2026-02-08,Estrela,Santa Clara,,,,
+2025,2026-02-15,Tondela,Alverca,,,,
+2025,2026-02-15,Guimaraes,Estrela,,,,
+2025,2026-02-15,Nacional,FC Porto,,,,
+2025,2026-02-15,Rio Ave,Moreirense,,,,
+2025,2026-02-15,Santa Clara,Benfica,,,,
+2025,2026-02-15,Sporting CP,Famalicao,,,,
+2025,2026-02-15,GIL Vicente,SC Braga,,,,
+2025,2026-02-15,Casa Pia,Arouca,,,,
+2025,2026-02-15,AVS,Estoril,,,,
+2025,2026-02-22,Benfica,AVS,,,,
+2025,2026-02-22,FC Porto,Rio Ave,,,,
+2025,2026-02-22,Moreirense,Sporting CP,,,,
+2025,2026-02-22,SC Braga,Guimaraes,,,,
+2025,2026-02-22,Estoril,GIL Vicente,,,,
+2025,2026-02-22,Arouca,Nacional,,,,
+2025,2026-02-22,Famalicao,Casa Pia,,,,
+2025,2026-02-22,Alverca,Santa Clara,,,,
+2025,2026-02-22,Estrela,Tondela,,,,
+2025,2026-03-01,FC Porto,Arouca,,,,
+2025,2026-03-01,Tondela,Santa Clara,,,,
+2025,2026-03-01,Guimaraes,Alverca,,,,
+2025,2026-03-01,Nacional,SC Braga,,,,
+2025,2026-03-01,Rio Ave,Famalicao,,,,
+2025,2026-03-01,Sporting CP,Estoril,,,,
+2025,2026-03-01,GIL Vicente,Benfica,,,,
+2025,2026-03-01,Casa Pia,Moreirense,,,,
+2025,2026-03-01,AVS,Estrela,,,,
+2025,2026-03-08,Benfica,FC Porto,,,,
+2025,2026-03-08,Moreirense,Nacional,,,,
+2025,2026-03-08,SC Braga,Sporting CP,,,,
+2025,2026-03-08,Tondela,Rio Ave,,,,
+2025,2026-03-08,Santa Clara,Guimaraes,,,,
+2025,2026-03-08,Estoril,Casa Pia,,,,
+2025,2026-03-08,Famalicao,Arouca,,,,
+2025,2026-03-08,Alverca,AVS,,,,
+2025,2026-03-08,Estrela,GIL Vicente,,,,
+2025,2026-03-15,FC Porto,Moreirense,,,,
+2025,2026-03-15,Guimaraes,Famalicao,,,,
+2025,2026-03-15,Nacional,Estoril,,,,
+2025,2026-03-15,Rio Ave,Estrela,,,,
+2025,2026-03-15,Sporting CP,Tondela,,,,
+2025,2026-03-15,Arouca,Benfica,,,,
+2025,2026-03-15,GIL Vicente,Alverca,,,,
+2025,2026-03-15,Casa Pia,SC Braga,,,,
+2025,2026-03-15,AVS,Santa Clara,,,,
+2025,2026-03-22,Benfica,Guimaraes,,,,
+2025,2026-03-22,Moreirense,Arouca,,,,
+2025,2026-03-22,SC Braga,FC Porto,,,,
+2025,2026-03-22,Tondela,AVS,,,,
+2025,2026-03-22,Santa Clara,GIL Vicente,,,,
+2025,2026-03-22,Estoril,Rio Ave,,,,
+2025,2026-03-22,Famalicao,Nacional,,,,
+2025,2026-03-22,Alverca,Sporting CP,,,,
+2025,2026-03-22,Estrela,Casa Pia,,,,
+2025,2026-04-04,FC Porto,Famalicao,,,,
+2025,2026-04-04,Moreirense,SC Braga,,,,
+2025,2026-04-04,Guimaraes,Tondela,,,,
+2025,2026-04-04,Nacional,Estrela,,,,
+2025,2026-04-04,Rio Ave,Alverca,,,,
+2025,2026-04-04,Sporting CP,Santa Clara,,,,
+2025,2026-04-04,Arouca,Estoril,,,,
+2025,2026-04-04,GIL Vicente,AVS,,,,
+2025,2026-04-04,Casa Pia,Benfica,,,,
+2025,2026-04-12,Benfica,Nacional,,,,
+2025,2026-04-12,SC Braga,Arouca,,,,
+2025,2026-04-12,Tondela,GIL Vicente,,,,
+2025,2026-04-12,Santa Clara,Rio Ave,,,,
+2025,2026-04-12,Estoril,FC Porto,,,,
+2025,2026-04-12,Famalicao,Moreirense,,,,
+2025,2026-04-12,Alverca,Casa Pia,,,,
+2025,2026-04-12,Estrela,Sporting CP,,,,
+2025,2026-04-12,AVS,Guimaraes,,,,
+2025,2026-04-19,FC Porto,Tondela,,,,
+2025,2026-04-19,Moreirense,Estoril,,,,
+2025,2026-04-19,SC Braga,Famalicao,,,,
+2025,2026-04-19,Nacional,Alverca,,,,
+2025,2026-04-19,Rio Ave,AVS,,,,
+2025,2026-04-19,Sporting CP,Benfica,,,,
+2025,2026-04-19,Arouca,Estrela,,,,
+2025,2026-04-19,GIL Vicente,Guimaraes,,,,
+2025,2026-04-19,Casa Pia,Santa Clara,,,,
+2025,2026-04-26,Benfica,Moreirense,,,,
+2025,2026-04-26,Tondela,Nacional,,,,
+2025,2026-04-26,Guimaraes,Rio Ave,,,,
+2025,2026-04-26,Santa Clara,SC Braga,,,,
+2025,2026-04-26,Estoril,Famalicao,,,,
+2025,2026-04-26,GIL Vicente,Casa Pia,,,,
+2025,2026-04-26,Alverca,Arouca,,,,
+2025,2026-04-26,Estrela,FC Porto,,,,
+2025,2026-04-26,AVS,Sporting CP,,,,
+2025,2026-05-03,FC Porto,Alverca,,,,
+2025,2026-05-03,Moreirense,Estrela,,,,
+2025,2026-05-03,SC Braga,Estoril,,,,
+2025,2026-05-03,Nacional,AVS,,,,
+2025,2026-05-03,Rio Ave,GIL Vicente,,,,
+2025,2026-05-03,Sporting CP,Guimaraes,,,,
+2025,2026-05-03,Arouca,Santa Clara,,,,
+2025,2026-05-03,Famalicao,Benfica,,,,
+2025,2026-05-03,Casa Pia,Tondela,,,,
+2025,2026-05-10,Benfica,SC Braga,,,,
+2025,2026-05-10,Tondela,Moreirense,,,,
+2025,2026-05-10,Guimaraes,Casa Pia,,,,
+2025,2026-05-10,Rio Ave,Sporting CP,,,,
+2025,2026-05-10,Santa Clara,Nacional,,,,
+2025,2026-05-10,GIL Vicente,Arouca,,,,
+2025,2026-05-10,Alverca,Estoril,,,,
+2025,2026-05-10,Estrela,Famalicao,,,,
+2025,2026-05-10,AVS,FC Porto,,,,
+2025,2026-05-17,FC Porto,Santa Clara,,,,
+2025,2026-05-17,Moreirense,AVS,,,,
+2025,2026-05-17,SC Braga,Estrela,,,,
+2025,2026-05-17,Nacional,Guimaraes,,,,
+2025,2026-05-17,Sporting CP,GIL Vicente,,,,
+2025,2026-05-17,Estoril,Benfica,,,,
+2025,2026-05-17,Arouca,Tondela,,,,
+2025,2026-05-17,Famalicao,Alverca,,,,
+2025,2026-05-17,Casa Pia,Rio Ave,,,,

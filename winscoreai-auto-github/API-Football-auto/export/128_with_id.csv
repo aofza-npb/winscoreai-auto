@@ -1,0 +1,874 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away,fixture_id,league_id
+2024,2024-05-10,Sarmiento Junin,Instituto Cordoba,0.0,1.0,1.0,2.0,1158667,128
+2024,2024-05-11,Newells Old Boys,Platense,0.0,0.0,2.0,0.0,1158671,128
+2024,2024-05-11,Argentinos JRS,Rosario Central,2.0,2.0,3.0,2.0,1158662,128
+2024,2024-05-11,Huracan,Defensa Y Justicia,1.0,0.0,3.0,1.0,1158669,128
+2024,2024-05-11,Godoy Cruz,Barracas Central,0.0,0.0,0.0,1.0,1158666,128
+2024,2024-05-11,Independiente,Talleres Cordoba,1.0,1.0,1.0,3.0,1158672,128
+2024,2024-05-11,River Plate,Central Cordoba de Santiago,2.0,0.0,3.0,0.0,1158660,128
+2024,2024-05-12,Tigre,Estudiantes L.P.,0.0,1.0,0.0,1.0,1158663,128
+2024,2024-05-12,Deportivo Riestra,San Lorenzo,1.0,0.0,1.0,0.0,1158664,128
+2024,2024-05-12,Belgrano Cordoba,Racing Club,1.0,3.0,4.0,4.0,1158661,128
+2024,2024-05-12,Lanus,Independ. Rivadavia,0.0,1.0,0.0,2.0,1158665,128
+2024,2024-05-12,Atletico Tucuman,Boca Juniors,1.0,0.0,1.0,0.0,1158673,128
+2024,2024-05-13,Gimnasia L.P.,Velez Sarsfield,1.0,0.0,3.0,1.0,1158670,128
+2024,2024-05-14,Union Santa Fe,Banfield,0.0,0.0,1.0,0.0,1158668,128
+2024,2024-05-18,Independ. Rivadavia,Godoy Cruz,0.0,0.0,0.0,0.0,1158682,128
+2024,2024-05-18,River Plate,Belgrano Cordoba,1.0,0.0,3.0,0.0,1158687,128
+2024,2024-05-18,Defensa Y Justicia,Gimnasia L.P.,0.0,1.0,1.0,1.0,1158678,128
+2024,2024-05-18,Instituto Cordoba,Union Santa Fe,1.0,1.0,1.0,1.0,1158680,128
+2024,2024-05-19,Barracas Central,Sarmiento Junin,1.0,1.0,1.0,1.0,1158681,128
+2024,2024-05-19,Platense,Independiente,0.0,0.0,0.0,0.0,1158676,128
+2024,2024-05-19,Banfield,Huracan,0.0,1.0,1.0,1.0,1158679,128
+2024,2024-05-19,Talleres Cordoba,Atletico Tucuman,1.0,0.0,2.0,0.0,1158675,128
+2024,2024-05-19,Central Cordoba de Santiago,Boca Juniors,2.0,0.0,2.0,4.0,1158674,128
+2024,2024-05-20,Estudiantes L.P.,Deportivo Riestra,1.0,0.0,2.0,0.0,1158684,128
+2024,2024-05-20,San Lorenzo,Lanus,0.0,1.0,1.0,1.0,1158683,128
+2024,2024-05-21,Racing Club,Argentinos JRS,1.0,0.0,3.0,0.0,1158686,128
+2024,2024-05-21,Rosario Central,Tigre,0.0,1.0,1.0,1.0,1158685,128
+2024,2024-05-21,Velez Sarsfield,Newells Old Boys,1.0,0.0,1.0,0.0,1158677,128
+2024,2024-05-24,Deportivo Riestra,Rosario Central,0.0,1.0,0.0,2.0,1158691,128
+2024,2024-05-24,Tigre,Racing Club,0.0,2.0,0.0,4.0,1158690,128
+2024,2024-05-25,Belgrano Cordoba,Central Cordoba de Santiago,0.0,1.0,2.0,1.0,1158688,128
+2024,2024-05-25,Lanus,Estudiantes L.P.,0.0,0.0,2.0,1.0,1158692,128
+2024,2024-05-25,Argentinos JRS,River Plate,1.0,0.0,1.0,0.0,1158689,128
+2024,2024-05-25,Newells Old Boys,Defensa Y Justicia,0.0,0.0,1.0,0.0,1158698,128
+2024,2024-05-25,Boca Juniors,Talleres Cordoba,0.0,0.0,0.0,0.0,1158701,128
+2024,2024-05-26,Huracan,Instituto Cordoba,0.0,0.0,1.0,0.0,1158696,128
+2024,2024-05-26,Sarmiento Junin,Independ. Rivadavia,0.0,0.0,0.0,1.0,1158694,128
+2024,2024-05-26,Gimnasia L.P.,Banfield,0.0,0.0,3.0,0.0,1158697,128
+2024,2024-05-26,Independiente,Velez Sarsfield,0.0,1.0,1.0,1.0,1158699,128
+2024,2024-05-27,Union Santa Fe,Barracas Central,1.0,0.0,2.0,0.0,1158695,128
+2024,2024-05-28,Atletico Tucuman,Platense,0.0,0.0,1.0,1.0,1158700,128
+2024,2024-06-01,Racing Club,Deportivo Riestra,0.0,0.0,1.0,0.0,1158713,128
+2024,2024-06-01,Velez Sarsfield,Atletico Tucuman,0.0,1.0,1.0,1.0,1158704,128
+2024,2024-06-01,Belgrano Cordoba,Argentinos JRS,0.0,0.0,1.0,0.0,1158715,128
+2024,2024-06-02,Platense,Boca Juniors,0.0,0.0,1.0,0.0,1158703,128
+2024,2024-06-02,Rosario Central,Lanus,0.0,1.0,1.0,1.0,1158712,128
+2024,2024-06-02,Central Cordoba de Santiago,Talleres Cordoba,1.0,1.0,2.0,4.0,1158702,128
+2024,2024-06-02,River Plate,Tigre,1.0,1.0,3.0,1.0,1158714,128
+2024,2024-06-02,Instituto Cordoba,Gimnasia L.P.,1.0,1.0,2.0,1.0,1158707,128
+2024,2024-06-03,San Lorenzo,Sarmiento Junin,0.0,0.0,0.0,1.0,1158710,128
+2024,2024-06-04,Defensa Y Justicia,Independiente,0.0,0.0,0.0,0.0,1158705,128
+2024,2024-06-04,Estudiantes L.P.,Godoy Cruz,0.0,1.0,1.0,1.0,1158711,128
+2024,2024-06-04,Barracas Central,Huracan,0.0,1.0,0.0,2.0,1158708,128
+2024,2024-06-04,Banfield,Newells Old Boys,0.0,0.0,2.0,0.0,1158706,128
+2024,2024-06-04,Independ. Rivadavia,Union Santa Fe,0.0,0.0,0.0,1.0,1158709,128
+2024,2024-06-12,Godoy Cruz,Rosario Central,1.0,1.0,1.0,1.0,1158720,128
+2024,2024-06-12,Argentinos JRS,Central Cordoba de Santiago,1.0,0.0,2.0,1.0,1158716,128
+2024,2024-06-13,Gimnasia L.P.,Barracas Central,1.0,0.0,2.0,1.0,1158724,128
+2024,2024-06-13,Independiente,Banfield,1.0,1.0,2.0,1.0,1158726,128
+2024,2024-06-13,Deportivo Riestra,River Plate,0.0,0.0,2.0,0.0,1158718,128
+2024,2024-06-13,Tigre,Belgrano Cordoba,1.0,0.0,1.0,1.0,1158717,128
+2024,2024-06-13,Sarmiento Junin,Estudiantes L.P.,0.0,0.0,2.0,0.0,1158721,128
+2024,2024-06-14,Lanus,Racing Club,1.0,0.0,2.0,0.0,1158719,128
+2024,2024-06-14,Newells Old Boys,Instituto Cordoba,0.0,1.0,0.0,2.0,1158725,128
+2024,2024-06-14,Boca Juniors,Velez Sarsfield,0.0,0.0,1.0,0.0,1158728,128
+2024,2024-06-14,Talleres Cordoba,Platense,1.0,1.0,2.0,1.0,1158729,128
+2024,2024-06-15,Union Santa Fe,San Lorenzo,0.0,1.0,2.0,1.0,1158722,128
+2024,2024-06-15,Huracan,Independ. Rivadavia,1.0,0.0,1.0,0.0,1158723,128
+2024,2024-06-15,Atletico Tucuman,Defensa Y Justicia,1.0,1.0,1.0,1.0,1158727,128
+2024,2024-07-18,Argentinos JRS,Tigre,0.0,1.0,0.0,2.0,1158743,128
+2024,2024-07-18,Independ. Rivadavia,Gimnasia L.P.,1.0,0.0,1.0,0.0,1158736,128
+2024,2024-07-19,Instituto Cordoba,Independiente,3.0,1.0,3.0,1.0,1158734,128
+2024,2024-07-19,Barracas Central,Newells Old Boys,0.0,0.0,0.0,1.0,1158735,128
+2024,2024-07-19,Belgrano Cordoba,Deportivo Riestra,0.0,0.0,2.0,1.0,1158742,128
+2024,2024-07-20,Rosario Central,Sarmiento Junin,3.0,0.0,4.0,2.0,1158739,128
+2024,2024-07-20,San Lorenzo,Huracan,1.0,1.0,1.0,1.0,1158737,128
+2024,2024-07-20,Racing Club,Godoy Cruz,2.0,0.0,3.0,0.0,1158740,128
+2024,2024-07-20,Banfield,Atletico Tucuman,1.0,0.0,1.0,1.0,1158733,128
+2024,2024-07-21,River Plate,Lanus,0.0,0.0,2.0,2.0,1158741,128
+2024,2024-07-21,Estudiantes L.P.,Union Santa Fe,0.0,0.0,0.0,0.0,1158738,128
+2024,2024-07-21,Central Cordoba de Santiago,Platense,0.0,0.0,0.0,2.0,1158730,128
+2024,2024-07-21,Velez Sarsfield,Talleres Cordoba,1.0,0.0,3.0,0.0,1158731,128
+2024,2024-07-21,Defensa Y Justicia,Boca Juniors,2.0,1.0,2.0,2.0,1158732,128
+2024,2024-07-23,Deportivo Riestra,Argentinos JRS,0.0,0.0,2.0,0.0,1158745,128
+2024,2024-07-23,Gimnasia L.P.,San Lorenzo,0.0,1.0,0.0,1.0,1158751,128
+2024,2024-07-23,Newells Old Boys,Independ. Rivadavia,0.0,0.0,0.0,0.0,1158752,128
+2024,2024-07-24,Independiente,Barracas Central,0.0,0.0,0.0,0.0,1158753,128
+2024,2024-07-24,Talleres Cordoba,Defensa Y Justicia,0.0,1.0,1.0,1.0,1158756,128
+2024,2024-07-24,Sarmiento Junin,Racing Club,1.0,0.0,1.0,0.0,1158748,128
+2024,2024-07-24,Godoy Cruz,River Plate,2.0,1.0,2.0,1.0,1158747,128
+2024,2024-07-24,Huracan,Estudiantes L.P.,0.0,0.0,0.0,0.0,1158750,128
+2024,2024-07-25,Lanus,Belgrano Cordoba,1.0,1.0,3.0,2.0,1158746,128
+2024,2024-07-25,Platense,Velez Sarsfield,0.0,1.0,0.0,2.0,1158757,128
+2024,2024-07-26,Tigre,Central Cordoba de Santiago,1.0,0.0,1.0,1.0,1158744,128
+2024,2024-07-26,Atletico Tucuman,Instituto Cordoba,0.0,0.0,1.0,0.0,1158754,128
+2024,2024-07-27,Independ. Rivadavia,Independiente,1.0,0.0,1.0,0.0,1158763,128
+2024,2024-07-27,San Lorenzo,Newells Old Boys,0.0,1.0,1.0,1.0,1158764,128
+2024,2024-07-27,Rosario Central,Huracan,0.0,1.0,0.0,1.0,1158766,128
+2024,2024-07-28,Banfield,Talleres Cordoba,1.0,1.0,1.0,1.0,1158760,128
+2024,2024-07-28,Estudiantes L.P.,Gimnasia L.P.,0.0,0.0,4.0,1.0,1158765,128
+2024,2024-07-28,Racing Club,Union Santa Fe,1.0,0.0,2.0,1.0,1158767,128
+2024,2024-07-28,River Plate,Sarmiento Junin,0.0,0.0,1.0,0.0,1158768,128
+2024,2024-07-28,Instituto Cordoba,Boca Juniors,0.0,0.0,0.0,0.0,1158761,128
+2024,2024-07-29,Barracas Central,Atletico Tucuman,0.0,1.0,0.0,2.0,1158762,128
+2024,2024-07-29,Defensa Y Justicia,Platense,0.0,1.0,1.0,3.0,1158759,128
+2024,2024-07-29,Tigre,Deportivo Riestra,1.0,1.0,2.0,1.0,1158771,128
+2024,2024-07-29,Central Cordoba de Santiago,Velez Sarsfield,0.0,1.0,0.0,2.0,1158758,128
+2024,2024-07-30,Belgrano Cordoba,Godoy Cruz,1.0,0.0,1.0,0.0,1158769,128
+2024,2024-07-30,Argentinos JRS,Lanus,0.0,0.0,2.0,0.0,1158770,128
+2024,2024-07-31,Union Santa Fe,Rosario Central,0.0,0.0,1.0,0.0,1158749,128
+2024,2024-07-31,Boca Juniors,Banfield,1.0,0.0,3.0,0.0,1158755,128
+2024,2024-08-02,Newells Old Boys,Estudiantes L.P.,1.0,2.0,1.0,4.0,1158779,128
+2024,2024-08-03,Velez Sarsfield,Defensa Y Justicia,1.0,0.0,3.0,0.0,1158785,128
+2024,2024-08-03,Godoy Cruz,Argentinos JRS,1.0,0.0,1.0,0.0,1158774,128
+2024,2024-08-03,Talleres Cordoba,Instituto Cordoba,0.0,0.0,1.0,1.0,1158783,128
+2024,2024-08-03,Independiente,San Lorenzo,0.0,0.0,0.0,0.0,1158780,128
+2024,2024-08-03,Huracan,Racing Club,0.0,0.0,0.0,0.0,1158777,128
+2024,2024-08-04,Union Santa Fe,River Plate,0.0,0.0,0.0,0.0,1158776,128
+2024,2024-08-04,Sarmiento Junin,Belgrano Cordoba,0.0,0.0,0.0,0.0,1158775,128
+2024,2024-08-04,Boca Juniors,Barracas Central,1.0,1.0,1.0,1.0,1158782,128
+2024,2024-08-04,Lanus,Tigre,0.0,1.0,3.0,2.0,1158773,128
+2024,2024-08-04,Atletico Tucuman,Independ. Rivadavia,0.0,1.0,2.0,1.0,1158781,128
+2024,2024-08-05,Deportivo Riestra,Central Cordoba de Santiago,1.0,0.0,1.0,0.0,1158772,128
+2024,2024-08-05,Gimnasia L.P.,Rosario Central,0.0,0.0,0.0,1.0,1158778,128
+2024,2024-08-05,Platense,Banfield,0.0,1.0,0.0,1.0,1158784,128
+2024,2024-08-08,Argentinos JRS,Sarmiento Junin,0.0,0.0,0.0,0.0,1158797,128
+2024,2024-08-09,Deportivo Riestra,Lanus,0.0,0.0,3.0,1.0,1158799,128
+2024,2024-08-09,Barracas Central,Talleres Cordoba,0.0,0.0,1.0,1.0,1158789,128
+2024,2024-08-09,Belgrano Cordoba,Union Santa Fe,0.0,0.0,1.0,1.0,1158796,128
+2024,2024-08-10,Racing Club,Gimnasia L.P.,0.0,1.0,0.0,1.0,1158794,128
+2024,2024-08-10,San Lorenzo,Atletico Tucuman,0.0,0.0,0.0,1.0,1158791,128
+2024,2024-08-10,Rosario Central,Newells Old Boys,0.0,0.0,1.0,0.0,1158793,128
+2024,2024-08-10,Independ. Rivadavia,Boca Juniors,0.0,0.0,1.0,1.0,1158790,128
+2024,2024-08-10,River Plate,Huracan,1.0,1.0,1.0,1.0,1158795,128
+2024,2024-08-11,Instituto Cordoba,Platense,0.0,0.0,2.0,0.0,1158788,128
+2024,2024-08-11,Central Cordoba de Santiago,Defensa Y Justicia,1.0,0.0,2.0,0.0,1158786,128
+2024,2024-08-11,Banfield,Velez Sarsfield,0.0,1.0,2.0,2.0,1158787,128
+2024,2024-08-11,Estudiantes L.P.,Independiente,0.0,1.0,0.0,2.0,1158792,128
+2024,2024-08-12,Tigre,Godoy Cruz,0.0,1.0,0.0,2.0,1158798,128
+2024,2024-08-16,Platense,Barracas Central,0.0,0.0,0.0,0.0,1158811,128
+2024,2024-08-17,Newells Old Boys,Racing Club,0.0,1.0,0.0,1.0,1158806,128
+2024,2024-08-17,Lanus,Central Cordoba de Santiago,1.0,0.0,1.0,1.0,1158800,128
+2024,2024-08-17,Independiente,Rosario Central,1.0,0.0,1.0,0.0,1158807,128
+2024,2024-08-17,Gimnasia L.P.,River Plate,0.0,0.0,1.0,1.0,1158805,128
+2024,2024-08-17,Velez Sarsfield,Instituto Cordoba,1.0,0.0,1.0,0.0,1158812,128
+2024,2024-08-17,Talleres Cordoba,Independ. Rivadavia,0.0,1.0,2.0,1.0,1158810,128
+2024,2024-08-18,Boca Juniors,San Lorenzo,0.0,1.0,3.0,2.0,1158809,128
+2024,2024-08-18,Atletico Tucuman,Estudiantes L.P.,0.0,0.0,2.0,0.0,1158808,128
+2024,2024-08-18,Sarmiento Junin,Tigre,0.0,0.0,0.0,0.0,1158802,128
+2024,2024-08-18,Huracan,Belgrano Cordoba,1.0,0.0,1.0,0.0,1158804,128
+2024,2024-08-19,Godoy Cruz,Deportivo Riestra,3.0,0.0,4.0,1.0,1158801,128
+2024,2024-08-19,Union Santa Fe,Argentinos JRS,2.0,0.0,3.0,0.0,1158803,128
+2024,2024-08-20,Defensa Y Justicia,Banfield,0.0,0.0,1.0,0.0,1158813,128
+2024,2024-08-23,Independ. Rivadavia,Platense,0.0,1.0,0.0,2.0,1158817,128
+2024,2024-08-24,Deportivo Riestra,Sarmiento Junin,1.0,1.0,2.0,1.0,1158826,128
+2024,2024-08-24,Argentinos JRS,Huracan,0.0,0.0,0.0,0.0,1158824,128
+2024,2024-08-24,Instituto Cordoba,Defensa Y Justicia,3.0,1.0,4.0,1.0,1158815,128
+2024,2024-08-24,Tigre,Union Santa Fe,2.0,0.0,5.0,1.0,1158825,128
+2024,2024-08-25,Lanus,Godoy Cruz,1.0,0.0,1.0,1.0,1158827,128
+2024,2024-08-25,San Lorenzo,Talleres Cordoba,1.0,0.0,2.0,0.0,1158818,128
+2024,2024-08-25,Racing Club,Independiente,0.0,0.0,0.0,0.0,1158821,128
+2024,2024-08-25,River Plate,Newells Old Boys,0.0,0.0,0.0,0.0,1158822,128
+2024,2024-08-26,Central Cordoba de Santiago,Banfield,0.0,0.0,0.0,0.0,1158814,128
+2024,2024-08-26,Barracas Central,Velez Sarsfield,0.0,1.0,0.0,5.0,1158816,128
+2024,2024-08-26,Rosario Central,Atletico Tucuman,0.0,0.0,1.0,0.0,1158820,128
+2024,2024-08-26,Belgrano Cordoba,Gimnasia L.P.,0.0,0.0,0.0,1.0,1158823,128
+2024,2024-08-27,Estudiantes L.P.,Boca Juniors,0.0,0.0,1.0,1.0,1158819,128
+2024,2024-08-30,Sarmiento Junin,Lanus,0.0,0.0,0.0,0.0,1158829,128
+2024,2024-08-31,Union Santa Fe,Deportivo Riestra,0.0,0.0,0.0,0.0,1158830,128
+2024,2024-08-31,Defensa Y Justicia,Barracas Central,1.0,0.0,1.0,0.0,1158840,128
+2024,2024-08-31,Newells Old Boys,Belgrano Cordoba,0.0,0.0,0.0,0.0,1158833,128
+2024,2024-08-31,Velez Sarsfield,Independ. Rivadavia,2.0,0.0,4.0,0.0,1158839,128
+2024,2024-08-31,Talleres Cordoba,Estudiantes L.P.,1.0,0.0,1.0,0.0,1158837,128
+2024,2024-09-01,Boca Juniors,Rosario Central,2.0,0.0,2.0,1.0,1158836,128
+2024,2024-09-01,Huracan,Tigre,0.0,1.0,0.0,2.0,1158831,128
+2024,2024-09-01,Platense,San Lorenzo,1.0,1.0,1.0,2.0,1158838,128
+2024,2024-09-01,Independiente,River Plate,0.0,0.0,0.0,0.0,1158834,128
+2024,2024-09-01,Atletico Tucuman,Racing Club,1.0,0.0,1.0,0.0,1158835,128
+2024,2024-09-02,Banfield,Instituto Cordoba,0.0,1.0,1.0,2.0,1158841,128
+2024,2024-09-02,Gimnasia L.P.,Argentinos JRS,0.0,0.0,1.0,0.0,1158832,128
+2024,2024-09-02,Godoy Cruz,Central Cordoba de Santiago,1.0,0.0,1.0,1.0,1158828,128
+2024,2024-09-13,Deportivo Riestra,Huracan,0.0,0.0,1.0,0.0,1158853,128
+2024,2024-09-13,Lanus,Union Santa Fe,1.0,0.0,1.0,1.0,1158854,128
+2024,2024-09-13,Central Cordoba de Santiago,Instituto Cordoba,0.0,1.0,2.0,1.0,1158842,128
+2024,2024-09-14,River Plate,Atletico Tucuman,2.0,1.0,4.0,1.0,1158849,128
+2024,2024-09-14,San Lorenzo,Velez Sarsfield,0.0,1.0,0.0,1.0,1158845,128
+2024,2024-09-14,Racing Club,Boca Juniors,1.0,1.0,2.0,1.0,1158848,128
+2024,2024-09-14,Belgrano Cordoba,Independiente,0.0,0.0,1.0,1.0,1158850,128
+2024,2024-09-14,Tigre,Gimnasia L.P.,0.0,1.0,1.0,1.0,1158852,128
+2024,2024-09-15,Godoy Cruz,Sarmiento Junin,1.0,1.0,1.0,1.0,1158855,128
+2024,2024-09-15,Estudiantes L.P.,Platense,1.0,1.0,1.0,1.0,1158846,128
+2024,2024-09-15,Rosario Central,Talleres Cordoba,1.0,1.0,2.0,2.0,1158847,128
+2024,2024-09-15,Argentinos JRS,Newells Old Boys,2.0,0.0,3.0,0.0,1158851,128
+2024,2024-09-16,Barracas Central,Banfield,0.0,0.0,0.0,1.0,1158843,128
+2024,2024-09-17,Independ. Rivadavia,Defensa Y Justicia,1.0,0.0,1.0,0.0,1158844,128
+2024,2024-09-20,Gimnasia L.P.,Deportivo Riestra,0.0,0.0,0.0,0.0,1158859,128
+2024,2024-09-20,Union Santa Fe,Godoy Cruz,1.0,1.0,3.0,1.0,1158857,128
+2024,2024-09-21,Boca Juniors,River Plate,0.0,1.0,0.0,1.0,1158863,128
+2024,2024-09-21,Newells Old Boys,Tigre,0.0,0.0,1.0,0.0,1158860,128
+2024,2024-09-21,Instituto Cordoba,Barracas Central,0.0,0.0,0.0,1.0,1158869,128
+2024,2024-09-22,Defensa Y Justicia,San Lorenzo,0.0,0.0,0.0,0.0,1158867,128
+2024,2024-09-22,Huracan,Lanus,1.0,0.0,3.0,0.0,1158858,128
+2024,2024-09-22,Independiente,Argentinos JRS,0.0,0.0,0.0,0.0,1158861,128
+2024,2024-09-22,Talleres Cordoba,Racing Club,1.0,0.0,2.0,0.0,1158864,128
+2024,2024-09-22,Atletico Tucuman,Belgrano Cordoba,1.0,2.0,2.0,4.0,1158862,128
+2024,2024-09-22,Platense,Rosario Central,1.0,0.0,1.0,0.0,1158865,128
+2024,2024-09-23,Sarmiento Junin,Central Cordoba de Santiago,0.0,1.0,1.0,3.0,1158856,128
+2024,2024-09-24,Velez Sarsfield,Estudiantes L.P.,1.0,0.0,2.0,0.0,1158866,128
+2024,2024-09-24,Banfield,Independ. Rivadavia,1.0,0.0,2.0,0.0,1158868,128
+2024,2024-09-27,Deportivo Riestra,Newells Old Boys,2.0,2.0,3.0,3.0,1158880,128
+2024,2024-09-28,Independ. Rivadavia,Instituto Cordoba,1.0,1.0,1.0,1.0,1158871,128
+2024,2024-09-28,San Lorenzo,Banfield,1.0,1.0,2.0,1.0,1158872,128
+2024,2024-09-28,Godoy Cruz,Huracan,0.0,1.0,1.0,1.0,1158882,128
+2024,2024-09-28,Estudiantes L.P.,Defensa Y Justicia,1.0,0.0,1.0,0.0,1158873,128
+2024,2024-09-28,Belgrano Cordoba,Boca Juniors,0.0,0.0,2.0,0.0,1158877,128
+2024,2024-09-29,Central Cordoba de Santiago,Barracas Central,2.0,0.0,2.0,1.0,1158870,128
+2024,2024-09-29,River Plate,Talleres Cordoba,0.0,1.0,0.0,1.0,1158876,128
+2024,2024-09-29,Sarmiento Junin,Union Santa Fe,0.0,0.0,1.0,0.0,1158883,128
+2024,2024-09-30,Argentinos JRS,Atletico Tucuman,0.0,0.0,0.0,0.0,1158878,128
+2024,2024-10-01,Racing Club,Platense,1.0,1.0,1.0,1.0,1158875,128
+2024,2024-10-01,Lanus,Gimnasia L.P.,0.0,0.0,0.0,0.0,1158881,128
+2024,2024-10-01,Tigre,Independiente,0.0,1.0,1.0,1.0,1158879,128
+2024,2024-10-01,Rosario Central,Velez Sarsfield,1.0,0.0,3.0,0.0,1158874,128
+2024,2024-10-04,Union Santa Fe,Central Cordoba de Santiago,0.0,1.0,0.0,2.0,1158884,128
+2024,2024-10-05,Huracan,Sarmiento Junin,1.0,1.0,3.0,1.0,1158885,128
+2024,2024-10-05,Velez Sarsfield,Racing Club,0.0,0.0,1.0,0.0,1158893,128
+2024,2024-10-05,Gimnasia L.P.,Godoy Cruz,0.0,0.0,0.0,1.0,1158886,128
+2024,2024-10-05,Newells Old Boys,Lanus,0.0,0.0,2.0,1.0,1158887,128
+2024,2024-10-05,Instituto Cordoba,San Lorenzo,1.0,0.0,2.0,0.0,1158896,128
+2024,2024-10-06,Independiente,Deportivo Riestra,2.0,1.0,3.0,1.0,1158888,128
+2024,2024-10-06,Talleres Cordoba,Belgrano Cordoba,0.0,0.0,0.0,0.0,1158891,128
+2024,2024-10-06,Platense,River Plate,0.0,0.0,0.0,0.0,1158892,128
+2024,2024-10-07,Boca Juniors,Argentinos JRS,1.0,0.0,1.0,0.0,1158890,128
+2024,2024-10-07,Barracas Central,Independ. Rivadavia,1.0,1.0,1.0,1.0,1158897,128
+2024,2024-10-07,Banfield,Estudiantes L.P.,0.0,1.0,1.0,2.0,1158895,128
+2024,2024-10-07,Defensa Y Justicia,Rosario Central,2.0,0.0,2.0,1.0,1158894,128
+2024,2024-10-08,Atletico Tucuman,Tigre,1.0,1.0,1.0,2.0,1158889,128
+2024,2024-10-12,Godoy Cruz,San Lorenzo,1.0,1.0,1.0,1.0,1158693,128
+2024,2024-10-18,Deportivo Riestra,Atletico Tucuman,0.0,0.0,2.0,0.0,1158907,128
+2024,2024-10-18,Sarmiento Junin,Gimnasia L.P.,1.0,1.0,1.0,1.0,1158910,128
+2024,2024-10-18,Central Cordoba de Santiago,Independ. Rivadavia,2.0,0.0,2.0,0.0,1158898,128
+2024,2024-10-18,Lanus,Independiente,0.0,0.0,0.0,2.0,1158908,128
+2024,2024-10-19,River Plate,Velez Sarsfield,0.0,1.0,1.0,1.0,1158903,128
+2024,2024-10-19,Racing Club,Defensa Y Justicia,3.0,0.0,4.0,3.0,1158902,128
+2024,2024-10-19,Belgrano Cordoba,Platense,0.0,0.0,0.0,1.0,1158904,128
+2024,2024-10-19,Tigre,Boca Juniors,1.0,0.0,3.0,0.0,1158906,128
+2024,2024-10-20,Union Santa Fe,Huracan,0.0,0.0,0.0,1.0,1158911,128
+2024,2024-10-20,Argentinos JRS,Talleres Cordoba,0.0,0.0,3.0,0.0,1158905,128
+2024,2024-10-20,Rosario Central,Banfield,1.0,1.0,1.0,1.0,1158901,128
+2024,2024-10-20,Estudiantes L.P.,Instituto Cordoba,2.0,0.0,3.0,2.0,1158900,128
+2024,2024-10-20,Godoy Cruz,Newells Old Boys,1.0,0.0,2.0,0.0,1158909,128
+2024,2024-10-20,San Lorenzo,Barracas Central,0.0,0.0,1.0,0.0,1158899,128
+2024,2024-10-25,Barracas Central,Estudiantes L.P.,0.0,0.0,1.0,1.0,1158924,128
+2024,2024-10-26,Defensa Y Justicia,River Plate,0.0,0.0,0.0,0.0,1158921,128
+2024,2024-10-26,Newells Old Boys,Sarmiento Junin,1.0,1.0,1.0,1.0,1158914,128
+2024,2024-10-26,Instituto Cordoba,Rosario Central,0.0,0.0,0.0,0.0,1158923,128
+2024,2024-10-26,Independiente,Godoy Cruz,0.0,0.0,1.0,1.0,1158915,128
+2024,2024-10-27,Velez Sarsfield,Belgrano Cordoba,0.0,1.0,1.0,1.0,1158920,128
+2024,2024-10-27,Independ. Rivadavia,San Lorenzo,1.0,0.0,1.0,0.0,1158925,128
+2024,2024-10-27,Platense,Argentinos JRS,2.0,1.0,2.0,1.0,1158919,128
+2024,2024-10-27,Banfield,Racing Club,0.0,0.0,2.0,1.0,1158922,128
+2024,2024-10-27,Boca Juniors,Deportivo Riestra,0.0,1.0,1.0,1.0,1158917,128
+2024,2024-10-28,Atletico Tucuman,Lanus,1.0,0.0,1.0,0.0,1158916,128
+2024,2024-10-28,Talleres Cordoba,Tigre,0.0,0.0,1.0,1.0,1158918,128
+2024,2024-10-28,Gimnasia L.P.,Union Santa Fe,1.0,1.0,2.0,3.0,1158913,128
+2024,2024-10-29,Huracan,Central Cordoba de Santiago,0.0,0.0,0.0,0.0,1158912,128
+2024,2024-10-31,Estudiantes L.P.,Independ. Rivadavia,1.0,1.0,1.0,1.0,1158927,128
+2024,2024-10-31,Sarmiento Junin,Independiente,0.0,0.0,0.0,0.0,1158937,128
+2024,2024-11-01,Rosario Central,Barracas Central,0.0,0.0,0.0,1.0,1158928,128
+2024,2024-11-01,Godoy Cruz,Atletico Tucuman,1.0,0.0,1.0,1.0,1158936,128
+2024,2024-11-01,Central Cordoba de Santiago,San Lorenzo,0.0,1.0,0.0,1.0,1158926,128
+2024,2024-11-01,Huracan,Gimnasia L.P.,0.0,0.0,0.0,0.0,1158939,128
+2024,2024-11-02,Union Santa Fe,Newells Old Boys,1.0,0.0,2.0,0.0,1158938,128
+2024,2024-11-02,Argentinos JRS,Velez Sarsfield,0.0,0.0,1.0,1.0,1158932,128
+2024,2024-11-02,Deportivo Riestra,Talleres Cordoba,0.0,0.0,0.0,0.0,1158934,128
+2024,2024-11-02,River Plate,Banfield,1.0,0.0,3.0,1.0,1158930,128
+2024,2024-11-02,Belgrano Cordoba,Defensa Y Justicia,0.0,0.0,1.0,2.0,1158931,128
+2024,2024-11-03,Tigre,Platense,0.0,0.0,0.0,0.0,1158933,128
+2024,2024-11-03,Racing Club,Instituto Cordoba,2.0,0.0,2.0,0.0,1158929,128
+2024,2024-11-03,Lanus,Boca Juniors,0.0,0.0,1.0,0.0,1158935,128
+2024,2024-11-04,Atletico Tucuman,Sarmiento Junin,1.0,0.0,1.0,0.0,1158943,128
+2024,2024-11-05,Independ. Rivadavia,Rosario Central,1.0,1.0,1.0,1.0,1158952,128
+2024,2024-11-05,Gimnasia L.P.,Central Cordoba de Santiago,0.0,0.0,0.0,0.0,1158940,128
+2024,2024-11-05,San Lorenzo,Estudiantes L.P.,1.0,1.0,1.0,1.0,1158953,128
+2024,2024-11-06,Independiente,Union Santa Fe,1.0,0.0,3.0,0.0,1158942,128
+2024,2024-11-06,Newells Old Boys,Huracan,1.0,2.0,2.0,4.0,1158941,128
+2024,2024-11-06,Barracas Central,Racing Club,0.0,1.0,0.0,2.0,1158951,128
+2024,2024-11-06,Banfield,Belgrano Cordoba,0.0,1.0,1.0,1.0,1158949,128
+2024,2024-11-06,Boca Juniors,Godoy Cruz,2.0,1.0,4.0,1.0,1158944,128
+2024,2024-11-07,Instituto Cordoba,River Plate,1.0,0.0,2.0,3.0,1158950,128
+2024,2024-11-07,Talleres Cordoba,Lanus,1.0,1.0,1.0,2.0,1158945,128
+2024,2024-11-07,Defensa Y Justicia,Argentinos JRS,1.0,1.0,2.0,1.0,1158948,128
+2024,2024-11-08,Platense,Deportivo Riestra,0.0,0.0,0.0,0.0,1158946,128
+2024,2024-11-08,Velez Sarsfield,Tigre,0.0,0.0,1.0,0.0,1158947,128
+2024,2024-11-09,Union Santa Fe,Atletico Tucuman,0.0,0.0,1.0,0.0,1158965,128
+2024,2024-11-09,Gimnasia L.P.,Newells Old Boys,1.0,0.0,1.0,0.0,1158967,128
+2024,2024-11-09,Rosario Central,San Lorenzo,0.0,0.0,0.0,1.0,1158955,128
+2024,2024-11-10,Huracan,Independiente,0.0,0.0,1.0,0.0,1158966,128
+2024,2024-11-10,Central Cordoba de Santiago,Estudiantes L.P.,1.0,1.0,1.0,1.0,1158954,128
+2024,2024-11-10,River Plate,Barracas Central,0.0,0.0,3.0,0.0,1158957,128
+2024,2024-11-10,Godoy Cruz,Talleres Cordoba,0.0,0.0,0.0,1.0,1158963,128
+2024,2024-11-10,Racing Club,Independ. Rivadavia,1.0,1.0,2.0,1.0,1158956,128
+2024,2024-11-11,Sarmiento Junin,Boca Juniors,0.0,0.0,0.0,2.0,1158964,128
+2024,2024-11-11,Deportivo Riestra,Velez Sarsfield,0.0,1.0,1.0,1.0,1158961,128
+2024,2024-11-11,Lanus,Platense,0.0,0.0,0.0,0.0,1158962,128
+2024,2024-11-11,Tigre,Defensa Y Justicia,0.0,0.0,0.0,4.0,1158960,128
+2024,2024-11-12,Belgrano Cordoba,Instituto Cordoba,2.0,1.0,3.0,1.0,1158958,128
+2024,2024-11-12,Argentinos JRS,Banfield,1.0,0.0,1.0,0.0,1158959,128
+2024,2024-11-17,San Lorenzo,Racing Club,1.0,0.0,1.0,2.0,1158980,128
+2024,2024-11-18,Banfield,Tigre,0.0,0.0,0.0,1.0,1158976,128
+2024,2024-11-18,Defensa Y Justicia,Deportivo Riestra,0.0,0.0,1.0,1.0,1158975,128
+2024,2024-11-18,Platense,Godoy Cruz,0.0,0.0,1.0,0.0,1158973,128
+2024,2024-11-19,Atletico Tucuman,Huracan,2.0,1.0,4.0,2.0,1158970,128
+2024,2024-11-19,Instituto Cordoba,Argentinos JRS,0.0,0.0,1.0,0.0,1158977,128
+2024,2024-11-20,Newells Old Boys,Central Cordoba de Santiago,1.0,1.0,2.0,3.0,1158968,128
+2024,2024-11-20,Velez Sarsfield,Lanus,0.0,0.0,0.0,0.0,1158974,128
+2024,2024-11-20,Estudiantes L.P.,Rosario Central,1.0,1.0,1.0,1.0,1158981,128
+2024,2024-11-21,Boca Juniors,Union Santa Fe,1.0,0.0,1.0,0.0,1158971,128
+2024,2024-11-21,Barracas Central,Belgrano Cordoba,1.0,1.0,1.0,1.0,1158978,128
+2024,2024-11-21,Independiente,Gimnasia L.P.,1.0,0.0,1.0,0.0,1158969,128
+2024,2024-11-21,Talleres Cordoba,Sarmiento Junin,0.0,0.0,2.0,0.0,1158972,128
+2024,2024-11-22,Independ. Rivadavia,River Plate,1.0,1.0,2.0,1.0,1158979,128
+2024,2024-11-23,Tigre,Instituto Cordoba,0.0,0.0,0.0,0.0,1158987,128
+2024,2024-11-24,Huracan,Boca Juniors,0.0,0.0,0.0,0.0,1158993,128
+2024,2024-11-24,Gimnasia L.P.,Atletico Tucuman,1.0,0.0,1.0,0.0,1158994,128
+2024,2024-11-24,Deportivo Riestra,Banfield,1.0,1.0,1.0,1.0,1158988,128
+2024,2024-11-24,Godoy Cruz,Velez Sarsfield,0.0,0.0,0.0,0.0,1158990,128
+2024,2024-11-25,Lanus,Defensa Y Justicia,0.0,0.0,0.0,0.0,1158989,128
+2024,2024-11-25,Central Cordoba de Santiago,Rosario Central,0.0,0.0,0.0,1.0,1158982,128
+2024,2024-11-26,Belgrano Cordoba,Independ. Rivadavia,0.0,1.0,0.0,2.0,1158985,128
+2024,2024-11-26,Argentinos JRS,Barracas Central,0.0,1.0,0.0,1.0,1158986,128
+2024,2024-11-26,Newells Old Boys,Independiente,1.0,0.0,2.0,1.0,1158995,128
+2024,2024-11-27,Union Santa Fe,Talleres Cordoba,1.0,2.0,2.0,3.0,1158992,128
+2024,2024-11-27,Sarmiento Junin,Platense,1.0,0.0,1.0,0.0,1158991,128
+2024,2024-11-29,San Lorenzo,Belgrano Cordoba,0.0,1.0,0.0,2.0,1159007,128
+2024,2024-11-30,Estudiantes L.P.,River Plate,0.0,2.0,1.0,2.0,1159008,128
+2024,2024-11-30,Rosario Central,Racing Club,0.0,0.0,0.0,2.0,1159009,128
+2024,2024-11-30,Banfield,Lanus,0.0,0.0,0.0,1.0,1159003,128
+2024,2024-12-01,Defensa Y Justicia,Godoy Cruz,2.0,1.0,2.0,1.0,1159002,128
+2024,2024-12-01,Instituto Cordoba,Deportivo Riestra,0.0,1.0,2.0,1.0,1159004,128
+2024,2024-12-01,Independiente,Central Cordoba de Santiago,2.0,0.0,2.0,0.0,1158996,128
+2024,2024-12-01,Velez Sarsfield,Sarmiento Junin,1.0,0.0,1.0,0.0,1159001,128
+2024,2024-12-02,Boca Juniors,Gimnasia L.P.,1.0,0.0,1.0,0.0,1158998,128
+2024,2024-12-02,Barracas Central,Tigre,0.0,0.0,0.0,0.0,1159005,128
+2024,2024-12-02,Platense,Union Santa Fe,0.0,0.0,1.0,0.0,1159000,128
+2024,2024-12-02,Talleres Cordoba,Huracan,0.0,0.0,1.0,0.0,1158999,128
+2024,2024-12-03,Independ. Rivadavia,Argentinos JRS,2.0,1.0,2.0,1.0,1159006,128
+2024,2024-12-03,Atletico Tucuman,Newells Old Boys,0.0,0.0,0.0,0.0,1158997,128
+2024,2024-12-04,Racing Club,Estudiantes L.P.,2.0,1.0,4.0,5.0,1158983,128
+2024,2024-12-05,River Plate,San Lorenzo,0.0,0.0,1.0,1.0,1158984,128
+2024,2024-12-06,Deportivo Riestra,Barracas Central,0.0,0.0,0.0,0.0,1159015,128
+2024,2024-12-06,Sarmiento Junin,Defensa Y Justicia,1.0,1.0,1.0,1.0,1159018,128
+2024,2024-12-07,Lanus,Instituto Cordoba,0.0,0.0,2.0,0.0,1159016,128
+2024,2024-12-07,Union Santa Fe,Velez Sarsfield,0.0,0.0,1.0,0.0,1159019,128
+2024,2024-12-08,Central Cordoba de Santiago,Racing Club,2.0,0.0,3.0,1.0,1159010,128
+2024,2024-12-08,Gimnasia L.P.,Talleres Cordoba,0.0,0.0,0.0,1.0,1159021,128
+2024,2024-12-08,Godoy Cruz,Banfield,1.0,0.0,4.0,0.0,1159017,128
+2024,2024-12-08,River Plate,Rosario Central,1.0,0.0,4.0,0.0,1159011,128
+2024,2024-12-09,Newells Old Boys,Boca Juniors,0.0,0.0,0.0,1.0,1159022,128
+2024,2024-12-09,Tigre,Independ. Rivadavia,0.0,1.0,0.0,2.0,1159014,128
+2024,2024-12-09,Belgrano Cordoba,Estudiantes L.P.,1.0,1.0,2.0,2.0,1159012,128
+2024,2024-12-09,Argentinos JRS,San Lorenzo,1.0,0.0,1.0,0.0,1159013,128
+2024,2024-12-10,Huracan,Platense,0.0,0.0,1.0,0.0,1159020,128
+2024,2024-12-10,Independiente,Atletico Tucuman,1.0,0.0,2.0,1.0,1159023,128
+2024,2024-12-13,Estudiantes L.P.,Argentinos JRS,1.0,1.0,2.0,2.0,1159035,128
+2024,2024-12-13,Barracas Central,Lanus,1.0,1.0,3.0,3.0,1159032,128
+2024,2024-12-14,Banfield,Sarmiento Junin,0.0,0.0,1.0,1.0,1159030,128
+2024,2024-12-14,San Lorenzo,Tigre,0.0,0.0,0.0,1.0,1159034,128
+2024,2024-12-14,Rosario Central,Belgrano Cordoba,1.0,0.0,2.0,1.0,1159036,128
+2024,2024-12-14,Instituto Cordoba,Godoy Cruz,1.0,1.0,1.0,3.0,1159031,128
+2024,2024-12-14,Boca Juniors,Independiente,0.0,0.0,0.0,0.0,1159025,128
+2024,2024-12-15,Racing Club,River Plate,1.0,0.0,1.0,0.0,1159037,128
+2024,2024-12-15,Defensa Y Justicia,Union Santa Fe,0.0,0.0,0.0,0.0,1159029,128
+2024,2024-12-15,Platense,Gimnasia L.P.,1.0,0.0,1.0,0.0,1159027,128
+2024,2024-12-15,Velez Sarsfield,Huracan,2.0,0.0,2.0,0.0,1159028,128
+2024,2024-12-15,Talleres Cordoba,Newells Old Boys,0.0,0.0,1.0,3.0,1159026,128
+2024,2024-12-17,Atletico Tucuman,Central Cordoba de Santiago,1.0,0.0,2.0,0.0,1159024,128
+2024,2024-12-17,Independ. Rivadavia,Deportivo Riestra,0.0,0.0,0.0,0.0,1159033,128
+2025,2025-08-10,Barracas Central,Aldosivi,1.0,0.0,1.0,0.0,1374109,128
+2025,2025-01-23,Godoy Cruz,Rosario Central,0.0,2.0,0.0,3.0,1334278,128
+2025,2025-01-23,Tigre,Velez Sarsfield,2.0,0.0,3.0,0.0,1334277,128
+2025,2025-01-24,Defensa Y Justicia,Banfield,0.0,0.0,0.0,1.0,1334280,128
+2025,2025-01-24,Lanus,Deportivo Riestra,0.0,0.0,0.0,2.0,1334282,128
+2025,2025-01-24,Newells Old Boys,Independ. Rivadavia,0.0,1.0,0.0,1.0,1334279,128
+2025,2025-01-24,Barracas Central,Racing Club,1.0,1.0,1.0,3.0,1334281,128
+2025,2025-01-24,Independiente,Sarmiento Junin,1.0,0.0,2.0,1.0,1334283,128
+2025,2025-01-25,Belgrano Cordoba,Huracan,1.0,1.0,1.0,1.0,1334284,128
+2025,2025-01-25,San Martin S.J.,Atletico Tucuman,0.0,1.0,0.0,1.0,1334285,128
+2025,2025-01-25,San Lorenzo,Talleres Cordoba,0.0,0.0,1.0,0.0,1334286,128
+2025,2025-01-25,Estudiantes L.P.,Union Santa Fe,3.0,0.0,3.0,1.0,1334287,128
+2025,2025-01-25,Instituto Cordoba,Gimnasia L.P.,1.0,0.0,3.0,0.0,1334288,128
+2025,2025-01-26,Platense,River Plate,1.0,0.0,1.0,1.0,1334289,128
+2025,2025-01-26,Boca Juniors,Argentinos JRS,0.0,0.0,0.0,0.0,1334290,128
+2025,2025-01-27,Central Cordoba de Santiago,Aldosivi,0.0,0.0,1.0,0.0,1334291,128
+2025,2025-01-27,Banfield,Newells Old Boys,2.0,0.0,3.0,0.0,1334292,128
+2025,2025-01-28,Deportivo Riestra,San Martin S.J.,0.0,0.0,0.0,0.0,1334293,128
+2025,2025-01-28,Rosario Central,Lanus,2.0,0.0,2.0,1.0,1334294,128
+2025,2025-01-28,Sarmiento Junin,Godoy Cruz,0.0,0.0,0.0,0.0,1334295,128
+2025,2025-01-29,Velez Sarsfield,Platense,0.0,0.0,0.0,1.0,1334297,128
+2025,2025-01-29,Independ. Rivadavia,Barracas Central,0.0,0.0,0.0,0.0,1334296,128
+2025,2025-01-29,Gimnasia L.P.,San Lorenzo,0.0,0.0,0.0,2.0,1334299,128
+2025,2025-01-29,Talleres Cordoba,Independiente,1.0,2.0,2.0,3.0,1334298,128
+2025,2025-01-29,Union Santa Fe,Boca Juniors,0.0,1.0,1.0,1.0,1334301,128
+2025,2025-01-29,Huracan,Estudiantes L.P.,0.0,0.0,0.0,0.0,1334300,128
+2025,2025-01-30,River Plate,Instituto Cordoba,0.0,0.0,1.0,0.0,1334302,128
+2025,2025-01-30,Aldosivi,Defensa Y Justicia,0.0,2.0,0.0,5.0,1334303,128
+2025,2025-01-30,Racing Club,Belgrano Cordoba,1.0,0.0,4.0,0.0,1334304,128
+2025,2025-01-31,Argentinos JRS,Tigre,1.0,0.0,1.0,0.0,1334305,128
+2025,2025-01-31,Central Cordoba de Santiago,Atletico Tucuman,1.0,0.0,2.0,0.0,1334306,128
+2025,2025-02-01,Barracas Central,Banfield,1.0,0.0,1.0,0.0,1334307,128
+2025,2025-02-01,San Martin S.J.,Rosario Central,0.0,0.0,0.0,0.0,1334308,128
+2025,2025-02-02,Lanus,Sarmiento Junin,2.0,0.0,2.0,0.0,1334309,128
+2025,2025-02-02,San Lorenzo,River Plate,0.0,0.0,0.0,0.0,1334310,128
+2025,2025-02-02,Boca Juniors,Huracan,1.0,1.0,2.0,1.0,1334311,128
+2025,2025-02-02,Newells Old Boys,Aldosivi,1.0,0.0,1.0,0.0,1334312,128
+2025,2025-02-03,Independiente,Gimnasia L.P.,1.0,0.0,2.0,0.0,1334314,128
+2025,2025-02-03,Instituto Cordoba,Velez Sarsfield,1.0,0.0,2.0,0.0,1334313,128
+2025,2025-02-03,Defensa Y Justicia,Central Cordoba de Santiago,0.0,0.0,2.0,1.0,1334316,128
+2025,2025-02-03,Estudiantes L.P.,Racing Club,1.0,0.0,2.0,0.0,1334317,128
+2025,2025-02-03,Tigre,Union Santa Fe,1.0,0.0,1.0,0.0,1334315,128
+2025,2025-02-04,Belgrano Cordoba,Independ. Rivadavia,0.0,3.0,0.0,3.0,1334318,128
+2025,2025-02-04,Argentinos JRS,Platense,0.0,0.0,1.0,0.0,1334319,128
+2025,2025-02-05,Atletico Tucuman,Deportivo Riestra,0.0,1.0,0.0,3.0,1334321,128
+2025,2025-02-06,Aldosivi,Barracas Central,0.0,2.0,1.0,3.0,1334322,128
+2025,2025-02-06,Sarmiento Junin,San Martin S.J.,0.0,1.0,1.0,1.0,1334323,128
+2025,2025-02-07,Banfield,Belgrano Cordoba,1.0,0.0,1.0,1.0,1334324,128
+2025,2025-02-07,Huracan,Tigre,1.0,0.0,2.0,0.0,1334326,128
+2025,2025-02-07,Central Cordoba de Santiago,Newells Old Boys,1.0,0.0,2.0,0.0,1334325,128
+2025,2025-02-08,Union Santa Fe,Argentinos JRS,0.0,1.0,0.0,1.0,1334328,128
+2025,2025-02-08,Independ. Rivadavia,Estudiantes L.P.,0.0,0.0,2.0,2.0,1334327,128
+2025,2025-02-08,Velez Sarsfield,San Lorenzo,0.0,0.0,0.0,0.0,1334330,128
+2025,2025-02-08,Rosario Central,Atletico Tucuman,1.0,0.0,3.0,1.0,1334329,128
+2025,2025-02-08,River Plate,Independiente,0.0,0.0,2.0,0.0,1334331,128
+2025,2025-02-09,Racing Club,Boca Juniors,1.0,0.0,2.0,0.0,1334332,128
+2025,2025-02-09,Deportivo Riestra,Defensa Y Justicia,0.0,0.0,1.0,1.0,1334334,128
+2025,2025-02-09,Platense,Instituto Cordoba,0.0,0.0,1.0,0.0,1334333,128
+2025,2025-02-09,Gimnasia L.P.,Godoy Cruz,1.0,0.0,3.0,0.0,1334335,128
+2025,2025-02-10,Talleres Cordoba,Lanus,0.0,1.0,0.0,1.0,1334336,128
+2025,2025-02-11,Barracas Central,Central Cordoba de Santiago,0.0,0.0,3.0,3.0,1334338,128
+2025,2025-02-11,Estudiantes L.P.,Banfield,0.0,0.0,1.0,0.0,1334340,128
+2025,2025-02-11,Boca Juniors,Independ. Rivadavia,0.0,0.0,2.0,0.0,1334339,128
+2025,2025-02-12,Belgrano Cordoba,Aldosivi,1.0,0.0,2.0,0.0,1334341,128
+2025,2025-02-12,Tigre,Racing Club,1.0,0.0,1.0,0.0,1334337,128
+2025,2025-02-12,Deportivo Riestra,Rosario Central,0.0,0.0,0.0,0.0,1334343,128
+2025,2025-02-12,Newells Old Boys,Defensa Y Justicia,0.0,0.0,0.0,1.0,1334342,128
+2025,2025-02-12,Independiente,Velez Sarsfield,2.0,0.0,3.0,0.0,1334345,128
+2025,2025-02-12,Argentinos JRS,Huracan,1.0,0.0,1.0,1.0,1334344,128
+2025,2025-02-13,Godoy Cruz,River Plate,0.0,0.0,0.0,0.0,1334346,128
+2025,2025-02-13,Lanus,Gimnasia L.P.,0.0,0.0,0.0,0.0,1334347,128
+2025,2025-02-13,San Lorenzo,Platense,1.0,1.0,2.0,1.0,1334348,128
+2025,2025-02-13,San Martin S.J.,Talleres Cordoba,0.0,0.0,0.0,1.0,1334349,128
+2025,2025-02-14,Union Santa Fe,Instituto Cordoba,0.0,0.0,0.0,0.0,1334351,128
+2025,2025-02-14,Atletico Tucuman,Sarmiento Junin,4.0,0.0,5.0,0.0,1334350,128
+2025,2025-02-14,Banfield,Boca Juniors,0.0,0.0,0.0,1.0,1334352,128
+2025,2025-02-15,Defensa Y Justicia,Barracas Central,1.0,0.0,1.0,1.0,1334353,128
+2025,2025-02-15,Aldosivi,Estudiantes L.P.,0.0,1.0,2.0,2.0,1334354,128
+2025,2025-02-15,Independ. Rivadavia,Tigre,0.0,2.0,1.0,4.0,1334356,128
+2025,2025-02-15,Central Cordoba de Santiago,Belgrano Cordoba,2.0,0.0,4.0,0.0,1334355,128
+2025,2025-02-16,Racing Club,Argentinos JRS,0.0,2.0,2.0,3.0,1334357,128
+2025,2025-02-16,Newells Old Boys,Rosario Central,0.0,1.0,1.0,2.0,1334358,128
+2025,2025-02-16,River Plate,Lanus,0.0,0.0,1.0,0.0,1334359,128
+2025,2025-02-17,Huracan,Union Santa Fe,0.0,0.0,1.0,0.0,1334360,128
+2025,2025-02-17,Talleres Cordoba,Atletico Tucuman,0.0,0.0,1.0,1.0,1334361,128
+2025,2025-02-17,Gimnasia L.P.,San Martin S.J.,1.0,0.0,1.0,0.0,1334363,128
+2025,2025-02-17,Sarmiento Junin,Deportivo Riestra,0.0,1.0,2.0,1.0,1334362,128
+2025,2025-02-17,Platense,Independiente,0.0,0.0,1.0,1.0,1334364,128
+2025,2025-02-18,Velez Sarsfield,Godoy Cruz,0.0,2.0,0.0,2.0,1334365,128
+2025,2025-02-18,Instituto Cordoba,San Lorenzo,0.0,1.0,0.0,1.0,1334366,128
+2025,2025-02-21,Deportivo Riestra,Talleres Cordoba,0.0,0.0,0.0,0.0,1334367,128
+2025,2025-02-21,Godoy Cruz,Platense,0.0,1.0,1.0,1.0,1334369,128
+2025,2025-02-21,Estudiantes L.P.,Central Cordoba de Santiago,0.0,1.0,3.0,2.0,1334368,128
+2025,2025-02-22,Lanus,Velez Sarsfield,0.0,0.0,0.0,0.0,1334370,128
+2025,2025-02-22,Independiente,Instituto Cordoba,0.0,0.0,2.0,0.0,1334371,128
+2025,2025-02-22,Boca Juniors,Aldosivi,0.0,0.0,2.0,1.0,1334373,128
+2025,2025-02-23,San Martin S.J.,River Plate,0.0,0.0,0.0,2.0,1334374,128
+2025,2025-02-23,Rosario Central,Sarmiento Junin,1.0,0.0,1.0,0.0,1334372,128
+2025,2025-02-23,Huracan,San Lorenzo,1.0,0.0,2.0,0.0,1334375,128
+2025,2025-02-24,Belgrano Cordoba,Defensa Y Justicia,1.0,0.0,2.0,0.0,1334376,128
+2025,2025-02-24,Atletico Tucuman,Gimnasia L.P.,0.0,1.0,0.0,1.0,1334377,128
+2025,2025-02-24,Barracas Central,Newells Old Boys,1.0,0.0,2.0,0.0,1334379,128
+2025,2025-02-24,Argentinos JRS,Independ. Rivadavia,0.0,0.0,0.0,0.0,1334380,128
+2025,2025-02-25,Tigre,Banfield,0.0,0.0,1.0,0.0,1334381,128
+2025,2025-02-28,Boca Juniors,Rosario Central,1.0,0.0,1.0,0.0,1334382,128
+2025,2025-03-01,San Martin S.J.,Belgrano Cordoba,0.0,0.0,3.0,1.0,1334384,128
+2025,2025-03-01,Central Cordoba de Santiago,Deportivo Riestra,0.0,0.0,0.0,0.0,1334383,128
+2025,2025-03-01,Aldosivi,Sarmiento Junin,2.0,2.0,2.0,2.0,1334385,128
+2025,2025-03-01,River Plate,Estudiantes L.P.,0.0,1.0,0.0,2.0,1334386,128
+2025,2025-03-02,Union Santa Fe,Gimnasia L.P.,0.0,0.0,1.0,0.0,1334387,128
+2025,2025-03-02,Talleres Cordoba,Tigre,1.0,1.0,1.0,2.0,1334388,128
+2025,2025-03-02,Argentinos JRS,Instituto Cordoba,0.0,0.0,2.0,0.0,1334390,128
+2025,2025-03-02,Independ. Rivadavia,Lanus,0.0,0.0,1.0,1.0,1334389,128
+2025,2025-03-02,Velez Sarsfield,Huracan,0.0,1.0,0.0,2.0,1334391,128
+2025,2025-03-03,Barracas Central,Godoy Cruz,0.0,1.0,1.0,2.0,1334394,128
+2025,2025-03-03,San Lorenzo,Racing Club,1.0,1.0,3.0,2.0,1334395,128
+2025,2025-03-04,Atletico Tucuman,Newells Old Boys,1.0,2.0,1.0,2.0,1334396,128
+2025,2025-03-04,Banfield,Independiente,0.0,0.0,0.0,0.0,1334392,128
+2025,2025-03-05,Platense,Defensa Y Justicia,0.0,1.0,0.0,1.0,1334393,128
+2025,2025-03-07,Velez Sarsfield,San Martin S.J.,0.0,0.0,1.0,0.0,1334398,128
+2025,2025-03-07,Banfield,Argentinos JRS,1.0,0.0,1.0,2.0,1334397,128
+2025,2025-03-08,Central Cordoba de Santiago,Boca Juniors,0.0,2.0,0.0,3.0,1334399,128
+2025,2025-03-08,San Lorenzo,Independiente,1.0,1.0,1.0,2.0,1334400,128
+2025,2025-03-08,Racing Club,Huracan,0.0,1.0,0.0,1.0,1334401,128
+2025,2025-03-09,Sarmiento Junin,Barracas Central,0.0,0.0,1.0,1.0,1334403,128
+2025,2025-03-09,Platense,Lanus,0.0,0.0,0.0,0.0,1334402,128
+2025,2025-03-09,Defensa Y Justicia,Estudiantes L.P.,0.0,0.0,1.0,0.0,1334404,128
+2025,2025-03-09,Aldosivi,Tigre,0.0,1.0,0.0,2.0,1334405,128
+2025,2025-03-09,River Plate,Atletico Tucuman,0.0,0.0,1.0,0.0,1334406,128
+2025,2025-03-10,Newells Old Boys,Belgrano Cordoba,0.0,0.0,0.0,0.0,1334407,128
+2025,2025-03-10,Instituto Cordoba,Godoy Cruz,1.0,1.0,1.0,1.0,1334408,128
+2025,2025-03-10,Gimnasia L.P.,Deportivo Riestra,0.0,1.0,1.0,1.0,1334409,128
+2025,2025-03-11,Talleres Cordoba,Rosario Central,0.0,0.0,0.0,0.0,1334411,128
+2025,2025-03-11,Independ. Rivadavia,Union Santa Fe,1.0,0.0,2.0,0.0,1334410,128
+2025,2025-03-14,Argentinos JRS,Aldosivi,0.0,1.0,0.0,2.0,1334412,128
+2025,2025-03-15,Godoy Cruz,San Lorenzo,0.0,0.0,0.0,0.0,1334413,128
+2025,2025-03-15,Deportivo Riestra,River Plate,0.0,0.0,0.0,0.0,1334414,128
+2025,2025-03-15,Rosario Central,Gimnasia L.P.,1.0,1.0,2.0,1.0,1334416,128
+2025,2025-03-15,Estudiantes L.P.,Newells Old Boys,1.0,1.0,1.0,1.0,1334415,128
+2025,2025-03-16,Huracan,Independ. Rivadavia,0.0,0.0,2.0,0.0,1334417,128
+2025,2025-03-16,Sarmiento Junin,Talleres Cordoba,0.0,0.0,0.0,0.0,1334418,128
+2025,2025-03-16,Independiente,Racing Club,0.0,1.0,1.0,1.0,1334419,128
+2025,2025-03-16,Boca Juniors,Defensa Y Justicia,2.0,0.0,4.0,0.0,1334420,128
+2025,2025-03-17,Belgrano Cordoba,Barracas Central,1.0,1.0,1.0,1.0,1334421,128
+2025,2025-03-17,Lanus,Instituto Cordoba,1.0,1.0,4.0,1.0,1334422,128
+2025,2025-03-17,Union Santa Fe,Banfield,1.0,0.0,3.0,1.0,1334423,128
+2025,2025-03-17,Tigre,Central Cordoba de Santiago,0.0,0.0,1.0,2.0,1334424,128
+2025,2025-03-18,Atletico Tucuman,Velez Sarsfield,1.0,1.0,1.0,2.0,1334426,128
+2025,2025-03-18,San Martin S.J.,Platense,0.0,2.0,0.0,2.0,1334425,128
+2025,2025-03-21,Union Santa Fe,Racing Club,0.0,0.0,0.0,1.0,1334378,128
+2025,2025-03-22,Godoy Cruz,Talleres Cordoba,0.0,0.0,0.0,0.0,1334320,128
+2025,2025-03-27,Aldosivi,Union Santa Fe,1.0,0.0,2.0,1.0,1334431,128
+2025,2025-03-27,Barracas Central,Estudiantes L.P.,1.0,0.0,2.0,1.0,1334427,128
+2025,2025-03-28,Independ. Rivadavia,Racing Club,0.0,1.0,2.0,1.0,1334433,128
+2025,2025-03-28,Defensa Y Justicia,Tigre,0.0,0.0,1.0,2.0,1334429,128
+2025,2025-03-28,Banfield,Huracan,0.0,0.0,0.0,0.0,1334432,128
+2025,2025-03-28,San Lorenzo,Lanus,0.0,0.0,1.0,1.0,1334439,128
+2025,2025-03-29,Velez Sarsfield,Deportivo Riestra,0.0,1.0,0.0,1.0,1334436,128
+2025,2025-03-29,Platense,Atletico Tucuman,1.0,1.0,2.0,1.0,1334437,128
+2025,2025-03-29,Instituto Cordoba,San Martin S.J.,0.0,0.0,1.0,0.0,1334438,128
+2025,2025-03-29,Central Cordoba de Santiago,Argentinos JRS,0.0,0.0,1.0,1.0,1334430,128
+2025,2025-03-29,Independiente,Godoy Cruz,4.0,0.0,4.0,0.0,1334440,128
+2025,2025-03-30,River Plate,Rosario Central,1.0,1.0,2.0,2.0,1334435,128
+2025,2025-03-30,Belgrano Cordoba,Talleres Cordoba,0.0,1.0,1.0,1.0,1334441,128
+2025,2025-03-30,Gimnasia L.P.,Sarmiento Junin,0.0,0.0,0.0,0.0,1334434,128
+2025,2025-03-30,Newells Old Boys,Boca Juniors,2.0,0.0,2.0,0.0,1334428,128
+2025,2025-04-04,Estudiantes L.P.,Belgrano Cordoba,0.0,1.0,0.0,1.0,1334448,128
+2025,2025-04-05,San Martin S.J.,San Lorenzo,0.0,0.0,0.0,1.0,1334450,128
+2025,2025-04-05,Rosario Central,Velez Sarsfield,0.0,1.0,2.0,1.0,1334453,128
+2025,2025-04-05,Godoy Cruz,Independ. Rivadavia,1.0,0.0,1.0,1.0,1334456,128
+2025,2025-04-05,Huracan,Aldosivi,1.0,1.0,3.0,3.0,1334443,128
+2025,2025-04-05,Talleres Cordoba,Gimnasia L.P.,1.0,0.0,2.0,0.0,1334455,128
+2025,2025-04-05,Sarmiento Junin,River Plate,1.0,1.0,1.0,1.0,1334454,128
+2025,2025-04-06,Union Santa Fe,Central Cordoba de Santiago,1.0,0.0,1.0,0.0,1334444,128
+2025,2025-04-06,Lanus,Independiente,0.0,1.0,1.0,1.0,1334449,128
+2025,2025-04-06,Boca Juniors,Barracas Central,1.0,0.0,1.0,0.0,1334447,128
+2025,2025-04-06,Racing Club,Banfield,1.0,0.0,4.0,1.0,1334442,128
+2025,2025-04-06,Argentinos JRS,Defensa Y Justicia,4.0,0.0,4.0,1.0,1334445,128
+2025,2025-04-07,Deportivo Riestra,Platense,0.0,0.0,1.0,0.0,1334452,128
+2025,2025-04-08,Tigre,Newells Old Boys,0.0,1.0,0.0,2.0,1334446,128
+2025,2025-04-08,Atletico Tucuman,Instituto Cordoba,1.0,0.0,3.0,2.0,1334451,128
+2025,2025-04-11,Banfield,Independ. Rivadavia,1.0,0.0,1.0,1.0,1334463,128
+2025,2025-04-12,Newells Old Boys,Argentinos JRS,0.0,0.0,0.0,0.0,1334459,128
+2025,2025-04-12,San Lorenzo,Atletico Tucuman,0.0,0.0,1.0,0.0,1334468,128
+2025,2025-04-12,Barracas Central,Tigre,1.0,0.0,1.0,0.0,1334458,128
+2025,2025-04-12,Belgrano Cordoba,Boca Juniors,0.0,1.0,1.0,3.0,1334457,128
+2025,2025-04-13,Gimnasia L.P.,Estudiantes L.P.,1.0,0.0,1.0,1.0,1334471,128
+2025,2025-04-13,Instituto Cordoba,Deportivo Riestra,0.0,0.0,3.0,0.0,1334467,128
+2025,2025-04-13,Independiente,San Martin S.J.,0.0,0.0,2.0,0.0,1334469,128
+2025,2025-04-13,River Plate,Talleres Cordoba,0.0,0.0,1.0,1.0,1334464,128
+2025,2025-04-14,Aldosivi,Racing Club,0.0,2.0,0.0,2.0,1334462,128
+2025,2025-04-14,Central Cordoba de Santiago,Huracan,1.0,1.0,1.0,2.0,1334461,128
+2025,2025-04-14,Defensa Y Justicia,Union Santa Fe,0.0,0.0,0.0,0.0,1334460,128
+2025,2025-04-15,Velez Sarsfield,Sarmiento Junin,0.0,0.0,0.0,1.0,1334465,128
+2025,2025-04-15,Godoy Cruz,Lanus,0.0,0.0,0.0,0.0,1334470,128
+2025,2025-04-15,Platense,Rosario Central,0.0,0.0,0.0,0.0,1334466,128
+2025,2025-04-18,Gimnasia L.P.,River Plate,0.0,1.0,0.0,3.0,1334485,128
+2025,2025-04-18,Racing Club,Central Cordoba de Santiago,1.0,0.0,1.0,0.0,1334473,128
+2025,2025-04-18,Talleres Cordoba,Velez Sarsfield,0.0,0.0,0.0,1.0,1334484,128
+2025,2025-04-19,Union Santa Fe,Newells Old Boys,1.0,1.0,1.0,1.0,1334475,128
+2025,2025-04-19,Lanus,Banfield,1.0,0.0,1.0,1.0,1334486,128
+2025,2025-04-19,Huracan,Defensa Y Justicia,0.0,1.0,1.0,1.0,1334474,128
+2025,2025-04-19,Boca Juniors,Estudiantes L.P.,0.0,0.0,2.0,0.0,1334478,128
+2025,2025-04-20,Deportivo Riestra,San Lorenzo,0.0,0.0,0.0,0.0,1334481,128
+2025,2025-04-20,San Martin S.J.,Godoy Cruz,1.0,0.0,1.0,0.0,1334479,128
+2025,2025-04-20,Sarmiento Junin,Platense,0.0,0.0,0.0,1.0,1334483,128
+2025,2025-04-20,Rosario Central,Instituto Cordoba,1.0,0.0,3.0,0.0,1334482,128
+2025,2025-04-22,Tigre,Belgrano Cordoba,0.0,0.0,0.0,0.0,1334477,128
+2025,2025-04-22,Argentinos JRS,Barracas Central,2.0,0.0,3.0,0.0,1334476,128
+2025,2025-04-23,Independ. Rivadavia,Aldosivi,1.0,0.0,1.0,0.0,1334472,128
+2025,2025-04-26,Aldosivi,Banfield,1.0,0.0,2.0,1.0,1334493,128
+2025,2025-04-26,San Lorenzo,Rosario Central,0.0,0.0,0.0,1.0,1334497,128
+2025,2025-04-26,Belgrano Cordoba,Argentinos JRS,1.0,0.0,1.0,1.0,1334488,128
+2025,2025-04-27,River Plate,Boca Juniors,2.0,1.0,2.0,1.0,1334501,128
+2025,2025-04-27,Lanus,San Martin S.J.,0.0,0.0,1.0,0.0,1334500,128
+2025,2025-04-27,Instituto Cordoba,Sarmiento Junin,0.0,0.0,1.0,1.0,1334496,128
+2025,2025-04-28,Independiente,Deportivo Riestra,0.0,0.0,0.0,0.0,1334498,128
+2025,2025-04-28,Barracas Central,Union Santa Fe,1.0,1.0,2.0,1.0,1334489,128
+2025,2025-04-28,Godoy Cruz,Atletico Tucuman,1.0,0.0,1.0,0.0,1334499,128
+2025,2025-04-28,Defensa Y Justicia,Racing Club,0.0,0.0,1.0,2.0,1334491,128
+2025,2025-04-28,Estudiantes L.P.,Tigre,0.0,0.0,0.0,0.0,1334487,128
+2025,2025-04-29,Velez Sarsfield,Gimnasia L.P.,0.0,0.0,1.0,0.0,1334494,128
+2025,2025-04-29,Central Cordoba de Santiago,Independ. Rivadavia,0.0,0.0,1.0,2.0,1334492,128
+2025,2025-04-29,Newells Old Boys,Huracan,1.0,0.0,2.0,0.0,1334490,128
+2025,2025-04-29,Platense,Talleres Cordoba,0.0,1.0,2.0,1.0,1334495,128
+2025,2025-05-01,Atletico Tucuman,Independiente,1.0,0.0,2.0,0.0,1334480,128
+2025,2025-05-02,Racing Club,Newells Old Boys,0.0,0.0,1.0,0.0,1334504,128
+2025,2025-05-02,Banfield,Central Cordoba de Santiago,2.0,0.0,3.0,1.0,1334502,128
+2025,2025-05-02,Argentinos JRS,Estudiantes L.P.,2.0,0.0,4.0,0.0,1334507,128
+2025,2025-05-02,Independ. Rivadavia,Defensa Y Justicia,1.0,2.0,3.0,2.0,1334503,128
+2025,2025-05-02,Union Santa Fe,Belgrano Cordoba,1.0,1.0,1.0,1.0,1334506,128
+2025,2025-05-03,Talleres Cordoba,Instituto Cordoba,1.0,1.0,1.0,2.0,1334513,128
+2025,2025-05-03,Sarmiento Junin,San Lorenzo,1.0,0.0,1.0,1.0,1334512,128
+2025,2025-05-03,Deportivo Riestra,Godoy Cruz,1.0,0.0,3.0,0.0,1334510,128
+2025,2025-05-03,Rosario Central,Independiente,1.0,0.0,1.0,0.0,1334511,128
+2025,2025-05-04,Huracan,Barracas Central,0.0,0.0,0.0,1.0,1334505,128
+2025,2025-05-04,Atletico Tucuman,Lanus,0.0,0.0,1.0,0.0,1334509,128
+2025,2025-05-04,Gimnasia L.P.,Platense,0.0,0.0,1.0,0.0,1334514,128
+2025,2025-05-04,San Martin S.J.,Aldosivi,0.0,1.0,0.0,3.0,1334516,128
+2025,2025-05-04,Tigre,Boca Juniors,1.0,1.0,1.0,1.0,1334508,128
+2025,2025-05-04,River Plate,Velez Sarsfield,3.0,1.0,4.0,1.0,1334515,128
+2025,2025-05-10,San Lorenzo,Tigre,1.0,0.0,2.0,1.0,1374524,128
+2025,2025-05-10,Rosario Central,Estudiantes L.P.,0.0,0.0,2.0,0.0,1374525,128
+2025,2025-05-10,Racing Club,Platense,0.0,0.0,0.0,1.0,1374526,128
+2025,2025-05-11,Boca Juniors,Lanus,0.0,0.0,0.0,0.0,1374527,128
+2025,2025-05-11,Independiente,Independ. Rivadavia,0.0,0.0,1.0,0.0,1374528,128
+2025,2025-05-11,Argentinos JRS,Instituto Cordoba,0.0,0.0,3.0,1.0,1374529,128
+2025,2025-05-11,Huracan,Deportivo Riestra,1.0,0.0,3.0,2.0,1374530,128
+2025,2025-05-12,River Plate,Barracas Central,2.0,0.0,3.0,0.0,1374531,128
+2025,2025-05-18,Rosario Central,Huracan,0.0,1.0,0.0,1.0,1375309,128
+2025,2025-05-19,Argentinos JRS,San Lorenzo,0.0,0.0,1.0,1.0,1375310,128
+2025,2025-05-20,Boca Juniors,Independiente,0.0,0.0,0.0,1.0,1375311,128
+2025,2025-05-20,River Plate,Platense,0.0,1.0,1.0,1.0,1375312,128
+2025,2025-05-24,Independiente,Huracan,0.0,0.0,0.0,0.0,1376084,128
+2025,2025-05-25,San Lorenzo,Platense,0.0,0.0,0.0,1.0,1376085,128
+2025,2025-06-01,Huracan,Platense,0.0,0.0,0.0,1.0,1376552,128
+2025,2025-07-11,Aldosivi,Central Cordoba de Santiago,0.0,0.0,0.0,0.0,1374069,128
+2025,2025-07-11,Talleres Cordoba,San Lorenzo,1.0,1.0,1.0,2.0,1374073,128
+2025,2025-07-12,Rosario Central,Godoy Cruz,0.0,0.0,1.0,1.0,1374075,128
+2025,2025-07-12,Gimnasia L.P.,Instituto Cordoba,0.0,1.0,0.0,1.0,1374072,128
+2025,2025-07-12,Huracan,Belgrano Cordoba,0.0,1.0,0.0,3.0,1374065,128
+2025,2025-07-12,Racing Club,Barracas Central,0.0,0.0,0.0,1.0,1374066,128
+2025,2025-07-13,Sarmiento Junin,Independiente,1.0,0.0,2.0,2.0,1374074,128
+2025,2025-07-13,Atletico Tucuman,San Martin S.J.,1.0,0.0,2.0,1.0,1374077,128
+2025,2025-07-13,Independ. Rivadavia,Newells Old Boys,1.0,0.0,1.0,2.0,1374067,128
+2025,2025-07-13,Argentinos JRS,Boca Juniors,0.0,0.0,0.0,0.0,1374063,128
+2025,2025-07-14,River Plate,Platense,2.0,1.0,3.0,1.0,1374071,128
+2025,2025-07-14,Deportivo Riestra,Lanus,0.0,0.0,1.0,0.0,1374076,128
+2025,2025-07-14,Banfield,Defensa Y Justicia,0.0,0.0,0.0,0.0,1374068,128
+2025,2025-07-15,Velez Sarsfield,Tigre,2.0,0.0,2.0,1.0,1374070,128
+2025,2025-07-15,Union Santa Fe,Estudiantes L.P.,1.0,0.0,1.0,0.0,1374064,128
+2025,2025-07-18,Boca Juniors,Union Santa Fe,0.0,0.0,1.0,1.0,1374083,128
+2025,2025-07-19,Atletico Tucuman,Central Cordoba de Santiago,1.0,0.0,1.0,1.0,1374092,128
+2025,2025-07-19,San Lorenzo,Gimnasia L.P.,0.0,0.0,0.0,0.0,1374089,128
+2025,2025-07-19,Lanus,Rosario Central,0.0,0.0,0.0,1.0,1374086,128
+2025,2025-07-19,Godoy Cruz,Sarmiento Junin,0.0,0.0,0.0,0.0,1374087,128
+2025,2025-07-19,Platense,Velez Sarsfield,0.0,0.0,0.0,0.0,1374091,128
+2025,2025-07-20,Instituto Cordoba,River Plate,0.0,2.0,0.0,4.0,1374090,128
+2025,2025-07-20,Barracas Central,Independ. Rivadavia,0.0,0.0,0.0,3.0,1374080,128
+2025,2025-07-20,Tigre,Argentinos JRS,0.0,0.0,2.0,1.0,1374084,128
+2025,2025-07-20,Newells Old Boys,Banfield,0.0,1.0,1.0,2.0,1374079,128
+2025,2025-07-20,Belgrano Cordoba,Racing Club,0.0,0.0,0.0,1.0,1374081,128
+2025,2025-07-21,Independiente,Talleres Cordoba,0.0,1.0,1.0,2.0,1374088,128
+2025,2025-07-21,Estudiantes L.P.,Huracan,0.0,1.0,2.0,1.0,1374082,128
+2025,2025-07-22,Defensa Y Justicia,Aldosivi,0.0,0.0,2.0,0.0,1374078,128
+2025,2025-07-22,San Martin S.J.,Deportivo Riestra,1.0,1.0,3.0,2.0,1374085,128
+2025,2025-07-25,Sarmiento Junin,Lanus,0.0,2.0,0.0,2.0,1374104,128
+2025,2025-07-26,Union Santa Fe,Tigre,0.0,0.0,0.0,0.0,1374093,128
+2025,2025-07-26,Independ. Rivadavia,Belgrano Cordoba,0.0,0.0,0.0,0.0,1374096,128
+2025,2025-07-26,Aldosivi,Newells Old Boys,0.0,0.0,0.0,0.0,1374098,128
+2025,2025-07-26,Rosario Central,San Martin S.J.,0.0,0.0,0.0,0.0,1374105,128
+2025,2025-07-26,Velez Sarsfield,Instituto Cordoba,0.0,0.0,0.0,0.0,1374100,128
+2025,2025-07-26,Platense,Argentinos JRS,0.0,0.0,0.0,0.0,1374107,128
+2025,2025-07-27,Racing Club,Estudiantes L.P.,0.0,0.0,0.0,1.0,1374095,128
+2025,2025-07-27,Gimnasia L.P.,Independiente,1.0,0.0,1.0,0.0,1374102,128
+2025,2025-07-27,Talleres Cordoba,Godoy Cruz,0.0,0.0,0.0,0.0,1374103,128
+2025,2025-07-27,Huracan,Boca Juniors,0.0,0.0,1.0,0.0,1374094,128
+2025,2025-07-27,River Plate,San Lorenzo,0.0,0.0,0.0,0.0,1374101,128
+2025,2025-07-28,Deportivo Riestra,Atletico Tucuman,0.0,0.0,1.0,0.0,1374106,128
+2025,2025-07-28,Central Cordoba de Santiago,Defensa Y Justicia,1.0,0.0,2.0,1.0,1374099,128
+2025,2025-07-28,Banfield,Barracas Central,1.0,3.0,1.0,3.0,1374097,128
+2025,2025-08-07,Godoy Cruz,Gimnasia L.P.,0.0,2.0,1.0,2.0,1374118,128
+2025,2025-08-07,San Lorenzo,Velez Sarsfield,1.0,0.0,1.0,0.0,1374120,128
+2025,2025-08-08,Estudiantes L.P.,Independ. Rivadavia,2.0,0.0,2.0,1.0,1374111,128
+2025,2025-08-08,Tigre,Huracan,0.0,0.0,0.0,1.0,1374113,128
+2025,2025-08-09,Newells Old Boys,Central Cordoba de Santiago,0.0,0.0,1.0,1.0,1374108,128
+2025,2025-08-09,Lanus,Talleres Cordoba,1.0,0.0,1.0,0.0,1374117,128
+2025,2025-08-09,San Martin S.J.,Sarmiento Junin,0.0,0.0,0.0,1.0,1374116,128
+2025,2025-08-09,Boca Juniors,Racing Club,0.0,0.0,1.0,1.0,1374112,128
+2025,2025-08-09,Independiente,River Plate,0.0,0.0,0.0,0.0,1374119,128
+2025,2025-08-09,Belgrano Cordoba,Banfield,1.0,0.0,2.0,1.0,1374110,128
+2025,2025-08-09,Atletico Tucuman,Rosario Central,0.0,0.0,0.0,0.0,1374115,128
+2025,2025-08-10,Instituto Cordoba,Platense,,,,,1374121,128
+2025,2025-08-10,Argentinos JRS,Union Santa Fe,,,,,1374114,128
+2025,2025-08-11,Defensa Y Justicia,Deportivo Riestra,,,,,1374122,128
+2025,2025-08-15,Aldosivi,Belgrano Cordoba,,,,,1374127,128
+2025,2025-08-15,Instituto Cordoba,Union Santa Fe,,,,,1374137,128
+2025,2025-08-16,Racing Club,Tigre,,,,,1374124,128
+2025,2025-08-16,Platense,San Lorenzo,,,,,1374130,128
+2025,2025-08-16,Huracan,Argentinos JRS,,,,,1374123,128
+2025,2025-08-16,Rosario Central,Deportivo Riestra,,,,,1374136,128
+2025,2025-08-16,Velez Sarsfield,Independiente,,,,,1374131,128
+2025,2025-08-17,Gimnasia L.P.,Lanus,,,,,1374133,128
+2025,2025-08-17,Defensa Y Justicia,Newells Old Boys,,,,,1374129,128
+2025,2025-08-17,Banfield,Estudiantes L.P.,,,,,1374126,128
+2025,2025-08-17,Central Cordoba de Santiago,Barracas Central,,,,,1374128,128
+2025,2025-08-17,River Plate,Godoy Cruz,,,,,1374132,128
+2025,2025-08-17,Independ. Rivadavia,Boca Juniors,,,,,1374125,128
+2025,2025-08-18,Sarmiento Junin,Atletico Tucuman,,,,,1374135,128
+2025,2025-08-19,Talleres Cordoba,San Martin S.J.,,,,,1374134,128
+2025,2025-08-22,Barracas Central,Defensa Y Justicia,,,,,1374138,128
+2025,2025-08-22,Tigre,Independ. Rivadavia,,,,,1374142,128
+2025,2025-08-23,San Lorenzo,Instituto Cordoba,,,,,1374151,128
+2025,2025-08-23,Rosario Central,Newells Old Boys,,,,,1374152,128
+2025,2025-08-23,Atletico Tucuman,Talleres Cordoba,,,,,1374146,128
+2025,2025-08-23,San Martin S.J.,Gimnasia L.P.,,,,,1374147,128
+2025,2025-08-24,Union Santa Fe,Huracan,,,,,1374144,128
+2025,2025-08-24,Argentinos JRS,Racing Club,,,,,1374143,128
+2025,2025-08-24,Boca Juniors,Banfield,,,,,1374141,128
+2025,2025-08-24,Independiente,Platense,,,,,1374150,128
+2025,2025-08-25,Deportivo Riestra,Sarmiento Junin,,,,,1374145,128
+2025,2025-08-25,Godoy Cruz,Velez Sarsfield,,,,,1374149,128
+2025,2025-08-25,Belgrano Cordoba,Central Cordoba de Santiago,,,,,1374139,128
+2025,2025-08-25,Estudiantes L.P.,Aldosivi,,,,,1374140,128
+2025,2025-08-26,Lanus,River Plate,,,,,1374148,128
+2025,2025-08-31,Gimnasia L.P.,Atletico Tucuman,,,,,1374164,128
+2025,2025-08-31,River Plate,San Martin S.J.,,,,,1374163,128
+2025,2025-08-31,Racing Club,Union Santa Fe,,,,,1374153,128
+2025,2025-08-31,Velez Sarsfield,Lanus,,,,,1374162,128
+2025,2025-08-31,Defensa Y Justicia,Belgrano Cordoba,,,,,1374158,128
+2025,2025-08-31,Banfield,Tigre,,,,,1374155,128
+2025,2025-08-31,Talleres Cordoba,Deportivo Riestra,,,,,1374165,128
+2025,2025-08-31,Newells Old Boys,Barracas Central,,,,,1374159,128
+2025,2025-08-31,San Lorenzo,Huracan,,,,,1374167,128
+2025,2025-08-31,Aldosivi,Boca Juniors,,,,,1374156,128
+2025,2025-08-31,Independ. Rivadavia,Argentinos JRS,,,,,1374154,128
+2025,2025-08-31,Sarmiento Junin,Rosario Central,,,,,1374166,128
+2025,2025-08-31,Instituto Cordoba,Independiente,,,,,1374160,128
+2025,2025-08-31,Platense,Godoy Cruz,,,,,1374161,128
+2025,2025-08-31,Central Cordoba de Santiago,Estudiantes L.P.,,,,,1374157,128
+2025,2025-09-14,Gimnasia L.P.,Union Santa Fe,,,,,1374176,128
+2025,2025-09-14,Racing Club,San Lorenzo,,,,,1374179,128
+2025,2025-09-14,Rosario Central,Boca Juniors,,,,,1374181,128
+2025,2025-09-14,Godoy Cruz,Barracas Central,,,,,1374171,128
+2025,2025-09-14,Belgrano Cordoba,San Martin S.J.,,,,,1374180,128
+2025,2025-09-14,Defensa Y Justicia,Platense,,,,,1374175,128
+2025,2025-09-14,Huracan,Velez Sarsfield,,,,,1374170,128
+2025,2025-09-14,Lanus,Independ. Rivadavia,,,,,1374172,128
+2025,2025-09-14,Estudiantes L.P.,River Plate,,,,,1374169,128
+2025,2025-09-14,Tigre,Talleres Cordoba,,,,,1374177,128
+2025,2025-09-14,Independiente,Banfield,,,,,1374168,128
+2025,2025-09-14,Newells Old Boys,Atletico Tucuman,,,,,1374173,128
+2025,2025-09-14,Sarmiento Junin,Aldosivi,,,,,1374182,128
+2025,2025-09-14,Deportivo Riestra,Central Cordoba de Santiago,,,,,1374178,128
+2025,2025-09-14,Instituto Cordoba,Argentinos JRS,,,,,1374174,128
+2025,2025-09-21,Rosario Central,Talleres Cordoba,,,,,1374190,128
+2025,2025-09-21,Godoy Cruz,Instituto Cordoba,,,,,1374195,128
+2025,2025-09-21,Belgrano Cordoba,Newells Old Boys,,,,,1374183,128
+2025,2025-09-21,Union Santa Fe,Independ. Rivadavia,,,,,1374188,128
+2025,2025-09-21,Huracan,Racing Club,,,,,1374189,128
+2025,2025-09-21,Lanus,Platense,,,,,1374194,128
+2025,2025-09-21,Estudiantes L.P.,Defensa Y Justicia,,,,,1374184,128
+2025,2025-09-21,Boca Juniors,Central Cordoba de Santiago,,,,,1374185,128
+2025,2025-09-21,Tigre,Aldosivi,,,,,1374186,128
+2025,2025-09-21,Independiente,San Lorenzo,,,,,1374196,128
+2025,2025-09-21,Atletico Tucuman,River Plate,,,,,1374192,128
+2025,2025-09-21,Argentinos JRS,Banfield,,,,,1374187,128
+2025,2025-09-21,San Martin S.J.,Velez Sarsfield,,,,,1374193,128
+2025,2025-09-21,Deportivo Riestra,Gimnasia L.P.,,,,,1374191,128
+2025,2025-09-21,Barracas Central,Sarmiento Junin,,,,,1374197,128
+2025,2025-09-28,Gimnasia L.P.,Rosario Central,,,,,1374210,128
+2025,2025-09-28,River Plate,Deportivo Riestra,,,,,1374209,128
+2025,2025-09-28,Racing Club,Independiente,,,,,1374212,128
+2025,2025-09-28,Defensa Y Justicia,Boca Juniors,,,,,1374202,128
+2025,2025-09-28,Banfield,Union Santa Fe,,,,,1374199,128
+2025,2025-09-28,Newells Old Boys,Estudiantes L.P.,,,,,1374203,128
+2025,2025-09-28,San Lorenzo,Godoy Cruz,,,,,1374205,128
+2025,2025-09-28,Aldosivi,Argentinos JRS,,,,,1374200,128
+2025,2025-09-28,Independ. Rivadavia,Huracan,,,,,1374198,128
+2025,2025-09-28,Instituto Cordoba,Lanus,,,,,1374206,128
+2025,2025-09-28,Central Cordoba de Santiago,Tigre,,,,,1374201,128
+2025,2025-09-28,Velez Sarsfield,Atletico Tucuman,,,,,1374208,128
+2025,2025-09-28,Talleres Cordoba,Sarmiento Junin,,,,,1374211,128
+2025,2025-09-28,Platense,San Martin S.J.,,,,,1374207,128
+2025,2025-09-28,Barracas Central,Belgrano Cordoba,,,,,1374204,128
+2025,2025-10-05,Racing Club,Independ. Rivadavia,,,,,1374219,128
+2025,2025-10-05,Rosario Central,River Plate,,,,,1374221,128
+2025,2025-10-05,Godoy Cruz,Independiente,,,,,1374226,128
+2025,2025-10-05,Union Santa Fe,Aldosivi,,,,,1374217,128
+2025,2025-10-05,Lanus,San Lorenzo,,,,,1374225,128
+2025,2025-10-05,Estudiantes L.P.,Barracas Central,,,,,1374213,128
+2025,2025-10-05,Boca Juniors,Newells Old Boys,,,,,1374214,128
+2025,2025-10-05,Tigre,Defensa Y Justicia,,,,,1374215,128
+2025,2025-10-05,Atletico Tucuman,Platense,,,,,1374223,128
+2025,2025-10-05,Talleres Cordoba,Belgrano Cordoba,,,,,1374227,128
+2025,2025-10-05,Argentinos JRS,Central Cordoba de Santiago,,,,,1374216,128
+2025,2025-10-05,San Martin S.J.,Instituto Cordoba,,,,,1374224,128
+2025,2025-10-05,Sarmiento Junin,Gimnasia L.P.,,,,,1374220,128
+2025,2025-10-05,Deportivo Riestra,Velez Sarsfield,,,,,1374222,128
+2025,2025-10-05,Huracan,Banfield,,,,,1374218,128
+2025,2025-10-12,Gimnasia L.P.,Talleres Cordoba,,,,,1374241,128
+2025,2025-10-12,River Plate,Sarmiento Junin,,,,,1374240,128
+2025,2025-10-12,Velez Sarsfield,Rosario Central,,,,,1374239,128
+2025,2025-10-12,Belgrano Cordoba,Estudiantes L.P.,,,,,1374234,128
+2025,2025-10-12,Defensa Y Justicia,Argentinos JRS,,,,,1374231,128
+2025,2025-10-12,Banfield,Racing Club,,,,,1374228,128
+2025,2025-10-12,Independiente,Lanus,,,,,1374235,128
+2025,2025-10-12,Newells Old Boys,Tigre,,,,,1374232,128
+2025,2025-10-12,San Lorenzo,San Martin S.J.,,,,,1374236,128
+2025,2025-10-12,Aldosivi,Huracan,,,,,1374229,128
+2025,2025-10-12,Independ. Rivadavia,Godoy Cruz,,,,,1374242,128
+2025,2025-10-12,Instituto Cordoba,Atletico Tucuman,,,,,1374237,128
+2025,2025-10-12,Platense,Deportivo Riestra,,,,,1374238,128
+2025,2025-10-12,Central Cordoba de Santiago,Union Santa Fe,,,,,1374230,128
+2025,2025-10-12,Barracas Central,Boca Juniors,,,,,1374233,128
+2025,2025-10-19,Racing Club,Aldosivi,,,,,1374248,128
+2025,2025-10-19,Rosario Central,Platense,,,,,1374252,128
+2025,2025-10-19,Union Santa Fe,Defensa Y Justicia,,,,,1374246,128
+2025,2025-10-19,Huracan,Central Cordoba de Santiago,,,,,1374247,128
+2025,2025-10-19,Lanus,Godoy Cruz,,,,,1374256,128
+2025,2025-10-19,Estudiantes L.P.,Gimnasia L.P.,,,,,1374257,128
+2025,2025-10-19,Boca Juniors,Belgrano Cordoba,,,,,1374243,128
+2025,2025-10-19,Tigre,Barracas Central,,,,,1374244,128
+2025,2025-10-19,Atletico Tucuman,San Lorenzo,,,,,1374254,128
+2025,2025-10-19,Talleres Cordoba,River Plate,,,,,1374250,128
+2025,2025-10-19,Argentinos JRS,Newells Old Boys,,,,,1374245,128
+2025,2025-10-19,San Martin S.J.,Independiente,,,,,1374255,128
+2025,2025-10-19,Independ. Rivadavia,Banfield,,,,,1374249,128
+2025,2025-10-19,Sarmiento Junin,Velez Sarsfield,,,,,1374251,128
+2025,2025-10-19,Deportivo Riestra,Instituto Cordoba,,,,,1374253,128
+2025,2025-11-02,River Plate,Gimnasia L.P.,,,,,1374271,128
+2025,2025-11-02,Velez Sarsfield,Talleres Cordoba,,,,,1374270,128
+2025,2025-11-02,Godoy Cruz,San Martin S.J.,,,,,1374265,128
+2025,2025-11-02,Belgrano Cordoba,Tigre,,,,,1374263,128
+2025,2025-11-02,Defensa Y Justicia,Huracan,,,,,1374260,128
+2025,2025-11-02,Banfield,Lanus,,,,,1374272,128
+2025,2025-11-02,Independiente,Atletico Tucuman,,,,,1374266,128
+2025,2025-11-02,Newells Old Boys,Union Santa Fe,,,,,1374261,128
+2025,2025-11-02,San Lorenzo,Deportivo Riestra,,,,,1374267,128
+2025,2025-11-02,Aldosivi,Independ. Rivadavia,,,,,1374258,128
+2025,2025-11-02,Instituto Cordoba,Rosario Central,,,,,1374268,128
+2025,2025-11-02,Platense,Sarmiento Junin,,,,,1374269,128
+2025,2025-11-02,Central Cordoba de Santiago,Racing Club,,,,,1374259,128
+2025,2025-11-02,Barracas Central,Argentinos JRS,,,,,1374262,128
+2025,2025-11-02,Estudiantes L.P.,Boca Juniors,,,,,1374264,128
+2025,2025-11-09,Gimnasia L.P.,Velez Sarsfield,,,,,1374280,128
+2025,2025-11-09,Racing Club,Defensa Y Justicia,,,,,1374277,128
+2025,2025-11-09,Rosario Central,San Lorenzo,,,,,1374283,128
+2025,2025-11-09,Union Santa Fe,Barracas Central,,,,,1374275,128
+2025,2025-11-09,Huracan,Newells Old Boys,,,,,1374276,128
+2025,2025-11-09,Banfield,Aldosivi,,,,,1374279,128
+2025,2025-11-09,Boca Juniors,River Plate,,,,,1374287,128
+2025,2025-11-09,Tigre,Estudiantes L.P.,,,,,1374273,128
+2025,2025-11-09,Atletico Tucuman,Godoy Cruz,,,,,1374285,128
+2025,2025-11-09,Talleres Cordoba,Platense,,,,,1374281,128
+2025,2025-11-09,Argentinos JRS,Belgrano Cordoba,,,,,1374274,128
+2025,2025-11-09,San Martin S.J.,Lanus,,,,,1374286,128
+2025,2025-11-09,Independ. Rivadavia,Central Cordoba de Santiago,,,,,1374278,128
+2025,2025-11-09,Sarmiento Junin,Instituto Cordoba,,,,,1374282,128
+2025,2025-11-09,Deportivo Riestra,Independiente,,,,,1374284,128
+2025,2025-11-16,Velez Sarsfield,River Plate,,,,,1374301,128
+2025,2025-11-16,Godoy Cruz,Deportivo Riestra,,,,,1374296,128
+2025,2025-11-16,Belgrano Cordoba,Union Santa Fe,,,,,1374292,128
+2025,2025-11-16,Defensa Y Justicia,Independ. Rivadavia,,,,,1374289,128
+2025,2025-11-16,Lanus,Atletico Tucuman,,,,,1374295,128
+2025,2025-11-16,Estudiantes L.P.,Argentinos JRS,,,,,1374293,128
+2025,2025-11-16,Boca Juniors,Tigre,,,,,1374294,128
+2025,2025-11-16,Independiente,Rosario Central,,,,,1374297,128
+2025,2025-11-16,Newells Old Boys,Racing Club,,,,,1374290,128
+2025,2025-11-16,San Lorenzo,Sarmiento Junin,,,,,1374298,128
+2025,2025-11-16,Aldosivi,San Martin S.J.,,,,,1374302,128
+2025,2025-11-16,Instituto Cordoba,Talleres Cordoba,,,,,1374299,128
+2025,2025-11-16,Platense,Gimnasia L.P.,,,,,1374300,128
+2025,2025-11-16,Central Cordoba de Santiago,Banfield,,,,,1374288,128
+2025,2025-11-16,Barracas Central,Huracan,,,,,1374291,128

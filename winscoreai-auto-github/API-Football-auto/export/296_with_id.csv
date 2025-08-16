@@ -1,0 +1,481 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away,fixture_id,league_id
+2023,2023-08-11,Nakhon Pathom,Port FC,1,1,2,2,1057706,296
+2023,2023-08-11,Police Tero,Bangkok Glass,0,1,2,2,1057707,296
+2023,2023-08-12,Khon Kaen United,Buriram United,0,0,0,0,1057710,296
+2023,2023-08-12,Uthai Thani,Bangkok United,0,1,1,4,1057709,296
+2023,2023-08-13,Prachuap,Ratchaburi,0,0,1,0,1057708,296
+2023,2023-08-13,Muangthong United,Chiangrai United,0,1,0,1,1057711,296
+2023,2023-08-13,Trat FC,Chonburi FC,2,0,2,2,1057712,296
+2023,2023-08-14,Lamphun Warrior,Sukhothai FC,1,0,1,2,1057713,296
+2023,2023-08-18,Bangkok Glass,Prachuap,0,0,0,0,1057718,296
+2023,2023-08-18,Port FC,Police Tero,1,1,3,1,1057720,296
+2023,2023-08-19,Bangkok United,Muangthong United,0,0,0,0,1057714,296
+2023,2023-08-19,Ratchaburi,Nakhon Pathom,0,0,0,1,1057715,296
+2023,2023-08-19,Chiangrai United,Uthai Thani,1,0,3,0,1057717,296
+2023,2023-08-20,Buriram United,Lamphun Warrior,2,0,3,0,1057716,296
+2023,2023-08-20,Sukhothai FC,Trat FC,0,0,0,0,1057721,296
+2023,2023-08-21,Chonburi FC,Khon Kaen United,0,0,0,0,1057719,296
+2023,2023-08-25,Lamphun Warrior,Bangkok United,0,1,0,2,1057725,296
+2023,2023-08-26,Sukhothai FC,Buriram United,0,0,0,1,1057729,296
+2023,2023-08-26,Trat FC,Chiangrai United,0,0,0,0,1057722,296
+2023,2023-08-26,Police Tero,Chonburi FC,0,1,3,2,1057726,296
+2023,2023-08-27,Prachuap,Nakhon Pathom,1,1,2,2,1057724,296
+2023,2023-08-27,Khon Kaen United,Ratchaburi,1,1,2,2,1057728,296
+2023,2023-08-28,Uthai Thani,Bangkok Glass,0,1,0,2,1057727,296
+2023,2023-08-28,Muangthong United,Port FC,0,1,1,3,1057723,296
+2023,2023-09-15,Buriram United,Trat FC,3,0,4,0,1057737,296
+2023,2023-09-15,Bangkok United,Sukhothai FC,0,0,3,0,1057736,296
+2023,2023-09-16,Bangkok Glass,Muangthong United,2,1,5,2,1057734,296
+2023,2023-09-16,Ratchaburi,Police Tero,2,0,6,1,1057730,296
+2023,2023-09-16,Chiangrai United,Khon Kaen United,1,0,2,0,1057733,296
+2023,2023-09-17,Chonburi FC,Lamphun Warrior,0,0,1,0,1057735,296
+2023,2023-09-17,Port FC,Prachuap,1,0,3,1,1057732,296
+2023,2023-09-18,Nakhon Pathom,Uthai Thani,0,1,2,1,1057731,296
+2023,2023-09-22,Trat FC,Port FC,2,0,2,1,1057741,296
+2023,2023-09-23,Muangthong United,Nakhon Pathom,0,0,3,1,1057743,296
+2023,2023-09-23,Lamphun Warrior,Chiangrai United,2,1,2,1,1057739,296
+2023,2023-09-24,Uthai Thani,Ratchaburi,0,0,1,0,1057740,296
+2023,2023-09-24,Khon Kaen United,Prachuap,1,1,4,3,1057742,296
+2023,2023-09-25,Police Tero,Buriram United,0,1,1,2,1057744,296
+2023,2023-09-25,Bangkok United,Bangkok Glass,0,0,2,0,1057745,296
+2023,2023-09-29,Bangkok Glass,Lamphun Warrior,0,0,3,0,1057749,296
+2023,2023-09-30,Port FC,Khon Kaen United,2,1,6,1,1057746,296
+2023,2023-09-30,Ratchaburi,Trat FC,0,0,3,1,1057753,296
+2023,2023-09-30,Prachuap,Muangthong United,0,2,1,3,1057751,296
+2023,2023-10-01,Nakhon Pathom,Police Tero,1,2,1,2,1057752,296
+2023,2023-10-01,Chonburi FC,Uthai Thani,0,0,0,2,1057747,296
+2023,2023-10-02,Chiangrai United,Sukhothai FC,2,0,2,1,1057750,296
+2023,2023-10-06,Lamphun Warrior,Ratchaburi,0,1,1,1,1057759,296
+2023,2023-10-06,Uthai Thani,Port FC,1,2,1,5,1057754,296
+2023,2023-10-07,Sukhothai FC,Bangkok Glass,0,0,1,2,1057757,296
+2023,2023-10-07,Police Tero,Prachuap,0,0,1,1,1057758,296
+2023,2023-10-07,Trat FC,Nakhon Pathom,1,2,4,3,1057760,296
+2023,2023-10-08,Khon Kaen United,Muangthong United,0,1,0,1,1057756,296
+2023,2023-10-08,Buriram United,Chonburi FC,1,0,2,2,1057755,296
+2023,2023-10-08,Bangkok United,Chiangrai United,0,1,2,1,1057761,296
+2023,2023-10-20,Chiangrai United,Buriram United,0,0,0,0,1057880,296
+2023,2023-10-20,Bangkok Glass,Trat FC,2,0,3,0,1057769,296
+2023,2023-10-21,Nakhon Pathom,Khon Kaen United,2,1,4,2,1057766,296
+2023,2023-10-21,Ratchaburi,Sukhothai FC,1,0,3,1,1057765,296
+2023,2023-10-22,Prachuap,Uthai Thani,1,1,1,2,1057768,296
+2023,2023-10-22,Police Tero,Muangthong United,2,1,2,1,1057876,296
+2023,2023-10-22,Port FC,Lamphun Warrior,1,0,3,2,1057767,296
+2023,2023-10-27,Police Tero,Khon Kaen United,0,0,1,3,1057771,296
+2023,2023-10-27,Sukhothai FC,Port FC,1,1,2,1,1057777,296
+2023,2023-10-28,Chiangrai United,Chonburi FC,1,1,1,1,1057776,296
+2023,2023-10-28,Lamphun Warrior,Nakhon Pathom,1,0,2,0,1057773,296
+2023,2023-10-28,Uthai Thani,Muangthong United,0,1,4,2,1057770,296
+2023,2023-10-29,Trat FC,Prachuap,0,0,1,0,1057774,296
+2023,2023-10-29,Buriram United,Bangkok Glass,0,0,0,0,1057775,296
+2023,2023-10-29,Bangkok United,Ratchaburi,0,1,3,1,1057772,296
+2023,2023-11-04,Port FC,Bangkok United,0,1,0,2,1057780,296
+2023,2023-11-04,Khon Kaen United,Uthai Thani,1,1,2,2,1057778,296
+2023,2023-11-05,Nakhon Pathom,Sukhothai FC,2,1,2,2,1057785,296
+2023,2023-11-05,Ratchaburi,Chonburi FC,1,1,1,2,1057779,296
+2023,2023-11-06,Trat FC,Muangthong United,0,1,0,1,1057896,296
+2023,2023-11-06,Police Tero,Lamphun Warrior,2,1,2,2,1057784,296
+2023,2023-11-10,Sukhothai FC,Chonburi FC,3,2,3,2,1057738,296
+2023,2023-11-24,Buriram United,Ratchaburi,0,0,0,0,1057786,296
+2023,2023-11-24,Bangkok United,Nakhon Pathom,0,0,1,1,1057793,296
+2023,2023-11-25,Chonburi FC,Bangkok Glass,0,2,1,3,1057790,296
+2023,2023-11-25,Sukhothai FC,Prachuap,1,0,2,0,1057789,296
+2023,2023-11-25,Lamphun Warrior,Muangthong United,2,1,3,1,1057788,296
+2023,2023-11-26,Uthai Thani,Police Tero,0,1,0,1,1057792,296
+2023,2023-11-26,Chiangrai United,Port FC,1,0,1,1,1057787,296
+2023,2023-11-27,Trat FC,Khon Kaen United,1,0,2,2,1057791,296
+2023,2023-12-01,Ratchaburi,Chiangrai United,1,0,3,0,1057799,296
+2023,2023-12-01,Uthai Thani,Sukhothai FC,0,0,0,0,1057796,296
+2023,2023-12-02,Port FC,Bangkok Glass,2,0,2,3,1057798,296
+2023,2023-12-02,Police Tero,Trat FC,0,0,1,3,1057801,296
+2023,2023-12-02,Nakhon Pathom,Chonburi FC,0,0,1,0,1057800,296
+2023,2023-12-03,Khon Kaen United,Lamphun Warrior,1,1,2,2,1057794,296
+2023,2023-12-03,Muangthong United,Buriram United,1,1,2,2,1057797,296
+2023,2023-12-03,Prachuap,Bangkok United,0,0,0,1,1057795,296
+2023,2023-12-09,Bangkok United,Khon Kaen United,3,0,4,0,1057802,296
+2023,2023-12-09,Buriram United,Nakhon Pathom,1,0,4,1,1057808,296
+2023,2023-12-09,Bangkok Glass,Ratchaburi,2,0,2,1,1057806,296
+2023,2023-12-10,Trat FC,Uthai Thani,0,2,2,3,1057805,296
+2023,2023-12-10,Chonburi FC,Port FC,0,2,0,2,1057807,296
+2023,2023-12-10,Lamphun Warrior,Prachuap,1,1,2,1,1057809,296
+2023,2023-12-11,Chiangrai United,Police Tero,1,1,1,2,1057804,296
+2023,2023-12-12,Sukhothai FC,Muangthong United,1,1,1,2,1057803,296
+2023,2023-12-15,Prachuap,Chonburi FC,2,1,3,1,1057815,296
+2023,2023-12-16,Khon Kaen United,Bangkok Glass,0,1,1,1,1057811,296
+2023,2023-12-16,Muangthong United,Ratchaburi,0,1,1,1,1057812,296
+2023,2023-12-16,Uthai Thani,Lamphun Warrior,2,0,2,2,1057814,296
+2023,2023-12-16,Nakhon Pathom,Chiangrai United,1,1,1,2,1057810,296
+2023,2023-12-17,Police Tero,Sukhothai FC,1,0,2,3,1057817,296
+2023,2023-12-17,Port FC,Buriram United,1,1,4,1,1057816,296
+2023,2023-12-17,Trat FC,Bangkok United,0,0,1,2,1057813,296
+2023,2023-12-23,Chonburi FC,Muangthong United,2,1,2,1,1057822,296
+2023,2023-12-23,Sukhothai FC,Khon Kaen United,2,2,2,3,1057821,296
+2023,2023-12-23,Buriram United,Uthai Thani,1,0,4,0,1057825,296
+2023,2023-12-24,Lamphun Warrior,Trat FC,2,1,5,1,1057819,296
+2023,2023-12-24,Chiangrai United,Prachuap,1,1,1,1,1057824,296
+2023,2023-12-24,Bangkok United,Police Tero,0,1,1,1,1057818,296
+2023,2023-12-24,Bangkok Glass,Nakhon Pathom,0,0,1,2,1057820,296
+2023,2023-12-25,Port FC,Ratchaburi,2,0,3,0,1057932,296
+2023,2023-12-28,Prachuap,Buriram United,0,1,1,2,1057781,296
+2023,2023-12-28,Bangkok Glass,Chiangrai United,1,2,2,2,1057783,296
+2023,2023-12-28,Chonburi FC,Bangkok United,0,0,0,0,1057762,296
+2023,2024-01-06,Bangkok United,Buriram United,0,0,0,1,1057860,296
+2023,2024-02-09,Muangthong United,Bangkok United,0,0,1,2,1057833,296
+2023,2024-02-10,Khon Kaen United,Chonburi FC,1,0,1,0,1057831,296
+2023,2024-02-10,Prachuap,Bangkok Glass,0,0,1,1,1057826,296
+2023,2024-02-10,Nakhon Pathom,Ratchaburi,0,0,0,1,1057827,296
+2023,2024-02-11,Police Tero,Port FC,0,2,0,4,1057829,296
+2023,2024-02-11,Lamphun Warrior,Buriram United,0,0,1,2,1057832,296
+2023,2024-02-11,Trat FC,Sukhothai FC,1,1,1,1,1057830,296
+2023,2024-02-11,Uthai Thani,Chiangrai United,0,0,1,1,1057828,296
+2023,2024-02-13,Nakhon Pathom,Prachuap,0,1,1,1,1057834,296
+2023,2024-02-13,Ratchaburi,Khon Kaen United,0,0,1,0,1057837,296
+2023,2024-02-14,Buriram United,Sukhothai FC,0,0,4,0,1057841,296
+2023,2024-02-14,Chonburi FC,Police Tero,1,0,4,2,1057839,296
+2023,2024-02-14,Port FC,Muangthong United,0,2,4,3,1057838,296
+2023,2024-02-15,Chiangrai United,Trat FC,2,1,3,1,1057836,296
+2023,2024-02-15,Bangkok Glass,Uthai Thani,0,0,2,0,1057835,296
+2023,2024-02-17,Sukhothai FC,Bangkok United,0,0,0,0,1057844,296
+2023,2024-02-17,Police Tero,Ratchaburi,0,0,0,1,1057847,296
+2023,2024-02-17,Prachuap,Port FC,1,0,1,1,1057849,296
+2023,2024-02-17,Lamphun Warrior,Chonburi FC,1,0,2,1,1057848,296
+2023,2024-02-18,Trat FC,Buriram United,2,2,3,4,1057842,296
+2023,2024-02-18,Muangthong United,Bangkok Glass,1,0,2,0,1057845,296
+2023,2024-02-18,Uthai Thani,Nakhon Pathom,0,0,1,1,1057846,296
+2023,2024-02-19,Khon Kaen United,Chiangrai United,0,0,0,0,1057843,296
+2023,2024-02-23,Nakhon Pathom,Muangthong United,2,0,2,2,1057855,296
+2023,2024-02-24,Buriram United,Police Tero,4,1,6,2,1057854,296
+2023,2024-02-24,Prachuap,Khon Kaen United,1,0,1,0,1057856,296
+2023,2024-02-24,Port FC,Trat FC,1,0,1,0,1057851,296
+2023,2024-02-24,Chiangrai United,Lamphun Warrior,0,2,0,2,1057850,296
+2023,2024-02-25,Ratchaburi,Uthai Thani,0,0,1,0,1057852,296
+2023,2024-02-25,Bangkok Glass,Bangkok United,2,1,2,2,1057857,296
+2023,2024-02-25,Chonburi FC,Sukhothai FC,3,0,3,1,1057853,296
+2023,2024-03-02,Khon Kaen United,Port FC,0,0,0,0,1057861,296
+2023,2024-03-02,Sukhothai FC,Chiangrai United,0,1,2,1,1057859,296
+2023,2024-03-02,Lamphun Warrior,Bangkok Glass,1,0,2,0,1057865,296
+2023,2024-03-02,Police Tero,Nakhon Pathom,0,1,1,1,1057858,296
+2023,2024-03-03,Muangthong United,Prachuap,1,1,2,1,1057863,296
+2023,2024-03-03,Buriram United,Bangkok United,1,2,3,2,1057748,296
+2023,2024-03-03,Uthai Thani,Chonburi FC,0,0,1,1,1057864,296
+2023,2024-03-04,Trat FC,Ratchaburi,0,1,2,2,1057862,296
+2023,2024-03-08,Prachuap,Police Tero,2,0,2,0,1057869,296
+2023,2024-03-09,Chiangrai United,Bangkok United,0,1,0,1,1057870,296
+2023,2024-03-09,Bangkok Glass,Sukhothai FC,4,0,7,1,1057868,296
+2023,2024-03-09,Ratchaburi,Lamphun Warrior,1,0,2,0,1057873,296
+2023,2024-03-09,Port FC,Uthai Thani,1,1,3,3,1057871,296
+2023,2024-03-10,Nakhon Pathom,Trat FC,0,0,2,1,1057872,296
+2023,2024-03-10,Chonburi FC,Buriram United,0,1,1,1,1057867,296
+2023,2024-03-10,Muangthong United,Khon Kaen United,1,0,4,0,1057866,296
+2023,2024-03-30,Uthai Thani,Prachuap,2,2,2,2,1057877,296
+2023,2024-03-30,Lamphun Warrior,Port FC,0,1,2,2,1057875,296
+2023,2024-03-30,Sukhothai FC,Ratchaburi,1,0,1,0,1057878,296
+2023,2024-03-30,Trat FC,Bangkok Glass,0,0,2,1,1057881,296
+2023,2024-03-31,Buriram United,Chiangrai United,1,1,2,1,1057764,296
+2023,2024-03-31,Muangthong United,Police Tero,2,1,3,1,1057763,296
+2023,2024-03-31,Bangkok United,Chonburi FC,1,0,6,0,1057879,296
+2023,2024-03-31,Khon Kaen United,Nakhon Pathom,0,0,2,1,1057874,296
+2023,2024-04-02,Prachuap,Trat FC,2,1,2,1,1057886,296
+2023,2024-04-02,Port FC,Sukhothai FC,1,0,1,0,1057888,296
+2023,2024-04-03,Chonburi FC,Chiangrai United,1,0,2,0,1057884,296
+2023,2024-04-03,Khon Kaen United,Police Tero,1,0,4,0,1057883,296
+2023,2024-04-03,Bangkok Glass,Buriram United,0,1,1,1,1057885,296
+2023,2024-04-03,Muangthong United,Uthai Thani,0,2,5,2,1057882,296
+2023,2024-04-04,Ratchaburi,Bangkok United,1,0,1,2,1057889,296
+2023,2024-04-04,Nakhon Pathom,Lamphun Warrior,0,0,1,0,1057887,296
+2023,2024-04-06,Chiangrai United,Bangkok Glass,1,3,2,3,1057891,296
+2023,2024-04-06,Muangthong United,Trat FC,1,0,2,0,1057782,296
+2023,2024-04-06,Buriram United,Prachuap,0,0,1,0,1057895,296
+2023,2024-04-06,Uthai Thani,Khon Kaen United,1,0,2,0,1057893,296
+2023,2024-04-07,Lamphun Warrior,Police Tero,0,0,1,1,1057894,296
+2023,2024-04-07,Bangkok United,Port FC,1,2,2,2,1057892,296
+2023,2024-04-07,Chonburi FC,Ratchaburi,0,1,0,1,1057890,296
+2023,2024-04-07,Sukhothai FC,Nakhon Pathom,0,1,3,1,1057897,296
+2023,2024-04-18,Bangkok United,Lamphun Warrior,2,1,2,2,1057840,296
+2023,2024-04-19,Port FC,Chiangrai United,0,0,1,2,1057898,296
+2023,2024-04-20,Bangkok Glass,Chonburi FC,1,0,1,1,1057904,296
+2023,2024-04-20,Police Tero,Uthai Thani,0,0,1,0,1057899,296
+2023,2024-04-20,Khon Kaen United,Trat FC,0,1,1,1,1057903,296
+2023,2024-04-20,Ratchaburi,Buriram United,0,2,1,4,1057900,296
+2023,2024-04-21,Muangthong United,Lamphun Warrior,0,0,2,1,1057902,296
+2023,2024-04-21,Prachuap,Sukhothai FC,1,0,2,1,1057901,296
+2023,2024-04-21,Nakhon Pathom,Bangkok United,1,0,1,2,1057905,296
+2023,2024-04-27,Buriram United,Muangthong United,2,0,3,1,1057906,296
+2023,2024-04-27,Chonburi FC,Nakhon Pathom,0,1,0,1,1057912,296
+2023,2024-04-27,Sukhothai FC,Uthai Thani,0,3,1,3,1057907,296
+2023,2024-04-27,Bangkok Glass,Port FC,1,2,1,3,1057909,296
+2023,2024-04-28,Chiangrai United,Ratchaburi,0,0,1,0,1057908,296
+2023,2024-04-28,Trat FC,Police Tero,2,1,4,2,1057911,296
+2023,2024-04-28,Lamphun Warrior,Khon Kaen United,0,3,2,3,1057910,296
+2023,2024-04-29,Bangkok United,Prachuap,0,0,0,0,1057913,296
+2023,2024-05-03,Uthai Thani,Trat FC,2,0,3,1,1057919,296
+2023,2024-05-04,Nakhon Pathom,Buriram United,0,0,0,2,1057918,296
+2023,2024-05-04,Police Tero,Chiangrai United,0,0,0,0,1057914,296
+2023,2024-05-04,Ratchaburi,Bangkok Glass,0,1,0,1,1057921,296
+2023,2024-05-04,Muangthong United,Sukhothai FC,2,0,5,0,1057915,296
+2023,2024-05-05,Khon Kaen United,Bangkok United,0,1,2,2,1057917,296
+2023,2024-05-05,Port FC,Chonburi FC,2,0,2,0,1057916,296
+2023,2024-05-05,Prachuap,Lamphun Warrior,0,0,2,0,1057920,296
+2023,2024-05-10,Bangkok Glass,Khon Kaen United,1,1,3,2,1057927,296
+2023,2024-05-11,Ratchaburi,Muangthong United,0,0,1,2,1057924,296
+2023,2024-05-11,Chiangrai United,Nakhon Pathom,0,0,0,0,1057929,296
+2023,2024-05-11,Sukhothai FC,Police Tero,1,0,2,0,1057928,296
+2023,2024-05-12,Chonburi FC,Prachuap,0,0,1,1,1057923,296
+2023,2024-05-12,Buriram United,Port FC,0,1,1,1,1057922,296
+2023,2024-05-12,Bangkok United,Trat FC,1,0,5,0,1057926,296
+2023,2024-05-13,Lamphun Warrior,Uthai Thani,0,0,1,2,1057925,296
+2023,2024-05-17,Police Tero,Bangkok United,1,0,3,0,1057937,296
+2023,2024-05-18,Muangthong United,Chonburi FC,1,0,6,0,1057934,296
+2023,2024-05-18,Prachuap,Chiangrai United,1,0,1,0,1057931,296
+2023,2024-05-18,Trat FC,Lamphun Warrior,1,1,2,2,1057935,296
+2023,2024-05-18,Uthai Thani,Buriram United,0,0,0,2,1057936,296
+2023,2024-05-19,Khon Kaen United,Sukhothai FC,3,1,5,1,1057933,296
+2023,2024-05-19,Nakhon Pathom,Bangkok Glass,0,1,1,3,1057930,296
+2023,2024-05-19,Ratchaburi,Port FC,1,2,2,2,1057823,296
+2023,2024-05-26,Bangkok Glass,Police Tero,2,1,4,2,1057942,296
+2023,2024-05-26,Bangkok United,Uthai Thani,1,0,3,0,1057945,296
+2023,2024-05-26,Chiangrai United,Muangthong United,1,0,2,3,1057940,296
+2023,2024-05-26,Chonburi FC,Trat FC,2,0,3,2,1057938,296
+2023,2024-05-26,Ratchaburi,Prachuap,1,0,3,0,1057941,296
+2023,2024-05-26,Buriram United,Khon Kaen United,3,1,8,2,1057944,296
+2023,2024-05-26,Sukhothai FC,Lamphun Warrior,0,1,0,3,1057939,296
+2023,2024-05-26,Port FC,Nakhon Pathom,2,0,6,0,1057943,296
+2024,2024-08-09,Bangkok United,Prachuap,1,0,2,1,1219045,296
+2024,2024-08-10,Nong Bua Pitchaya,Buriram United,0,1,0,4,1219048,296
+2024,2024-08-10,Sukhothai FC,Bangkok Glass,1,2,1,3,1219051,296
+2024,2024-08-10,Rayong FC,Port FC,1,0,1,3,1219047,296
+2024,2024-08-11,Ratchaburi,Nakhon Pathom,1,0,2,3,1219046,296
+2024,2024-08-11,Lamphun Warrior,Uthai Thani,1,0,1,0,1219050,296
+2024,2024-08-11,Nakhon Ratchasima FC,Muangthong United,1,0,2,1,1219049,296
+2024,2024-08-12,Chiangrai United,Khon Kaen United,0,0,2,0,1219052,296
+2024,2024-08-16,Bangkok Glass,Rayong FC,0,1,0,1,1219060,296
+2024,2024-08-17,Ratchaburi,Uthai Thani,1,1,1,1,1219169,296
+2024,2024-08-17,Prachuap,Nong Bua Pitchaya,1,0,4,0,1219057,296
+2024,2024-08-18,Muangthong United,Lamphun Warrior,0,0,1,0,1219056,296
+2024,2024-08-18,Khon Kaen United,Sukhothai FC,1,0,1,1,1219059,296
+2024,2024-08-18,Buriram United,Bangkok United,1,1,4,2,1219055,296
+2024,2024-08-18,Nakhon Pathom,Nakhon Ratchasima FC,0,1,1,2,1219053,296
+2024,2024-08-19,Port FC,Chiangrai United,2,0,5,1,1219058,296
+2024,2024-08-23,Rayong FC,Muangthong United,0,1,1,1,1219066,296
+2024,2024-08-24,Sukhothai FC,Prachuap,2,0,2,0,1219063,296
+2024,2024-08-24,Khon Kaen United,Port FC,1,1,1,2,1219062,296
+2024,2024-08-24,Nakhon Ratchasima FC,Lamphun Warrior,0,1,1,1,1219065,296
+2024,2024-08-24,Nong Bua Pitchaya,Nakhon Pathom,1,0,2,1,1219067,296
+2024,2024-08-25,Chiangrai United,Buriram United,0,2,0,5,1219061,296
+2024,2024-08-25,Ratchaburi,Bangkok Glass,3,0,4,1,1219064,296
+2024,2024-08-25,Bangkok United,Uthai Thani,0,0,0,0,1219068,296
+2024,2024-08-27,Lamphun Warrior,Nong Bua Pitchaya,2,0,3,3,1219076,296
+2024,2024-08-27,Port FC,Sukhothai FC,2,0,4,1,1219069,296
+2024,2024-08-28,Uthai Thani,Nakhon Ratchasima FC,0,0,1,1,1219075,296
+2024,2024-08-28,Muangthong United,Ratchaburi,0,0,2,0,1219072,296
+2024,2024-08-28,Prachuap,Rayong FC,1,0,3,0,1219073,296
+2024,2024-08-28,Bangkok Glass,Chiangrai United,2,0,2,0,1219074,296
+2024,2024-08-29,Nakhon Pathom,Bangkok United,0,2,0,3,1219071,296
+2024,2024-08-29,Khon Kaen United,Buriram United,0,1,0,3,1219181,296
+2024,2024-08-31,Nong Bua Pitchaya,Muangthong United,0,0,0,0,1219081,296
+2024,2024-08-31,Sukhothai FC,Uthai Thani,0,2,2,3,1219077,296
+2024,2024-08-31,Rayong FC,Nakhon Ratchasima FC,0,1,1,1,1219082,296
+2024,2024-08-31,Chiangrai United,Prachuap,1,0,1,1,1219080,296
+2024,2024-09-01,Ratchaburi,Port FC,1,1,2,2,1219083,296
+2024,2024-09-01,Bangkok United,Lamphun Warrior,1,0,3,2,1219079,296
+2024,2024-09-01,Khon Kaen United,Bangkok Glass,0,1,0,3,1219078,296
+2024,2024-09-01,Buriram United,Nakhon Pathom,1,0,3,0,1219084,296
+2024,2024-09-12,Port FC,Buriram United,0,0,0,0,1219086,296
+2024,2024-09-14,Nakhon Ratchasima FC,Bangkok United,0,0,1,1,1219089,296
+2024,2024-09-14,Bangkok Glass,Nong Bua Pitchaya,0,0,1,1,1219091,296
+2024,2024-09-15,Muangthong United,Sukhothai FC,0,1,4,2,1219088,296
+2024,2024-09-15,Uthai Thani,Rayong FC,1,0,3,1,1219087,296
+2024,2024-09-15,Prachuap,Khon Kaen United,1,0,1,0,1219092,296
+2024,2024-09-15,Lamphun Warrior,Ratchaburi,1,0,1,0,1219090,296
+2024,2024-09-20,Khon Kaen United,Nakhon Pathom,0,0,0,0,1219095,296
+2024,2024-09-21,Nong Bua Pitchaya,Uthai Thani,1,2,3,2,1219094,296
+2024,2024-09-21,Ratchaburi,Nakhon Ratchasima FC,2,0,4,0,1219096,296
+2024,2024-09-21,Sukhothai FC,Lamphun Warrior,2,0,4,0,1219097,296
+2024,2024-09-22,Rayong FC,Bangkok United,0,3,0,3,1219098,296
+2024,2024-09-22,Buriram United,Prachuap,2,0,6,0,1219100,296
+2024,2024-09-22,Port FC,Bangkok Glass,0,1,1,2,1219099,296
+2024,2024-09-27,Muangthong United,Khon Kaen United,0,0,0,0,1219104,296
+2024,2024-09-27,Bangkok United,Ratchaburi,0,0,0,0,1219106,296
+2024,2024-09-28,Nakhon Ratchasima FC,Nong Bua Pitchaya,0,0,2,1,1219105,296
+2024,2024-09-28,Prachuap,Port FC,0,0,0,0,1219101,296
+2024,2024-09-28,Nakhon Pathom,Sukhothai FC,0,1,0,1,1219102,296
+2024,2024-09-29,Lamphun Warrior,Rayong FC,2,1,4,1,1219103,296
+2024,2024-09-29,Uthai Thani,Chiangrai United,1,0,3,0,1219107,296
+2024,2024-10-04,Chiangrai United,Lamphun Warrior,1,0,2,0,1219112,296
+2024,2024-10-05,Sukhothai FC,Nakhon Ratchasima FC,0,0,1,0,1219114,296
+2024,2024-10-05,Prachuap,Bangkok Glass,0,1,2,2,1219111,296
+2024,2024-10-05,Khon Kaen United,Uthai Thani,0,0,0,1,1219110,296
+2024,2024-10-05,Ratchaburi,Rayong FC,1,0,2,0,1219109,296
+2024,2024-10-06,Port FC,Nakhon Pathom,0,0,2,0,1219115,296
+2024,2024-10-06,Nong Bua Pitchaya,Bangkok United,1,0,2,3,1219113,296
+2024,2024-10-17,Buriram United,Uthai Thani,1,0,1,0,1219234,296
+2024,2024-10-19,Nakhon Ratchasima FC,Port FC,2,1,2,3,1219120,296
+2024,2024-10-19,Lamphun Warrior,Khon Kaen United,0,1,0,1,1219121,296
+2024,2024-10-19,Muangthong United,Bangkok Glass,0,1,1,1,1219122,296
+2024,2024-10-20,Bangkok United,Sukhothai FC,1,0,4,1,1219123,296
+2024,2024-10-20,Ratchaburi,Chiangrai United,1,0,1,0,1219124,296
+2024,2024-10-20,Nakhon Pathom,Prachuap,1,0,1,1,1219118,296
+2024,2024-10-21,Rayong FC,Nong Bua Pitchaya,3,1,3,1,1219119,296
+2024,2024-10-25,Nong Bua Pitchaya,Ratchaburi,4,0,5,3,1219130,296
+2024,2024-10-26,Buriram United,Lamphun Warrior,0,0,1,1,1219126,296
+2024,2024-10-26,Sukhothai FC,Rayong FC,1,0,3,1,1219132,296
+2024,2024-10-26,Bangkok Glass,Nakhon Pathom,1,1,3,1,1219127,296
+2024,2024-10-26,Khon Kaen United,Nakhon Ratchasima FC,0,0,0,0,1219128,296
+2024,2024-10-27,Chiangrai United,Bangkok United,1,2,1,2,1219129,296
+2024,2024-10-27,Port FC,Muangthong United,1,1,1,1,1219125,296
+2024,2024-10-27,Prachuap,Uthai Thani,0,0,3,0,1219131,296
+2024,2024-11-02,Ratchaburi,Sukhothai FC,2,0,2,2,1219136,296
+2024,2024-11-02,Muangthong United,Prachuap,0,1,0,2,1219134,296
+2024,2024-11-02,Bangkok United,Port FC,1,0,2,0,1219139,296
+2024,2024-11-03,Rayong FC,Chiangrai United,0,0,2,0,1219138,296
+2024,2024-11-03,Uthai Thani,Nakhon Pathom,1,1,2,1,1219135,296
+2024,2024-11-03,Nong Bua Pitchaya,Khon Kaen United,3,0,6,1,1219133,296
+2024,2024-11-04,Lamphun Warrior,Bangkok Glass,1,1,2,2,1219137,296
+2024,2024-11-08,Sukhothai FC,Nong Bua Pitchaya,2,1,5,2,1219144,296
+2024,2024-11-09,Chiangrai United,Nakhon Ratchasima FC,0,0,0,2,1219146,296
+2024,2024-11-09,Prachuap,Ratchaburi,0,2,3,2,1219147,296
+2024,2024-11-09,Bangkok Glass,Uthai Thani,1,0,2,1,1219145,296
+2024,2024-11-10,Rayong FC,Buriram United,0,1,1,1,1219258,296
+2024,2024-11-10,Khon Kaen United,Bangkok United,1,3,2,3,1219148,296
+2024,2024-11-11,Muangthong United,Nakhon Pathom,1,0,3,1,1219256,296
+2024,2024-11-22,Buriram United,Sukhothai FC,1,0,2,0,1219267,296
+2024,2024-11-23,Uthai Thani,Port FC,0,1,1,1,1219155,296
+2024,2024-11-23,Muangthong United,Bangkok United,1,1,2,1,1219262,296
+2024,2024-11-23,Rayong FC,Nakhon Pathom,1,0,2,2,1219151,296
+2024,2024-11-24,Ratchaburi,Khon Kaen United,1,0,2,0,1219154,296
+2024,2024-11-24,Nong Bua Pitchaya,Chiangrai United,0,0,0,2,1219152,296
+2024,2024-11-24,Nakhon Ratchasima FC,Bangkok Glass,0,0,1,0,1219149,296
+2024,2024-11-24,Lamphun Warrior,Prachuap,0,0,0,0,1219153,296
+2024,2024-11-29,Prachuap,Nakhon Ratchasima FC,1,1,2,2,1219161,296
+2024,2024-11-30,Nakhon Pathom,Lamphun Warrior,0,2,0,3,1219163,296
+2024,2024-11-30,Khon Kaen United,Rayong FC,0,0,0,1,1219158,296
+2024,2024-11-30,Chiangrai United,Sukhothai FC,0,0,0,0,1219160,296
+2024,2024-12-01,Port FC,Nong Bua Pitchaya,0,0,2,1,1219159,296
+2024,2024-12-01,Bangkok Glass,Bangkok United,0,0,1,0,1219157,296
+2024,2024-12-07,Nakhon Pathom,Chiangrai United,1,1,2,1,1219085,296
+2024,2024-12-08,Buriram United,Ratchaburi,1,0,6,0,1219162,296
+2024,2024-12-14,Nakhon Ratchasima FC,Buriram United,0,2,1,5,1219140,296
+2024,2024-12-15,Chiangrai United,Muangthong United,1,0,3,1,1219093,296
+2024,2024-12-22,Buriram United,Muangthong United,0,0,1,0,1219116,296
+2024,2024-12-29,Bangkok Glass,Buriram United,0,0,0,2,1219108,296
+2024,2025-01-08,Port FC,Lamphun Warrior,1,0,2,1,1219142,296
+2024,2025-01-10,Nong Bua Pitchaya,Prachuap,1,0,1,0,1219172,296
+2024,2025-01-11,Nakhon Ratchasima FC,Nakhon Pathom,0,2,0,3,1219167,296
+2024,2025-01-11,Lamphun Warrior,Muangthong United,0,3,1,5,1219168,296
+2024,2025-01-11,Sukhothai FC,Khon Kaen United,0,0,1,0,1219171,296
+2024,2025-01-11,Uthai Thani,Ratchaburi,0,1,1,2,1219054,296
+2024,2025-01-12,Chiangrai United,Port FC,1,0,1,0,1219170,296
+2024,2025-01-12,Rayong FC,Bangkok Glass,0,0,1,1,1219166,296
+2024,2025-01-12,Bangkok United,Buriram United,2,1,3,2,1219165,296
+2024,2025-01-14,Lamphun Warrior,Nakhon Ratchasima FC,0,0,3,0,1219173,296
+2024,2025-01-14,Nakhon Pathom,Nong Bua Pitchaya,1,1,1,1,1219180,296
+2024,2025-01-15,Port FC,Khon Kaen United,1,1,1,2,1219175,296
+2024,2025-01-15,Prachuap,Sukhothai FC,1,0,1,1,1219178,296
+2024,2025-01-15,Bangkok Glass,Ratchaburi,0,0,1,2,1219176,296
+2024,2025-01-15,Buriram United,Chiangrai United,5,0,8,0,1219179,296
+2024,2025-01-16,Uthai Thani,Bangkok United,0,0,0,2,1219177,296
+2024,2025-01-16,Muangthong United,Rayong FC,0,0,4,0,1219174,296
+2024,2025-01-18,Chiangrai United,Bangkok Glass,1,0,1,0,1219184,296
+2024,2025-01-18,Nong Bua Pitchaya,Lamphun Warrior,0,0,0,0,1219187,296
+2024,2025-01-19,Ratchaburi,Muangthong United,1,0,1,0,1219182,296
+2024,2025-01-19,Buriram United,Khon Kaen United,5,0,9,0,1219070,296
+2024,2025-01-19,Nakhon Ratchasima FC,Uthai Thani,2,1,3,2,1219183,296
+2024,2025-01-19,Rayong FC,Prachuap,2,0,3,2,1219188,296
+2024,2025-01-20,Sukhothai FC,Port FC,1,1,3,2,1219185,296
+2024,2025-01-20,Bangkok United,Nakhon Pathom,1,0,1,1,1219186,296
+2024,2025-01-24,Port FC,Ratchaburi,1,2,3,3,1219190,296
+2024,2025-01-25,Nakhon Ratchasima FC,Rayong FC,1,1,3,3,1219191,296
+2024,2025-01-25,Lamphun Warrior,Bangkok United,0,1,0,1,1219189,296
+2024,2025-01-25,Muangthong United,Nong Bua Pitchaya,1,0,2,1,1219194,296
+2024,2025-01-26,Prachuap,Chiangrai United,1,0,2,0,1219193,296
+2024,2025-01-26,Uthai Thani,Sukhothai FC,1,0,3,0,1219192,296
+2024,2025-01-26,Bangkok Glass,Khon Kaen United,1,0,4,1,1219196,296
+2024,2025-01-26,Nakhon Pathom,Buriram United,1,2,1,3,1219195,296
+2024,2025-01-29,Prachuap,Buriram United,1,0,1,2,1219206,296
+2024,2025-02-01,Nong Bua Pitchaya,Bangkok Glass,0,1,1,1,1219203,296
+2024,2025-02-01,Ratchaburi,Lamphun Warrior,1,1,1,1,1219200,296
+2024,2025-02-01,Rayong FC,Uthai Thani,1,1,2,3,1219197,296
+2024,2025-02-02,Bangkok United,Nakhon Ratchasima FC,1,1,2,1,1219201,296
+2024,2025-02-02,Chiangrai United,Nakhon Pathom,0,0,3,0,1219199,296
+2024,2025-02-02,Buriram United,Port FC,0,1,0,1,1219202,296
+2024,2025-02-02,Sukhothai FC,Muangthong United,1,2,1,3,1219204,296
+2024,2025-02-02,Khon Kaen United,Prachuap,1,1,1,4,1219198,296
+2024,2025-02-07,Bangkok United,Rayong FC,1,2,2,2,1219212,296
+2024,2025-02-08,Muangthong United,Chiangrai United,0,1,2,1,1219208,296
+2024,2025-02-08,Nakhon Ratchasima FC,Ratchaburi,0,1,1,1,1219205,296
+2024,2025-02-09,Lamphun Warrior,Sukhothai FC,1,0,1,0,1219210,296
+2024,2025-02-09,Nakhon Pathom,Khon Kaen United,1,0,2,1,1219207,296
+2024,2025-02-09,Bangkok Glass,Port FC,1,0,1,0,1219211,296
+2024,2025-02-10,Uthai Thani,Nong Bua Pitchaya,2,0,3,0,1219209,296
+2024,2025-02-15,Sukhothai FC,Nakhon Pathom,0,0,0,0,1219216,296
+2024,2025-02-15,Nong Bua Pitchaya,Nakhon Ratchasima FC,1,1,1,1,1219213,296
+2024,2025-02-15,Chiangrai United,Uthai Thani,0,0,1,0,1219214,296
+2024,2025-02-17,Rayong FC,Lamphun Warrior,1,2,2,3,1219220,296
+2024,2025-02-21,Nakhon Ratchasima FC,Sukhothai FC,1,2,2,2,1219221,296
+2024,2025-02-22,Rayong FC,Ratchaburi,1,2,1,4,1219224,296
+2024,2025-02-22,Uthai Thani,Khon Kaen United,0,0,0,0,1219222,296
+2024,2025-02-22,Bangkok Glass,Prachuap,1,0,1,0,1219223,296
+2024,2025-02-23,Bangkok United,Nong Bua Pitchaya,0,0,1,0,1219226,296
+2024,2025-02-23,Muangthong United,Buriram United,1,1,1,3,1219227,296
+2024,2025-02-23,Lamphun Warrior,Chiangrai United,1,0,1,0,1219228,296
+2024,2025-03-01,Nong Bua Pitchaya,Rayong FC,1,0,1,1,1219232,296
+2024,2025-03-01,Uthai Thani,Buriram United,0,0,0,0,1219117,296
+2024,2025-03-01,Bangkok Glass,Muangthong United,1,0,2,0,1219235,296
+2024,2025-03-01,Port FC,Nakhon Ratchasima FC,0,2,4,2,1219231,296
+2024,2025-03-02,Chiangrai United,Ratchaburi,0,0,0,1,1219233,296
+2024,2025-03-02,Sukhothai FC,Bangkok United,0,1,1,3,1219229,296
+2024,2025-03-02,Prachuap,Nakhon Pathom,1,0,1,0,1219230,296
+2024,2025-03-02,Khon Kaen United,Lamphun Warrior,0,0,0,0,1219236,296
+2024,2025-03-08,Nakhon Pathom,Bangkok Glass,0,1,1,4,1219238,296
+2024,2025-03-08,Bangkok United,Chiangrai United,2,2,3,2,1219242,296
+2024,2025-03-08,Rayong FC,Sukhothai FC,0,1,2,1,1219240,296
+2024,2025-03-09,Nakhon Ratchasima FC,Khon Kaen United,1,0,3,1,1219243,296
+2024,2025-03-09,Ratchaburi,Nong Bua Pitchaya,1,0,4,0,1219239,296
+2024,2025-03-09,Muangthong United,Port FC,0,1,1,2,1219241,296
+2024,2025-03-09,Uthai Thani,Prachuap,1,0,3,1,1219237,296
+2024,2025-03-14,Bangkok Glass,Lamphun Warrior,0,0,1,0,1219246,296
+2024,2025-03-15,Nakhon Pathom,Uthai Thani,0,0,1,0,1219248,296
+2024,2025-03-15,Khon Kaen United,Nong Bua Pitchaya,0,1,0,1,1219247,296
+2024,2025-03-15,Sukhothai FC,Ratchaburi,2,1,2,1,1219250,296
+2024,2025-03-16,Chiangrai United,Rayong FC,1,0,1,0,1219251,296
+2024,2025-03-16,Prachuap,Muangthong United,3,0,5,0,1219249,296
+2024,2025-03-16,Buriram United,Nakhon Ratchasima FC,2,0,5,0,1219252,296
+2024,2025-03-16,Port FC,Bangkok United,0,0,0,0,1219245,296
+2024,2025-03-26,Lamphun Warrior,Buriram United,1,0,1,2,1219244,296
+2024,2025-03-28,Ratchaburi,Prachuap,0,2,3,2,1219255,296
+2024,2025-03-29,Nakhon Ratchasima FC,Chiangrai United,1,0,1,4,1219260,296
+2024,2025-03-29,Buriram United,Rayong FC,1,0,2,1,1219141,296
+2024,2025-03-29,Nong Bua Pitchaya,Sukhothai FC,0,0,1,1,1219253,296
+2024,2025-03-29,Uthai Thani,Bangkok Glass,0,1,1,1,1219259,296
+2024,2025-03-30,Bangkok United,Khon Kaen United,3,0,5,0,1219257,296
+2024,2025-03-30,Lamphun Warrior,Port FC,1,1,3,2,1219254,296
+2024,2025-03-30,Nakhon Pathom,Muangthong United,2,3,2,4,1219143,296
+2024,2025-04-02,Ratchaburi,Bangkok United,1,1,1,2,1219218,296
+2024,2025-04-02,Khon Kaen United,Muangthong United,0,1,2,1,1219215,296
+2024,2025-04-04,Chiangrai United,Nong Bua Pitchaya,1,0,2,1,1219268,296
+2024,2025-04-05,Prachuap,Lamphun Warrior,2,0,2,1,1219263,296
+2024,2025-04-05,Bangkok United,Muangthong United,1,1,2,1,1219150,296
+2024,2025-04-05,Port FC,Uthai Thani,0,1,1,1,1219266,296
+2024,2025-04-06,Bangkok Glass,Nakhon Ratchasima FC,0,0,1,0,1219265,296
+2024,2025-04-06,Sukhothai FC,Buriram United,0,0,1,2,1219156,296
+2024,2025-04-06,Khon Kaen United,Ratchaburi,2,5,4,7,1219264,296
+2024,2025-04-06,Nakhon Pathom,Rayong FC,1,0,1,2,1219261,296
+2024,2025-04-10,Port FC,Prachuap,0,1,0,2,1219217,296
+2024,2025-04-12,Buriram United,Bangkok Glass,1,1,1,2,1219219,296
+2024,2025-04-13,Nakhon Pathom,Port FC,1,2,2,2,1219225,296
+2024,2025-04-13,Muangthong United,Uthai Thani,1,0,2,0,1219164,296
+2024,2025-04-19,Ratchaburi,Buriram United,2,1,3,2,1219269,296
+2024,2025-04-19,Sukhothai FC,Chiangrai United,1,1,3,3,1219271,296
+2024,2025-04-19,Bangkok United,Bangkok Glass,1,0,3,0,1219270,296
+2024,2025-04-19,Lamphun Warrior,Nakhon Pathom,1,1,1,1,1219275,296
+2024,2025-04-20,Nong Bua Pitchaya,Port FC,1,0,1,2,1219272,296
+2024,2025-04-20,Rayong FC,Khon Kaen United,2,0,4,0,1219274,296
+2024,2025-04-20,Nakhon Ratchasima FC,Prachuap,0,0,1,1,1219273,296
+2024,2025-04-20,Uthai Thani,Muangthong United,1,1,1,1,1219276,296
+2024,2025-04-27,Bangkok Glass,Sukhothai FC,4,1,4,4,1219277,296
+2024,2025-04-27,Muangthong United,Nakhon Ratchasima FC,0,0,2,0,1219280,296
+2024,2025-04-27,Khon Kaen United,Chiangrai United,3,1,3,1,1219278,296
+2024,2025-04-27,Uthai Thani,Lamphun Warrior,0,1,1,1,1219282,296
+2024,2025-04-30,Buriram United,Nong Bua Pitchaya,1,0,7,0,1219284,296
+2024,2025-04-30,Port FC,Rayong FC,1,1,4,1,1219283,296
+2024,2025-04-30,Prachuap,Bangkok United,2,0,2,4,1219279,296
+2024,2025-04-30,Nakhon Pathom,Ratchaburi,0,2,1,6,1219281,296

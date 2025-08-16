@@ -1,0 +1,366 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-02-16,Cork City,Kerry,2,0,2,0
+2024,2024-02-16,Athlone Town,Wexford,3,0,3,0
+2024,2024-02-16,Bray Wanderers,UCD,0,2,1,2
+2024,2024-02-16,Treaty United,Cobh Ramblers,1,0,3,1
+2024,2024-02-17,Longford Town,Finn Harps,2,1,2,3
+2024,2024-02-23,Finn Harps,Cork City,1,0,1,1
+2024,2024-02-23,UCD,Treaty United,0,0,0,1
+2024,2024-02-23,Cobh Ramblers,Athlone Town,0,2,3,3
+2024,2024-02-23,Kerry,Bray Wanderers,1,0,2,3
+2024,2024-03-01,Cork City,UCD,1,0,1,0
+2024,2024-03-01,Finn Harps,Athlone Town,2,0,2,0
+2024,2024-03-01,Kerry,Treaty United,0,0,0,1
+2024,2024-03-08,Finn Harps,Cobh Ramblers,0,1,0,1
+2024,2024-03-08,UCD,Wexford,0,1,1,2
+2024,2024-03-08,Athlone Town,Kerry,0,0,1,1
+2024,2024-03-08,Treaty United,Bray Wanderers,2,0,2,2
+2024,2024-03-09,Longford Town,Cork City,0,0,0,2
+2024,2024-03-15,Cork City,Bray Wanderers,2,0,2,0
+2024,2024-03-15,UCD,Athlone Town,2,0,3,0
+2024,2024-03-15,Wexford,Finn Harps,1,0,1,2
+2024,2024-03-15,Kerry,Cobh Ramblers,0,0,1,1
+2024,2024-03-22,Finn Harps,Kerry,0,0,0,0
+2024,2024-03-22,Athlone Town,Longford Town,0,3,3,3
+2024,2024-03-22,Bray Wanderers,Wexford,2,3,3,4
+2024,2024-03-22,Cobh Ramblers,UCD,0,0,1,2
+2024,2024-03-22,Treaty United,Cork City,0,0,0,0
+2024,2024-03-25,Bray Wanderers,Longford Town,0,1,1,1
+2024,2024-03-29,Cork City,Athlone Town,0,0,1,0
+2024,2024-03-29,Bray Wanderers,Cobh Ramblers,1,1,2,2
+2024,2024-03-29,Longford Town,UCD,0,1,1,2
+2024,2024-03-29,Kerry,Wexford,1,0,1,1
+2024,2024-03-29,Treaty United,Finn Harps,0,0,0,1
+2024,2024-04-01,Cobh Ramblers,Longford Town,0,1,1,1
+2024,2024-04-01,Wexford,Cork City,0,1,1,1
+2024,2024-04-01,Finn Harps,Bray Wanderers,1,0,2,0
+2024,2024-04-01,UCD,Kerry,1,0,1,1
+2024,2024-04-01,Athlone Town,Treaty United,1,0,1,0
+2024,2024-04-05,Cork City,Cobh Ramblers,2,0,3,0
+2024,2024-04-05,Finn Harps,UCD,1,0,1,1
+2024,2024-04-05,Bray Wanderers,Athlone Town,1,0,3,0
+2024,2024-04-05,Wexford,Treaty United,0,0,3,2
+2024,2024-04-05,Kerry,Longford Town,2,0,3,0
+2024,2024-04-12,UCD,Cork City,0,0,0,0
+2024,2024-04-12,Athlone Town,Finn Harps,1,0,1,0
+2024,2024-04-12,Cobh Ramblers,Wexford,0,1,2,4
+2024,2024-04-12,Treaty United,Kerry,0,0,0,0
+2024,2024-04-13,Longford Town,Bray Wanderers,0,0,0,3
+2024,2024-04-16,Wexford,Longford Town,0,0,2,2
+2024,2024-04-19,Bray Wanderers,Treaty United,2,0,2,1
+2024,2024-04-19,Cobh Ramblers,Finn Harps,2,0,2,0
+2024,2024-04-19,Wexford,UCD,1,2,2,3
+2024,2024-04-19,Kerry,Athlone Town,1,1,1,2
+2024,2024-04-20,Longford Town,Cork City,1,2,1,4
+2024,2024-04-26,Finn Harps,Cork City,0,0,0,2
+2024,2024-04-26,Athlone Town,Cobh Ramblers,1,0,2,1
+2024,2024-04-26,Bray Wanderers,Kerry,0,0,2,0
+2024,2024-04-26,Treaty United,UCD,0,1,0,2
+2024,2024-04-27,Longford Town,Wexford,0,2,1,2
+2024,2024-05-03,Finn Harps,Treaty United,0,0,1,0
+2024,2024-05-03,UCD,Longford Town,1,0,1,0
+2024,2024-05-03,Cobh Ramblers,Bray Wanderers,1,1,2,1
+2024,2024-05-03,Wexford,Athlone Town,2,0,2,2
+2024,2024-05-03,Kerry,Cork City,0,1,0,1
+2024,2024-05-06,Cork City,Wexford,1,1,1,1
+2024,2024-05-06,UCD,Cobh Ramblers,1,1,1,2
+2024,2024-05-06,Bray Wanderers,Finn Harps,1,0,1,0
+2024,2024-05-06,Longford Town,Kerry,2,0,2,1
+2024,2024-05-06,Treaty United,Athlone Town,0,0,0,1
+2024,2024-05-10,Finn Harps,Longford Town,2,2,3,2
+2024,2024-05-10,Athlone Town,Bray Wanderers,1,0,2,1
+2024,2024-05-10,Cobh Ramblers,Cork City,0,1,0,3
+2024,2024-05-10,Kerry,UCD,1,2,1,2
+2024,2024-05-10,Treaty United,Wexford,1,1,2,2
+2024,2024-05-13,Longford Town,Treaty United,0,1,2,1
+2024,2024-05-17,UCD,Finn Harps,1,2,3,3
+2024,2024-05-17,Bray Wanderers,Cork City,0,3,1,3
+2024,2024-05-17,Cobh Ramblers,Treaty United,1,0,1,1
+2024,2024-05-17,Wexford,Kerry,2,0,2,0
+2024,2024-05-18,Longford Town,Athlone Town,0,0,1,1
+2024,2024-05-20,Wexford,Cobh Ramblers,1,0,1,1
+2024,2024-05-24,Cork City,Treaty United,1,1,1,1
+2024,2024-05-24,Athlone Town,UCD,2,1,2,2
+2024,2024-05-24,Wexford,Bray Wanderers,1,0,1,2
+2024,2024-05-24,Kerry,Finn Harps,0,0,2,0
+2024,2024-05-25,Longford Town,Cobh Ramblers,0,0,0,0
+2024,2024-05-31,Finn Harps,Wexford,1,0,1,0
+2024,2024-05-31,UCD,Bray Wanderers,0,0,0,0
+2024,2024-05-31,Athlone Town,Cork City,1,0,1,0
+2024,2024-05-31,Cobh Ramblers,Kerry,1,0,1,0
+2024,2024-05-31,Treaty United,Longford Town,0,0,1,0
+2024,2024-06-03,Wexford,Longford Town,0,0,2,2
+2024,2024-06-03,Cork City,UCD,0,0,0,0
+2024,2024-06-03,Finn Harps,Athlone Town,0,0,1,1
+2024,2024-06-03,Bray Wanderers,Cobh Ramblers,1,0,3,1
+2024,2024-06-03,Kerry,Treaty United,1,0,2,1
+2024,2024-06-07,Cork City,Longford Town,2,0,2,0
+2024,2024-06-07,UCD,Kerry,1,1,2,1
+2024,2024-06-07,Cobh Ramblers,Finn Harps,1,0,2,0
+2024,2024-06-07,Treaty United,Bray Wanderers,1,0,2,0
+2024,2024-06-13,Cork City,Cobh Ramblers,2,0,4,1
+2024,2024-06-13,Finn Harps,UCD,0,1,1,1
+2024,2024-06-13,Bray Wanderers,Athlone Town,1,0,1,0
+2024,2024-06-13,Wexford,Treaty United,0,1,0,1
+2024,2024-06-13,Kerry,Longford Town,1,1,2,1
+2024,2024-06-28,Cork City,Bray Wanderers,1,0,1,0
+2024,2024-06-28,Athlone Town,Treaty United,1,0,1,0
+2024,2024-06-28,Cobh Ramblers,UCD,1,1,2,2
+2024,2024-06-28,Longford Town,Finn Harps,0,1,1,1
+2024,2024-06-28,Kerry,Wexford,0,0,1,1
+2024,2024-07-04,Finn Harps,Kerry,1,0,1,0
+2024,2024-07-04,UCD,Athlone Town,0,1,1,2
+2024,2024-07-04,Bray Wanderers,Longford Town,0,0,0,1
+2024,2024-07-04,Wexford,Cork City,1,1,1,3
+2024,2024-07-04,Treaty United,Cobh Ramblers,0,0,0,1
+2024,2024-07-12,Cork City,Finn Harps,0,0,1,0
+2024,2024-07-12,UCD,Treaty United,0,1,1,1
+2024,2024-07-12,Athlone Town,Longford Town,1,0,4,1
+2024,2024-07-12,Wexford,Cobh Ramblers,0,0,3,0
+2024,2024-07-12,Kerry,Bray Wanderers,2,2,3,3
+2024,2024-07-26,Cork City,Kerry,0,0,2,0
+2024,2024-07-26,Bray Wanderers,Wexford,2,1,3,1
+2024,2024-07-26,Cobh Ramblers,Athlone Town,1,1,1,2
+2024,2024-07-26,Treaty United,Finn Harps,0,0,1,0
+2024,2024-07-27,Longford Town,UCD,1,1,1,2
+2024,2024-08-02,Finn Harps,Bray Wanderers,1,1,1,2
+2024,2024-08-02,UCD,Wexford,0,1,1,1
+2024,2024-08-02,Athlone Town,Kerry,1,2,3,3
+2024,2024-08-02,Cobh Ramblers,Longford Town,0,0,1,0
+2024,2024-08-02,Treaty United,Cork City,0,0,1,1
+2024,2024-08-09,Cork City,Athlone Town,0,0,0,0
+2024,2024-08-09,Bray Wanderers,UCD,0,1,0,1
+2024,2024-08-09,Wexford,Finn Harps,1,0,2,0
+2024,2024-08-09,Kerry,Cobh Ramblers,0,1,0,2
+2024,2024-08-10,Longford Town,Treaty United,1,3,1,4
+2024,2024-08-12,Athlone Town,Wexford,2,0,2,3
+2024,2024-08-23,UCD,Finn Harps,1,0,2,0
+2024,2024-08-23,Athlone Town,Bray Wanderers,0,0,0,1
+2024,2024-08-23,Cobh Ramblers,Cork City,0,0,0,1
+2024,2024-08-23,Treaty United,Wexford,0,0,1,3
+2024,2024-08-24,Longford Town,Kerry,1,1,2,2
+2024,2024-08-30,Cork City,Longford Town,1,2,3,2
+2024,2024-08-30,Finn Harps,Cobh Ramblers,0,0,2,0
+2024,2024-08-30,Bray Wanderers,Treaty United,5,0,5,0
+2024,2024-08-30,Wexford,Athlone Town,1,0,2,1
+2024,2024-08-30,Kerry,UCD,0,0,0,1
+2024,2024-09-06,UCD,Cork City,0,0,0,1
+2024,2024-09-06,Athlone Town,Finn Harps,0,2,1,4
+2024,2024-09-06,Cobh Ramblers,Wexford,0,1,1,2
+2024,2024-09-06,Longford Town,Bray Wanderers,0,0,1,0
+2024,2024-09-06,Treaty United,Kerry,0,0,1,1
+2024,2024-09-13,Finn Harps,Longford Town,0,0,1,0
+2024,2024-09-13,Kerry,Cork City,0,2,1,4
+2024,2024-09-17,Wexford,Bray Wanderers,0,0,0,0
+2024,2024-09-20,Cork City,Finn Harps,0,2,2,2
+2024,2024-09-20,UCD,Cobh Ramblers,1,0,2,0
+2024,2024-09-20,Bray Wanderers,Kerry,1,0,2,0
+2024,2024-09-20,Treaty United,Athlone Town,1,0,1,2
+2024,2024-09-21,Longford Town,Wexford,1,0,3,0
+2024,2024-09-23,Athlone Town,UCD,1,0,1,0
+2024,2024-09-23,Cobh Ramblers,Treaty United,0,1,0,3
+2024,2024-09-27,Athlone Town,Cobh Ramblers,1,1,1,2
+2024,2024-09-27,Bray Wanderers,Cork City,2,2,3,3
+2024,2024-09-27,Wexford,UCD,1,0,2,0
+2024,2024-09-27,Kerry,Finn Harps,0,0,1,1
+2024,2024-09-27,Treaty United,Longford Town,1,1,3,1
+2024,2024-10-04,Cork City,Treaty United,0,1,1,1
+2024,2024-10-04,UCD,Bray Wanderers,0,1,1,1
+2024,2024-10-04,Cobh Ramblers,Kerry,1,1,2,1
+2024,2024-10-05,Longford Town,Athlone Town,0,1,1,1
+2024,2024-10-11,Athlone Town,Cork City,1,1,4,1
+2024,2024-10-11,Bray Wanderers,Finn Harps,0,1,2,2
+2024,2024-10-11,Wexford,Kerry,0,0,4,0
+2024,2024-10-11,Treaty United,UCD,1,0,2,2
+2024,2024-10-12,Longford Town,Cobh Ramblers,1,0,2,0
+2024,2024-10-14,Finn Harps,Wexford,1,2,1,3
+2024,2024-10-18,Cork City,Wexford,3,0,6,0
+2024,2024-10-18,Finn Harps,Treaty United,1,0,1,2
+2024,2024-10-18,UCD,Longford Town,0,1,2,2
+2024,2024-10-18,Cobh Ramblers,Bray Wanderers,0,0,3,0
+2024,2024-10-18,Kerry,Athlone Town,1,0,2,0
+2024,2024-10-24,Athlone Town,Wexford,0,0,1,0
+2024,2024-10-24,Bray Wanderers,UCD,1,0,2,0
+2024,2024-10-28,Wexford,Athlone Town,0,0,0,0
+2024,2024-10-28,UCD,Bray Wanderers,0,0,1,0
+2024,2024-11-02,Bray Wanderers,Athlone Town,0,2,2,2
+2025,2025-02-14,Dundalk,Athlone Town,1,0,1,0
+2025,2025-02-14,UCD,Wexford,0,1,0,3
+2025,2025-02-14,Kerry,Finn Harps,1,0,2,0
+2025,2025-02-14,Treaty United,Cobh Ramblers,1,0,2,3
+2025,2025-02-15,Longford Town,Bray Wanderers,0,1,0,1
+2025,2025-02-21,Finn Harps,Dundalk,0,1,0,1
+2025,2025-02-21,Athlone Town,Treaty United,0,3,0,5
+2025,2025-02-21,Cobh Ramblers,Kerry,0,0,0,0
+2025,2025-02-28,UCD,Cobh Ramblers,0,1,1,1
+2025,2025-02-28,Wexford,Bray Wanderers,1,0,2,0
+2025,2025-02-28,Kerry,Dundalk,0,1,0,1
+2025,2025-02-28,Treaty United,Finn Harps,1,0,3,1
+2025,2025-03-01,Longford Town,Athlone Town,1,1,1,1
+2025,2025-03-07,Dundalk,Treaty United,1,0,2,2
+2025,2025-03-07,UCD,Finn Harps,1,0,1,1
+2025,2025-03-07,Cobh Ramblers,Longford Town,3,0,5,0
+2025,2025-03-07,Wexford,Athlone Town,0,1,0,1
+2025,2025-03-07,Kerry,Bray Wanderers,0,1,0,1
+2025,2025-03-14,Finn Harps,Cobh Ramblers,1,1,1,2
+2025,2025-03-14,Athlone Town,UCD,1,0,2,1
+2025,2025-03-14,Bray Wanderers,Dundalk,0,3,1,3
+2025,2025-03-14,Treaty United,Wexford,0,0,0,1
+2025,2025-03-15,Longford Town,Kerry,1,2,3,2
+2025,2025-03-21,Dundalk,Longford Town,1,1,2,1
+2025,2025-03-21,Finn Harps,Bray Wanderers,3,0,5,0
+2025,2025-03-21,UCD,Treaty United,0,0,0,0
+2025,2025-03-21,Cobh Ramblers,Athlone Town,0,0,2,0
+2025,2025-03-21,Wexford,Kerry,0,2,1,2
+2025,2025-03-28,Dundalk,Wexford,0,0,3,0
+2025,2025-03-28,Athlone Town,Finn Harps,0,0,0,1
+2025,2025-03-28,Bray Wanderers,Cobh Ramblers,0,0,2,1
+2025,2025-03-28,Kerry,UCD,0,0,0,1
+2025,2025-03-29,Longford Town,Treaty United,0,0,2,0
+2025,2025-03-31,UCD,Bray Wanderers,0,1,0,1
+2025,2025-04-04,Finn Harps,Longford Town,0,1,1,1
+2025,2025-04-04,UCD,Dundalk,0,0,0,1
+2025,2025-04-04,Athlone Town,Bray Wanderers,0,1,0,1
+2025,2025-04-04,Cobh Ramblers,Wexford,1,1,1,3
+2025,2025-04-04,Treaty United,Kerry,1,0,3,0
+2025,2025-04-08,Wexford,Longford Town,1,0,3,1
+2025,2025-04-11,Dundalk,Cobh Ramblers,0,0,1,0
+2025,2025-04-11,Bray Wanderers,Treaty United,1,0,2,1
+2025,2025-04-11,Wexford,Finn Harps,1,0,2,2
+2025,2025-04-11,Kerry,Athlone Town,2,0,3,0
+2025,2025-04-12,Longford Town,UCD,0,0,0,1
+2025,2025-04-18,Finn Harps,Kerry,1,2,4,2
+2025,2025-04-18,Athlone Town,Wexford,0,0,1,1
+2025,2025-04-18,Bray Wanderers,Longford Town,2,0,4,0
+2025,2025-04-18,Cobh Ramblers,UCD,0,0,1,0
+2025,2025-04-18,Treaty United,Dundalk,0,0,1,1
+2025,2025-04-21,Dundalk,Finn Harps,0,0,1,1
+2025,2025-04-21,Athlone Town,Longford Town,0,0,1,1
+2025,2025-04-21,Bray Wanderers,UCD,1,0,2,0
+2025,2025-04-21,Wexford,Treaty United,2,0,2,0
+2025,2025-04-21,Kerry,Cobh Ramblers,0,2,0,2
+2025,2025-04-25,Bray Wanderers,Kerry,2,0,4,2
+2025,2025-04-25,Cobh Ramblers,Finn Harps,2,0,3,1
+2025,2025-04-25,Wexford,UCD,0,0,0,1
+2025,2025-04-25,Treaty United,Athlone Town,0,0,1,0
+2025,2025-04-26,Longford Town,Dundalk,0,0,0,3
+2025,2025-05-02,Finn Harps,Treaty United,0,1,0,2
+2025,2025-05-02,UCD,Kerry,0,0,0,1
+2025,2025-05-02,Athlone Town,Dundalk,0,0,0,0
+2025,2025-05-02,Cobh Ramblers,Bray Wanderers,1,1,2,1
+2025,2025-05-03,Longford Town,Wexford,0,0,2,1
+2025,2025-05-09,Dundalk,Bray Wanderers,1,1,2,2
+2025,2025-05-09,Finn Harps,Athlone Town,0,1,0,2
+2025,2025-05-09,UCD,Longford Town,1,1,1,1
+2025,2025-05-09,Wexford,Cobh Ramblers,0,2,0,2
+2025,2025-05-09,Kerry,Treaty United,1,0,1,0
+2025,2025-05-16,Bray Wanderers,Athlone Town,2,0,3,1
+2025,2025-05-16,Cobh Ramblers,Dundalk,0,2,1,2
+2025,2025-05-16,Kerry,Wexford,1,0,1,1
+2025,2025-05-16,Treaty United,UCD,1,0,4,0
+2025,2025-05-17,Longford Town,Finn Harps,0,0,0,0
+2025,2025-05-23,Dundalk,Kerry,1,0,2,0
+2025,2025-05-23,Finn Harps,UCD,0,1,1,2
+2025,2025-05-23,Athlone Town,Cobh Ramblers,0,2,2,3
+2025,2025-05-23,Bray Wanderers,Wexford,0,1,1,2
+2025,2025-05-23,Treaty United,Longford Town,1,0,5,1
+2025,2025-05-30,UCD,Athlone Town,0,0,2,0
+2025,2025-05-30,Bray Wanderers,Finn Harps,2,1,3,1
+2025,2025-05-30,Cobh Ramblers,Treaty United,1,0,2,1
+2025,2025-05-30,Kerry,Longford Town,1,0,2,0
+2025,2025-05-30,Wexford,Dundalk,2,1,2,3
+2025,2025-06-13,Dundalk,UCD,1,1,1,1
+2025,2025-06-13,Finn Harps,Wexford,0,1,1,1
+2025,2025-06-13,Athlone Town,Kerry,0,0,2,2
+2025,2025-06-13,Treaty United,Bray Wanderers,1,0,2,1
+2025,2025-06-14,Longford Town,Cobh Ramblers,0,0,1,1
+2025,2025-06-20,Dundalk,Treaty United,0,0,1,1
+2025,2025-06-20,UCD,Cobh Ramblers,0,3,0,3
+2025,2025-06-20,Athlone Town,Finn Harps,0,0,0,0
+2025,2025-06-20,Wexford,Longford Town,0,1,0,1
+2025,2025-06-20,Kerry,Bray Wanderers,1,0,2,1
+2025,2025-06-23,Finn Harps,Dundalk,0,0,1,0
+2025,2025-06-23,Bray Wanderers,UCD,0,2,1,3
+2025,2025-06-23,Cobh Ramblers,Kerry,0,0,1,0
+2025,2025-06-23,Longford Town,Athlone Town,1,2,3,2
+2025,2025-06-23,Treaty United,Wexford,0,0,0,0
+2025,2025-06-27,Dundalk,Cobh Ramblers,1,0,1,0
+2025,2025-06-27,Athlone Town,Bray Wanderers,0,2,0,4
+2025,2025-06-27,Wexford,Kerry,1,3,4,3
+2025,2025-06-27,Treaty United,Finn Harps,0,0,0,1
+2025,2025-06-28,Longford Town,UCD,0,0,0,2
+2025,2025-07-04,Finn Harps,Longford Town,0,0,0,0
+2025,2025-07-04,UCD,Treaty United,0,0,1,1
+2025,2025-07-04,Bray Wanderers,Wexford,1,0,1,0
+2025,2025-07-04,Cobh Ramblers,Athlone Town,2,0,2,1
+2025,2025-07-04,Kerry,Dundalk,0,1,0,4
+2025,2025-07-11,UCD,Finn Harps,2,1,3,1
+2025,2025-07-11,Bray Wanderers,Dundalk,1,0,2,0
+2025,2025-07-11,Wexford,Athlone Town,0,0,0,0
+2025,2025-07-11,Treaty United,Cobh Ramblers,0,0,2,1
+2025,2025-07-12,Longford Town,Kerry,2,0,3,1
+2025,2025-07-25,Dundalk,Wexford,2,0,3,2
+2025,2025-07-25,Finn Harps,Cobh Ramblers,1,2,2,2
+2025,2025-07-25,Athlone Town,Treaty United,2,0,2,2
+2025,2025-07-25,Kerry,UCD,0,2,0,3
+2025,2025-07-26,Longford Town,Bray Wanderers,1,1,1,2
+2025,2025-08-01,UCD,Dundalk,0,1,0,1
+2025,2025-08-01,Bray Wanderers,Treaty United,0,1,3,2
+2025,2025-08-01,Cobh Ramblers,Longford Town,1,1,3,1
+2025,2025-08-01,Wexford,Finn Harps,0,1,2,1
+2025,2025-08-01,Kerry,Athlone Town,3,0,4,0
+2025,2025-08-04,Dundalk,Longford Town,2,0,4,1
+2025,2025-08-04,Finn Harps,Bray Wanderers,1,0,2,2
+2025,2025-08-04,Athlone Town,UCD,1,1,1,2
+2025,2025-08-04,Cobh Ramblers,Wexford,3,0,4,0
+2025,2025-08-04,Treaty United,Kerry,0,0,1,1
+2025,2025-08-08,Dundalk,Athlone Town,2,1,6,1
+2025,2025-08-08,UCD,Wexford,0,0,1,0
+2025,2025-08-08,Bray Wanderers,Cobh Ramblers,0,2,0,2
+2025,2025-08-08,Kerry,Finn Harps,0,0,0,1
+2025,2025-08-09,Longford Town,Treaty United,1,0,2,0
+2025,2025-08-22,Finn Harps,Athlone Town,,,,
+2025,2025-08-22,Cobh Ramblers,UCD,,,,
+2025,2025-08-22,Wexford,Bray Wanderers,,,,
+2025,2025-08-22,Kerry,Longford Town,,,,
+2025,2025-08-22,Treaty United,Dundalk,,,,
+2025,2025-08-29,Dundalk,Kerry,,,,
+2025,2025-08-29,Finn Harps,Treaty United,,,,
+2025,2025-08-29,UCD,Bray Wanderers,,,,
+2025,2025-08-29,Athlone Town,Cobh Ramblers,,,,
+2025,2025-08-30,Longford Town,Wexford,,,,
+2025,2025-09-05,Bray Wanderers,Athlone Town,,,,
+2025,2025-09-05,Wexford,Dundalk,,,,
+2025,2025-09-05,Kerry,Cobh Ramblers,,,,
+2025,2025-09-05,Treaty United,UCD,,,,
+2025,2025-09-06,Longford Town,Finn Harps,,,,
+2025,2025-09-12,Dundalk,Bray Wanderers,,,,
+2025,2025-09-12,Finn Harps,Wexford,,,,
+2025,2025-09-12,UCD,Longford Town,,,,
+2025,2025-09-12,Athlone Town,Kerry,,,,
+2025,2025-09-12,Cobh Ramblers,Treaty United,,,,
+2025,2025-09-19,UCD,Kerry,,,,
+2025,2025-09-19,Bray Wanderers,Finn Harps,,,,
+2025,2025-09-19,Wexford,Cobh Ramblers,,,,
+2025,2025-09-19,Treaty United,Athlone Town,,,,
+2025,2025-09-20,Longford Town,Dundalk,,,,
+2025,2025-09-26,Dundalk,UCD,,,,
+2025,2025-09-26,Athlone Town,Wexford,,,,
+2025,2025-09-26,Bray Wanderers,Longford Town,,,,
+2025,2025-09-26,Cobh Ramblers,Finn Harps,,,,
+2025,2025-09-26,Kerry,Treaty United,,,,
+2025,2025-10-03,Finn Harps,Kerry,,,,
+2025,2025-10-03,Athlone Town,Dundalk,,,,
+2025,2025-10-03,Cobh Ramblers,Bray Wanderers,,,,
+2025,2025-10-03,Wexford,UCD,,,,
+2025,2025-10-03,Treaty United,Longford Town,,,,
+2025,2025-10-10,Dundalk,Finn Harps,,,,
+2025,2025-10-10,UCD,Athlone Town,,,,
+2025,2025-10-10,Kerry,Wexford,,,,
+2025,2025-10-10,Treaty United,Bray Wanderers,,,,
+2025,2025-10-11,Longford Town,Cobh Ramblers,,,,
+2025,2025-10-17,Finn Harps,UCD,,,,
+2025,2025-10-17,Athlone Town,Longford Town,,,,
+2025,2025-10-17,Bray Wanderers,Kerry,,,,
+2025,2025-10-17,Cobh Ramblers,Dundalk,,,,
+2025,2025-10-17,Wexford,Treaty United,,,,

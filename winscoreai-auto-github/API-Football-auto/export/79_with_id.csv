@@ -1,0 +1,615 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away,fixture_id,league_id
+2024,2024-08-02,1.FC Köln,Hamburger SV,0.0,2.0,1.0,2.0,1226165,79
+2024,2024-08-03,Hertha BSC,SC Paderborn 07,0.0,1.0,1.0,2.0,1226170,79
+2024,2024-08-03,Hannover 96,SSV Jahn Regensburg,2.0,0.0,2.0,0.0,1226168,79
+2024,2024-08-03,1. FC Magdeburg,SV Elversberg,0.0,0.0,0.0,0.0,1226172,79
+2024,2024-08-03,Karlsruher SC,1. FC Nürnberg,1.0,2.0,3.0,2.0,1226167,79
+2024,2024-08-03,FC Schalke 04,Eintracht Braunschweig,2.0,1.0,5.0,1.0,1226171,79
+2024,2024-08-04,SpVgg Greuther Fürth,Preußen Münster,1.0,1.0,3.0,1.0,1226169,79
+2024,2024-08-04,SV Darmstadt 98,Fortuna Düsseldorf,0.0,0.0,0.0,2.0,1226166,79
+2024,2024-08-04,SSV Ulm 1846,1. FC Kaiserslautern,0.0,0.0,1.0,2.0,1226173,79
+2024,2024-08-09,SSV Jahn Regensburg,SSV Ulm 1846,1.0,0.0,1.0,0.0,1226182,79
+2024,2024-08-09,1. FC Kaiserslautern,SpVgg Greuther Fürth,1.0,2.0,2.0,2.0,1226179,79
+2024,2024-08-10,Fortuna Düsseldorf,Karlsruher SC,0.0,0.0,0.0,0.0,1226174,79
+2024,2024-08-10,1. FC Nürnberg,FC Schalke 04,0.0,1.0,3.0,1.0,1226178,79
+2024,2024-08-10,SV Elversberg,1.FC Köln,0.0,1.0,2.0,2.0,1226177,79
+2024,2024-08-10,Hamburger SV,Hertha BSC,1.0,0.0,1.0,1.0,1226175,79
+2024,2024-08-11,SC Paderborn 07,SV Darmstadt 98,0.0,1.0,3.0,1.0,1226176,79
+2024,2024-08-11,Eintracht Braunschweig,1. FC Magdeburg,0.0,1.0,1.0,3.0,1226180,79
+2024,2024-08-11,Preußen Münster,Hannover 96,0.0,0.0,0.0,0.0,1226181,79
+2024,2024-08-23,Hannover 96,Hamburger SV,0.0,0.0,1.0,0.0,1226186,79
+2024,2024-08-23,Karlsruher SC,SV Elversberg,1.0,1.0,3.0,2.0,1226185,79
+2024,2024-08-24,Hertha BSC,SSV Jahn Regensburg,0.0,0.0,2.0,0.0,1226188,79
+2024,2024-08-24,SpVgg Greuther Fürth,SC Paderborn 07,0.0,0.0,1.0,1.0,1226187,79
+2024,2024-08-24,Preußen Münster,1. FC Kaiserslautern,0.0,0.0,0.0,1.0,1226191,79
+2024,2024-08-24,1.FC Köln,Eintracht Braunschweig,2.0,0.0,5.0,0.0,1226183,79
+2024,2024-08-25,1. FC Magdeburg,FC Schalke 04,2.0,1.0,2.0,2.0,1226189,79
+2024,2024-08-25,SV Darmstadt 98,1. FC Nürnberg,1.0,0.0,1.0,1.0,1226184,79
+2024,2024-08-25,SSV Ulm 1846,Fortuna Düsseldorf,1.0,0.0,1.0,2.0,1226190,79
+2024,2024-08-30,Fortuna Düsseldorf,Hannover 96,0.0,0.0,1.0,0.0,1226192,79
+2024,2024-08-30,SSV Jahn Regensburg,SpVgg Greuther Fürth,0.0,1.0,0.0,4.0,1226200,79
+2024,2024-08-31,1. FC Nürnberg,1. FC Magdeburg,0.0,1.0,0.0,4.0,1226197,79
+2024,2024-08-31,Hamburger SV,Preußen Münster,3.0,0.0,4.0,1.0,1226193,79
+2024,2024-08-31,SV Elversberg,SV Darmstadt 98,2.0,0.0,4.0,0.0,1226196,79
+2024,2024-08-31,1. FC Kaiserslautern,Hertha BSC,2.0,1.0,3.0,4.0,1226198,79
+2024,2024-09-01,FC Schalke 04,1.FC Köln,0.0,2.0,1.0,3.0,1226195,79
+2024,2024-09-01,SC Paderborn 07,SSV Ulm 1846,0.0,0.0,0.0,0.0,1226194,79
+2024,2024-09-01,Eintracht Braunschweig,Karlsruher SC,1.0,0.0,1.0,2.0,1226199,79
+2024,2024-09-13,Karlsruher SC,FC Schalke 04,1.0,0.0,2.0,0.0,1226204,79
+2024,2024-09-13,Preußen Münster,SC Paderborn 07,1.0,1.0,3.0,3.0,1226209,79
+2024,2024-09-14,Hannover 96,1. FC Kaiserslautern,1.0,0.0,3.0,1.0,1226205,79
+2024,2024-09-14,SV Darmstadt 98,Eintracht Braunschweig,1.0,0.0,1.0,1.0,1226202,79
+2024,2024-09-14,SSV Ulm 1846,1. FC Nürnberg,0.0,0.0,1.0,2.0,1226208,79
+2024,2024-09-14,1.FC Köln,1. FC Magdeburg,0.0,0.0,1.0,2.0,1226201,79
+2024,2024-09-15,Hertha BSC,Fortuna Düsseldorf,0.0,1.0,0.0,2.0,1226207,79
+2024,2024-09-15,Hamburger SV,SSV Jahn Regensburg,2.0,0.0,5.0,0.0,1226203,79
+2024,2024-09-15,SpVgg Greuther Fürth,SV Elversberg,0.0,0.0,0.0,0.0,1226206,79
+2024,2024-09-20,FC Schalke 04,SV Darmstadt 98,3.0,1.0,3.0,5.0,1226212,79
+2024,2024-09-20,SC Paderborn 07,Hannover 96,1.0,1.0,2.0,1.0,1226211,79
+2024,2024-09-21,Fortuna Düsseldorf,1.FC Köln,1.0,1.0,2.0,2.0,1226210,79
+2024,2024-09-21,1. FC Nürnberg,Hertha BSC,0.0,1.0,0.0,2.0,1226214,79
+2024,2024-09-21,Eintracht Braunschweig,SpVgg Greuther Fürth,1.0,0.0,2.0,0.0,1226217,79
+2024,2024-09-21,1. FC Kaiserslautern,Hamburger SV,1.0,0.0,2.0,2.0,1226215,79
+2024,2024-09-22,SSV Jahn Regensburg,Preußen Münster,0.0,1.0,0.0,3.0,1226218,79
+2024,2024-09-22,1. FC Magdeburg,Karlsruher SC,1.0,2.0,2.0,2.0,1226216,79
+2024,2024-09-22,SV Elversberg,SSV Ulm 1846,0.0,1.0,1.0,3.0,1226213,79
+2024,2024-09-27,SpVgg Greuther Fürth,Fortuna Düsseldorf,1.0,1.0,1.0,2.0,1226223,79
+2024,2024-09-27,SSV Ulm 1846,Eintracht Braunschweig,2.0,0.0,3.0,1.0,1226225,79
+2024,2024-09-28,Hamburger SV,SC Paderborn 07,0.0,0.0,2.0,2.0,1226221,79
+2024,2024-09-28,SSV Jahn Regensburg,1. FC Kaiserslautern,0.0,0.0,0.0,0.0,1226227,79
+2024,2024-09-28,SV Darmstadt 98,1. FC Magdeburg,1.0,1.0,1.0,2.0,1226220,79
+2024,2024-09-28,Preußen Münster,FC Schalke 04,0.0,0.0,1.0,2.0,1226226,79
+2024,2024-09-29,Hertha BSC,SV Elversberg,0.0,2.0,1.0,4.0,1226224,79
+2024,2024-09-29,Hannover 96,1. FC Nürnberg,0.0,0.0,2.0,0.0,1226222,79
+2024,2024-09-29,1.FC Köln,Karlsruher SC,4.0,2.0,4.0,4.0,1226219,79
+2024,2024-10-04,SC Paderborn 07,SSV Jahn Regensburg,1.0,0.0,3.0,0.0,1226231,79
+2024,2024-10-04,Karlsruher SC,SV Darmstadt 98,2.0,1.0,3.0,3.0,1226230,79
+2024,2024-10-05,1. FC Nürnberg,Preußen Münster,1.0,2.0,3.0,2.0,1226234,79
+2024,2024-10-05,1.FC Köln,SSV Ulm 1846,1.0,0.0,2.0,0.0,1226228,79
+2024,2024-10-05,SV Elversberg,1. FC Kaiserslautern,0.0,0.0,1.0,0.0,1226233,79
+2024,2024-10-05,FC Schalke 04,Hertha BSC,2.0,1.0,2.0,2.0,1226232,79
+2024,2024-10-06,Fortuna Düsseldorf,Hamburger SV,0.0,1.0,0.0,3.0,1226229,79
+2024,2024-10-06,1. FC Magdeburg,SpVgg Greuther Fürth,2.0,1.0,2.0,2.0,1226235,79
+2024,2024-10-06,Eintracht Braunschweig,Hannover 96,1.0,0.0,2.0,0.0,1226236,79
+2024,2024-10-18,Hertha BSC,Eintracht Braunschweig,0.0,1.0,3.0,1.0,1226241,79
+2024,2024-10-18,SV Darmstadt 98,1.FC Köln,2.0,1.0,5.0,1.0,1226237,79
+2024,2024-10-19,Hannover 96,FC Schalke 04,1.0,0.0,1.0,0.0,1226239,79
+2024,2024-10-19,SSV Jahn Regensburg,Fortuna Düsseldorf,0.0,1.0,0.0,3.0,1226245,79
+2024,2024-10-19,Preußen Münster,SV Elversberg,1.0,0.0,1.0,1.0,1226244,79
+2024,2024-10-19,1. FC Kaiserslautern,SC Paderborn 07,1.0,0.0,3.0,0.0,1226242,79
+2024,2024-10-20,Hamburger SV,1. FC Magdeburg,3.0,0.0,3.0,1.0,1226238,79
+2024,2024-10-20,SpVgg Greuther Fürth,1. FC Nürnberg,0.0,3.0,0.0,4.0,1226240,79
+2024,2024-10-20,SSV Ulm 1846,Karlsruher SC,0.0,0.0,0.0,1.0,1226243,79
+2024,2024-10-25,1. FC Nürnberg,SSV Jahn Regensburg,3.0,2.0,8.0,3.0,1226252,79
+2024,2024-10-25,1.FC Köln,SC Paderborn 07,0.0,0.0,1.0,2.0,1226246,79
+2024,2024-10-26,FC Schalke 04,SpVgg Greuther Fürth,1.0,3.0,3.0,4.0,1226250,79
+2024,2024-10-26,Karlsruher SC,Hertha BSC,1.0,1.0,1.0,3.0,1226249,79
+2024,2024-10-26,SV Elversberg,Hamburger SV,1.0,1.0,4.0,2.0,1226251,79
+2024,2024-10-26,Fortuna Düsseldorf,1. FC Kaiserslautern,1.0,1.0,3.0,4.0,1226248,79
+2024,2024-10-27,1. FC Magdeburg,Hannover 96,0.0,2.0,0.0,3.0,1226253,79
+2024,2024-10-27,SV Darmstadt 98,SSV Ulm 1846,1.0,1.0,1.0,1.0,1226247,79
+2024,2024-10-27,Eintracht Braunschweig,Preußen Münster,1.0,1.0,1.0,1.0,1226254,79
+2024,2024-11-01,Preußen Münster,Fortuna Düsseldorf,1.0,0.0,1.0,0.0,1226262,79
+2024,2024-11-01,SSV Ulm 1846,FC Schalke 04,0.0,0.0,0.0,0.0,1226261,79
+2024,2024-11-02,Hannover 96,Karlsruher SC,0.0,1.0,2.0,1.0,1226256,79
+2024,2024-11-02,SSV Jahn Regensburg,SV Elversberg,1.0,0.0,1.0,0.0,1226263,79
+2024,2024-11-02,SpVgg Greuther Fürth,SV Darmstadt 98,0.0,3.0,1.0,5.0,1226258,79
+2024,2024-11-02,Hertha BSC,1.FC Köln,0.0,1.0,0.0,1.0,1226259,79
+2024,2024-11-03,Hamburger SV,1. FC Nürnberg,1.0,0.0,1.0,1.0,1226255,79
+2024,2024-11-03,SC Paderborn 07,Eintracht Braunschweig,0.0,0.0,0.0,0.0,1226257,79
+2024,2024-11-03,1. FC Kaiserslautern,1. FC Magdeburg,1.0,2.0,2.0,2.0,1226260,79
+2024,2024-11-08,1. FC Nürnberg,1. FC Kaiserslautern,0.0,0.0,0.0,0.0,1226270,79
+2024,2024-11-08,Eintracht Braunschweig,Hamburger SV,1.0,0.0,3.0,1.0,1226272,79
+2024,2024-11-09,1. FC Magdeburg,SSV Ulm 1846,0.0,0.0,0.0,0.0,1226271,79
+2024,2024-11-09,SV Darmstadt 98,Hertha BSC,1.0,1.0,3.0,1.0,1226265,79
+2024,2024-11-09,1.FC Köln,SpVgg Greuther Fürth,0.0,0.0,1.0,0.0,1226264,79
+2024,2024-11-09,Fortuna Düsseldorf,SC Paderborn 07,0.0,0.0,1.0,1.0,1226266,79
+2024,2024-11-10,FC Schalke 04,SSV Jahn Regensburg,1.0,0.0,2.0,0.0,1226268,79
+2024,2024-11-10,Karlsruher SC,Preußen Münster,1.0,0.0,1.0,1.0,1226267,79
+2024,2024-11-10,SV Elversberg,Hannover 96,2.0,0.0,3.0,1.0,1226269,79
+2024,2024-11-22,SC Paderborn 07,1. FC Nürnberg,1.0,1.0,3.0,2.0,1226276,79
+2024,2024-11-22,Preußen Münster,1.FC Köln,0.0,0.0,0.0,1.0,1226280,79
+2024,2024-11-23,Fortuna Düsseldorf,SV Elversberg,0.0,0.0,0.0,2.0,1226273,79
+2024,2024-11-23,Hertha BSC,SSV Ulm 1846,1.0,1.0,2.0,2.0,1226278,79
+2024,2024-11-23,Hannover 96,SV Darmstadt 98,0.0,0.0,1.0,2.0,1226275,79
+2024,2024-11-23,SpVgg Greuther Fürth,Karlsruher SC,1.0,0.0,2.0,3.0,1226277,79
+2024,2024-11-23,Hamburger SV,FC Schalke 04,2.0,0.0,2.0,2.0,1226274,79
+2024,2024-11-24,SSV Jahn Regensburg,1. FC Magdeburg,0.0,1.0,0.0,1.0,1226281,79
+2024,2024-11-24,1. FC Kaiserslautern,Eintracht Braunschweig,3.0,1.0,3.0,2.0,1226279,79
+2024,2024-11-29,FC Schalke 04,1. FC Kaiserslautern,0.0,1.0,0.0,3.0,1226285,79
+2024,2024-11-29,1. FC Magdeburg,Hertha BSC,0.0,0.0,1.0,3.0,1226288,79
+2024,2024-11-30,1.FC Köln,Hannover 96,0.0,1.0,2.0,2.0,1226282,79
+2024,2024-11-30,Eintracht Braunschweig,SSV Jahn Regensburg,0.0,0.0,0.0,0.0,1226289,79
+2024,2024-11-30,SV Elversberg,SC Paderborn 07,1.0,1.0,1.0,3.0,1226286,79
+2024,2024-11-30,SV Darmstadt 98,Preußen Münster,0.0,0.0,0.0,0.0,1226283,79
+2024,2024-12-01,1. FC Nürnberg,Fortuna Düsseldorf,1.0,0.0,2.0,2.0,1226287,79
+2024,2024-12-01,Karlsruher SC,Hamburger SV,1.0,1.0,1.0,3.0,1226284,79
+2024,2024-12-01,SSV Ulm 1846,SpVgg Greuther Fürth,1.0,1.0,1.0,1.0,1226290,79
+2024,2024-12-06,SC Paderborn 07,FC Schalke 04,1.0,2.0,2.0,4.0,1226294,79
+2024,2024-12-06,SV Elversberg,1. FC Nürnberg,1.0,1.0,2.0,1.0,1226296,79
+2024,2024-12-07,Hannover 96,SSV Ulm 1846,0.0,1.0,3.0,2.0,1226293,79
+2024,2024-12-07,SpVgg Greuther Fürth,Hertha BSC,1.0,1.0,2.0,1.0,1226295,79
+2024,2024-12-07,1. FC Kaiserslautern,Karlsruher SC,1.0,0.0,3.0,1.0,1226297,79
+2024,2024-12-07,Preußen Münster,1. FC Magdeburg,1.0,1.0,1.0,2.0,1226298,79
+2024,2024-12-08,Fortuna Düsseldorf,Eintracht Braunschweig,3.0,0.0,5.0,0.0,1226291,79
+2024,2024-12-08,Hamburger SV,SV Darmstadt 98,2.0,1.0,2.0,2.0,1226292,79
+2024,2024-12-08,SSV Jahn Regensburg,1.FC Köln,0.0,1.0,0.0,1.0,1226299,79
+2024,2024-12-13,Hertha BSC,Preußen Münster,1.0,0.0,1.0,2.0,1226304,79
+2024,2024-12-13,Karlsruher SC,SSV Jahn Regensburg,1.0,1.0,4.0,2.0,1226302,79
+2024,2024-12-14,FC Schalke 04,Fortuna Düsseldorf,0.0,0.0,1.0,1.0,1226305,79
+2024,2024-12-14,1. FC Magdeburg,SC Paderborn 07,0.0,0.0,1.0,1.0,1226306,79
+2024,2024-12-14,SSV Ulm 1846,Hamburger SV,1.0,0.0,1.0,1.0,1226308,79
+2024,2024-12-14,SV Darmstadt 98,1. FC Kaiserslautern,2.0,0.0,5.0,1.0,1226301,79
+2024,2024-12-15,SpVgg Greuther Fürth,Hannover 96,0.0,0.0,1.0,0.0,1226303,79
+2024,2024-12-15,1.FC Köln,1. FC Nürnberg,3.0,0.0,3.0,1.0,1226300,79
+2024,2024-12-15,Eintracht Braunschweig,SV Elversberg,0.0,0.0,0.0,3.0,1226307,79
+2024,2024-12-20,Fortuna Düsseldorf,1. FC Magdeburg,2.0,1.0,2.0,5.0,1226309,79
+2024,2024-12-20,SV Elversberg,FC Schalke 04,1.0,1.0,1.0,4.0,1226313,79
+2024,2024-12-21,Hamburger SV,SpVgg Greuther Fürth,3.0,0.0,5.0,0.0,1226310,79
+2024,2024-12-21,SC Paderborn 07,Karlsruher SC,1.0,2.0,1.0,2.0,1226312,79
+2024,2024-12-21,Preußen Münster,SSV Ulm 1846,0.0,0.0,0.0,0.0,1226316,79
+2024,2024-12-21,1. FC Nürnberg,Eintracht Braunschweig,0.0,0.0,1.0,0.0,1226314,79
+2024,2024-12-22,Hannover 96,Hertha BSC,0.0,0.0,0.0,0.0,1226311,79
+2024,2024-12-22,SSV Jahn Regensburg,SV Darmstadt 98,0.0,0.0,2.0,1.0,1226317,79
+2024,2024-12-22,1. FC Kaiserslautern,1.FC Köln,0.0,1.0,0.0,1.0,1226315,79
+2024,2025-01-17,Fortuna Düsseldorf,SV Darmstadt 98,1.0,0.0,2.0,2.0,1226318,79
+2024,2025-01-17,SSV Jahn Regensburg,Hannover 96,0.0,1.0,0.0,1.0,1226326,79
+2024,2025-01-18,Eintracht Braunschweig,FC Schalke 04,0.0,0.0,0.0,0.0,1226324,79
+2024,2025-01-18,1. FC Kaiserslautern,SSV Ulm 1846,2.0,1.0,2.0,1.0,1226323,79
+2024,2025-01-18,Preußen Münster,SpVgg Greuther Fürth,1.0,1.0,2.0,1.0,1226325,79
+2024,2025-01-18,Hamburger SV,1.FC Köln,0.0,0.0,1.0,0.0,1226319,79
+2024,2025-01-19,1. FC Nürnberg,Karlsruher SC,1.0,1.0,2.0,1.0,1226322,79
+2024,2025-01-19,SC Paderborn 07,Hertha BSC,0.0,1.0,1.0,2.0,1226320,79
+2024,2025-01-19,SV Elversberg,1. FC Magdeburg,2.0,0.0,2.0,5.0,1226321,79
+2024,2025-01-24,SpVgg Greuther Fürth,1. FC Kaiserslautern,1.0,1.0,2.0,4.0,1226331,79
+2024,2025-01-24,1. FC Magdeburg,Eintracht Braunschweig,1.0,0.0,1.0,1.0,1226334,79
+2024,2025-01-25,FC Schalke 04,1. FC Nürnberg,3.0,1.0,3.0,1.0,1226333,79
+2024,2025-01-25,1.FC Köln,SV Elversberg,0.0,0.0,1.0,0.0,1226327,79
+2024,2025-01-25,Karlsruher SC,Fortuna Düsseldorf,2.0,0.0,2.0,3.0,1226329,79
+2024,2025-01-25,Hertha BSC,Hamburger SV,0.0,1.0,2.0,3.0,1226332,79
+2024,2025-01-26,Hannover 96,Preußen Münster,1.0,1.0,2.0,2.0,1226330,79
+2024,2025-01-26,SV Darmstadt 98,SC Paderborn 07,0.0,1.0,0.0,1.0,1226328,79
+2024,2025-01-26,SSV Ulm 1846,SSV Jahn Regensburg,3.0,0.0,5.0,1.0,1226335,79
+2024,2025-01-31,1. FC Nürnberg,SV Darmstadt 98,0.0,0.0,1.0,0.0,1226341,79
+2024,2025-01-31,SV Elversberg,Karlsruher SC,1.0,0.0,2.0,2.0,1226340,79
+2024,2025-02-01,Fortuna Düsseldorf,SSV Ulm 1846,2.0,1.0,3.0,2.0,1226336,79
+2024,2025-02-01,SSV Jahn Regensburg,Hertha BSC,1.0,0.0,2.0,0.0,1226344,79
+2024,2025-02-01,Eintracht Braunschweig,1.FC Köln,1.0,2.0,1.0,2.0,1226343,79
+2024,2025-02-01,FC Schalke 04,1. FC Magdeburg,0.0,2.0,2.0,5.0,1226339,79
+2024,2025-02-02,Hamburger SV,Hannover 96,1.0,0.0,2.0,2.0,1226337,79
+2024,2025-02-02,SC Paderborn 07,SpVgg Greuther Fürth,0.0,1.0,1.0,2.0,1226338,79
+2024,2025-02-02,1. FC Kaiserslautern,Preußen Münster,0.0,0.0,2.0,1.0,1226342,79
+2024,2025-02-07,SpVgg Greuther Fürth,SSV Jahn Regensburg,2.0,1.0,2.0,1.0,1226349,79
+2024,2025-02-07,Preußen Münster,Hamburger SV,1.0,1.0,1.0,2.0,1226353,79
+2024,2025-02-08,1. FC Magdeburg,1. FC Nürnberg,1.0,3.0,3.0,4.0,1226351,79
+2024,2025-02-08,SV Darmstadt 98,SV Elversberg,0.0,2.0,0.0,3.0,1226346,79
+2024,2025-02-08,SSV Ulm 1846,SC Paderborn 07,0.0,0.0,0.0,2.0,1226352,79
+2024,2025-02-08,Hertha BSC,1. FC Kaiserslautern,0.0,0.0,0.0,1.0,1226350,79
+2024,2025-02-09,Hannover 96,Fortuna Düsseldorf,1.0,1.0,1.0,1.0,1226348,79
+2024,2025-02-09,1.FC Köln,FC Schalke 04,1.0,0.0,1.0,0.0,1226345,79
+2024,2025-02-09,Karlsruher SC,Eintracht Braunschweig,0.0,1.0,0.0,2.0,1226347,79
+2024,2025-02-14,1. FC Magdeburg,1.FC Köln,0.0,0.0,3.0,0.0,1226360,79
+2024,2025-02-14,SC Paderborn 07,Preußen Münster,0.0,0.0,2.0,0.0,1226355,79
+2024,2025-02-15,Eintracht Braunschweig,SV Darmstadt 98,0.0,0.0,1.0,0.0,1226361,79
+2024,2025-02-15,1. FC Kaiserslautern,Hannover 96,0.0,0.0,0.0,0.0,1226359,79
+2024,2025-02-15,SV Elversberg,SpVgg Greuther Fürth,2.0,0.0,2.0,0.0,1226357,79
+2024,2025-02-15,Fortuna Düsseldorf,Hertha BSC,0.0,1.0,2.0,1.0,1226354,79
+2024,2025-02-16,1. FC Nürnberg,SSV Ulm 1846,0.0,0.0,2.0,0.0,1226358,79
+2024,2025-02-16,FC Schalke 04,Karlsruher SC,2.0,1.0,2.0,1.0,1226356,79
+2024,2025-02-16,SSV Jahn Regensburg,Hamburger SV,1.0,0.0,1.0,1.0,1226362,79
+2024,2025-02-21,Hertha BSC,1. FC Nürnberg,0.0,0.0,0.0,0.0,1226369,79
+2024,2025-02-21,Hamburger SV,1. FC Kaiserslautern,1.0,0.0,3.0,0.0,1226365,79
+2024,2025-02-22,Karlsruher SC,1. FC Magdeburg,1.0,1.0,3.0,1.0,1226366,79
+2024,2025-02-22,Preußen Münster,SSV Jahn Regensburg,1.0,0.0,2.0,0.0,1226371,79
+2024,2025-02-22,SSV Ulm 1846,SV Elversberg,0.0,0.0,0.0,0.0,1226370,79
+2024,2025-02-22,Hannover 96,SC Paderborn 07,1.0,0.0,1.0,1.0,1226367,79
+2024,2025-02-23,SpVgg Greuther Fürth,Eintracht Braunschweig,1.0,0.0,3.0,0.0,1226368,79
+2024,2025-02-23,SV Darmstadt 98,FC Schalke 04,2.0,0.0,2.0,0.0,1226364,79
+2024,2025-02-23,1.FC Köln,Fortuna Düsseldorf,0.0,0.0,1.0,1.0,1226363,79
+2024,2025-02-28,Fortuna Düsseldorf,SpVgg Greuther Fürth,1.0,1.0,1.0,2.0,1226372,79
+2024,2025-02-28,FC Schalke 04,Preußen Münster,0.0,0.0,1.0,0.0,1226375,79
+2024,2025-03-01,1. FC Nürnberg,Hannover 96,1.0,1.0,1.0,2.0,1226377,79
+2024,2025-03-01,Eintracht Braunschweig,SSV Ulm 1846,0.0,1.0,1.0,1.0,1226380,79
+2024,2025-03-01,1. FC Kaiserslautern,SSV Jahn Regensburg,0.0,0.0,3.0,0.0,1226378,79
+2024,2025-03-01,Karlsruher SC,1.FC Köln,0.0,0.0,1.0,0.0,1226373,79
+2024,2025-03-02,1. FC Magdeburg,SV Darmstadt 98,0.0,1.0,4.0,1.0,1226379,79
+2024,2025-03-02,SC Paderborn 07,Hamburger SV,1.0,0.0,2.0,0.0,1226374,79
+2024,2025-03-02,SV Elversberg,Hertha BSC,4.0,0.0,4.0,0.0,1226376,79
+2024,2025-03-07,SV Darmstadt 98,Karlsruher SC,1.0,0.0,3.0,0.0,1226381,79
+2024,2025-03-07,1. FC Kaiserslautern,SV Elversberg,1.0,0.0,1.0,1.0,1226386,79
+2024,2025-03-08,Hertha BSC,FC Schalke 04,0.0,1.0,1.0,2.0,1226385,79
+2024,2025-03-08,SpVgg Greuther Fürth,1. FC Magdeburg,1.0,1.0,1.0,1.0,1226384,79
+2024,2025-03-08,SSV Ulm 1846,1.FC Köln,0.0,0.0,0.0,1.0,1226387,79
+2024,2025-03-08,Hamburger SV,Fortuna Düsseldorf,2.0,1.0,4.0,1.0,1226382,79
+2024,2025-03-09,Hannover 96,Eintracht Braunschweig,0.0,0.0,1.0,1.0,1226383,79
+2024,2025-03-09,SSV Jahn Regensburg,SC Paderborn 07,0.0,0.0,0.0,0.0,1226389,79
+2024,2025-03-09,Preußen Münster,1. FC Nürnberg,0.0,0.0,0.0,1.0,1226388,79
+2024,2025-03-14,FC Schalke 04,Hannover 96,1.0,0.0,1.0,2.0,1226394,79
+2024,2025-03-14,1. FC Magdeburg,Hamburger SV,0.0,2.0,0.0,3.0,1226397,79
+2024,2025-03-15,Fortuna Düsseldorf,SSV Jahn Regensburg,1.0,0.0,1.0,0.0,1226391,79
+2024,2025-03-15,SC Paderborn 07,1. FC Kaiserslautern,3.0,2.0,5.0,3.0,1226393,79
+2024,2025-03-15,SV Elversberg,Preußen Münster,0.0,0.0,0.0,1.0,1226395,79
+2024,2025-03-15,1.FC Köln,SV Darmstadt 98,1.0,1.0,2.0,1.0,1226390,79
+2024,2025-03-16,1. FC Nürnberg,SpVgg Greuther Fürth,3.0,0.0,3.0,0.0,1226396,79
+2024,2025-03-16,Eintracht Braunschweig,Hertha BSC,0.0,3.0,1.0,5.0,1226398,79
+2024,2025-03-16,Karlsruher SC,SSV Ulm 1846,0.0,0.0,0.0,0.0,1226392,79
+2024,2025-03-28,Hamburger SV,SV Elversberg,0.0,0.0,0.0,0.0,1226399,79
+2024,2025-03-28,SSV Ulm 1846,SV Darmstadt 98,0.0,0.0,2.0,1.0,1226405,79
+2024,2025-03-29,Hertha BSC,Karlsruher SC,1.0,0.0,3.0,1.0,1226403,79
+2024,2025-03-29,Hannover 96,1. FC Magdeburg,0.0,0.0,0.0,0.0,1226400,79
+2024,2025-03-29,SC Paderborn 07,1.FC Köln,1.0,1.0,1.0,2.0,1226401,79
+2024,2025-03-29,1. FC Kaiserslautern,Fortuna Düsseldorf,1.0,0.0,3.0,1.0,1226404,79
+2024,2025-03-30,SSV Jahn Regensburg,1. FC Nürnberg,0.0,1.0,2.0,1.0,1226407,79
+2024,2025-03-30,SpVgg Greuther Fürth,FC Schalke 04,2.0,1.0,3.0,3.0,1226402,79
+2024,2025-03-30,Preußen Münster,Eintracht Braunschweig,1.0,1.0,1.0,1.0,1226406,79
+2024,2025-04-04,Eintracht Braunschweig,SC Paderborn 07,1.0,1.0,3.0,2.0,1226416,79
+2024,2025-04-04,Karlsruher SC,Hannover 96,0.0,0.0,1.0,0.0,1226411,79
+2024,2025-04-05,Fortuna Düsseldorf,Preußen Münster,1.0,0.0,1.0,0.0,1226410,79
+2024,2025-04-05,1. FC Nürnberg,Hamburger SV,0.0,2.0,0.0,3.0,1226414,79
+2024,2025-04-05,SV Darmstadt 98,SpVgg Greuther Fürth,0.0,0.0,1.0,0.0,1226409,79
+2024,2025-04-05,1.FC Köln,Hertha BSC,0.0,0.0,0.0,1.0,1226408,79
+2024,2025-04-06,FC Schalke 04,SSV Ulm 1846,0.0,1.0,2.0,1.0,1226412,79
+2024,2025-04-06,1. FC Magdeburg,1. FC Kaiserslautern,2.0,0.0,2.0,0.0,1226415,79
+2024,2025-04-06,SV Elversberg,SSV Jahn Regensburg,3.0,0.0,6.0,0.0,1226413,79
+2024,2025-04-11,Hamburger SV,Eintracht Braunschweig,0.0,2.0,2.0,4.0,1226417,79
+2024,2025-04-11,SpVgg Greuther Fürth,1.FC Köln,1.0,1.0,1.0,1.0,1226420,79
+2024,2025-04-12,Hertha BSC,SV Darmstadt 98,0.0,0.0,1.0,1.0,1226421,79
+2024,2025-04-12,Hannover 96,SV Elversberg,1.0,0.0,1.0,3.0,1226418,79
+2024,2025-04-12,SSV Ulm 1846,1. FC Magdeburg,1.0,0.0,1.0,0.0,1226423,79
+2024,2025-04-12,1. FC Kaiserslautern,1. FC Nürnberg,0.0,1.0,1.0,2.0,1226422,79
+2024,2025-04-13,SSV Jahn Regensburg,FC Schalke 04,1.0,0.0,2.0,0.0,1226425,79
+2024,2025-04-13,SC Paderborn 07,Fortuna Düsseldorf,0.0,1.0,1.0,2.0,1226419,79
+2024,2025-04-13,Preußen Münster,Karlsruher SC,0.0,1.0,1.0,1.0,1226424,79
+2024,2025-04-19,1. FC Nürnberg,SC Paderborn 07,1.0,1.0,2.0,3.0,1226431,79
+2024,2025-04-19,Eintracht Braunschweig,1. FC Kaiserslautern,0.0,0.0,2.0,0.0,1226433,79
+2024,2025-04-19,SV Elversberg,Fortuna Düsseldorf,0.0,0.0,1.0,1.0,1226430,79
+2024,2025-04-19,FC Schalke 04,Hamburger SV,1.0,2.0,2.0,2.0,1226429,79
+2024,2025-04-20,1. FC Magdeburg,SSV Jahn Regensburg,1.0,0.0,3.0,0.0,1226432,79
+2024,2025-04-20,SV Darmstadt 98,Hannover 96,1.0,0.0,3.0,1.0,1226427,79
+2024,2025-04-20,1.FC Köln,Preußen Münster,2.0,1.0,3.0,1.0,1226426,79
+2024,2025-04-20,Karlsruher SC,SpVgg Greuther Fürth,0.0,0.0,1.0,0.0,1226428,79
+2024,2025-04-20,SSV Ulm 1846,Hertha BSC,1.0,0.0,2.0,3.0,1226434,79
+2024,2025-04-25,Hertha BSC,1. FC Magdeburg,1.0,1.0,1.0,1.0,1226440,79
+2024,2025-04-25,SpVgg Greuther Fürth,SSV Ulm 1846,0.0,0.0,0.0,1.0,1226439,79
+2024,2025-04-26,SSV Jahn Regensburg,Eintracht Braunschweig,1.0,1.0,1.0,1.0,1226443,79
+2024,2025-04-26,SC Paderborn 07,SV Elversberg,0.0,0.0,1.0,1.0,1226438,79
+2024,2025-04-26,Preußen Münster,SV Darmstadt 98,0.0,1.0,1.0,1.0,1226442,79
+2024,2025-04-26,Fortuna Düsseldorf,1. FC Nürnberg,0.0,2.0,3.0,3.0,1226435,79
+2024,2025-04-27,Hannover 96,1.FC Köln,0.0,0.0,1.0,0.0,1226437,79
+2024,2025-04-27,Hamburger SV,Karlsruher SC,1.0,2.0,1.0,2.0,1226436,79
+2024,2025-04-27,1. FC Kaiserslautern,FC Schalke 04,1.0,0.0,2.0,1.0,1226441,79
+2024,2025-05-02,FC Schalke 04,SC Paderborn 07,0.0,1.0,0.0,2.0,1226448,79
+2024,2025-05-02,1. FC Magdeburg,Preußen Münster,0.0,3.0,0.0,5.0,1226450,79
+2024,2025-05-03,SV Darmstadt 98,Hamburger SV,0.0,1.0,0.0,4.0,1226445,79
+2024,2025-05-03,Eintracht Braunschweig,Fortuna Düsseldorf,1.0,0.0,2.0,2.0,1226451,79
+2024,2025-05-03,SSV Ulm 1846,Hannover 96,0.0,1.0,1.0,2.0,1226452,79
+2024,2025-05-03,1.FC Köln,SSV Jahn Regensburg,0.0,0.0,1.0,1.0,1226444,79
+2024,2025-05-04,Hertha BSC,SpVgg Greuther Fürth,1.0,0.0,1.0,0.0,1226447,79
+2024,2025-05-04,1. FC Nürnberg,SV Elversberg,1.0,0.0,1.0,3.0,1226449,79
+2024,2025-05-04,Karlsruher SC,1. FC Kaiserslautern,1.0,1.0,2.0,2.0,1226446,79
+2024,2025-05-09,1. FC Nürnberg,1.FC Köln,0.0,0.0,1.0,2.0,1226458,79
+2024,2025-05-09,Preußen Münster,Hertha BSC,1.0,0.0,2.0,0.0,1226460,79
+2024,2025-05-10,Fortuna Düsseldorf,FC Schalke 04,0.0,0.0,2.0,0.0,1226453,79
+2024,2025-05-10,SC Paderborn 07,1. FC Magdeburg,1.0,1.0,2.0,1.0,1226456,79
+2024,2025-05-10,SV Elversberg,Eintracht Braunschweig,3.0,0.0,3.0,0.0,1226457,79
+2024,2025-05-10,Hamburger SV,SSV Ulm 1846,3.0,1.0,6.0,1.0,1226454,79
+2024,2025-05-11,Hannover 96,SpVgg Greuther Fürth,0.0,1.0,1.0,1.0,1226455,79
+2024,2025-05-11,SSV Jahn Regensburg,Karlsruher SC,1.0,2.0,2.0,2.0,1226461,79
+2024,2025-05-11,1. FC Kaiserslautern,SV Darmstadt 98,2.0,1.0,2.0,1.0,1226459,79
+2024,2025-05-18,Hertha BSC,Hannover 96,1.0,1.0,1.0,1.0,1226466,79
+2024,2025-05-18,FC Schalke 04,SV Elversberg,0.0,1.0,1.0,2.0,1226467,79
+2024,2025-05-18,SpVgg Greuther Fürth,Hamburger SV,1.0,0.0,3.0,2.0,1226465,79
+2024,2025-05-18,1. FC Magdeburg,Fortuna Düsseldorf,0.0,1.0,4.0,2.0,1226468,79
+2024,2025-05-18,SV Darmstadt 98,SSV Jahn Regensburg,0.0,1.0,3.0,1.0,1226463,79
+2024,2025-05-18,1.FC Köln,1. FC Kaiserslautern,2.0,0.0,4.0,0.0,1226462,79
+2024,2025-05-18,Eintracht Braunschweig,1. FC Nürnberg,0.0,4.0,1.0,4.0,1226469,79
+2024,2025-05-18,Karlsruher SC,SC Paderborn 07,0.0,0.0,3.0,0.0,1226464,79
+2024,2025-05-18,SSV Ulm 1846,Preußen Münster,1.0,0.0,2.0,2.0,1226470,79
+2024,2025-05-23,FC Saarbrücken,Eintracht Braunschweig,0.0,0.0,0.0,2.0,1375875,79
+2024,2025-05-27,Eintracht Braunschweig,FC Saarbrücken,0.0,0.0,0.0,2.0,1375876,79
+2025,2025-08-01,FC Schalke 04,Hertha BSC,2.0,0.0,2.0,1.0,1388614,79
+2025,2025-08-02,SV Darmstadt 98,VfL Bochum,2.0,1.0,4.0,1.0,1388617,79
+2025,2025-08-02,SC Paderborn 07,Holstein Kiel,1.0,0.0,2.0,1.0,1388615,79
+2025,2025-08-02,Karlsruher SC,Preußen Münster,2.0,1.0,3.0,2.0,1388621,79
+2025,2025-08-02,SV Elversberg,1. FC Nürnberg,0.0,0.0,1.0,0.0,1388618,79
+2025,2025-08-02,Arminia Bielefeld,Fortuna Düsseldorf,1.0,1.0,5.0,1.0,1388616,79
+2025,2025-08-03,Hannover 96,1. FC Kaiserslautern,0.0,0.0,1.0,0.0,1388620,79
+2025,2025-08-03,SpVgg Greuther Fürth,Dynamo Dresden,2.0,1.0,3.0,2.0,1388619,79
+2025,2025-08-03,1. FC Magdeburg,Eintracht Braunschweig,0.0,0.0,0.0,1.0,1388622,79
+2025,2025-08-08,1. FC Nürnberg,SV Darmstadt 98,0.0,0.0,0.0,1.0,1388628,79
+2025,2025-08-08,Preußen Münster,SC Paderborn 07,0.0,1.0,1.0,1.0,1388629,79
+2025,2025-08-09,Fortuna Düsseldorf,Hannover 96,0.0,0.0,0.0,2.0,1388625,79
+2025,2025-08-09,Dynamo Dresden,1. FC Magdeburg,1.0,2.0,1.0,2.0,1388630,79
+2025,2025-08-09,Eintracht Braunschweig,SpVgg Greuther Fürth,2.0,1.0,3.0,2.0,1388624,79
+2025,2025-08-09,1. FC Kaiserslautern,FC Schalke 04,0.0,0.0,1.0,0.0,1388627,79
+2025,2025-08-10,Hertha BSC,Karlsruher SC,0.0,0.0,0.0,0.0,1388626,79
+2025,2025-08-10,VfL Bochum,SV Elversberg,0.0,0.0,2.0,0.0,1388623,79
+2025,2025-08-10,Holstein Kiel,Arminia Bielefeld,0.0,2.0,0.0,2.0,1388631,79
+2025,2025-08-22,Preußen Münster,1. FC Nürnberg,,,,,1388638,79
+2025,2025-08-22,SV Elversberg,1. FC Kaiserslautern,,,,,1388634,79
+2025,2025-08-23,Hannover 96,1. FC Magdeburg,,,,,1388635,79
+2025,2025-08-23,SC Paderborn 07,Fortuna Düsseldorf,,,,,1388637,79
+2025,2025-08-23,Karlsruher SC,Eintracht Braunschweig,,,,,1388636,79
+2025,2025-08-23,FC Schalke 04,VfL Bochum,,,,,1388639,79
+2025,2025-08-24,SpVgg Greuther Fürth,Holstein Kiel,,,,,1388640,79
+2025,2025-08-24,SV Darmstadt 98,Hertha BSC,,,,,1388633,79
+2025,2025-08-24,Arminia Bielefeld,Dynamo Dresden,,,,,1388632,79
+2025,2025-08-29,Hertha BSC,SV Elversberg,,,,,1388644,79
+2025,2025-08-29,1. FC Nürnberg,SC Paderborn 07,,,,,1388647,79
+2025,2025-08-30,VfL Bochum,Preußen Münster,,,,,1388641,79
+2025,2025-08-30,Holstein Kiel,Hannover 96,,,,,1388649,79
+2025,2025-08-30,Eintracht Braunschweig,Arminia Bielefeld,,,,,1388642,79
+2025,2025-08-30,Fortuna Düsseldorf,Karlsruher SC,,,,,1388643,79
+2025,2025-08-31,1. FC Magdeburg,SpVgg Greuther Fürth,,,,,1388646,79
+2025,2025-08-31,Dynamo Dresden,FC Schalke 04,,,,,1388648,79
+2025,2025-08-31,1. FC Kaiserslautern,SV Darmstadt 98,,,,,1388645,79
+2025,2025-09-12,SC Paderborn 07,VfL Bochum,,,,,1388656,79
+2025,2025-09-12,Arminia Bielefeld,1. FC Magdeburg,,,,,1388650,79
+2025,2025-09-13,FC Schalke 04,Holstein Kiel,,,,,1388658,79
+2025,2025-09-13,SV Darmstadt 98,Eintracht Braunschweig,,,,,1388651,79
+2025,2025-09-13,Karlsruher SC,1. FC Nürnberg,,,,,1388655,79
+2025,2025-09-13,Hannover 96,Hertha BSC,,,,,1388654,79
+2025,2025-09-14,SpVgg Greuther Fürth,1. FC Kaiserslautern,,,,,1388653,79
+2025,2025-09-14,Preußen Münster,Fortuna Düsseldorf,,,,,1388657,79
+2025,2025-09-14,SV Elversberg,Dynamo Dresden,,,,,1388652,79
+2025,2025-09-19,Arminia Bielefeld,SpVgg Greuther Fürth,,,,,1388659,79
+2025,2025-09-19,1. FC Kaiserslautern,Preußen Münster,,,,,1388663,79
+2025,2025-09-20,Hertha BSC,SC Paderborn 07,,,,,1388662,79
+2025,2025-09-20,1. FC Magdeburg,FC Schalke 04,,,,,1388664,79
+2025,2025-09-20,Eintracht Braunschweig,SV Elversberg,,,,,1388660,79
+2025,2025-09-20,1. FC Nürnberg,VfL Bochum,,,,,1388665,79
+2025,2025-09-21,Fortuna Düsseldorf,SV Darmstadt 98,,,,,1388661,79
+2025,2025-09-21,Dynamo Dresden,Hannover 96,,,,,1388666,79
+2025,2025-09-21,Holstein Kiel,Karlsruher SC,,,,,1388667,79
+2025,2025-09-26,FC Schalke 04,SpVgg Greuther Fürth,,,,,1388676,79
+2025,2025-09-26,SV Darmstadt 98,Dynamo Dresden,,,,,1388669,79
+2025,2025-09-27,SC Paderborn 07,1. FC Kaiserslautern,,,,,1388674,79
+2025,2025-09-27,Karlsruher SC,1. FC Magdeburg,,,,,1388672,79
+2025,2025-09-27,SV Elversberg,Holstein Kiel,,,,,1388670,79
+2025,2025-09-27,VfL Bochum,Fortuna Düsseldorf,,,,,1388668,79
+2025,2025-09-28,Hannover 96,Arminia Bielefeld,,,,,1388671,79
+2025,2025-09-28,1. FC Nürnberg,Hertha BSC,,,,,1388673,79
+2025,2025-09-28,Preußen Münster,Eintracht Braunschweig,,,,,1388675,79
+2025,2025-10-04,Fortuna Düsseldorf,1. FC Nürnberg,,,,,1388679,79
+2025,2025-10-04,Hertha BSC,Preußen Münster,,,,,1388681,79
+2025,2025-10-04,SpVgg Greuther Fürth,Hannover 96,,,,,1388680,79
+2025,2025-10-04,1. FC Magdeburg,SV Elversberg,,,,,1388684,79
+2025,2025-10-04,Dynamo Dresden,Karlsruher SC,,,,,1388685,79
+2025,2025-10-04,Arminia Bielefeld,FC Schalke 04,,,,,1388677,79
+2025,2025-10-04,Holstein Kiel,SV Darmstadt 98,,,,,1388682,79
+2025,2025-10-04,Eintracht Braunschweig,SC Paderborn 07,,,,,1388678,79
+2025,2025-10-04,1. FC Kaiserslautern,VfL Bochum,,,,,1388683,79
+2025,2025-10-18,Fortuna Düsseldorf,Eintracht Braunschweig,,,,,1388688,79
+2025,2025-10-18,Hannover 96,FC Schalke 04,,,,,1388690,79
+2025,2025-10-18,1. FC Nürnberg,Holstein Kiel,,,,,1388692,79
+2025,2025-10-18,VfL Bochum,Hertha BSC,,,,,1388686,79
+2025,2025-10-18,SV Darmstadt 98,1. FC Magdeburg,,,,,1388687,79
+2025,2025-10-18,SC Paderborn 07,Arminia Bielefeld,,,,,1388693,79
+2025,2025-10-18,Karlsruher SC,1. FC Kaiserslautern,,,,,1388691,79
+2025,2025-10-18,Preußen Münster,Dynamo Dresden,,,,,1388694,79
+2025,2025-10-18,SV Elversberg,SpVgg Greuther Fürth,,,,,1388689,79
+2025,2025-10-25,Hertha BSC,Fortuna Düsseldorf,,,,,1388698,79
+2025,2025-10-25,FC Schalke 04,SV Darmstadt 98,,,,,1388702,79
+2025,2025-10-25,SpVgg Greuther Fürth,Karlsruher SC,,,,,1388697,79
+2025,2025-10-25,1. FC Magdeburg,Preußen Münster,,,,,1388701,79
+2025,2025-10-25,Dynamo Dresden,SC Paderborn 07,,,,,1388703,79
+2025,2025-10-25,Arminia Bielefeld,SV Elversberg,,,,,1388695,79
+2025,2025-10-25,Holstein Kiel,VfL Bochum,,,,,1388699,79
+2025,2025-10-25,Eintracht Braunschweig,Hannover 96,,,,,1388696,79
+2025,2025-10-25,1. FC Kaiserslautern,1. FC Nürnberg,,,,,1388700,79
+2025,2025-11-01,Fortuna Düsseldorf,1. FC Kaiserslautern,,,,,1388706,79
+2025,2025-11-01,Hertha BSC,Dynamo Dresden,,,,,1388708,79
+2025,2025-11-01,1. FC Nürnberg,Eintracht Braunschweig,,,,,1388710,79
+2025,2025-11-01,VfL Bochum,1. FC Magdeburg,,,,,1388704,79
+2025,2025-11-01,SV Darmstadt 98,Arminia Bielefeld,,,,,1388705,79
+2025,2025-11-01,SC Paderborn 07,SpVgg Greuther Fürth,,,,,1388711,79
+2025,2025-11-01,Karlsruher SC,FC Schalke 04,,,,,1388709,79
+2025,2025-11-01,Preußen Münster,Holstein Kiel,,,,,1388712,79
+2025,2025-11-01,SV Elversberg,Hannover 96,,,,,1388707,79
+2025,2025-11-08,Hannover 96,SV Darmstadt 98,,,,,1388716,79
+2025,2025-11-08,FC Schalke 04,SV Elversberg,,,,,1388720,79
+2025,2025-11-08,SpVgg Greuther Fürth,Preußen Münster,,,,,1388715,79
+2025,2025-11-08,1. FC Magdeburg,SC Paderborn 07,,,,,1388719,79
+2025,2025-11-08,Dynamo Dresden,1. FC Nürnberg,,,,,1388721,79
+2025,2025-11-08,Arminia Bielefeld,Karlsruher SC,,,,,1388713,79
+2025,2025-11-08,Holstein Kiel,Fortuna Düsseldorf,,,,,1388717,79
+2025,2025-11-08,Eintracht Braunschweig,VfL Bochum,,,,,1388714,79
+2025,2025-11-08,1. FC Kaiserslautern,Hertha BSC,,,,,1388718,79
+2025,2025-11-22,Fortuna Düsseldorf,1. FC Magdeburg,,,,,1388724,79
+2025,2025-11-22,Hertha BSC,Eintracht Braunschweig,,,,,1388725,79
+2025,2025-11-22,1. FC Nürnberg,Arminia Bielefeld,,,,,1388728,79
+2025,2025-11-22,VfL Bochum,Dynamo Dresden,,,,,1388722,79
+2025,2025-11-22,SV Darmstadt 98,SpVgg Greuther Fürth,,,,,1388723,79
+2025,2025-11-22,SC Paderborn 07,Hannover 96,,,,,1388729,79
+2025,2025-11-22,1. FC Kaiserslautern,Holstein Kiel,,,,,1388726,79
+2025,2025-11-22,Karlsruher SC,SV Elversberg,,,,,1388727,79
+2025,2025-11-22,Preußen Münster,FC Schalke 04,,,,,1388730,79
+2025,2025-11-29,Hannover 96,Karlsruher SC,,,,,1388735,79
+2025,2025-11-29,FC Schalke 04,SC Paderborn 07,,,,,1388738,79
+2025,2025-11-29,SpVgg Greuther Fürth,VfL Bochum,,,,,1388734,79
+2025,2025-11-29,1. FC Magdeburg,1. FC Nürnberg,,,,,1388737,79
+2025,2025-11-29,Dynamo Dresden,Fortuna Düsseldorf,,,,,1388739,79
+2025,2025-11-29,Arminia Bielefeld,Preußen Münster,,,,,1388731,79
+2025,2025-11-29,Holstein Kiel,Hertha BSC,,,,,1388736,79
+2025,2025-11-29,Eintracht Braunschweig,1. FC Kaiserslautern,,,,,1388732,79
+2025,2025-11-29,SV Elversberg,SV Darmstadt 98,,,,,1388733,79
+2025,2025-12-06,Fortuna Düsseldorf,FC Schalke 04,,,,,1388743,79
+2025,2025-12-06,Hertha BSC,1. FC Magdeburg,,,,,1388744,79
+2025,2025-12-06,1. FC Nürnberg,SpVgg Greuther Fürth,,,,,1388746,79
+2025,2025-12-06,VfL Bochum,Arminia Bielefeld,,,,,1388740,79
+2025,2025-12-06,SV Darmstadt 98,Karlsruher SC,,,,,1388742,79
+2025,2025-12-06,SC Paderborn 07,SV Elversberg,,,,,1388747,79
+2025,2025-12-06,Eintracht Braunschweig,Holstein Kiel,,,,,1388741,79
+2025,2025-12-06,1. FC Kaiserslautern,Dynamo Dresden,,,,,1388745,79
+2025,2025-12-06,Preußen Münster,Hannover 96,,,,,1388748,79
+2025,2025-12-13,Hannover 96,VfL Bochum,,,,,1388753,79
+2025,2025-12-13,FC Schalke 04,1. FC Nürnberg,,,,,1388756,79
+2025,2025-12-13,SpVgg Greuther Fürth,Hertha BSC,,,,,1388752,79
+2025,2025-12-13,1. FC Magdeburg,Holstein Kiel,,,,,1388755,79
+2025,2025-12-13,SV Darmstadt 98,Preußen Münster,,,,,1388750,79
+2025,2025-12-13,Dynamo Dresden,Eintracht Braunschweig,,,,,1388757,79
+2025,2025-12-13,Arminia Bielefeld,1. FC Kaiserslautern,,,,,1388749,79
+2025,2025-12-13,Karlsruher SC,SC Paderborn 07,,,,,1388754,79
+2025,2025-12-13,SV Elversberg,Fortuna Düsseldorf,,,,,1388751,79
+2025,2025-12-20,Fortuna Düsseldorf,SpVgg Greuther Fürth,,,,,1388760,79
+2025,2025-12-20,Hertha BSC,Arminia Bielefeld,,,,,1388761,79
+2025,2025-12-20,1. FC Nürnberg,Hannover 96,,,,,1388764,79
+2025,2025-12-20,VfL Bochum,Karlsruher SC,,,,,1388758,79
+2025,2025-12-20,SC Paderborn 07,SV Darmstadt 98,,,,,1388765,79
+2025,2025-12-20,Holstein Kiel,Dynamo Dresden,,,,,1388762,79
+2025,2025-12-20,Eintracht Braunschweig,FC Schalke 04,,,,,1388759,79
+2025,2025-12-20,1. FC Kaiserslautern,1. FC Magdeburg,,,,,1388763,79
+2025,2025-12-20,Preußen Münster,SV Elversberg,,,,,1388766,79
+2025,2026-01-17,Fortuna Düsseldorf,Arminia Bielefeld,,,,,1388769,79
+2025,2026-01-17,Hertha BSC,FC Schalke 04,,,,,1388770,79
+2025,2026-01-17,1. FC Nürnberg,SV Elversberg,,,,,1388773,79
+2025,2026-01-17,VfL Bochum,SV Darmstadt 98,,,,,1388767,79
+2025,2026-01-17,Dynamo Dresden,SpVgg Greuther Fürth,,,,,1388775,79
+2025,2026-01-17,Holstein Kiel,SC Paderborn 07,,,,,1388771,79
+2025,2026-01-17,Eintracht Braunschweig,1. FC Magdeburg,,,,,1388768,79
+2025,2026-01-17,1. FC Kaiserslautern,Hannover 96,,,,,1388772,79
+2025,2026-01-17,Preußen Münster,Karlsruher SC,,,,,1388774,79
+2025,2026-01-24,Hannover 96,Fortuna Düsseldorf,,,,,1388780,79
+2025,2026-01-24,FC Schalke 04,1. FC Kaiserslautern,,,,,1388784,79
+2025,2026-01-24,SpVgg Greuther Fürth,Eintracht Braunschweig,,,,,1388779,79
+2025,2026-01-24,1. FC Magdeburg,Dynamo Dresden,,,,,1388782,79
+2025,2026-01-24,SV Darmstadt 98,1. FC Nürnberg,,,,,1388777,79
+2025,2026-01-24,SC Paderborn 07,Preußen Münster,,,,,1388783,79
+2025,2026-01-24,Arminia Bielefeld,Holstein Kiel,,,,,1388776,79
+2025,2026-01-24,Karlsruher SC,Hertha BSC,,,,,1388781,79
+2025,2026-01-24,SV Elversberg,VfL Bochum,,,,,1388778,79
+2025,2026-01-31,Fortuna Düsseldorf,SC Paderborn 07,,,,,1388787,79
+2025,2026-01-31,Hertha BSC,SV Darmstadt 98,,,,,1388788,79
+2025,2026-01-31,1. FC Nürnberg,Preußen Münster,,,,,1388792,79
+2025,2026-01-31,VfL Bochum,FC Schalke 04,,,,,1388785,79
+2025,2026-01-31,1. FC Magdeburg,Hannover 96,,,,,1388791,79
+2025,2026-01-31,Dynamo Dresden,Arminia Bielefeld,,,,,1388793,79
+2025,2026-01-31,Holstein Kiel,SpVgg Greuther Fürth,,,,,1388789,79
+2025,2026-01-31,Eintracht Braunschweig,Karlsruher SC,,,,,1388786,79
+2025,2026-01-31,1. FC Kaiserslautern,SV Elversberg,,,,,1388790,79
+2025,2026-02-07,Hannover 96,Holstein Kiel,,,,,1388798,79
+2025,2026-02-07,FC Schalke 04,Dynamo Dresden,,,,,1388802,79
+2025,2026-02-07,SpVgg Greuther Fürth,1. FC Magdeburg,,,,,1388797,79
+2025,2026-02-07,SV Darmstadt 98,1. FC Kaiserslautern,,,,,1388795,79
+2025,2026-02-07,SC Paderborn 07,1. FC Nürnberg,,,,,1388800,79
+2025,2026-02-07,Arminia Bielefeld,Eintracht Braunschweig,,,,,1388794,79
+2025,2026-02-07,Karlsruher SC,Fortuna Düsseldorf,,,,,1388799,79
+2025,2026-02-07,Preußen Münster,VfL Bochum,,,,,1388801,79
+2025,2026-02-07,SV Elversberg,Hertha BSC,,,,,1388796,79
+2025,2026-02-14,Fortuna Düsseldorf,Preußen Münster,,,,,1388805,79
+2025,2026-02-14,Hertha BSC,Hannover 96,,,,,1388806,79
+2025,2026-02-14,1. FC Nürnberg,Karlsruher SC,,,,,1388810,79
+2025,2026-02-14,VfL Bochum,SC Paderborn 07,,,,,1388803,79
+2025,2026-02-14,1. FC Magdeburg,Arminia Bielefeld,,,,,1388809,79
+2025,2026-02-14,Dynamo Dresden,SV Elversberg,,,,,1388811,79
+2025,2026-02-14,Holstein Kiel,FC Schalke 04,,,,,1388807,79
+2025,2026-02-14,Eintracht Braunschweig,SV Darmstadt 98,,,,,1388804,79
+2025,2026-02-14,1. FC Kaiserslautern,SpVgg Greuther Fürth,,,,,1388808,79
+2025,2026-02-21,Hannover 96,Dynamo Dresden,,,,,1388816,79
+2025,2026-02-21,FC Schalke 04,1. FC Magdeburg,,,,,1388820,79
+2025,2026-02-21,VfL Bochum,1. FC Nürnberg,,,,,1388812,79
+2025,2026-02-21,SpVgg Greuther Fürth,Arminia Bielefeld,,,,,1388815,79
+2025,2026-02-21,SV Darmstadt 98,Fortuna Düsseldorf,,,,,1388813,79
+2025,2026-02-21,SC Paderborn 07,Hertha BSC,,,,,1388818,79
+2025,2026-02-21,Karlsruher SC,Holstein Kiel,,,,,1388817,79
+2025,2026-02-21,Preußen Münster,1. FC Kaiserslautern,,,,,1388819,79
+2025,2026-02-21,SV Elversberg,Eintracht Braunschweig,,,,,1388814,79
+2025,2026-02-28,Fortuna Düsseldorf,VfL Bochum,,,,,1388823,79
+2025,2026-02-28,Hertha BSC,1. FC Nürnberg,,,,,1388825,79
+2025,2026-02-28,SpVgg Greuther Fürth,FC Schalke 04,,,,,1388824,79
+2025,2026-02-28,1. FC Magdeburg,Karlsruher SC,,,,,1388828,79
+2025,2026-02-28,Dynamo Dresden,SV Darmstadt 98,,,,,1388829,79
+2025,2026-02-28,Arminia Bielefeld,Hannover 96,,,,,1388821,79
+2025,2026-02-28,Holstein Kiel,SV Elversberg,,,,,1388826,79
+2025,2026-02-28,Eintracht Braunschweig,Preußen Münster,,,,,1388822,79
+2025,2026-02-28,1. FC Kaiserslautern,SC Paderborn 07,,,,,1388827,79
+2025,2026-03-07,Hannover 96,SpVgg Greuther Fürth,,,,,1388833,79
+2025,2026-03-07,1. FC Nürnberg,Fortuna Düsseldorf,,,,,1388835,79
+2025,2026-03-07,FC Schalke 04,Arminia Bielefeld,,,,,1388838,79
+2025,2026-03-07,VfL Bochum,1. FC Kaiserslautern,,,,,1388830,79
+2025,2026-03-07,SV Darmstadt 98,Holstein Kiel,,,,,1388831,79
+2025,2026-03-07,SC Paderborn 07,Eintracht Braunschweig,,,,,1388836,79
+2025,2026-03-07,Karlsruher SC,Dynamo Dresden,,,,,1388834,79
+2025,2026-03-07,Preußen Münster,Hertha BSC,,,,,1388837,79
+2025,2026-03-07,SV Elversberg,1. FC Magdeburg,,,,,1388832,79
+2025,2026-03-14,Hertha BSC,VfL Bochum,,,,,1388842,79
+2025,2026-03-14,FC Schalke 04,Hannover 96,,,,,1388846,79
+2025,2026-03-14,SpVgg Greuther Fürth,SV Elversberg,,,,,1388841,79
+2025,2026-03-14,1. FC Magdeburg,SV Darmstadt 98,,,,,1388845,79
+2025,2026-03-14,Dynamo Dresden,Preußen Münster,,,,,1388847,79
+2025,2026-03-14,Arminia Bielefeld,SC Paderborn 07,,,,,1388839,79
+2025,2026-03-14,Holstein Kiel,1. FC Nürnberg,,,,,1388843,79
+2025,2026-03-14,Eintracht Braunschweig,Fortuna Düsseldorf,,,,,1388840,79
+2025,2026-03-14,1. FC Kaiserslautern,Karlsruher SC,,,,,1388844,79
+2025,2026-03-21,Fortuna Düsseldorf,Hertha BSC,,,,,1388850,79
+2025,2026-03-21,Hannover 96,Eintracht Braunschweig,,,,,1388852,79
+2025,2026-03-21,1. FC Nürnberg,1. FC Kaiserslautern,,,,,1388854,79
+2025,2026-03-21,VfL Bochum,Holstein Kiel,,,,,1388848,79
+2025,2026-03-21,SV Darmstadt 98,FC Schalke 04,,,,,1388849,79
+2025,2026-03-21,SC Paderborn 07,Dynamo Dresden,,,,,1388855,79
+2025,2026-03-21,Karlsruher SC,SpVgg Greuther Fürth,,,,,1388853,79
+2025,2026-03-21,Preußen Münster,1. FC Magdeburg,,,,,1388856,79
+2025,2026-03-21,SV Elversberg,Arminia Bielefeld,,,,,1388851,79
+2025,2026-04-04,Hannover 96,SV Elversberg,,,,,1388860,79
+2025,2026-04-04,FC Schalke 04,Karlsruher SC,,,,,1388864,79
+2025,2026-04-04,SpVgg Greuther Fürth,SC Paderborn 07,,,,,1388859,79
+2025,2026-04-04,1. FC Magdeburg,VfL Bochum,,,,,1388863,79
+2025,2026-04-04,Dynamo Dresden,Hertha BSC,,,,,1388865,79
+2025,2026-04-04,Arminia Bielefeld,SV Darmstadt 98,,,,,1388857,79
+2025,2026-04-04,Holstein Kiel,Preußen Münster,,,,,1388861,79
+2025,2026-04-04,Eintracht Braunschweig,1. FC Nürnberg,,,,,1388858,79
+2025,2026-04-04,1. FC Kaiserslautern,Fortuna Düsseldorf,,,,,1388862,79
+2025,2026-04-11,Fortuna Düsseldorf,Holstein Kiel,,,,,1388868,79
+2025,2026-04-11,Hertha BSC,1. FC Kaiserslautern,,,,,1388870,79
+2025,2026-04-11,1. FC Nürnberg,Dynamo Dresden,,,,,1388872,79
+2025,2026-04-11,VfL Bochum,Eintracht Braunschweig,,,,,1388866,79
+2025,2026-04-11,SV Darmstadt 98,Hannover 96,,,,,1388867,79
+2025,2026-04-11,SC Paderborn 07,1. FC Magdeburg,,,,,1388873,79
+2025,2026-04-11,Karlsruher SC,Arminia Bielefeld,,,,,1388871,79
+2025,2026-04-11,Preußen Münster,SpVgg Greuther Fürth,,,,,1388874,79
+2025,2026-04-11,SV Elversberg,FC Schalke 04,,,,,1388869,79
+2025,2026-04-18,Hannover 96,SC Paderborn 07,,,,,1388879,79
+2025,2026-04-18,FC Schalke 04,Preußen Münster,,,,,1388882,79
+2025,2026-04-18,SpVgg Greuther Fürth,SV Darmstadt 98,,,,,1388878,79
+2025,2026-04-18,1. FC Magdeburg,Fortuna Düsseldorf,,,,,1388881,79
+2025,2026-04-18,Dynamo Dresden,VfL Bochum,,,,,1388883,79
+2025,2026-04-18,Arminia Bielefeld,1. FC Nürnberg,,,,,1388875,79
+2025,2026-04-18,Holstein Kiel,1. FC Kaiserslautern,,,,,1388880,79
+2025,2026-04-18,Eintracht Braunschweig,Hertha BSC,,,,,1388876,79
+2025,2026-04-18,SV Elversberg,Karlsruher SC,,,,,1388877,79
+2025,2026-04-25,Fortuna Düsseldorf,Dynamo Dresden,,,,,1388886,79
+2025,2026-04-25,Hertha BSC,Holstein Kiel,,,,,1388887,79
+2025,2026-04-25,1. FC Nürnberg,1. FC Magdeburg,,,,,1388890,79
+2025,2026-04-25,VfL Bochum,SpVgg Greuther Fürth,,,,,1388884,79
+2025,2026-04-25,SV Darmstadt 98,SV Elversberg,,,,,1388885,79
+2025,2026-04-25,SC Paderborn 07,FC Schalke 04,,,,,1388891,79
+2025,2026-04-25,1. FC Kaiserslautern,Eintracht Braunschweig,,,,,1388888,79
+2025,2026-04-25,Karlsruher SC,Hannover 96,,,,,1388889,79
+2025,2026-04-25,Preußen Münster,Arminia Bielefeld,,,,,1388892,79
+2025,2026-05-02,Hannover 96,Preußen Münster,,,,,1388896,79
+2025,2026-05-02,FC Schalke 04,Fortuna Düsseldorf,,,,,1388900,79
+2025,2026-05-02,SpVgg Greuther Fürth,1. FC Nürnberg,,,,,1388895,79
+2025,2026-05-02,1. FC Magdeburg,Hertha BSC,,,,,1388899,79
+2025,2026-05-02,Dynamo Dresden,1. FC Kaiserslautern,,,,,1388901,79
+2025,2026-05-02,Arminia Bielefeld,VfL Bochum,,,,,1388893,79
+2025,2026-05-02,Holstein Kiel,Eintracht Braunschweig,,,,,1388897,79
+2025,2026-05-02,Karlsruher SC,SV Darmstadt 98,,,,,1388898,79
+2025,2026-05-02,SV Elversberg,SC Paderborn 07,,,,,1388894,79
+2025,2026-05-09,Fortuna Düsseldorf,SV Elversberg,,,,,1388904,79
+2025,2026-05-09,Hertha BSC,SpVgg Greuther Fürth,,,,,1388905,79
+2025,2026-05-09,1. FC Nürnberg,FC Schalke 04,,,,,1388908,79
+2025,2026-05-09,VfL Bochum,Hannover 96,,,,,1388902,79
+2025,2026-05-09,SC Paderborn 07,Karlsruher SC,,,,,1388909,79
+2025,2026-05-09,Holstein Kiel,1. FC Magdeburg,,,,,1388906,79
+2025,2026-05-09,Eintracht Braunschweig,Dynamo Dresden,,,,,1388903,79
+2025,2026-05-09,1. FC Kaiserslautern,Arminia Bielefeld,,,,,1388907,79
+2025,2026-05-09,Preußen Münster,SV Darmstadt 98,,,,,1388910,79
+2025,2026-05-17,Hannover 96,1. FC Nürnberg,,,,,1388915,79
+2025,2026-05-17,FC Schalke 04,Eintracht Braunschweig,,,,,1388918,79
+2025,2026-05-17,SpVgg Greuther Fürth,Fortuna Düsseldorf,,,,,1388914,79
+2025,2026-05-17,1. FC Magdeburg,1. FC Kaiserslautern,,,,,1388917,79
+2025,2026-05-17,SV Darmstadt 98,SC Paderborn 07,,,,,1388912,79
+2025,2026-05-17,Dynamo Dresden,Holstein Kiel,,,,,1388919,79
+2025,2026-05-17,Arminia Bielefeld,Hertha BSC,,,,,1388911,79
+2025,2026-05-17,Karlsruher SC,VfL Bochum,,,,,1388916,79
+2025,2026-05-17,SV Elversberg,Preußen Münster,,,,,1388913,79

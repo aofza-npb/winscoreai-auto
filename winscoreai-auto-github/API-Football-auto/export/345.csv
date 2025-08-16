@@ -1,0 +1,521 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-07-19,Sparta Praha,Pardubice,1,1,2,1
+2024,2024-07-20,FK Jablonec,Mlada Boleslav,1,0,2,0
+2024,2024-07-20,Bohemians 1905,Baník Ostrava,0,0,2,1
+2024,2024-07-20,České Budějovice,Sigma Olomouc,0,0,0,2
+2024,2024-07-20,Dukla Praha,Plzen,0,2,1,3
+2024,2024-07-21,Karviná,Slovan Liberec,1,2,1,3
+2024,2024-07-21,Slovácko,Slavia Praha,0,0,0,0
+2024,2024-07-21,Hradec Králové,Teplice,0,0,1,0
+2024,2024-07-27,Dukla Praha,Bohemians 1905,0,0,1,0
+2024,2024-07-27,Teplice,Sparta Praha,0,0,1,4
+2024,2024-07-27,Pardubice,Karviná,0,1,0,1
+2024,2024-07-27,Slavia Praha,České Budějovice,2,0,4,0
+2024,2024-07-28,Slovan Liberec,Sigma Olomouc,1,0,1,1
+2024,2024-07-28,Mlada Boleslav,Slovácko,2,0,3,0
+2024,2024-07-28,Baník Ostrava,FK Jablonec,0,0,1,0
+2024,2024-07-28,Plzen,Hradec Králové,0,0,1,0
+2024,2024-08-02,Slovan Liberec,Slavia Praha,0,1,0,1
+2024,2024-08-02,Sparta Praha,Dukla Praha,1,0,2,0
+2024,2024-08-03,Slovácko,Bohemians 1905,0,0,0,0
+2024,2024-08-03,FK Jablonec,Plzen,0,0,0,0
+2024,2024-08-03,Sigma Olomouc,Teplice,1,1,2,1
+2024,2024-08-04,České Budějovice,Pardubice,0,3,1,3
+2024,2024-08-04,Hradec Králové,Mlada Boleslav,1,1,2,1
+2024,2024-08-10,Dukla Praha,FK Jablonec,0,1,0,2
+2024,2024-08-10,Bohemians 1905,Sparta Praha,1,1,1,2
+2024,2024-08-10,Teplice,Slovan Liberec,1,0,2,1
+2024,2024-08-10,Slavia Praha,Sigma Olomouc,1,0,2,0
+2024,2024-08-11,Pardubice,Slovácko,0,0,0,1
+2024,2024-08-11,Mlada Boleslav,České Budějovice,1,0,4,0
+2024,2024-08-11,Baník Ostrava,Hradec Králové,0,0,1,0
+2024,2024-08-11,Plzen,Karviná,2,0,5,0
+2024,2024-08-17,Hradec Králové,Dukla Praha,1,0,1,0
+2024,2024-08-17,Slavia Praha,Teplice,0,0,2,1
+2024,2024-08-17,Karviná,Bohemians 1905,1,2,1,2
+2024,2024-08-17,FK Jablonec,Sparta Praha,0,1,1,2
+2024,2024-08-18,Sigma Olomouc,Mlada Boleslav,2,1,3,2
+2024,2024-08-18,Slovan Liberec,Pardubice,2,0,3,0
+2024,2024-08-18,České Budějovice,Plzen,0,1,0,3
+2024,2024-08-18,Slovácko,Baník Ostrava,1,0,1,0
+2024,2024-08-24,Bohemians 1905,FK Jablonec,1,1,1,2
+2024,2024-08-24,Sparta Praha,Slovácko,1,2,2,2
+2024,2024-08-24,Teplice,Karviná,0,1,1,3
+2024,2024-08-24,Pardubice,Hradec Králové,0,0,2,1
+2024,2024-08-25,Baník Ostrava,Slovan Liberec,0,0,2,0
+2024,2024-08-25,Dukla Praha,České Budějovice,0,0,3,0
+2024,2024-08-28,Karviná,Baník Ostrava,0,0,0,0
+2024,2024-08-31,České Budějovice,Bohemians 1905,0,0,0,0
+2024,2024-08-31,Slovácko,FK Jablonec,0,0,0,0
+2024,2024-08-31,Hradec Králové,Sparta Praha,0,2,0,2
+2024,2024-09-01,Sigma Olomouc,Baník Ostrava,1,1,2,2
+2024,2024-09-01,Karviná,Dukla Praha,0,0,0,0
+2024,2024-09-01,Slavia Praha,Pardubice,1,0,2,0
+2024,2024-09-01,Teplice,Mlada Boleslav,1,1,1,2
+2024,2024-09-01,Slovan Liberec,Plzen,0,0,1,1
+2024,2024-09-17,Plzen,Sigma Olomouc,1,0,2,1
+2024,2024-09-17,Mlada Boleslav,Slavia Praha,0,2,0,2
+2024,2024-09-21,Hradec Králové,Slovácko,1,0,3,0
+2024,2024-09-21,Karviná,FK Jablonec,1,0,1,0
+2024,2024-09-21,Teplice,Baník Ostrava,1,1,2,3
+2024,2024-09-21,Slavia Praha,Plzen,3,0,3,0
+2024,2024-09-22,Mlada Boleslav,Pardubice,1,1,2,2
+2024,2024-09-22,Sigma Olomouc,Dukla Praha,1,0,2,1
+2024,2024-09-22,České Budějovice,Sparta Praha,0,1,0,2
+2024,2024-09-22,Slovan Liberec,Bohemians 1905,2,1,2,2
+2024,2024-09-27,Sparta Praha,Sigma Olomouc,1,0,2,3
+2024,2024-09-28,Dukla Praha,Slovan Liberec,1,0,1,4
+2024,2024-09-28,Slovácko,Karviná,1,0,2,1
+2024,2024-09-28,Pardubice,Teplice,0,0,0,1
+2024,2024-09-28,FK Jablonec,Hradec Králové,0,0,2,0
+2024,2024-09-29,Baník Ostrava,České Budějovice,1,0,2,1
+2024,2024-09-29,Plzen,Mlada Boleslav,1,1,1,1
+2024,2024-09-29,Bohemians 1905,Slavia Praha,0,3,0,4
+2024,2024-10-05,Karviná,Hradec Králové,0,0,0,0
+2024,2024-10-05,Teplice,Dukla Praha,1,0,1,1
+2024,2024-10-05,České Budějovice,Slovácko,0,1,0,2
+2024,2024-10-05,Slovan Liberec,FK Jablonec,0,1,0,5
+2024,2024-10-06,Plzen,Pardubice,0,0,2,0
+2024,2024-10-06,Mlada Boleslav,Baník Ostrava,0,0,0,0
+2024,2024-10-06,Sigma Olomouc,Bohemians 1905,0,2,1,3
+2024,2024-10-06,Slavia Praha,Sparta Praha,2,0,2,1
+2024,2024-10-19,Hradec Králové,Sigma Olomouc,0,1,1,1
+2024,2024-10-19,Baník Ostrava,Plzen,0,2,1,3
+2024,2024-10-19,Dukla Praha,Pardubice,0,1,2,1
+2024,2024-10-19,Sparta Praha,Slovan Liberec,1,0,2,1
+2024,2024-10-20,Bohemians 1905,Mlada Boleslav,0,1,2,2
+2024,2024-10-20,Karviná,České Budějovice,2,0,4,1
+2024,2024-10-20,Slovácko,Teplice,0,1,0,2
+2024,2024-10-20,FK Jablonec,Slavia Praha,0,1,1,2
+2024,2024-10-26,Slovan Liberec,Slovácko,3,0,4,0
+2024,2024-10-26,Pardubice,Baník Ostrava,1,0,2,3
+2024,2024-10-26,České Budějovice,Hradec Králové,0,1,0,2
+2024,2024-10-26,Sigma Olomouc,FK Jablonec,0,0,0,0
+2024,2024-10-27,Teplice,Bohemians 1905,0,2,1,2
+2024,2024-10-27,Slavia Praha,Dukla Praha,1,0,3,0
+2024,2024-10-27,Mlada Boleslav,Karviná,1,0,1,1
+2024,2024-10-27,Plzen,Sparta Praha,1,0,1,0
+2024,2024-11-02,Dukla Praha,Mlada Boleslav,0,0,0,1
+2024,2024-11-02,FK Jablonec,Teplice,2,0,3,0
+2024,2024-11-02,Karviná,Sigma Olomouc,0,1,2,1
+2024,2024-11-02,Sparta Praha,Baník Ostrava,1,2,1,3
+2024,2024-11-03,České Budějovice,Slovan Liberec,0,0,0,0
+2024,2024-11-03,Bohemians 1905,Pardubice,0,0,0,0
+2024,2024-11-03,Slovácko,Plzen,0,0,1,0
+2024,2024-11-03,Hradec Králové,Slavia Praha,0,0,1,1
+2024,2024-11-09,Baník Ostrava,Dukla Praha,3,0,6,0
+2024,2024-11-09,Slovan Liberec,Hradec Králové,0,0,0,0
+2024,2024-11-09,Pardubice,FK Jablonec,0,0,2,0
+2024,2024-11-10,Teplice,České Budějovice,2,1,5,2
+2024,2024-11-10,Plzen,Bohemians 1905,2,0,2,0
+2024,2024-11-10,Mlada Boleslav,Sparta Praha,1,1,2,2
+2024,2024-11-10,Slavia Praha,Karviná,1,0,5,1
+2024,2024-11-23,FK Jablonec,Baník Ostrava,1,1,3,1
+2024,2024-11-23,Sparta Praha,Teplice,0,0,1,1
+2024,2024-11-23,Slovácko,Mlada Boleslav,1,1,1,1
+2024,2024-11-23,Hradec Králové,Plzen,0,0,0,1
+2024,2024-11-24,Bohemians 1905,Dukla Praha,0,0,3,1
+2024,2024-11-24,Karviná,Pardubice,1,0,1,0
+2024,2024-11-24,České Budějovice,Slavia Praha,0,2,0,4
+2024,2024-11-24,Sigma Olomouc,Slovan Liberec,0,2,1,4
+2024,2024-11-27,Sigma Olomouc,Slovácko,0,1,2,1
+2024,2024-11-30,Bohemians 1905,Slovácko,2,1,3,3
+2024,2024-11-30,Baník Ostrava,Karviná,0,1,2,1
+2024,2024-11-30,Teplice,Sigma Olomouc,0,0,1,0
+2024,2024-11-30,Dukla Praha,Sparta Praha,0,1,1,1
+2024,2024-12-01,Slavia Praha,Slovan Liberec,1,0,1,0
+2024,2024-12-01,Mlada Boleslav,Hradec Králové,1,0,3,0
+2024,2024-12-01,Pardubice,České Budějovice,0,0,0,0
+2024,2024-12-01,Plzen,FK Jablonec,0,2,3,2
+2024,2024-12-03,Sparta Praha,Karviná,3,1,4,1
+2024,2024-12-04,FK Jablonec,České Budějovice,4,0,5,0
+2024,2024-12-04,Dukla Praha,Slovácko,1,0,1,2
+2024,2024-12-04,Pardubice,Sigma Olomouc,0,1,2,2
+2024,2024-12-04,Bohemians 1905,Hradec Králové,0,2,0,3
+2024,2024-12-05,Mlada Boleslav,Slovan Liberec,0,0,1,0
+2024,2024-12-05,Baník Ostrava,Slavia Praha,0,1,0,1
+2024,2024-12-05,Plzen,Teplice,0,0,1,1
+2024,2024-12-07,Slovácko,Pardubice,1,1,1,1
+2024,2024-12-07,FK Jablonec,Dukla Praha,2,1,2,1
+2024,2024-12-07,Sparta Praha,Bohemians 1905,0,0,1,0
+2024,2024-12-08,Karviná,Plzen,1,0,1,2
+2024,2024-12-08,České Budějovice,Mlada Boleslav,0,0,0,4
+2024,2024-12-08,Slovan Liberec,Teplice,1,0,3,0
+2024,2024-12-08,Sigma Olomouc,Slavia Praha,1,0,1,2
+2024,2024-12-08,Hradec Králové,Baník Ostrava,0,0,0,1
+2024,2024-12-14,Dukla Praha,Hradec Králové,0,2,1,2
+2024,2024-12-14,Bohemians 1905,Karviná,1,3,3,3
+2024,2024-12-14,Pardubice,Slovan Liberec,0,0,1,1
+2024,2024-12-14,Baník Ostrava,Slovácko,2,0,3,1
+2024,2024-12-15,Sparta Praha,FK Jablonec,0,1,2,1
+2024,2024-12-15,Mlada Boleslav,Sigma Olomouc,0,2,1,3
+2024,2024-12-15,Teplice,Slavia Praha,0,0,1,0
+2024,2024-12-15,Plzen,České Budějovice,4,1,7,2
+2024,2025-02-01,Karviná,Teplice,1,1,1,1
+2024,2025-02-01,Slovan Liberec,Baník Ostrava,0,1,0,1
+2024,2025-02-01,České Budějovice,Dukla Praha,0,0,0,0
+2024,2025-02-01,Hradec Králové,Pardubice,2,0,3,0
+2024,2025-02-02,Slovácko,Sparta Praha,0,2,0,2
+2024,2025-02-02,FK Jablonec,Bohemians 1905,0,0,0,1
+2024,2025-02-02,Slavia Praha,Mlada Boleslav,0,0,1,0
+2024,2025-02-03,Sigma Olomouc,Plzen,2,1,2,1
+2024,2025-02-08,Mlada Boleslav,Teplice,1,0,2,1
+2024,2025-02-08,Pardubice,Slavia Praha,0,0,0,2
+2024,2025-02-08,Plzen,Slovan Liberec,2,1,3,2
+2024,2025-02-09,FK Jablonec,Slovácko,1,0,4,2
+2024,2025-02-09,Baník Ostrava,Sigma Olomouc,1,0,1,0
+2024,2025-02-09,Bohemians 1905,České Budějovice,1,0,1,0
+2024,2025-02-09,Sparta Praha,Hradec Králové,1,0,3,0
+2024,2025-02-15,Sigma Olomouc,Pardubice,1,0,4,0
+2024,2025-02-15,Slovácko,Dukla Praha,0,0,0,0
+2024,2025-02-15,České Budějovice,FK Jablonec,0,1,2,3
+2024,2025-02-15,Karviná,Sparta Praha,2,2,2,3
+2024,2025-02-16,Hradec Králové,Bohemians 1905,2,2,2,2
+2024,2025-02-16,Slovan Liberec,Mlada Boleslav,2,0,3,1
+2024,2025-02-16,Teplice,Plzen,0,2,0,2
+2024,2025-02-16,Slavia Praha,Baník Ostrava,1,0,1,0
+2024,2025-02-22,Dukla Praha,Sigma Olomouc,0,1,1,3
+2024,2025-02-22,Baník Ostrava,Teplice,0,0,2,0
+2024,2025-02-22,Pardubice,Mlada Boleslav,0,2,0,3
+2024,2025-02-22,Sparta Praha,České Budějovice,0,0,2,1
+2024,2025-02-23,Bohemians 1905,Slovan Liberec,0,0,0,0
+2024,2025-02-23,FK Jablonec,Karviná,2,0,5,0
+2024,2025-02-23,Plzen,Slavia Praha,1,2,1,3
+2024,2025-03-01,České Budějovice,Baník Ostrava,0,2,0,4
+2024,2025-03-01,Sigma Olomouc,Sparta Praha,1,1,1,2
+2024,2025-03-01,Hradec Králové,FK Jablonec,0,1,1,1
+2024,2025-03-01,Teplice,Pardubice,1,0,2,0
+2024,2025-03-02,Slovan Liberec,Dukla Praha,1,0,1,1
+2024,2025-03-02,Mlada Boleslav,Plzen,0,1,0,2
+2024,2025-03-02,Karviná,Slovácko,0,0,2,0
+2024,2025-03-02,Slavia Praha,Bohemians 1905,0,0,2,0
+2024,2025-03-08,Dukla Praha,Teplice,1,0,1,1
+2024,2025-03-08,FK Jablonec,Slovan Liberec,0,0,0,0
+2024,2025-03-08,Slovácko,České Budějovice,1,1,2,1
+2024,2025-03-08,Sparta Praha,Slavia Praha,0,0,2,0
+2024,2025-03-09,Baník Ostrava,Mlada Boleslav,2,1,2,1
+2024,2025-03-09,Bohemians 1905,Sigma Olomouc,0,1,0,1
+2024,2025-03-09,Hradec Králové,Karviná,1,1,1,1
+2024,2025-03-09,Pardubice,Plzen,0,0,0,0
+2024,2025-03-12,Dukla Praha,Karviná,0,0,0,0
+2024,2025-03-15,Mlada Boleslav,Bohemians 1905,0,2,1,2
+2024,2025-03-15,Teplice,Slovácko,0,0,1,0
+2024,2025-03-15,Pardubice,Dukla Praha,0,0,0,1
+2024,2025-03-15,Slovan Liberec,Sparta Praha,0,0,1,0
+2024,2025-03-16,Sigma Olomouc,Hradec Králové,0,2,1,2
+2024,2025-03-16,Plzen,Baník Ostrava,0,1,0,1
+2024,2025-03-16,České Budějovice,Karviná,2,1,2,3
+2024,2025-03-16,Slavia Praha,FK Jablonec,3,0,3,0
+2024,2025-03-29,FK Jablonec,Sigma Olomouc,0,0,0,0
+2024,2025-03-29,Baník Ostrava,Pardubice,2,1,5,2
+2024,2025-03-29,Bohemians 1905,Teplice,0,1,1,1
+2024,2025-03-29,Dukla Praha,Slavia Praha,0,0,0,0
+2024,2025-03-30,Slovácko,Slovan Liberec,0,4,0,4
+2024,2025-03-30,Karviná,Mlada Boleslav,1,1,3,1
+2024,2025-03-30,Hradec Králové,České Budějovice,1,0,1,0
+2024,2025-03-30,Sparta Praha,Plzen,1,2,2,4
+2024,2025-04-05,Sigma Olomouc,Karviná,1,1,1,2
+2024,2025-04-05,Pardubice,Bohemians 1905,1,0,2,0
+2024,2025-04-05,Slovan Liberec,České Budějovice,1,0,2,0
+2024,2025-04-05,Baník Ostrava,Sparta Praha,1,0,1,1
+2024,2025-04-05,Slavia Praha,Hradec Králové,1,1,2,1
+2024,2025-04-06,Teplice,FK Jablonec,0,1,0,1
+2024,2025-04-06,Mlada Boleslav,Dukla Praha,0,0,0,1
+2024,2025-04-06,Plzen,Slovácko,2,0,2,0
+2024,2025-04-09,Slovácko,Hradec Králové,0,3,1,5
+2024,2025-04-12,Karviná,Slavia Praha,0,2,0,4
+2024,2025-04-12,Dukla Praha,Baník Ostrava,1,1,1,2
+2024,2025-04-13,FK Jablonec,Pardubice,0,0,1,0
+2024,2025-04-13,České Budějovice,Teplice,1,0,1,1
+2024,2025-04-13,Sparta Praha,Mlada Boleslav,1,0,2,0
+2024,2025-04-13,Slovácko,Sigma Olomouc,1,1,2,2
+2024,2025-04-13,Bohemians 1905,Plzen,0,1,1,2
+2024,2025-04-13,Hradec Králové,Slovan Liberec,0,1,0,2
+2024,2025-04-19,Slavia Praha,Slovácko,1,0,2,0
+2024,2025-04-19,Plzen,Dukla Praha,2,1,4,2
+2024,2025-04-19,Mlada Boleslav,FK Jablonec,0,1,0,1
+2024,2025-04-19,Slovan Liberec,Karviná,1,1,2,3
+2024,2025-04-19,Sigma Olomouc,České Budějovice,1,0,3,0
+2024,2025-04-19,Baník Ostrava,Bohemians 1905,1,0,1,0
+2024,2025-04-19,Teplice,Hradec Králové,0,0,1,0
+2024,2025-04-19,Pardubice,Sparta Praha,0,1,1,2
+2024,2025-04-26,České Budějovice,Mlada Boleslav,0,0,1,2
+2024,2025-04-26,Slovácko,Pardubice,0,0,1,0
+2024,2025-04-26,Sigma Olomouc,Slavia Praha,0,1,0,5
+2024,2025-04-27,Teplice,Dukla Praha,1,2,2,2
+2024,2025-04-27,Baník Ostrava,FK Jablonec,0,2,1,2
+2024,2025-04-27,Plzen,Sparta Praha,1,0,2,0
+2024,2025-05-03,Dukla Praha,Pardubice,0,0,2,0
+2024,2025-05-03,Hradec Králové,Karviná,0,0,1,0
+2024,2025-05-03,Slavia Praha,Plzen,1,2,4,3
+2024,2025-05-03,Baník Ostrava,Sigma Olomouc,0,0,0,0
+2024,2025-05-04,Slovácko,České Budějovice,0,0,0,0
+2024,2025-05-04,Mlada Boleslav,Teplice,0,0,1,0
+2024,2025-05-04,Bohemians 1905,Slovan Liberec,3,0,4,1
+2024,2025-05-04,Sparta Praha,FK Jablonec,0,2,1,3
+2024,2025-05-10,Pardubice,České Budějovice,0,0,1,0
+2024,2025-05-10,FK Jablonec,Sigma Olomouc,2,0,4,0
+2024,2025-05-10,Karviná,Hradec Králové,0,3,0,4
+2024,2025-05-10,Slavia Praha,Sparta Praha,1,0,2,1
+2024,2025-05-11,Teplice,Slovácko,0,0,1,0
+2024,2025-05-11,Mlada Boleslav,Dukla Praha,1,1,2,3
+2024,2025-05-11,Slovan Liberec,Bohemians 1905,0,0,1,0
+2024,2025-05-11,Plzen,Baník Ostrava,0,0,1,2
+2024,2025-05-17,Slovácko,Dukla Praha,0,1,3,2
+2024,2025-05-17,Pardubice,Mlada Boleslav,1,1,2,1
+2024,2025-05-17,České Budějovice,Teplice,0,1,0,3
+2024,2025-05-18,Bohemians 1905,Hradec Králové,1,0,1,0
+2024,2025-05-18,FK Jablonec,Slavia Praha,0,1,3,2
+2024,2025-05-18,Sigma Olomouc,Plzen,1,0,1,2
+2024,2025-05-18,Baník Ostrava,Sparta Praha,3,0,3,2
+2024,2025-05-24,Slavia Praha,Baník Ostrava,2,0,3,0
+2024,2025-05-24,Plzen,FK Jablonec,3,0,4,1
+2024,2025-05-24,Sparta Praha,Sigma Olomouc,0,0,1,1
+2024,2025-05-25,Hradec Králové,Bohemians 1905,1,0,2,0
+2024,2025-05-25,Mlada Boleslav,Slovácko,0,0,2,2
+2024,2025-05-25,Dukla Praha,České Budějovice,2,1,2,1
+2024,2025-05-25,Teplice,Pardubice,1,0,3,0
+2024,2025-05-28,Pardubice,Chrudim,0,0,2,0
+2024,2025-05-28,Vyškov,Dukla Praha,0,0,0,0
+2024,2025-06-01,Dukla Praha,Vyškov,0,1,1,1
+2024,2025-06-01,Chrudim,Pardubice,0,0,1,0
+2025,2025-07-27,Baník Ostrava,Teplice,,,0,0
+2025,2025-07-18,Pardubice,Plzen,1,3,1,5
+2025,2025-07-19,Bohemians 1905,Baník Ostrava,1,0,1,0
+2025,2025-07-19,Karviná,Dukla Praha,1,0,2,0
+2025,2025-07-19,Teplice,Zlin,1,0,1,3
+2025,2025-07-19,FK Jablonec,Sparta Praha,1,0,1,1
+2025,2025-07-20,Slovácko,Sigma Olomouc,0,0,0,1
+2025,2025-07-20,Mlada Boleslav,Slovan Liberec,1,1,3,3
+2025,2025-07-20,Slavia Praha,Hradec Králové,0,1,2,2
+2025,2025-07-26,Plzen,FK Jablonec,1,0,1,1
+2025,2025-07-26,Zlin,Slovácko,1,1,1,1
+2025,2025-07-26,Sigma Olomouc,Dukla Praha,0,0,0,0
+2025,2025-07-26,Hradec Králové,Karviná,1,1,1,2
+2025,2025-07-26,Bohemians 1905,Slavia Praha,0,1,0,2
+2025,2025-07-27,Slovan Liberec,Pardubice,0,0,2,1
+2025,2025-07-27,Sparta Praha,Mlada Boleslav,1,1,3,2
+2025,2025-08-02,FK Jablonec,Hradec Králové,1,0,2,0
+2025,2025-08-02,Karviná,Zlin,0,1,0,1
+2025,2025-08-02,Teplice,Bohemians 1905,1,0,3,0
+2025,2025-08-02,Sigma Olomouc,Slovan Liberec,0,0,2,1
+2025,2025-08-03,Slovácko,Slavia Praha,0,0,0,1
+2025,2025-08-03,Dukla Praha,Baník Ostrava,1,1,1,1
+2025,2025-08-03,Pardubice,Sparta Praha,0,1,1,3
+2025,2025-08-09,Plzen,Slovácko,1,0,1,1
+2025,2025-08-09,Zlin,Mlada Boleslav,2,1,3,2
+2025,2025-08-09,Slovan Liberec,Dukla Praha,1,0,2,0
+2025,2025-08-09,Slavia Praha,Teplice,1,0,3,0
+2025,2025-08-10,Bohemians 1905,FK Jablonec,0,1,0,1
+2025,2025-08-10,Hradec Králové,Pardubice,1,0,1,1
+2025,2025-08-10,Baník Ostrava,Karviná,0,0,1,2
+2025,2025-08-10,Sparta Praha,Sigma Olomouc,0,0,1,0
+2025,2025-08-02,Mlada Boleslav,Plzen,,,,
+2025,2025-08-16,Mlada Boleslav,Hradec Králové,,,,
+2025,2025-08-16,Sigma Olomouc,Zlin,,,,
+2025,2025-08-16,Dukla Praha,Plzen,,,,
+2025,2025-08-16,Slovácko,Teplice,,,,
+2025,2025-08-16,FK Jablonec,Slavia Praha,,,,
+2025,2025-08-17,Karviná,Bohemians 1905,,,,
+2025,2025-08-17,Pardubice,Baník Ostrava,,,,
+2025,2025-08-17,Slovan Liberec,Sparta Praha,,,,
+2025,2025-08-23,Plzen,Karviná,,,,
+2025,2025-08-23,Zlin,Slovan Liberec,,,,
+2025,2025-08-23,Teplice,FK Jablonec,,,,
+2025,2025-08-23,Slavia Praha,Pardubice,,,,
+2025,2025-08-24,Bohemians 1905,Mlada Boleslav,,,,
+2025,2025-08-24,Hradec Králové,Sigma Olomouc,,,,
+2025,2025-08-24,Baník Ostrava,Slovácko,,,,
+2025,2025-08-24,Sparta Praha,Dukla Praha,,,,
+2025,2025-08-30,Dukla Praha,Hradec Králové,,,,
+2025,2025-08-30,Karviná,Teplice,,,,
+2025,2025-08-30,Slovácko,FK Jablonec,,,,
+2025,2025-08-30,Pardubice,Bohemians 1905,,,,
+2025,2025-08-30,Mlada Boleslav,Slavia Praha,,,,
+2025,2025-08-31,Slovan Liberec,Plzen,,,,
+2025,2025-08-31,Sigma Olomouc,Baník Ostrava,,,,
+2025,2025-08-31,Sparta Praha,Zlin,,,,
+2025,2025-09-13,Slavia Praha,Karviná,,,,
+2025,2025-09-13,Plzen,Sigma Olomouc,,,,
+2025,2025-09-13,Zlin,Dukla Praha,,,,
+2025,2025-09-13,FK Jablonec,Pardubice,,,,
+2025,2025-09-13,Baník Ostrava,Slovan Liberec,,,,
+2025,2025-09-13,Bohemians 1905,Slovácko,,,,
+2025,2025-09-13,Teplice,Mlada Boleslav,,,,
+2025,2025-09-13,Hradec Králové,Sparta Praha,,,,
+2025,2025-09-20,Zlin,Hradec Králové,,,,
+2025,2025-09-20,Sparta Praha,Plzen,,,,
+2025,2025-09-20,Mlada Boleslav,Baník Ostrava,,,,
+2025,2025-09-20,Slovan Liberec,Slavia Praha,,,,
+2025,2025-09-20,Sigma Olomouc,Teplice,,,,
+2025,2025-09-20,Dukla Praha,Bohemians 1905,,,,
+2025,2025-09-20,Karviná,FK Jablonec,,,,
+2025,2025-09-20,Pardubice,Slovácko,,,,
+2025,2025-09-27,Slavia Praha,Dukla Praha,,,,
+2025,2025-09-27,Plzen,Zlin,,,,
+2025,2025-09-27,FK Jablonec,Mlada Boleslav,,,,
+2025,2025-09-27,Baník Ostrava,Sparta Praha,,,,
+2025,2025-09-27,Bohemians 1905,Sigma Olomouc,,,,
+2025,2025-09-27,Slovácko,Karviná,,,,
+2025,2025-09-27,Teplice,Pardubice,,,,
+2025,2025-09-27,Hradec Králové,Slovan Liberec,,,,
+2025,2025-10-04,Plzen,Hradec Králové,,,,
+2025,2025-10-04,Zlin,Baník Ostrava,,,,
+2025,2025-10-04,Sparta Praha,Slavia Praha,,,,
+2025,2025-10-04,Mlada Boleslav,Slovácko,,,,
+2025,2025-10-04,Slovan Liberec,Bohemians 1905,,,,
+2025,2025-10-04,Sigma Olomouc,FK Jablonec,,,,
+2025,2025-10-04,Dukla Praha,Teplice,,,,
+2025,2025-10-04,Pardubice,Karviná,,,,
+2025,2025-10-18,Slavia Praha,Zlin,,,,
+2025,2025-10-18,FK Jablonec,Dukla Praha,,,,
+2025,2025-10-18,Baník Ostrava,Hradec Králové,,,,
+2025,2025-10-18,Bohemians 1905,Plzen,,,,
+2025,2025-10-18,Karviná,Sigma Olomouc,,,,
+2025,2025-10-18,Slovácko,Sparta Praha,,,,
+2025,2025-10-18,Teplice,Slovan Liberec,,,,
+2025,2025-10-18,Pardubice,Mlada Boleslav,,,,
+2025,2025-10-25,Plzen,Baník Ostrava,,,,
+2025,2025-10-25,Zlin,Pardubice,,,,
+2025,2025-10-25,Sparta Praha,Bohemians 1905,,,,
+2025,2025-10-25,Mlada Boleslav,Karviná,,,,
+2025,2025-10-25,Slovan Liberec,FK Jablonec,,,,
+2025,2025-10-25,Sigma Olomouc,Slavia Praha,,,,
+2025,2025-10-25,Dukla Praha,Slovácko,,,,
+2025,2025-10-25,Hradec Králové,Teplice,,,,
+2025,2025-11-01,Slavia Praha,Baník Ostrava,,,,
+2025,2025-11-01,Mlada Boleslav,Sigma Olomouc,,,,
+2025,2025-11-01,FK Jablonec,Zlin,,,,
+2025,2025-11-01,Bohemians 1905,Hradec Králové,,,,
+2025,2025-11-01,Karviná,Sparta Praha,,,,
+2025,2025-11-01,Slovácko,Slovan Liberec,,,,
+2025,2025-11-01,Teplice,Plzen,,,,
+2025,2025-11-01,Pardubice,Dukla Praha,,,,
+2025,2025-11-08,Plzen,Slavia Praha,,,,
+2025,2025-11-08,Zlin,Bohemians 1905,,,,
+2025,2025-11-08,Sparta Praha,Teplice,,,,
+2025,2025-11-08,Slovan Liberec,Karviná,,,,
+2025,2025-11-08,Sigma Olomouc,Pardubice,,,,
+2025,2025-11-08,Baník Ostrava,FK Jablonec,,,,
+2025,2025-11-08,Dukla Praha,Mlada Boleslav,,,,
+2025,2025-11-08,Hradec Králové,Slovácko,,,,
+2025,2025-11-22,Slavia Praha,Bohemians 1905,,,,
+2025,2025-11-22,Mlada Boleslav,Sparta Praha,,,,
+2025,2025-11-22,FK Jablonec,Plzen,,,,
+2025,2025-11-22,Dukla Praha,Sigma Olomouc,,,,
+2025,2025-11-22,Karviná,Hradec Králové,,,,
+2025,2025-11-22,Slovácko,Zlin,,,,
+2025,2025-11-22,Teplice,Baník Ostrava,,,,
+2025,2025-11-22,Pardubice,Slovan Liberec,,,,
+2025,2025-11-29,Slavia Praha,Slovácko,,,,
+2025,2025-11-29,Plzen,Mlada Boleslav,,,,
+2025,2025-11-29,Zlin,Karviná,,,,
+2025,2025-11-29,Sparta Praha,Pardubice,,,,
+2025,2025-11-29,Slovan Liberec,Sigma Olomouc,,,,
+2025,2025-11-29,Baník Ostrava,Dukla Praha,,,,
+2025,2025-11-29,Bohemians 1905,Teplice,,,,
+2025,2025-11-29,Hradec Králové,FK Jablonec,,,,
+2025,2025-12-06,Mlada Boleslav,Zlin,,,,
+2025,2025-12-06,FK Jablonec,Bohemians 1905,,,,
+2025,2025-12-06,Sigma Olomouc,Sparta Praha,,,,
+2025,2025-12-06,Dukla Praha,Slovan Liberec,,,,
+2025,2025-12-06,Karviná,Baník Ostrava,,,,
+2025,2025-12-06,Slovácko,Plzen,,,,
+2025,2025-12-06,Teplice,Slavia Praha,,,,
+2025,2025-12-06,Pardubice,Hradec Králové,,,,
+2025,2025-12-13,Slavia Praha,FK Jablonec,,,,
+2025,2025-12-13,Plzen,Dukla Praha,,,,
+2025,2025-12-13,Zlin,Sigma Olomouc,,,,
+2025,2025-12-13,Sparta Praha,Slovan Liberec,,,,
+2025,2025-12-13,Baník Ostrava,Pardubice,,,,
+2025,2025-12-13,Bohemians 1905,Karviná,,,,
+2025,2025-12-13,Teplice,Slovácko,,,,
+2025,2025-12-13,Hradec Králové,Mlada Boleslav,,,,
+2025,2026-01-31,Mlada Boleslav,Bohemians 1905,,,,
+2025,2026-01-31,Slovan Liberec,Zlin,,,,
+2025,2026-01-31,FK Jablonec,Teplice,,,,
+2025,2026-01-31,Sigma Olomouc,Hradec Králové,,,,
+2025,2026-01-31,Dukla Praha,Sparta Praha,,,,
+2025,2026-01-31,Karviná,Plzen,,,,
+2025,2026-01-31,Slovácko,Baník Ostrava,,,,
+2025,2026-01-31,Pardubice,Slavia Praha,,,,
+2025,2026-02-07,Slavia Praha,Mlada Boleslav,,,,
+2025,2026-02-07,Plzen,Slovan Liberec,,,,
+2025,2026-02-07,Zlin,Sparta Praha,,,,
+2025,2026-02-07,FK Jablonec,Slovácko,,,,
+2025,2026-02-07,Baník Ostrava,Sigma Olomouc,,,,
+2025,2026-02-07,Bohemians 1905,Pardubice,,,,
+2025,2026-02-07,Teplice,Karviná,,,,
+2025,2026-02-07,Hradec Králové,Dukla Praha,,,,
+2025,2026-02-14,Sparta Praha,Hradec Králové,,,,
+2025,2026-02-14,Mlada Boleslav,Teplice,,,,
+2025,2026-02-14,Slovan Liberec,Baník Ostrava,,,,
+2025,2026-02-14,Sigma Olomouc,Plzen,,,,
+2025,2026-02-14,Dukla Praha,Zlin,,,,
+2025,2026-02-14,Karviná,Slavia Praha,,,,
+2025,2026-02-14,Slovácko,Bohemians 1905,,,,
+2025,2026-02-14,Pardubice,FK Jablonec,,,,
+2025,2026-02-21,Slavia Praha,Slovan Liberec,,,,
+2025,2026-02-21,Plzen,Sparta Praha,,,,
+2025,2026-02-21,FK Jablonec,Karviná,,,,
+2025,2026-02-21,Baník Ostrava,Mlada Boleslav,,,,
+2025,2026-02-21,Bohemians 1905,Dukla Praha,,,,
+2025,2026-02-21,Slovácko,Pardubice,,,,
+2025,2026-02-21,Teplice,Sigma Olomouc,,,,
+2025,2026-02-21,Hradec Králové,Zlin,,,,
+2025,2026-02-28,Zlin,Plzen,,,,
+2025,2026-02-28,Sparta Praha,Baník Ostrava,,,,
+2025,2026-02-28,Mlada Boleslav,FK Jablonec,,,,
+2025,2026-02-28,Slovan Liberec,Hradec Králové,,,,
+2025,2026-02-28,Sigma Olomouc,Bohemians 1905,,,,
+2025,2026-02-28,Dukla Praha,Slavia Praha,,,,
+2025,2026-02-28,Karviná,Slovácko,,,,
+2025,2026-02-28,Pardubice,Teplice,,,,
+2025,2026-03-07,Slavia Praha,Sparta Praha,,,,
+2025,2026-03-07,FK Jablonec,Sigma Olomouc,,,,
+2025,2026-03-07,Baník Ostrava,Zlin,,,,
+2025,2026-03-07,Bohemians 1905,Slovan Liberec,,,,
+2025,2026-03-07,Karviná,Pardubice,,,,
+2025,2026-03-07,Slovácko,Mlada Boleslav,,,,
+2025,2026-03-07,Teplice,Dukla Praha,,,,
+2025,2026-03-07,Hradec Králové,Plzen,,,,
+2025,2026-03-14,Plzen,Bohemians 1905,,,,
+2025,2026-03-14,Zlin,Slavia Praha,,,,
+2025,2026-03-14,Sparta Praha,Slovácko,,,,
+2025,2026-03-14,Mlada Boleslav,Pardubice,,,,
+2025,2026-03-14,Slovan Liberec,Teplice,,,,
+2025,2026-03-14,Sigma Olomouc,Karviná,,,,
+2025,2026-03-14,Dukla Praha,FK Jablonec,,,,
+2025,2026-03-14,Hradec Králové,Baník Ostrava,,,,
+2025,2026-03-21,Slavia Praha,Sigma Olomouc,,,,
+2025,2026-03-21,FK Jablonec,Slovan Liberec,,,,
+2025,2026-03-21,Baník Ostrava,Plzen,,,,
+2025,2026-03-21,Bohemians 1905,Sparta Praha,,,,
+2025,2026-03-21,Karviná,Mlada Boleslav,,,,
+2025,2026-03-21,Slovácko,Dukla Praha,,,,
+2025,2026-03-21,Teplice,Hradec Králové,,,,
+2025,2026-03-21,Pardubice,Zlin,,,,
+2025,2026-04-04,Plzen,Teplice,,,,
+2025,2026-04-04,Zlin,FK Jablonec,,,,
+2025,2026-04-04,Sparta Praha,Karviná,,,,
+2025,2026-04-04,Slovan Liberec,Slovácko,,,,
+2025,2026-04-04,Sigma Olomouc,Mlada Boleslav,,,,
+2025,2026-04-04,Baník Ostrava,Slavia Praha,,,,
+2025,2026-04-04,Dukla Praha,Pardubice,,,,
+2025,2026-04-04,Hradec Králové,Bohemians 1905,,,,
+2025,2026-04-11,Slavia Praha,Plzen,,,,
+2025,2026-04-11,Mlada Boleslav,Dukla Praha,,,,
+2025,2026-04-11,FK Jablonec,Baník Ostrava,,,,
+2025,2026-04-11,Bohemians 1905,Zlin,,,,
+2025,2026-04-11,Karviná,Slovan Liberec,,,,
+2025,2026-04-11,Slovácko,Hradec Králové,,,,
+2025,2026-04-11,Teplice,Sparta Praha,,,,
+2025,2026-04-11,Pardubice,Sigma Olomouc,,,,
+2025,2026-04-18,Plzen,Pardubice,,,,
+2025,2026-04-18,Zlin,Teplice,,,,
+2025,2026-04-18,Sparta Praha,FK Jablonec,,,,
+2025,2026-04-18,Slovan Liberec,Mlada Boleslav,,,,
+2025,2026-04-18,Sigma Olomouc,Slovácko,,,,
+2025,2026-04-18,Baník Ostrava,Bohemians 1905,,,,
+2025,2026-04-18,Dukla Praha,Karviná,,,,
+2025,2026-04-18,Hradec Králové,Slavia Praha,,,,

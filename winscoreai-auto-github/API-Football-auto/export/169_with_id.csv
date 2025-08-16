@@ -1,0 +1,481 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away,fixture_id,league_id
+2024,2024-03-01,Shandong Luneng,Changchun Yatai,3.0,0.0,4.0,2.0,1173042,169
+2024,2024-03-01,Qingdao Youth Island,Henan Jianye,0.0,1.0,1.0,1.0,1173037,169
+2024,2024-03-01,SHANGHAI SIPG,Wuhan Three Towns,1.0,1.0,3.0,1.0,1173038,169
+2024,2024-03-02,Tianjin Teda,Nantong Zhiyun,0.0,0.0,1.0,1.0,1173039,169
+2024,2024-03-02,Shijiazhuang Y. J.,Beijing Guoan,0.0,1.0,0.0,2.0,1173040,169
+2024,2024-03-02,Chengdu Better City,Qingdao Jonoon,1.0,0.0,2.0,0.0,1173041,169
+2024,2024-03-03,Hangzhou Greentown,Sichuan Jiuniu,1.0,0.0,1.0,0.0,1173043,169
+2024,2024-03-03,Meizhou Kejia,Shanghai Shenhua,0.0,0.0,0.0,2.0,1173044,169
+2024,2024-03-08,Qingdao Jonoon,Changchun Yatai,0.0,0.0,0.0,1.0,1173045,169
+2024,2024-03-08,Shanghai Shenhua,Qingdao Youth Island,2.0,0.0,2.0,0.0,1173046,169
+2024,2024-03-09,Henan Jianye,Meizhou Kejia,1.0,1.0,2.0,2.0,1173047,169
+2024,2024-03-09,Shandong Luneng,Beijing Guoan,0.0,0.0,0.0,0.0,1173048,169
+2024,2024-03-09,Hangzhou Greentown,SHANGHAI SIPG,0.0,0.0,0.0,0.0,1173049,169
+2024,2024-03-09,Nantong Zhiyun,Wuhan Three Towns,0.0,1.0,1.0,3.0,1173050,169
+2024,2024-03-10,Shijiazhuang Y. J.,Chengdu Better City,0.0,0.0,1.0,0.0,1173051,169
+2024,2024-03-10,Sichuan Jiuniu,Tianjin Teda,0.0,1.0,0.0,4.0,1173052,169
+2024,2024-03-29,Sichuan Jiuniu,Shijiazhuang Y. J.,2.0,1.0,2.0,2.0,1173053,169
+2024,2024-03-30,Wuhan Three Towns,Beijing Guoan,0.0,0.0,0.0,1.0,1173054,169
+2024,2024-03-30,Chengdu Better City,Nantong Zhiyun,1.0,0.0,1.0,0.0,1173055,169
+2024,2024-03-30,Qingdao Youth Island,Qingdao Jonoon,1.0,0.0,1.0,0.0,1173056,169
+2024,2024-03-30,SHANGHAI SIPG,Henan Jianye,0.0,0.0,3.0,1.0,1173057,169
+2024,2024-03-31,Changchun Yatai,Tianjin Teda,0.0,1.0,0.0,1.0,1173058,169
+2024,2024-03-31,Shandong Luneng,Shanghai Shenhua,0.0,2.0,0.0,3.0,1173059,169
+2024,2024-03-31,Meizhou Kejia,Hangzhou Greentown,0.0,0.0,1.0,2.0,1173060,169
+2024,2024-04-04,Wuhan Three Towns,Shijiazhuang Y. J.,0.0,1.0,2.0,3.0,1173061,169
+2024,2024-04-05,Changchun Yatai,Shanghai Shenhua,1.0,1.0,1.0,2.0,1173062,169
+2024,2024-04-05,Henan Jianye,Sichuan Jiuniu,0.0,0.0,0.0,2.0,1173063,169
+2024,2024-04-05,Beijing Guoan,SHANGHAI SIPG,1.0,1.0,2.0,2.0,1173065,169
+2024,2024-04-05,Qingdao Jonoon,Shandong Luneng,0.0,0.0,0.0,1.0,1173064,169
+2024,2024-04-05,Nantong Zhiyun,Meizhou Kejia,0.0,0.0,1.0,0.0,1173066,169
+2024,2024-04-06,Tianjin Teda,Chengdu Better City,0.0,1.0,2.0,3.0,1173067,169
+2024,2024-04-06,Hangzhou Greentown,Qingdao Youth Island,0.0,1.0,1.0,2.0,1173068,169
+2024,2024-04-09,Nantong Zhiyun,SHANGHAI SIPG,0.0,2.0,0.0,3.0,1173069,169
+2024,2024-04-09,Beijing Guoan,Sichuan Jiuniu,0.0,1.0,1.0,2.0,1173071,169
+2024,2024-04-09,Shandong Luneng,Henan Jianye,0.0,0.0,2.0,2.0,1173070,169
+2024,2024-04-09,Shanghai Shenhua,Wuhan Three Towns,2.0,0.0,4.0,1.0,1173072,169
+2024,2024-04-10,Qingdao Youth Island,Tianjin Teda,0.0,0.0,1.0,3.0,1173073,169
+2024,2024-04-10,Shijiazhuang Y. J.,Changchun Yatai,1.0,0.0,2.0,0.0,1173074,169
+2024,2024-04-10,Chengdu Better City,Hangzhou Greentown,1.0,0.0,3.0,0.0,1173075,169
+2024,2024-04-10,Meizhou Kejia,Qingdao Jonoon,0.0,0.0,0.0,0.0,1173076,169
+2024,2024-04-13,Henan Jianye,Nantong Zhiyun,0.0,0.0,1.0,1.0,1173077,169
+2024,2024-04-13,Shanghai Shenhua,Beijing Guoan,1.0,1.0,1.0,1.0,1173078,169
+2024,2024-04-14,Changchun Yatai,Chengdu Better City,1.0,0.0,1.0,2.0,1173079,169
+2024,2024-04-14,Tianjin Teda,Meizhou Kejia,0.0,0.0,0.0,0.0,1173080,169
+2024,2024-04-14,SHANGHAI SIPG,Shandong Luneng,2.0,3.0,4.0,3.0,1173083,169
+2024,2024-04-14,Shijiazhuang Y. J.,Qingdao Youth Island,0.0,2.0,3.0,2.0,1173081,169
+2024,2024-04-14,Qingdao Jonoon,Hangzhou Greentown,1.0,0.0,2.0,0.0,1173082,169
+2024,2024-04-14,Sichuan Jiuniu,Wuhan Three Towns,0.0,0.0,1.0,1.0,1173084,169
+2024,2024-04-19,Hangzhou Greentown,Tianjin Teda,1.0,1.0,3.0,2.0,1173085,169
+2024,2024-04-20,Shandong Luneng,Shijiazhuang Y. J.,3.0,0.0,4.0,1.0,1173086,169
+2024,2024-04-20,Chengdu Better City,Sichuan Jiuniu,1.0,1.0,3.0,1.0,1173087,169
+2024,2024-04-20,Wuhan Three Towns,Changchun Yatai,0.0,0.0,0.0,0.0,1173088,169
+2024,2024-04-20,Nantong Zhiyun,Shanghai Shenhua,0.0,1.0,0.0,2.0,1173089,169
+2024,2024-04-21,Henan Jianye,Qingdao Jonoon,0.0,0.0,1.0,0.0,1173090,169
+2024,2024-04-21,Beijing Guoan,Qingdao Youth Island,1.0,0.0,4.0,1.0,1173092,169
+2024,2024-04-26,Qingdao Youth Island,Nantong Zhiyun,0.0,2.0,0.0,2.0,1173093,169
+2024,2024-04-26,Sichuan Jiuniu,Qingdao Jonoon,0.0,3.0,1.0,3.0,1173094,169
+2024,2024-04-26,Changchun Yatai,Meizhou Kejia,0.0,0.0,0.0,1.0,1173096,169
+2024,2024-04-26,Hangzhou Greentown,Beijing Guoan,0.0,1.0,1.0,2.0,1173097,169
+2024,2024-04-26,Shijiazhuang Y. J.,Henan Jianye,0.0,1.0,2.0,3.0,1173095,169
+2024,2024-04-26,Wuhan Three Towns,Tianjin Teda,1.0,1.0,2.0,1.0,1173098,169
+2024,2024-04-26,Chengdu Better City,Shandong Luneng,0.0,1.0,0.0,1.0,1173099,169
+2024,2024-04-27,SHANGHAI SIPG,Shanghai Shenhua,0.0,0.0,1.0,1.0,1173100,169
+2024,2024-04-30,Shandong Luneng,Nantong Zhiyun,1.0,1.0,3.0,1.0,1173101,169
+2024,2024-04-30,Tianjin Teda,Beijing Guoan,0.0,0.0,0.0,1.0,1173102,169
+2024,2024-04-30,Hangzhou Greentown,Henan Jianye,3.0,1.0,4.0,1.0,1173103,169
+2024,2024-04-30,Meizhou Kejia,Qingdao Youth Island,0.0,1.0,1.0,1.0,1173104,169
+2024,2024-05-01,Changchun Yatai,Sichuan Jiuniu,0.0,0.0,1.0,1.0,1173105,169
+2024,2024-05-01,Qingdao Jonoon,SHANGHAI SIPG,0.0,2.0,0.0,5.0,1173106,169
+2024,2024-05-01,Chengdu Better City,Wuhan Three Towns,1.0,1.0,2.0,2.0,1173107,169
+2024,2024-05-01,Shanghai Shenhua,Shijiazhuang Y. J.,1.0,0.0,4.0,0.0,1173108,169
+2024,2024-05-04,Qingdao Youth Island,Shandong Luneng,0.0,0.0,0.0,0.0,1173109,169
+2024,2024-05-04,Henan Jianye,Tianjin Teda,1.0,0.0,1.0,2.0,1173110,169
+2024,2024-05-05,Nantong Zhiyun,Changchun Yatai,1.0,1.0,2.0,3.0,1173111,169
+2024,2024-05-05,Shanghai Shenhua,Hangzhou Greentown,2.0,0.0,4.0,0.0,1173112,169
+2024,2024-05-05,Meizhou Kejia,Shijiazhuang Y. J.,0.0,1.0,1.0,1.0,1173113,169
+2024,2024-05-05,Beijing Guoan,Chengdu Better City,2.0,0.0,2.0,1.0,1173115,169
+2024,2024-05-05,Wuhan Three Towns,Qingdao Jonoon,1.0,0.0,1.0,0.0,1173114,169
+2024,2024-05-05,Sichuan Jiuniu,SHANGHAI SIPG,0.0,3.0,0.0,6.0,1173116,169
+2024,2024-05-10,Qingdao Jonoon,Nantong Zhiyun,0.0,0.0,2.0,2.0,1173117,169
+2024,2024-05-10,Chengdu Better City,Henan Jianye,3.0,2.0,4.0,2.0,1173118,169
+2024,2024-05-10,SHANGHAI SIPG,Changchun Yatai,3.0,1.0,5.0,2.0,1173119,169
+2024,2024-05-11,Tianjin Teda,Shanghai Shenhua,0.0,0.0,0.0,0.0,1173120,169
+2024,2024-05-11,Wuhan Three Towns,Shandong Luneng,0.0,1.0,1.0,2.0,1173121,169
+2024,2024-05-11,Beijing Guoan,Meizhou Kejia,0.0,2.0,3.0,2.0,1173122,169
+2024,2024-05-12,Shijiazhuang Y. J.,Hangzhou Greentown,0.0,0.0,0.0,1.0,1173123,169
+2024,2024-05-12,Sichuan Jiuniu,Qingdao Youth Island,1.0,1.0,1.0,2.0,1173124,169
+2024,2024-05-15,Shanghai Shenhua,Qingdao Jonoon,0.0,0.0,2.0,0.0,1173125,169
+2024,2024-05-16,Shandong Luneng,Sichuan Jiuniu,2.0,1.0,3.0,2.0,1173126,169
+2024,2024-05-17,Hangzhou Greentown,Nantong Zhiyun,3.0,1.0,5.0,2.0,1173127,169
+2024,2024-05-17,Henan Jianye,Wuhan Three Towns,1.0,2.0,2.0,3.0,1173129,169
+2024,2024-05-17,Shijiazhuang Y. J.,Tianjin Teda,0.0,1.0,2.0,4.0,1173128,169
+2024,2024-05-17,Meizhou Kejia,Chengdu Better City,0.0,1.0,1.0,4.0,1173130,169
+2024,2024-05-17,Changchun Yatai,Beijing Guoan,1.0,1.0,3.0,2.0,1173131,169
+2024,2024-05-18,Qingdao Youth Island,SHANGHAI SIPG,1.0,3.0,3.0,5.0,1173132,169
+2024,2024-05-21,Meizhou Kejia,Sichuan Jiuniu,0.0,0.0,0.0,0.0,1173133,169
+2024,2024-05-21,Henan Jianye,Shanghai Shenhua,0.0,2.0,1.0,2.0,1173135,169
+2024,2024-05-21,Hangzhou Greentown,Wuhan Three Towns,2.0,1.0,3.0,1.0,1173134,169
+2024,2024-05-21,Qingdao Jonoon,Beijing Guoan,0.0,0.0,1.0,1.0,1173136,169
+2024,2024-05-21,Tianjin Teda,Shandong Luneng,1.0,0.0,1.0,1.0,1173138,169
+2024,2024-05-21,Nantong Zhiyun,Shijiazhuang Y. J.,0.0,0.0,1.0,1.0,1173137,169
+2024,2024-05-22,Qingdao Youth Island,Changchun Yatai,0.0,2.0,2.0,2.0,1173139,169
+2024,2024-05-22,SHANGHAI SIPG,Chengdu Better City,0.0,0.0,2.0,0.0,1173140,169
+2024,2024-05-25,Shandong Luneng,Hangzhou Greentown,3.0,0.0,3.0,0.0,1173141,169
+2024,2024-05-25,Wuhan Three Towns,Meizhou Kejia,0.0,0.0,0.0,1.0,1173142,169
+2024,2024-05-26,Sichuan Jiuniu,Shanghai Shenhua,0.0,1.0,0.0,1.0,1173143,169
+2024,2024-05-26,Beijing Guoan,Nantong Zhiyun,2.0,1.0,5.0,2.0,1173145,169
+2024,2024-05-26,Qingdao Jonoon,Tianjin Teda,2.0,0.0,3.0,1.0,1173144,169
+2024,2024-05-26,Changchun Yatai,Henan Jianye,0.0,0.0,0.0,0.0,1173146,169
+2024,2024-05-26,Chengdu Better City,Qingdao Youth Island,3.0,0.0,7.0,0.0,1173147,169
+2024,2024-05-26,SHANGHAI SIPG,Shijiazhuang Y. J.,1.0,1.0,4.0,1.0,1173148,169
+2024,2024-06-14,Meizhou Kejia,Shandong Luneng,0.0,0.0,0.0,0.0,1173149,169
+2024,2024-06-14,Tianjin Teda,SHANGHAI SIPG,0.0,2.0,0.0,3.0,1173151,169
+2024,2024-06-14,Nantong Zhiyun,Sichuan Jiuniu,0.0,0.0,0.0,1.0,1173150,169
+2024,2024-06-15,Hangzhou Greentown,Changchun Yatai,0.0,1.0,3.0,1.0,1173152,169
+2024,2024-06-15,Henan Jianye,Beijing Guoan,0.0,1.0,2.0,1.0,1173153,169
+2024,2024-06-16,Shijiazhuang Y. J.,Qingdao Jonoon,0.0,1.0,0.0,1.0,1173154,169
+2024,2024-06-16,Shanghai Shenhua,Chengdu Better City,1.0,1.0,1.0,1.0,1173155,169
+2024,2024-06-16,Qingdao Youth Island,Wuhan Three Towns,0.0,1.0,0.0,1.0,1173156,169
+2024,2024-06-18,Meizhou Kejia,SHANGHAI SIPG,0.0,0.0,1.0,2.0,1173091,169
+2024,2024-06-25,Henan Jianye,Qingdao Youth Island,0.0,0.0,1.0,0.0,1173157,169
+2024,2024-06-25,Nantong Zhiyun,Tianjin Teda,1.0,0.0,1.0,1.0,1173158,169
+2024,2024-06-25,Sichuan Jiuniu,Hangzhou Greentown,0.0,1.0,3.0,2.0,1173159,169
+2024,2024-06-25,Wuhan Three Towns,SHANGHAI SIPG,0.0,2.0,0.0,2.0,1173160,169
+2024,2024-06-26,Shanghai Shenhua,Meizhou Kejia,1.0,0.0,3.0,0.0,1173161,169
+2024,2024-06-26,Changchun Yatai,Shandong Luneng,1.0,2.0,2.0,2.0,1173162,169
+2024,2024-06-26,Qingdao Jonoon,Chengdu Better City,1.0,2.0,1.0,5.0,1173163,169
+2024,2024-06-26,Beijing Guoan,Shijiazhuang Y. J.,2.0,0.0,4.0,0.0,1173164,169
+2024,2024-06-29,Wuhan Three Towns,Nantong Zhiyun,0.0,1.0,1.0,2.0,1173165,169
+2024,2024-06-29,SHANGHAI SIPG,Hangzhou Greentown,1.0,1.0,3.0,1.0,1173166,169
+2024,2024-06-29,Tianjin Teda,Sichuan Jiuniu,1.0,0.0,3.0,0.0,1173167,169
+2024,2024-06-30,Qingdao Youth Island,Shanghai Shenhua,0.0,0.0,0.0,1.0,1173168,169
+2024,2024-06-30,Changchun Yatai,Qingdao Jonoon,2.0,0.0,5.0,0.0,1173169,169
+2024,2024-06-30,Meizhou Kejia,Henan Jianye,0.0,0.0,0.0,3.0,1173170,169
+2024,2024-06-30,Chengdu Better City,Shijiazhuang Y. J.,2.0,0.0,4.0,0.0,1173171,169
+2024,2024-06-30,Beijing Guoan,Shandong Luneng,2.0,0.0,2.0,0.0,1173172,169
+2024,2024-07-05,Henan Jianye,SHANGHAI SIPG,0.0,1.0,0.0,1.0,1173173,169
+2024,2024-07-06,Tianjin Teda,Changchun Yatai,2.0,0.0,2.0,2.0,1173174,169
+2024,2024-07-06,Shanghai Shenhua,Shandong Luneng,3.0,0.0,6.0,0.0,1173175,169
+2024,2024-07-06,Shijiazhuang Y. J.,Sichuan Jiuniu,1.0,1.0,1.0,1.0,1173176,169
+2024,2024-07-07,Nantong Zhiyun,Chengdu Better City,0.0,0.0,0.0,1.0,1173177,169
+2024,2024-07-07,Beijing Guoan,Wuhan Three Towns,0.0,1.0,1.0,2.0,1173178,169
+2024,2024-07-07,Qingdao Jonoon,Qingdao Youth Island,3.0,1.0,3.0,1.0,1173179,169
+2024,2024-07-07,Hangzhou Greentown,Meizhou Kejia,3.0,0.0,4.0,0.0,1173180,169
+2024,2024-07-12,SHANGHAI SIPG,Beijing Guoan,3.0,1.0,5.0,1.0,1173183,169
+2024,2024-07-12,Shijiazhuang Y. J.,Wuhan Three Towns,1.0,1.0,1.0,1.0,1173182,169
+2024,2024-07-12,Chengdu Better City,Tianjin Teda,1.0,1.0,2.0,1.0,1173184,169
+2024,2024-07-13,Qingdao Youth Island,Hangzhou Greentown,1.0,2.0,5.0,2.0,1173181,169
+2024,2024-07-13,Shandong Luneng,Qingdao Jonoon,1.0,1.0,1.0,1.0,1173185,169
+2024,2024-07-13,Meizhou Kejia,Nantong Zhiyun,0.0,1.0,2.0,1.0,1173186,169
+2024,2024-07-13,Shanghai Shenhua,Changchun Yatai,1.0,1.0,3.0,2.0,1173187,169
+2024,2024-07-13,Sichuan Jiuniu,Henan Jianye,0.0,0.0,0.0,0.0,1173188,169
+2024,2024-07-20,Wuhan Three Towns,Chengdu Better City,0.0,0.0,1.0,1.0,1173228,169
+2024,2024-07-21,Qingdao Youth Island,Meizhou Kejia,3.0,1.0,3.0,3.0,1173225,169
+2024,2024-07-21,Nantong Zhiyun,Shandong Luneng,0.0,1.0,0.0,2.0,1173224,169
+2024,2024-07-21,Beijing Guoan,Tianjin Teda,0.0,0.0,2.0,0.0,1173226,169
+2024,2024-07-21,SHANGHAI SIPG,Qingdao Jonoon,0.0,0.0,5.0,0.0,1173227,169
+2024,2024-07-21,Henan Jianye,Hangzhou Greentown,2.0,1.0,2.0,1.0,1173222,169
+2024,2024-07-21,Sichuan Jiuniu,Changchun Yatai,0.0,1.0,2.0,1.0,1173223,169
+2024,2024-07-22,Shijiazhuang Y. J.,Shanghai Shenhua,0.0,2.0,0.0,5.0,1173221,169
+2024,2024-07-26,SHANGHAI SIPG,Nantong Zhiyun,4.0,0.0,8.0,1.0,1173189,169
+2024,2024-07-26,Sichuan Jiuniu,Beijing Guoan,0.0,0.0,1.0,0.0,1173190,169
+2024,2024-07-27,Changchun Yatai,Shijiazhuang Y. J.,0.0,0.0,1.0,0.0,1173191,169
+2024,2024-07-27,Tianjin Teda,Qingdao Youth Island,1.0,0.0,2.0,1.0,1173192,169
+2024,2024-07-28,Hangzhou Greentown,Chengdu Better City,1.0,1.0,1.0,3.0,1173193,169
+2024,2024-07-28,Qingdao Jonoon,Meizhou Kejia,2.0,1.0,4.0,2.0,1173194,169
+2024,2024-07-28,Henan Jianye,Shandong Luneng,1.0,0.0,1.0,0.0,1173195,169
+2024,2024-07-29,Wuhan Three Towns,Shanghai Shenhua,0.0,1.0,0.0,2.0,1173196,169
+2024,2024-08-02,Qingdao Youth Island,Shijiazhuang Y. J.,0.0,0.0,1.0,1.0,1173197,169
+2024,2024-08-03,Hangzhou Greentown,Qingdao Jonoon,2.0,1.0,4.0,3.0,1173198,169
+2024,2024-08-03,Shandong Luneng,SHANGHAI SIPG,0.0,0.0,0.0,1.0,1173199,169
+2024,2024-08-03,Meizhou Kejia,Tianjin Teda,1.0,0.0,3.0,2.0,1173200,169
+2024,2024-08-03,Chengdu Better City,Changchun Yatai,3.0,0.0,4.0,0.0,1173202,169
+2024,2024-08-03,Wuhan Three Towns,Sichuan Jiuniu,3.0,0.0,4.0,1.0,1173201,169
+2024,2024-08-04,Beijing Guoan,Shanghai Shenhua,1.0,0.0,2.0,1.0,1173203,169
+2024,2024-08-04,Nantong Zhiyun,Henan Jianye,1.0,0.0,1.0,1.0,1173204,169
+2024,2024-08-09,SHANGHAI SIPG,Meizhou Kejia,4.0,1.0,7.0,2.0,1173210,169
+2024,2024-08-09,Shijiazhuang Y. J.,Shandong Luneng,0.0,1.0,3.0,1.0,1173205,169
+2024,2024-08-09,Sichuan Jiuniu,Chengdu Better City,0.0,3.0,0.0,3.0,1173206,169
+2024,2024-08-10,Qingdao Jonoon,Henan Jianye,0.0,0.0,0.0,2.0,1173207,169
+2024,2024-08-10,Changchun Yatai,Wuhan Three Towns,2.0,0.0,2.0,0.0,1173208,169
+2024,2024-08-10,Shanghai Shenhua,Nantong Zhiyun,3.0,0.0,5.0,1.0,1173209,169
+2024,2024-08-11,Qingdao Youth Island,Beijing Guoan,0.0,1.0,2.0,2.0,1173211,169
+2024,2024-08-11,Tianjin Teda,Hangzhou Greentown,2.0,0.0,3.0,2.0,1173212,169
+2024,2024-08-16,Henan Jianye,Shijiazhuang Y. J.,0.0,1.0,0.0,2.0,1173213,169
+2024,2024-08-16,Tianjin Teda,Wuhan Three Towns,0.0,0.0,1.0,0.0,1173214,169
+2024,2024-08-16,Beijing Guoan,Hangzhou Greentown,0.0,0.0,0.0,0.0,1173216,169
+2024,2024-08-16,Nantong Zhiyun,Qingdao Youth Island,0.0,1.0,0.0,3.0,1173215,169
+2024,2024-08-17,Qingdao Jonoon,Sichuan Jiuniu,1.0,0.0,1.0,0.0,1173217,169
+2024,2024-08-17,Shanghai Shenhua,SHANGHAI SIPG,0.0,1.0,3.0,1.0,1173218,169
+2024,2024-08-17,Meizhou Kejia,Changchun Yatai,2.0,0.0,2.0,1.0,1173219,169
+2024,2024-08-17,Shandong Luneng,Chengdu Better City,1.0,0.0,3.0,0.0,1173220,169
+2024,2024-09-13,SHANGHAI SIPG,Sichuan Jiuniu,1.0,0.0,2.0,0.0,1173229,169
+2024,2024-09-13,Hangzhou Greentown,Shanghai Shenhua,2.0,2.0,3.0,4.0,1173230,169
+2024,2024-09-13,Shandong Luneng,Qingdao Youth Island,0.0,1.0,0.0,1.0,1173231,169
+2024,2024-09-14,Changchun Yatai,Nantong Zhiyun,1.0,2.0,3.0,2.0,1173235,169
+2024,2024-09-14,Tianjin Teda,Henan Jianye,1.0,0.0,1.0,0.0,1173232,169
+2024,2024-09-14,Chengdu Better City,Beijing Guoan,2.0,0.0,2.0,2.0,1173233,169
+2024,2024-09-14,Shijiazhuang Y. J.,Meizhou Kejia,2.0,0.0,2.0,1.0,1173234,169
+2024,2024-09-15,Qingdao Jonoon,Wuhan Three Towns,1.0,0.0,1.0,1.0,1173236,169
+2024,2024-09-20,Meizhou Kejia,Beijing Guoan,0.0,1.0,1.0,3.0,1173237,169
+2024,2024-09-21,Changchun Yatai,SHANGHAI SIPG,1.0,3.0,3.0,4.0,1173238,169
+2024,2024-09-21,Henan Jianye,Chengdu Better City,1.0,0.0,2.0,0.0,1173240,169
+2024,2024-09-21,Shandong Luneng,Wuhan Three Towns,0.0,0.0,0.0,0.0,1173239,169
+2024,2024-09-21,Shanghai Shenhua,Tianjin Teda,0.0,1.0,2.0,1.0,1173241,169
+2024,2024-09-22,Qingdao Youth Island,Sichuan Jiuniu,2.0,2.0,3.0,2.0,1173242,169
+2024,2024-09-22,Nantong Zhiyun,Qingdao Jonoon,1.0,0.0,2.0,1.0,1173243,169
+2024,2024-09-22,Hangzhou Greentown,Shijiazhuang Y. J.,0.0,2.0,2.0,2.0,1173244,169
+2024,2024-09-28,Qingdao Jonoon,Shanghai Shenhua,0.0,1.0,0.0,1.0,1173245,169
+2024,2024-09-28,SHANGHAI SIPG,Qingdao Youth Island,1.0,0.0,2.0,1.0,1173246,169
+2024,2024-09-28,Beijing Guoan,Changchun Yatai,4.0,1.0,8.0,1.0,1173248,169
+2024,2024-09-28,Nantong Zhiyun,Hangzhou Greentown,2.0,2.0,3.0,2.0,1173247,169
+2024,2024-09-28,Sichuan Jiuniu,Shandong Luneng,0.0,0.0,1.0,4.0,1173249,169
+2024,2024-09-29,Tianjin Teda,Shijiazhuang Y. J.,1.0,1.0,3.0,2.0,1173250,169
+2024,2024-09-29,Chengdu Better City,Meizhou Kejia,1.0,0.0,2.0,0.0,1173251,169
+2024,2024-09-29,Wuhan Three Towns,Henan Jianye,0.0,0.0,1.0,0.0,1173252,169
+2024,2024-10-18,Shanghai Shenhua,Henan Jianye,0.0,0.0,2.0,1.0,1173255,169
+2024,2024-10-18,Shandong Luneng,Tianjin Teda,2.0,0.0,4.0,1.0,1173254,169
+2024,2024-10-18,Wuhan Three Towns,Hangzhou Greentown,0.0,1.0,0.0,2.0,1173253,169
+2024,2024-10-18,Chengdu Better City,SHANGHAI SIPG,3.0,1.0,3.0,1.0,1173256,169
+2024,2024-10-19,Changchun Yatai,Qingdao Youth Island,1.0,0.0,4.0,0.0,1173257,169
+2024,2024-10-19,Beijing Guoan,Qingdao Jonoon,2.0,0.0,6.0,0.0,1173258,169
+2024,2024-10-20,Shijiazhuang Y. J.,Nantong Zhiyun,0.0,0.0,0.0,0.0,1173259,169
+2024,2024-10-20,Sichuan Jiuniu,Meizhou Kejia,0.0,0.0,0.0,0.0,1173260,169
+2024,2024-10-27,Shanghai Shenhua,Sichuan Jiuniu,0.0,0.0,2.0,2.0,1173262,169
+2024,2024-10-27,Tianjin Teda,Qingdao Jonoon,1.0,0.0,1.0,0.0,1173263,169
+2024,2024-10-27,Henan Jianye,Changchun Yatai,0.0,0.0,0.0,0.0,1173264,169
+2024,2024-10-27,Hangzhou Greentown,Shandong Luneng,2.0,1.0,3.0,3.0,1173261,169
+2024,2024-10-27,Shijiazhuang Y. J.,SHANGHAI SIPG,0.0,1.0,0.0,1.0,1173266,169
+2024,2024-10-27,Meizhou Kejia,Wuhan Three Towns,1.0,0.0,1.0,0.0,1173265,169
+2024,2024-10-27,Nantong Zhiyun,Beijing Guoan,0.0,2.0,1.0,3.0,1173267,169
+2024,2024-10-27,Qingdao Youth Island,Chengdu Better City,1.0,0.0,1.0,1.0,1173268,169
+2024,2024-11-02,Beijing Guoan,Henan Jianye,1.0,1.0,1.0,1.0,1173272,169
+2024,2024-11-02,Changchun Yatai,Hangzhou Greentown,1.0,0.0,2.0,2.0,1173274,169
+2024,2024-11-02,SHANGHAI SIPG,Tianjin Teda,2.0,0.0,5.0,0.0,1173269,169
+2024,2024-11-02,Shandong Luneng,Meizhou Kejia,1.0,1.0,2.0,1.0,1173270,169
+2024,2024-11-02,Qingdao Jonoon,Shijiazhuang Y. J.,1.0,0.0,1.0,0.0,1173275,169
+2024,2024-11-02,Chengdu Better City,Shanghai Shenhua,1.0,1.0,1.0,2.0,1173271,169
+2024,2024-11-02,Sichuan Jiuniu,Nantong Zhiyun,2.0,1.0,2.0,1.0,1173276,169
+2024,2024-11-02,Wuhan Three Towns,Qingdao Youth Island,0.0,2.0,1.0,3.0,1173273,169
+2025,2025-02-22,Chengdu Better City,Wuhan Three Towns,0.0,0.0,1.0,0.0,1340899,169
+2025,2025-02-22,Shanghai Shenhua,Changchun Yatai,1.0,1.0,2.0,1.0,1340900,169
+2025,2025-02-22,Yunnan Yukun,Beijing Guoan,0.0,0.0,0.0,2.0,1340901,169
+2025,2025-02-23,Tianjin Teda,Meizhou Kejia,0.0,1.0,2.0,2.0,1340905,169
+2025,2025-02-23,Shandong Luneng,Henan Jianye,0.0,0.0,0.0,0.0,1340904,169
+2025,2025-02-23,Hangzhou Greentown,Dalian Zhixing,1.0,0.0,1.0,1.0,1340903,169
+2025,2025-02-23,Qingdao Jonoon,Qingdao Youth Island,2.0,1.0,2.0,2.0,1340902,169
+2025,2025-02-23,SHANGHAI SIPG,Sichuan Jiuniu,1.0,0.0,3.0,1.0,1340906,169
+2025,2025-02-28,Shandong Luneng,Dalian Zhixing,1.0,1.0,4.0,1.0,1340907,169
+2025,2025-02-28,SHANGHAI SIPG,Changchun Yatai,0.0,0.0,2.0,0.0,1340908,169
+2025,2025-03-01,Qingdao Jonoon,Sichuan Jiuniu,0.0,0.0,0.0,1.0,1340909,169
+2025,2025-03-01,Shanghai Shenhua,Beijing Guoan,2.0,1.0,2.0,2.0,1340911,169
+2025,2025-03-01,Meizhou Kejia,Henan Jianye,1.0,0.0,2.0,1.0,1340910,169
+2025,2025-03-01,Yunnan Yukun,Hangzhou Greentown,0.0,1.0,1.0,1.0,1340912,169
+2025,2025-03-02,Chengdu Better City,Tianjin Teda,1.0,1.0,1.0,2.0,1340914,169
+2025,2025-03-03,Qingdao Youth Island,Wuhan Three Towns,1.0,0.0,2.0,0.0,1340913,169
+2025,2025-03-28,Qingdao Youth Island,SHANGHAI SIPG,3.0,1.0,3.0,3.0,1340915,169
+2025,2025-03-28,Wuhan Three Towns,Hangzhou Greentown,0.0,4.0,0.0,4.0,1340916,169
+2025,2025-03-28,Sichuan Jiuniu,Yunnan Yukun,1.0,2.0,3.0,4.0,1340917,169
+2025,2025-03-29,Tianjin Teda,Qingdao Jonoon,1.0,0.0,1.0,0.0,1340919,169
+2025,2025-03-29,Dalian Zhixing,Changchun Yatai,1.0,0.0,2.0,0.0,1340918,169
+2025,2025-03-29,Henan Jianye,Shanghai Shenhua,1.0,0.0,1.0,3.0,1340920,169
+2025,2025-03-29,Meizhou Kejia,Shandong Luneng,3.0,1.0,3.0,4.0,1340921,169
+2025,2025-03-29,Beijing Guoan,Chengdu Better City,1.0,0.0,1.0,1.0,1340922,169
+2025,2025-04-01,Henan Jianye,Qingdao Youth Island,1.0,0.0,2.0,3.0,1340923,169
+2025,2025-04-01,Hangzhou Greentown,Sichuan Jiuniu,1.0,0.0,3.0,0.0,1340924,169
+2025,2025-04-02,Changchun Yatai,Wuhan Three Towns,1.0,1.0,1.0,1.0,1340925,169
+2025,2025-04-02,Shanghai Shenhua,Yunnan Yukun,0.0,1.0,3.0,1.0,1340926,169
+2025,2025-04-02,Qingdao Jonoon,Dalian Zhixing,0.0,1.0,1.0,1.0,1340927,169
+2025,2025-04-02,Tianjin Teda,Beijing Guoan,0.0,1.0,2.0,2.0,1340929,169
+2025,2025-04-02,Shandong Luneng,Chengdu Better City,0.0,2.0,0.0,3.0,1340928,169
+2025,2025-04-02,SHANGHAI SIPG,Meizhou Kejia,2.0,0.0,2.0,1.0,1340930,169
+2025,2025-04-05,Sichuan Jiuniu,Henan Jianye,0.0,1.0,1.0,3.0,1340931,169
+2025,2025-04-06,Changchun Yatai,Shandong Luneng,0.0,1.0,1.0,2.0,1340932,169
+2025,2025-04-06,Qingdao Youth Island,Tianjin Teda,1.0,2.0,2.0,2.0,1340933,169
+2025,2025-04-06,Meizhou Kejia,Wuhan Three Towns,0.0,1.0,3.0,1.0,1340934,169
+2025,2025-04-06,Chengdu Better City,Dalian Zhixing,1.0,0.0,2.0,0.0,1340935,169
+2025,2025-04-06,Beijing Guoan,Hangzhou Greentown,1.0,0.0,2.0,0.0,1340937,169
+2025,2025-04-06,SHANGHAI SIPG,Shanghai Shenhua,1.0,0.0,1.0,1.0,1340936,169
+2025,2025-04-06,Yunnan Yukun,Qingdao Jonoon,0.0,0.0,1.0,0.0,1340938,169
+2025,2025-04-11,Shandong Luneng,Sichuan Jiuniu,4.0,0.0,4.0,0.0,1340939,169
+2025,2025-04-11,Meizhou Kejia,Changchun Yatai,0.0,2.0,1.0,3.0,1340940,169
+2025,2025-04-12,Dalian Zhixing,Tianjin Teda,0.0,1.0,1.0,1.0,1340942,169
+2025,2025-04-12,Qingdao Jonoon,Chengdu Better City,0.0,1.0,0.0,1.0,1340944,169
+2025,2025-04-12,Wuhan Three Towns,Yunnan Yukun,3.0,0.0,3.0,1.0,1340945,169
+2025,2025-04-12,Shanghai Shenhua,Hangzhou Greentown,1.0,0.0,3.0,2.0,1340946,169
+2025,2025-04-15,Qingdao Youth Island,Shandong Luneng,0.0,1.0,1.0,5.0,1340947,169
+2025,2025-04-15,Wuhan Three Towns,Beijing Guoan,1.0,3.0,4.0,4.0,1340948,169
+2025,2025-04-15,Sichuan Jiuniu,Changchun Yatai,1.0,1.0,3.0,1.0,1340949,169
+2025,2025-04-16,Tianjin Teda,SHANGHAI SIPG,0.0,3.0,1.0,4.0,1340950,169
+2025,2025-04-16,Hangzhou Greentown,Meizhou Kejia,2.0,0.0,2.0,2.0,1340952,169
+2025,2025-04-16,Dalian Zhixing,Henan Jianye,0.0,0.0,1.0,0.0,1340951,169
+2025,2025-04-16,Chengdu Better City,Yunnan Yukun,1.0,0.0,1.0,1.0,1340953,169
+2025,2025-04-16,Shanghai Shenhua,Qingdao Jonoon,2.0,2.0,3.0,2.0,1340954,169
+2025,2025-04-19,Shanghai Shenhua,Wuhan Three Towns,1.0,0.0,2.0,0.0,1340955,169
+2025,2025-04-19,Beijing Guoan,Shandong Luneng,2.0,1.0,6.0,1.0,1340956,169
+2025,2025-04-20,Changchun Yatai,Yunnan Yukun,0.0,0.0,0.0,0.0,1340957,169
+2025,2025-04-20,Henan Jianye,Qingdao Jonoon,0.0,1.0,3.0,1.0,1340958,169
+2025,2025-04-20,Qingdao Youth Island,Dalian Zhixing,0.0,0.0,2.0,0.0,1340959,169
+2025,2025-04-20,Meizhou Kejia,Sichuan Jiuniu,0.0,0.0,3.0,0.0,1340960,169
+2025,2025-04-20,SHANGHAI SIPG,Chengdu Better City,1.0,2.0,1.0,3.0,1340962,169
+2025,2025-04-20,Tianjin Teda,Hangzhou Greentown,0.0,0.0,2.0,0.0,1340961,169
+2025,2025-04-25,Beijing Guoan,Henan Jianye,1.0,0.0,1.0,0.0,1340963,169
+2025,2025-04-25,Yunnan Yukun,SHANGHAI SIPG,0.0,1.0,2.0,3.0,1340964,169
+2025,2025-04-26,Changchun Yatai,Chengdu Better City,0.0,1.0,1.0,2.0,1340965,169
+2025,2025-04-26,Sichuan Jiuniu,Dalian Zhixing,0.0,1.0,1.0,1.0,1340966,169
+2025,2025-04-26,Shandong Luneng,Shanghai Shenhua,0.0,0.0,0.0,1.0,1340967,169
+2025,2025-04-27,Wuhan Three Towns,Tianjin Teda,0.0,1.0,2.0,1.0,1340969,169
+2025,2025-04-27,Qingdao Jonoon,Meizhou Kejia,0.0,1.0,1.0,1.0,1340970,169
+2025,2025-04-27,Hangzhou Greentown,Qingdao Youth Island,0.0,0.0,2.0,1.0,1340968,169
+2025,2025-05-01,Dalian Zhixing,Yunnan Yukun,2.0,0.0,3.0,2.0,1340971,169
+2025,2025-05-01,Sichuan Jiuniu,Tianjin Teda,1.0,0.0,1.0,0.0,1340972,169
+2025,2025-05-01,Henan Jianye,Wuhan Three Towns,0.0,0.0,1.0,2.0,1340974,169
+2025,2025-05-01,Hangzhou Greentown,Changchun Yatai,3.0,1.0,4.0,2.0,1340973,169
+2025,2025-05-01,SHANGHAI SIPG,Beijing Guoan,1.0,1.0,1.0,2.0,1340976,169
+2025,2025-05-01,Shandong Luneng,Qingdao Jonoon,0.0,0.0,1.0,1.0,1340975,169
+2025,2025-05-02,Qingdao Youth Island,Meizhou Kejia,1.0,0.0,3.0,1.0,1340977,169
+2025,2025-05-02,Chengdu Better City,Shanghai Shenhua,1.0,0.0,1.0,0.0,1340978,169
+2025,2025-05-05,Dalian Zhixing,Beijing Guoan,0.0,2.0,0.0,2.0,1340979,169
+2025,2025-05-05,Henan Jianye,Tianjin Teda,2.0,2.0,3.0,4.0,1340980,169
+2025,2025-05-05,Wuhan Three Towns,SHANGHAI SIPG,0.0,2.0,0.0,2.0,1340981,169
+2025,2025-05-05,Qingdao Jonoon,Changchun Yatai,0.0,0.0,3.0,0.0,1340982,169
+2025,2025-05-05,Chengdu Better City,Hangzhou Greentown,1.0,0.0,2.0,1.0,1340983,169
+2025,2025-05-05,Yunnan Yukun,Shandong Luneng,0.0,2.0,3.0,2.0,1340984,169
+2025,2025-05-06,Meizhou Kejia,Shanghai Shenhua,0.0,0.0,1.0,3.0,1340985,169
+2025,2025-05-06,Qingdao Youth Island,Sichuan Jiuniu,0.0,0.0,0.0,0.0,1340986,169
+2025,2025-05-09,SHANGHAI SIPG,Qingdao Jonoon,1.0,1.0,3.0,1.0,1340987,169
+2025,2025-05-10,Shanghai Shenhua,Qingdao Youth Island,3.0,0.0,4.0,0.0,1340988,169
+2025,2025-05-10,Shandong Luneng,Hangzhou Greentown,1.0,1.0,4.0,2.0,1340990,169
+2025,2025-05-10,Meizhou Kejia,Chengdu Better City,0.0,3.0,0.0,4.0,1340989,169
+2025,2025-05-10,Beijing Guoan,Sichuan Jiuniu,2.0,0.0,3.0,1.0,1340991,169
+2025,2025-05-11,Changchun Yatai,Henan Jianye,0.0,0.0,0.0,1.0,1340992,169
+2025,2025-05-11,Tianjin Teda,Yunnan Yukun,0.0,1.0,0.0,1.0,1340993,169
+2025,2025-05-11,Wuhan Three Towns,Dalian Zhixing,0.0,2.0,2.0,2.0,1340994,169
+2025,2025-05-16,Hangzhou Greentown,Henan Jianye,2.0,1.0,2.0,2.0,1340995,169
+2025,2025-05-16,Yunnan Yukun,Meizhou Kejia,1.0,0.0,2.0,0.0,1340996,169
+2025,2025-05-17,Dalian Zhixing,Shanghai Shenhua,0.0,2.0,0.0,3.0,1340997,169
+2025,2025-05-17,Changchun Yatai,Tianjin Teda,0.0,1.0,1.0,2.0,1340999,169
+2025,2025-05-17,Qingdao Jonoon,Beijing Guoan,0.0,0.0,1.0,1.0,1341000,169
+2025,2025-05-17,Chengdu Better City,Qingdao Youth Island,1.0,1.0,1.0,1.0,1341001,169
+2025,2025-05-17,SHANGHAI SIPG,Shandong Luneng,0.0,0.0,1.0,1.0,1341002,169
+2025,2025-06-13,Dalian Zhixing,Meizhou Kejia,0.0,0.0,1.0,0.0,1341003,169
+2025,2025-06-13,Wuhan Three Towns,Qingdao Jonoon,2.0,0.0,2.0,0.0,1341004,169
+2025,2025-06-14,Hangzhou Greentown,SHANGHAI SIPG,0.0,1.0,2.0,2.0,1341005,169
+2025,2025-06-14,Beijing Guoan,Changchun Yatai,2.0,0.0,2.0,1.0,1341007,169
+2025,2025-06-14,Qingdao Youth Island,Yunnan Yukun,0.0,0.0,0.0,0.0,1341006,169
+2025,2025-06-14,Henan Jianye,Chengdu Better City,2.0,2.0,3.0,2.0,1341009,169
+2025,2025-06-14,Sichuan Jiuniu,Shanghai Shenhua,1.0,1.0,3.0,1.0,1341008,169
+2025,2025-06-14,Tianjin Teda,Shandong Luneng,1.0,0.0,1.0,0.0,1341010,169
+2025,2025-06-17,Beijing Guoan,Qingdao Youth Island,1.0,0.0,1.0,0.0,1340941,169
+2025,2025-06-18,Henan Jianye,SHANGHAI SIPG,0.0,3.0,1.0,3.0,1340943,169
+2025,2025-06-18,Sichuan Jiuniu,Wuhan Three Towns,0.0,0.0,1.0,2.0,1340998,169
+2025,2025-06-25,Shanghai Shenhua,Tianjin Teda,2.0,0.0,3.0,0.0,1341011,169
+2025,2025-06-25,Qingdao Jonoon,Hangzhou Greentown,0.0,0.0,0.0,3.0,1341012,169
+2025,2025-06-25,Changchun Yatai,Qingdao Youth Island,0.0,0.0,1.0,0.0,1341014,169
+2025,2025-06-25,Shandong Luneng,Wuhan Three Towns,1.0,0.0,3.0,1.0,1341013,169
+2025,2025-06-25,Meizhou Kejia,Beijing Guoan,0.0,2.0,0.0,4.0,1341015,169
+2025,2025-06-25,Chengdu Better City,Sichuan Jiuniu,2.0,0.0,5.0,0.0,1341016,169
+2025,2025-06-26,SHANGHAI SIPG,Dalian Zhixing,2.0,0.0,3.0,0.0,1341017,169
+2025,2025-06-26,Yunnan Yukun,Henan Jianye,0.0,1.0,2.0,1.0,1341018,169
+2025,2025-06-29,Changchun Yatai,Shanghai Shenhua,0.0,2.0,1.0,2.0,1341019,169
+2025,2025-06-29,Qingdao Youth Island,Qingdao Jonoon,1.0,0.0,1.0,0.0,1341020,169
+2025,2025-06-29,Meizhou Kejia,Tianjin Teda,0.0,2.0,1.0,2.0,1341021,169
+2025,2025-06-29,Wuhan Three Towns,Chengdu Better City,1.0,1.0,2.0,2.0,1341022,169
+2025,2025-06-30,Henan Jianye,Shandong Luneng,0.0,2.0,2.0,2.0,1341023,169
+2025,2025-06-30,Beijing Guoan,Yunnan Yukun,0.0,1.0,2.0,1.0,1341025,169
+2025,2025-06-30,Dalian Zhixing,Hangzhou Greentown,1.0,0.0,1.0,0.0,1341024,169
+2025,2025-06-30,Sichuan Jiuniu,SHANGHAI SIPG,1.0,0.0,1.0,2.0,1341026,169
+2025,2025-07-18,Changchun Yatai,SHANGHAI SIPG,0.0,1.0,1.0,3.0,1341028,169
+2025,2025-07-18,Wuhan Three Towns,Qingdao Youth Island,1.0,0.0,1.0,1.0,1341027,169
+2025,2025-07-18,Tianjin Teda,Chengdu Better City,0.0,0.0,2.0,1.0,1341029,169
+2025,2025-07-18,Hangzhou Greentown,Yunnan Yukun,0.0,1.0,3.0,1.0,1341030,169
+2025,2025-07-19,Dalian Zhixing,Shandong Luneng,1.0,0.0,2.0,0.0,1341031,169
+2025,2025-07-19,Beijing Guoan,Shanghai Shenhua,1.0,2.0,1.0,3.0,1341033,169
+2025,2025-07-19,Sichuan Jiuniu,Qingdao Jonoon,2.0,0.0,4.0,0.0,1341032,169
+2025,2025-07-19,Henan Jianye,Meizhou Kejia,0.0,0.0,1.0,1.0,1341034,169
+2025,2025-07-26,SHANGHAI SIPG,Qingdao Youth Island,1.0,0.0,2.0,2.0,1341035,169
+2025,2025-07-26,Chengdu Better City,Beijing Guoan,1.0,0.0,2.0,0.0,1341036,169
+2025,2025-07-26,Yunnan Yukun,Sichuan Jiuniu,2.0,1.0,3.0,1.0,1341037,169
+2025,2025-07-27,Changchun Yatai,Dalian Zhixing,0.0,1.0,0.0,2.0,1341039,169
+2025,2025-07-27,Qingdao Jonoon,Tianjin Teda,1.0,0.0,2.0,0.0,1341038,169
+2025,2025-07-27,Shanghai Shenhua,Henan Jianye,2.0,1.0,3.0,2.0,1341041,169
+2025,2025-07-27,Hangzhou Greentown,Wuhan Three Towns,0.0,1.0,3.0,2.0,1341040,169
+2025,2025-07-27,Shandong Luneng,Meizhou Kejia,0.0,0.0,3.0,0.0,1341042,169
+2025,2025-08-02,Yunnan Yukun,Shanghai Shenhua,3.0,1.0,4.0,4.0,1341043,169
+2025,2025-08-02,Chengdu Better City,Shandong Luneng,1.0,1.0,2.0,1.0,1341045,169
+2025,2025-08-02,Qingdao Youth Island,Henan Jianye,2.0,1.0,2.0,1.0,1341044,169
+2025,2025-08-02,Meizhou Kejia,SHANGHAI SIPG,0.0,4.0,2.0,4.0,1341046,169
+2025,2025-08-03,Dalian Zhixing,Qingdao Jonoon,1.0,0.0,2.0,0.0,1341047,169
+2025,2025-08-03,Beijing Guoan,Tianjin Teda,1.0,1.0,2.0,2.0,1341048,169
+2025,2025-08-03,Wuhan Three Towns,Changchun Yatai,0.0,0.0,0.0,0.0,1341049,169
+2025,2025-08-03,Sichuan Jiuniu,Hangzhou Greentown,0.0,1.0,2.0,4.0,1341050,169
+2025,2025-08-08,Dalian Zhixing,Chengdu Better City,0.0,0.0,0.0,2.0,1341051,169
+2025,2025-08-08,Henan Jianye,Sichuan Jiuniu,1.0,0.0,4.0,1.0,1341052,169
+2025,2025-08-09,Shandong Luneng,Changchun Yatai,1.0,0.0,2.0,1.0,1341053,169
+2025,2025-08-09,Shanghai Shenhua,SHANGHAI SIPG,0.0,1.0,1.0,2.0,1341054,169
+2025,2025-08-09,Qingdao Jonoon,Yunnan Yukun,2.0,1.0,5.0,1.0,1341055,169
+2025,2025-08-10,Tianjin Teda,Qingdao Youth Island,0.0,0.0,0.0,0.0,1341056,169
+2025,2025-08-10,Hangzhou Greentown,Beijing Guoan,2.0,1.0,3.0,4.0,1341057,169
+2025,2025-08-10,Wuhan Three Towns,Meizhou Kejia,0.0,1.0,1.0,2.0,1341058,169
+2025,2025-08-15,SHANGHAI SIPG,Henan Jianye,,,,,1341059,169
+2025,2025-08-15,Yunnan Yukun,Wuhan Three Towns,,,,,1341060,169
+2025,2025-08-16,Tianjin Teda,Dalian Zhixing,,,,,1341061,169
+2025,2025-08-16,Changchun Yatai,Meizhou Kejia,,,,,1341063,169
+2025,2025-08-16,Qingdao Youth Island,Beijing Guoan,,,,,1341062,169
+2025,2025-08-16,Hangzhou Greentown,Shanghai Shenhua,,,,,1341065,169
+2025,2025-08-16,Sichuan Jiuniu,Shandong Luneng,,,,,1341064,169
+2025,2025-08-16,Chengdu Better City,Qingdao Jonoon,,,,,1341066,169
+2025,2025-08-23,SHANGHAI SIPG,Tianjin Teda,,,,,1341067,169
+2025,2025-08-23,Yunnan Yukun,Chengdu Better City,,,,,1341068,169
+2025,2025-08-24,Changchun Yatai,Sichuan Jiuniu,,,,,1341071,169
+2025,2025-08-24,Meizhou Kejia,Hangzhou Greentown,,,,,1341070,169
+2025,2025-08-24,Henan Jianye,Dalian Zhixing,,,,,1341073,169
+2025,2025-08-24,Qingdao Jonoon,Shanghai Shenhua,,,,,1341072,169
+2025,2025-08-24,Shandong Luneng,Qingdao Youth Island,,,,,1341074,169
+2025,2025-08-25,Beijing Guoan,Wuhan Three Towns,,,,,1341069,169
+2025,2025-08-29,Qingdao Jonoon,Henan Jianye,,,,,1341075,169
+2025,2025-08-30,Hangzhou Greentown,Tianjin Teda,,,,,1341076,169
+2025,2025-08-30,Chengdu Better City,SHANGHAI SIPG,,,,,1341078,169
+2025,2025-08-30,Dalian Zhixing,Qingdao Youth Island,,,,,1341077,169
+2025,2025-08-30,Yunnan Yukun,Changchun Yatai,,,,,1341079,169
+2025,2025-08-31,Wuhan Three Towns,Shanghai Shenhua,,,,,1341080,169
+2025,2025-08-31,Shandong Luneng,Beijing Guoan,,,,,1341082,169
+2025,2025-08-31,Sichuan Jiuniu,Meizhou Kejia,,,,,1341081,169
+2025,2025-09-12,SHANGHAI SIPG,Yunnan Yukun,,,,,1341083,169
+2025,2025-09-12,Henan Jianye,Beijing Guoan,,,,,1341085,169
+2025,2025-09-12,Chengdu Better City,Changchun Yatai,,,,,1341084,169
+2025,2025-09-12,Shanghai Shenhua,Shandong Luneng,,,,,1341086,169
+2025,2025-09-13,Qingdao Youth Island,Hangzhou Greentown,,,,,1341088,169
+2025,2025-09-14,Dalian Zhixing,Sichuan Jiuniu,,,,,1341089,169
+2025,2025-09-14,Tianjin Teda,Wuhan Three Towns,,,,,1341090,169
+2025,2025-09-19,Yunnan Yukun,Dalian Zhixing,,,,,1341091,169
+2025,2025-09-20,Changchun Yatai,Hangzhou Greentown,,,,,1341092,169
+2025,2025-09-20,Meizhou Kejia,Qingdao Youth Island,,,,,1341093,169
+2025,2025-09-20,Wuhan Three Towns,Henan Jianye,,,,,1341094,169
+2025,2025-09-20,Qingdao Jonoon,Shandong Luneng,,,,,1341095,169
+2025,2025-09-21,Beijing Guoan,SHANGHAI SIPG,,,,,1341096,169
+2025,2025-09-21,Tianjin Teda,Sichuan Jiuniu,,,,,1341097,169
+2025,2025-09-21,Shanghai Shenhua,Chengdu Better City,,,,,1341098,169
+2025,2025-09-26,Shanghai Shenhua,Meizhou Kejia,,,,,1341099,169
+2025,2025-09-26,Beijing Guoan,Dalian Zhixing,,,,,1341100,169
+2025,2025-09-26,SHANGHAI SIPG,Wuhan Three Towns,,,,,1341102,169
+2025,2025-09-26,Hangzhou Greentown,Chengdu Better City,,,,,1341101,169
+2025,2025-09-27,Changchun Yatai,Qingdao Jonoon,,,,,1341103,169
+2025,2025-09-27,Shandong Luneng,Yunnan Yukun,,,,,1341104,169
+2025,2025-09-28,Tianjin Teda,Henan Jianye,,,,,1341105,169
+2025,2025-09-28,Sichuan Jiuniu,Qingdao Youth Island,,,,,1341106,169
+2025,2025-10-04,Meizhou Kejia,Qingdao Jonoon,,,,,1341087,169
+2025,2025-10-17,Qingdao Jonoon,SHANGHAI SIPG,,,,,1341107,169
+2025,2025-10-17,Chengdu Better City,Meizhou Kejia,,,,,1341108,169
+2025,2025-10-17,Sichuan Jiuniu,Beijing Guoan,,,,,1341110,169
+2025,2025-10-17,Qingdao Youth Island,Shanghai Shenhua,,,,,1341109,169
+2025,2025-10-18,Hangzhou Greentown,Shandong Luneng,,,,,1341111,169
+2025,2025-10-18,Yunnan Yukun,Tianjin Teda,,,,,1341112,169
+2025,2025-10-19,Dalian Zhixing,Wuhan Three Towns,,,,,1341113,169
+2025,2025-10-19,Henan Jianye,Changchun Yatai,,,,,1341114,169
+2025,2025-10-24,Meizhou Kejia,Yunnan Yukun,,,,,1341115,169
+2025,2025-10-25,Tianjin Teda,Changchun Yatai,,,,,1341116,169
+2025,2025-10-25,Henan Jianye,Hangzhou Greentown,,,,,1341117,169
+2025,2025-10-25,Wuhan Three Towns,Sichuan Jiuniu,,,,,1341118,169
+2025,2025-10-26,Shandong Luneng,SHANGHAI SIPG,,,,,1341119,169
+2025,2025-10-26,Qingdao Youth Island,Chengdu Better City,,,,,1341120,169
+2025,2025-10-26,Beijing Guoan,Qingdao Jonoon,,,,,1341121,169
+2025,2025-10-26,Shanghai Shenhua,Dalian Zhixing,,,,,1341122,169
+2025,2025-10-31,SHANGHAI SIPG,Hangzhou Greentown,,,,,1341123,169
+2025,2025-10-31,Chengdu Better City,Henan Jianye,,,,,1341124,169
+2025,2025-10-31,Shanghai Shenhua,Sichuan Jiuniu,,,,,1341125,169
+2025,2025-11-01,Changchun Yatai,Beijing Guoan,,,,,1341126,169
+2025,2025-11-01,Shandong Luneng,Tianjin Teda,,,,,1341127,169
+2025,2025-11-01,Meizhou Kejia,Dalian Zhixing,,,,,1341128,169
+2025,2025-11-02,Qingdao Jonoon,Wuhan Three Towns,,,,,1341129,169
+2025,2025-11-02,Yunnan Yukun,Qingdao Youth Island,,,,,1341130,169
+2025,2025-11-22,Beijing Guoan,Meizhou Kejia,,,,,1341131,169
+2025,2025-11-22,Tianjin Teda,Shanghai Shenhua,,,,,1341132,169
+2025,2025-11-22,Henan Jianye,Yunnan Yukun,,,,,1341134,169
+2025,2025-11-22,Hangzhou Greentown,Qingdao Jonoon,,,,,1341133,169
+2025,2025-11-22,Sichuan Jiuniu,Chengdu Better City,,,,,1341137,169
+2025,2025-11-22,Wuhan Three Towns,Shandong Luneng,,,,,1341136,169
+2025,2025-11-22,Qingdao Youth Island,Changchun Yatai,,,,,1341135,169
+2025,2025-11-22,Dalian Zhixing,SHANGHAI SIPG,,,,,1341138,169

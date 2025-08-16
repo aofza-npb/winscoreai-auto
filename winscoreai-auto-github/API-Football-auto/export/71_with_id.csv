@@ -1,0 +1,761 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away,fixture_id,league_id
+2024,2024-04-13,Internacional,Bahia,0.0,0.0,2.0,1.0,1180355,71
+2024,2024-04-13,Criciuma,Juventude,1.0,0.0,1.0,1.0,1180364,71
+2024,2024-04-14,Fluminense,RB Bragantino,1.0,0.0,2.0,2.0,1180358,71
+2024,2024-04-14,Sao Paulo,Fortaleza EC,0.0,0.0,1.0,2.0,1180361,71
+2024,2024-04-14,Corinthians,Atletico-MG,0.0,0.0,0.0,0.0,1180360,71
+2024,2024-04-14,Vasco DA Gama,Gremio,2.0,0.0,2.0,1.0,1180359,71
+2024,2024-04-14,Atletico Paranaense,Cuiaba,3.0,0.0,4.0,0.0,1180362,71
+2024,2024-04-14,Atletico Goianiense,Flamengo,0.0,1.0,1.0,2.0,1180363,71
+2024,2024-04-14,Cruzeiro,Botafogo,1.0,1.0,3.0,2.0,1180356,71
+2024,2024-04-14,Vitoria,Palmeiras,0.0,1.0,0.0,1.0,1180357,71
+2024,2024-04-17,Bahia,Fluminense,1.0,1.0,2.0,1.0,1180367,71
+2024,2024-04-17,Gremio,Atletico Paranaense,1.0,0.0,2.0,0.0,1180365,71
+2024,2024-04-17,RB Bragantino,Vasco DA Gama,1.0,0.0,2.0,1.0,1180371,71
+2024,2024-04-17,Palmeiras,Internacional,0.0,1.0,0.0,1.0,1180370,71
+2024,2024-04-17,Juventude,Corinthians,0.0,0.0,2.0,0.0,1180374,71
+2024,2024-04-17,Fortaleza EC,Cruzeiro,1.0,0.0,1.0,1.0,1180372,71
+2024,2024-04-17,Atletico-MG,Criciuma,1.0,0.0,1.0,1.0,1180366,71
+2024,2024-04-18,Flamengo,Sao Paulo,1.0,0.0,2.0,1.0,1180368,71
+2024,2024-04-19,Botafogo,Atletico Goianiense,1.0,0.0,1.0,0.0,1180369,71
+2024,2024-04-20,Fluminense,Vasco DA Gama,1.0,0.0,2.0,1.0,1180378,71
+2024,2024-04-20,Gremio,Cuiaba,1.0,0.0,1.0,0.0,1180375,71
+2024,2024-04-20,RB Bragantino,Corinthians,1.0,0.0,1.0,0.0,1180381,71
+2024,2024-04-21,Atletico-MG,Cruzeiro,3.0,0.0,3.0,0.0,1180376,71
+2024,2024-04-21,Palmeiras,Flamengo,0.0,0.0,0.0,0.0,1180380,71
+2024,2024-04-21,Atletico Paranaense,Internacional,0.0,0.0,1.0,0.0,1180382,71
+2024,2024-04-21,Vitoria,Bahia,1.0,0.0,2.0,2.0,1180377,71
+2024,2024-04-21,Botafogo,Juventude,2.0,0.0,5.0,1.0,1180379,71
+2024,2024-04-21,Atletico Goianiense,Sao Paulo,0.0,1.0,0.0,3.0,1180383,71
+2024,2024-04-27,Vasco DA Gama,Criciuma,0.0,1.0,0.0,4.0,1180389,71
+2024,2024-04-27,Cuiaba,Atletico-MG,0.0,1.0,0.0,3.0,1180393,71
+2024,2024-04-28,Bahia,Gremio,1.0,0.0,1.0,0.0,1180387,71
+2024,2024-04-28,Flamengo,Botafogo,0.0,0.0,0.0,2.0,1180388,71
+2024,2024-04-28,Corinthians,Fluminense,2.0,0.0,3.0,0.0,1180390,71
+2024,2024-04-28,Cruzeiro,Vitoria,0.0,0.0,3.0,1.0,1180386,71
+2024,2024-04-28,Juventude,Atletico Paranaense,1.0,0.0,1.0,1.0,1180394,71
+2024,2024-04-28,Fortaleza EC,RB Bragantino,1.0,1.0,1.0,1.0,1180392,71
+2024,2024-04-28,Internacional,Atletico Goianiense,0.0,0.0,1.0,1.0,1180385,71
+2024,2024-04-29,Sao Paulo,Palmeiras,0.0,0.0,0.0,0.0,1180391,71
+2024,2024-05-04,Fluminense,Atletico-MG,1.0,0.0,2.0,2.0,1180398,71
+2024,2024-05-04,RB Bragantino,Flamengo,1.0,0.0,1.0,1.0,1180401,71
+2024,2024-05-05,Corinthians,Fortaleza EC,0.0,0.0,0.0,0.0,1180400,71
+2024,2024-05-05,Atletico Paranaense,Vasco DA Gama,1.0,0.0,1.0,0.0,1180402,71
+2024,2024-05-05,Vitoria,Sao Paulo,0.0,1.0,1.0,3.0,1180397,71
+2024,2024-05-05,Botafogo,Bahia,0.0,1.0,1.0,2.0,1180399,71
+2024,2024-05-05,Cuiaba,Palmeiras,0.0,1.0,0.0,2.0,1180403,71
+2024,2024-05-11,Flamengo,Corinthians,1.0,0.0,2.0,0.0,1180408,71
+2024,2024-05-12,Palmeiras,Atletico Paranaense,0.0,1.0,0.0,2.0,1180410,71
+2024,2024-05-12,Atletico Goianiense,Cruzeiro,0.0,0.0,0.0,1.0,1180413,71
+2024,2024-05-12,Fortaleza EC,Botafogo,1.0,1.0,1.0,1.0,1180412,71
+2024,2024-05-12,Bahia,RB Bragantino,1.0,0.0,1.0,0.0,1180407,71
+2024,2024-05-12,Vasco DA Gama,Vitoria,0.0,0.0,2.0,1.0,1180409,71
+2024,2024-05-13,Sao Paulo,Fluminense,1.0,1.0,2.0,1.0,1180411,71
+2024,2024-06-01,Gremio,RB Bragantino,0.0,1.0,0.0,2.0,1180415,71
+2024,2024-06-01,Vitoria,Atletico Goianiense,0.0,1.0,0.0,2.0,1180417,71
+2024,2024-06-01,Fluminense,Juventude,1.0,0.0,1.0,1.0,1180418,71
+2024,2024-06-01,Cuiaba,Internacional,0.0,0.0,0.0,1.0,1180423,71
+2024,2024-06-02,Corinthians,Botafogo,0.0,0.0,0.0,1.0,1180420,71
+2024,2024-06-02,Vasco DA Gama,Flamengo,1.0,3.0,1.0,6.0,1180419,71
+2024,2024-06-02,Criciuma,Palmeiras,0.0,0.0,1.0,2.0,1180424,71
+2024,2024-06-02,Atletico-MG,Bahia,0.0,0.0,1.0,1.0,1180416,71
+2024,2024-06-02,Sao Paulo,Cruzeiro,1.0,0.0,2.0,0.0,1180421,71
+2024,2024-06-02,Fortaleza EC,Atletico Paranaense,1.0,0.0,1.0,0.0,1180422,71
+2024,2024-06-05,Juventude,Atletico Goianiense,1.0,0.0,1.0,0.0,1180404,71
+2024,2024-06-05,Cuiaba,Vitoria,0.0,0.0,0.0,0.0,1180373,71
+2024,2024-06-09,Criciuma,Cuiaba,0.0,3.0,2.0,5.0,1180414,71
+2024,2024-06-11,Atletico Goianiense,Corinthians,0.0,1.0,2.0,2.0,1180433,71
+2024,2024-06-11,Juventude,Vitoria,1.0,1.0,1.0,1.0,1180434,71
+2024,2024-06-11,Botafogo,Fluminense,0.0,0.0,1.0,0.0,1180429,71
+2024,2024-06-12,RB Bragantino,Atletico-MG,1.0,2.0,1.0,2.0,1180431,71
+2024,2024-06-13,Cruzeiro,Cuiaba,1.0,0.0,2.0,1.0,1180426,71
+2024,2024-06-13,Internacional,Sao Paulo,0.0,0.0,0.0,0.0,1180425,71
+2024,2024-06-13,Flamengo,Gremio,1.0,0.0,2.0,1.0,1180428,71
+2024,2024-06-13,Atletico Paranaense,Criciuma,1.0,1.0,3.0,1.0,1180432,71
+2024,2024-06-14,Bahia,Fortaleza EC,0.0,0.0,1.0,0.0,1180427,71
+2024,2024-06-14,Palmeiras,Vasco DA Gama,1.0,0.0,2.0,0.0,1180430,71
+2024,2024-06-15,RB Bragantino,Juventude,1.0,1.0,2.0,1.0,1180441,71
+2024,2024-06-16,Fluminense,Atletico Goianiense,1.0,0.0,1.0,2.0,1180438,71
+2024,2024-06-16,Corinthians,Sao Paulo,2.0,2.0,2.0,2.0,1180440,71
+2024,2024-06-16,Atletico Paranaense,Flamengo,0.0,0.0,1.0,1.0,1180442,71
+2024,2024-06-16,Vitoria,Internacional,1.0,0.0,2.0,1.0,1180437,71
+2024,2024-06-16,Gremio,Botafogo,1.0,1.0,1.0,2.0,1180435,71
+2024,2024-06-16,Vasco DA Gama,Cruzeiro,0.0,0.0,0.0,0.0,1180439,71
+2024,2024-06-16,Criciuma,Bahia,1.0,0.0,2.0,2.0,1180444,71
+2024,2024-06-16,Cuiaba,Fortaleza EC,4.0,0.0,5.0,0.0,1180443,71
+2024,2024-06-17,Atletico-MG,Palmeiras,0.0,1.0,0.0,4.0,1180436,71
+2024,2024-06-19,Botafogo,Atletico Paranaense,0.0,0.0,1.0,1.0,1180449,71
+2024,2024-06-19,Atletico Goianiense,Criciuma,1.0,0.0,1.0,2.0,1180453,71
+2024,2024-06-19,Sao Paulo,Cuiaba,0.0,0.0,0.0,1.0,1180451,71
+2024,2024-06-19,Juventude,Vasco DA Gama,0.0,0.0,2.0,0.0,1180454,71
+2024,2024-06-19,Fortaleza EC,Gremio,1.0,0.0,1.0,0.0,1180452,71
+2024,2024-06-20,Internacional,Corinthians,1.0,0.0,1.0,0.0,1180445,71
+2024,2024-06-20,Cruzeiro,Fluminense,1.0,0.0,2.0,0.0,1180446,71
+2024,2024-06-20,Vitoria,Atletico-MG,2.0,1.0,4.0,2.0,1180447,71
+2024,2024-06-20,Flamengo,Bahia,1.0,1.0,2.0,1.0,1180448,71
+2024,2024-06-21,Palmeiras,RB Bragantino,1.0,0.0,2.0,1.0,1180450,71
+2024,2024-06-22,Criciuma,Botafogo,1.0,0.0,2.0,1.0,1180464,71
+2024,2024-06-22,Gremio,Internacional,0.0,0.0,0.0,1.0,1180455,71
+2024,2024-06-22,Cuiaba,Atletico Goianiense,0.0,0.0,0.0,0.0,1180463,71
+2024,2024-06-23,Vasco DA Gama,Sao Paulo,2.0,1.0,4.0,1.0,1180459,71
+2024,2024-06-23,Bahia,Cruzeiro,1.0,1.0,4.0,1.0,1180457,71
+2024,2024-06-23,Fluminense,Flamengo,0.0,0.0,0.0,1.0,1180458,71
+2024,2024-06-23,Atletico Paranaense,Corinthians,1.0,0.0,1.0,1.0,1180462,71
+2024,2024-06-23,Palmeiras,Juventude,0.0,0.0,3.0,1.0,1180460,71
+2024,2024-06-23,RB Bragantino,Vitoria,1.0,1.0,2.0,1.0,1180461,71
+2024,2024-06-23,Atletico-MG,Fortaleza EC,0.0,1.0,1.0,1.0,1180456,71
+2024,2024-06-26,Botafogo,RB Bragantino,1.0,1.0,2.0,1.0,1180469,71
+2024,2024-06-26,Cruzeiro,Atletico Paranaense,1.0,0.0,2.0,0.0,1180466,71
+2024,2024-06-26,Corinthians,Cuiaba,0.0,1.0,1.0,1.0,1180470,71
+2024,2024-06-26,Atletico Goianiense,Gremio,0.0,0.0,1.0,1.0,1180473,71
+2024,2024-06-26,Juventude,Flamengo,1.0,1.0,2.0,1.0,1180474,71
+2024,2024-06-27,Bahia,Vasco DA Gama,1.0,1.0,2.0,1.0,1180467,71
+2024,2024-06-27,Internacional,Atletico-MG,0.0,0.0,1.0,2.0,1180465,71
+2024,2024-06-27,Fortaleza EC,Palmeiras,1.0,0.0,3.0,0.0,1180472,71
+2024,2024-06-27,Fluminense,Vitoria,0.0,0.0,0.0,1.0,1180468,71
+2024,2024-06-27,Sao Paulo,Criciuma,2.0,0.0,2.0,1.0,1180471,71
+2024,2024-06-29,Vasco DA Gama,Botafogo,0.0,0.0,1.0,1.0,1180479,71
+2024,2024-06-29,Cuiaba,RB Bragantino,1.0,1.0,1.0,1.0,1180483,71
+2024,2024-06-30,Atletico-MG,Atletico Goianiense,1.0,1.0,1.0,1.0,1180476,71
+2024,2024-06-30,Sao Paulo,Bahia,2.0,0.0,3.0,1.0,1180481,71
+2024,2024-06-30,Gremio,Fluminense,0.0,0.0,1.0,0.0,1180475,71
+2024,2024-06-30,Fortaleza EC,Juventude,2.0,0.0,2.0,1.0,1180482,71
+2024,2024-06-30,Flamengo,Cruzeiro,1.0,1.0,2.0,1.0,1180478,71
+2024,2024-06-30,Vitoria,Atletico Paranaense,0.0,0.0,0.0,1.0,1180477,71
+2024,2024-06-30,Criciuma,Internacional,0.0,1.0,1.0,1.0,1180484,71
+2024,2024-07-01,Palmeiras,Corinthians,0.0,0.0,2.0,0.0,1180480,71
+2024,2024-07-03,Cuiaba,Botafogo,1.0,1.0,1.0,2.0,1180493,71
+2024,2024-07-03,Vasco DA Gama,Fortaleza EC,1.0,0.0,2.0,0.0,1180489,71
+2024,2024-07-03,Criciuma,Cruzeiro,0.0,0.0,1.0,0.0,1180494,71
+2024,2024-07-04,Atletico Paranaense,Sao Paulo,1.0,1.0,1.0,2.0,1180492,71
+2024,2024-07-04,RB Bragantino,Atletico Goianiense,3.0,1.0,3.0,1.0,1180491,71
+2024,2024-07-04,Atletico-MG,Flamengo,0.0,2.0,2.0,4.0,1180486,71
+2024,2024-07-04,Bahia,Juventude,0.0,0.0,2.0,0.0,1180487,71
+2024,2024-07-04,Gremio,Palmeiras,1.0,0.0,2.0,2.0,1180485,71
+2024,2024-07-04,Fluminense,Internacional,1.0,1.0,1.0,1.0,1180488,71
+2024,2024-07-04,Corinthians,Vitoria,2.0,1.0,3.0,2.0,1180490,71
+2024,2024-07-06,Sao Paulo,RB Bragantino,0.0,0.0,2.0,0.0,1180501,71
+2024,2024-07-06,Flamengo,Cuiaba,0.0,1.0,1.0,1.0,1180498,71
+2024,2024-07-07,Cruzeiro,Corinthians,2.0,0.0,3.0,0.0,1180496,71
+2024,2024-07-07,Juventude,Gremio,2.0,0.0,3.0,0.0,1180504,71
+2024,2024-07-07,Fortaleza EC,Fluminense,0.0,0.0,1.0,0.0,1180502,71
+2024,2024-07-07,Internacional,Vasco DA Gama,0.0,0.0,1.0,2.0,1180495,71
+2024,2024-07-07,Palmeiras,Bahia,1.0,0.0,2.0,0.0,1180500,71
+2024,2024-07-07,Vitoria,Criciuma,2.0,1.0,2.0,1.0,1180497,71
+2024,2024-07-07,Atletico Goianiense,Atletico Paranaense,0.0,0.0,1.0,2.0,1180503,71
+2024,2024-07-07,Botafogo,Atletico-MG,1.0,0.0,3.0,0.0,1180499,71
+2024,2024-07-10,Gremio,Cruzeiro,0.0,2.0,0.0,2.0,1180505,71
+2024,2024-07-10,Vasco DA Gama,Corinthians,0.0,0.0,2.0,0.0,1180509,71
+2024,2024-07-10,Atletico Paranaense,Bahia,0.0,2.0,1.0,3.0,1180512,71
+2024,2024-07-11,Palmeiras,Atletico Goianiense,1.0,1.0,3.0,1.0,1180510,71
+2024,2024-07-11,Flamengo,Fortaleza EC,1.0,1.0,1.0,2.0,1180508,71
+2024,2024-07-11,Criciuma,Fluminense,0.0,0.0,1.0,1.0,1180514,71
+2024,2024-07-12,Vitoria,Botafogo,0.0,0.0,0.0,1.0,1180507,71
+2024,2024-07-12,Atletico-MG,Sao Paulo,2.0,1.0,2.0,1.0,1180506,71
+2024,2024-07-13,Bahia,Cuiaba,0.0,1.0,1.0,2.0,1180517,71
+2024,2024-07-13,Cruzeiro,RB Bragantino,1.0,0.0,2.0,1.0,1180516,71
+2024,2024-07-16,Juventude,Atletico-MG,1.0,1.0,1.0,1.0,1180524,71
+2024,2024-07-17,Corinthians,Criciuma,0.0,1.0,2.0,1.0,1180520,71
+2024,2024-07-17,Atletico Goianiense,Vasco DA Gama,0.0,0.0,0.0,1.0,1180523,71
+2024,2024-07-17,Sao Paulo,Gremio,1.0,0.0,1.0,0.0,1180521,71
+2024,2024-07-18,Botafogo,Palmeiras,0.0,0.0,1.0,0.0,1180519,71
+2024,2024-07-18,Fortaleza EC,Vitoria,2.0,0.0,3.0,1.0,1180522,71
+2024,2024-07-20,Flamengo,Criciuma,0.0,1.0,2.0,1.0,1180528,71
+2024,2024-07-20,Botafogo,Internacional,1.0,0.0,1.0,0.0,1180529,71
+2024,2024-07-21,Palmeiras,Cruzeiro,1.0,0.0,2.0,0.0,1180530,71
+2024,2024-07-21,Gremio,Vitoria,0.0,0.0,2.0,0.0,1180525,71
+2024,2024-07-21,Bahia,Corinthians,0.0,1.0,0.0,1.0,1180527,71
+2024,2024-07-21,Atletico-MG,Vasco DA Gama,2.0,0.0,2.0,0.0,1180526,71
+2024,2024-07-21,Juventude,Sao Paulo,0.0,0.0,0.0,0.0,1180534,71
+2024,2024-07-21,Fortaleza EC,Atletico Goianiense,1.0,1.0,3.0,1.0,1180532,71
+2024,2024-07-21,RB Bragantino,Atletico Paranaense,1.0,0.0,1.0,0.0,1180531,71
+2024,2024-07-21,Cuiaba,Fluminense,0.0,0.0,0.0,1.0,1180533,71
+2024,2024-07-24,Cruzeiro,Juventude,1.0,0.0,2.0,0.0,1180536,71
+2024,2024-07-24,Criciuma,Fortaleza EC,1.0,0.0,1.0,1.0,1180384,71
+2024,2024-07-24,Sao Paulo,Botafogo,1.0,2.0,2.0,2.0,1180541,71
+2024,2024-07-24,Vitoria,Flamengo,0.0,1.0,1.0,2.0,1180537,71
+2024,2024-07-25,Fluminense,Palmeiras,0.0,0.0,1.0,0.0,1180538,71
+2024,2024-07-25,Atletico Goianiense,Bahia,0.0,0.0,1.0,1.0,1180543,71
+2024,2024-07-25,Corinthians,Gremio,1.0,1.0,2.0,2.0,1180540,71
+2024,2024-07-27,Palmeiras,Vitoria,0.0,0.0,0.0,2.0,1180550,71
+2024,2024-07-27,Juventude,Criciuma,0.0,0.0,1.0,2.0,1180554,71
+2024,2024-07-27,Bahia,Internacional,1.0,0.0,1.0,1.0,1180547,71
+2024,2024-07-28,Botafogo,Cruzeiro,0.0,2.0,0.0,3.0,1180549,71
+2024,2024-07-28,Fortaleza EC,Sao Paulo,1.0,0.0,1.0,0.0,1180552,71
+2024,2024-07-28,RB Bragantino,Fluminense,0.0,1.0,0.0,1.0,1180551,71
+2024,2024-07-28,Flamengo,Atletico Goianiense,1.0,0.0,2.0,0.0,1180548,71
+2024,2024-07-28,Gremio,Vasco DA Gama,0.0,0.0,1.0,0.0,1180545,71
+2024,2024-07-28,Atletico-MG,Corinthians,1.0,1.0,2.0,1.0,1180546,71
+2024,2024-07-28,Cuiaba,Atletico Paranaense,0.0,1.0,1.0,2.0,1180553,71
+2024,2024-08-03,Vitoria,Cuiaba,0.0,0.0,1.0,0.0,1180557,71
+2024,2024-08-03,Vasco DA Gama,RB Bragantino,0.0,1.0,2.0,2.0,1180559,71
+2024,2024-08-03,Criciuma,Atletico-MG,0.0,0.0,2.0,1.0,1180564,71
+2024,2024-08-03,Atletico Goianiense,Botafogo,1.0,1.0,1.0,4.0,1180563,71
+2024,2024-08-04,Sao Paulo,Flamengo,0.0,0.0,1.0,0.0,1180561,71
+2024,2024-08-04,Fluminense,Bahia,1.0,0.0,1.0,0.0,1180558,71
+2024,2024-08-04,Corinthians,Juventude,0.0,1.0,1.0,1.0,1180560,71
+2024,2024-08-04,Atletico Paranaense,Gremio,0.0,2.0,0.0,2.0,1180562,71
+2024,2024-08-04,Internacional,Palmeiras,1.0,0.0,1.0,1.0,1180555,71
+2024,2024-08-06,Cruzeiro,Fortaleza EC,1.0,2.0,1.0,2.0,1180556,71
+2024,2024-08-10,Fortaleza EC,Criciuma,0.0,0.0,1.0,0.0,1180572,71
+2024,2024-08-10,Cuiaba,Gremio,0.0,1.0,1.0,3.0,1180573,71
+2024,2024-08-11,Corinthians,RB Bragantino,0.0,1.0,1.0,1.0,1180570,71
+2024,2024-08-11,Vasco DA Gama,Fluminense,1.0,0.0,2.0,0.0,1180569,71
+2024,2024-08-11,Cruzeiro,Atletico-MG,0.0,0.0,0.0,0.0,1180566,71
+2024,2024-08-11,Juventude,Botafogo,2.0,0.0,3.0,2.0,1180574,71
+2024,2024-08-11,Bahia,Vitoria,1.0,0.0,2.0,0.0,1180567,71
+2024,2024-08-11,Sao Paulo,Atletico Goianiense,1.0,0.0,1.0,0.0,1180571,71
+2024,2024-08-11,Flamengo,Palmeiras,0.0,0.0,1.0,1.0,1180568,71
+2024,2024-08-11,Internacional,Atletico Paranaense,1.0,1.0,2.0,2.0,1180565,71
+2024,2024-08-14,Internacional,Juventude,0.0,1.0,2.0,1.0,1180405,71
+2024,2024-08-17,Gremio,Bahia,0.0,1.0,0.0,2.0,1180575,71
+2024,2024-08-17,Atletico-MG,Cuiaba,1.0,1.0,1.0,1.0,1180576,71
+2024,2024-08-17,RB Bragantino,Fortaleza EC,1.0,1.0,1.0,2.0,1180581,71
+2024,2024-08-18,Fluminense,Corinthians,0.0,0.0,0.0,0.0,1180578,71
+2024,2024-08-18,Palmeiras,Sao Paulo,0.0,0.0,2.0,1.0,1180580,71
+2024,2024-08-18,Criciuma,Vasco DA Gama,1.0,2.0,2.0,2.0,1180584,71
+2024,2024-08-18,Atletico Goianiense,Internacional,0.0,0.0,1.0,0.0,1180583,71
+2024,2024-08-18,Botafogo,Flamengo,1.0,1.0,4.0,1.0,1180579,71
+2024,2024-08-18,Atletico Paranaense,Juventude,1.0,1.0,1.0,2.0,1180582,71
+2024,2024-08-19,Vitoria,Cruzeiro,2.0,0.0,2.0,2.0,1180577,71
+2024,2024-08-24,Atletico Goianiense,Juventude,0.0,0.0,2.0,1.0,1180593,71
+2024,2024-08-24,Palmeiras,Cuiaba,4.0,0.0,5.0,0.0,1180590,71
+2024,2024-08-25,Atletico-MG,Fluminense,0.0,1.0,0.0,2.0,1180586,71
+2024,2024-08-25,Bahia,Botafogo,0.0,0.0,0.0,0.0,1180587,71
+2024,2024-08-25,Criciuma,Gremio,0.0,0.0,0.0,1.0,1180594,71
+2024,2024-08-25,Fortaleza EC,Corinthians,0.0,0.0,1.0,0.0,1180592,71
+2024,2024-08-25,Sao Paulo,Vitoria,2.0,0.0,2.0,1.0,1180591,71
+2024,2024-08-25,Internacional,Cruzeiro,0.0,0.0,1.0,0.0,1180585,71
+2024,2024-08-25,Flamengo,RB Bragantino,1.0,0.0,2.0,1.0,1180588,71
+2024,2024-08-27,Vasco DA Gama,Atletico Paranaense,0.0,1.0,2.0,1.0,1180589,71
+2024,2024-08-28,Cruzeiro,Internacional,0.0,0.0,0.0,0.0,1180396,71
+2024,2024-08-28,Criciuma,RB Bragantino,1.0,0.0,1.0,0.0,1180544,71
+2024,2024-08-31,Cuiaba,Criciuma,0.0,1.0,2.0,1.0,1180603,71
+2024,2024-09-01,Botafogo,Fortaleza EC,0.0,0.0,2.0,0.0,1180599,71
+2024,2024-09-01,Gremio,Atletico-MG,2.0,0.0,2.0,3.0,1180595,71
+2024,2024-09-01,Cruzeiro,Atletico Goianiense,2.0,1.0,3.0,1.0,1180596,71
+2024,2024-09-01,Corinthians,Flamengo,1.0,1.0,2.0,1.0,1180600,71
+2024,2024-09-01,Fluminense,Sao Paulo,1.0,0.0,2.0,0.0,1180598,71
+2024,2024-09-01,Atletico Paranaense,Palmeiras,0.0,1.0,0.0,2.0,1180602,71
+2024,2024-09-01,Vitoria,Vasco DA Gama,0.0,0.0,0.0,1.0,1180597,71
+2024,2024-09-01,Juventude,Internacional,0.0,2.0,1.0,3.0,1180604,71
+2024,2024-09-01,RB Bragantino,Bahia,0.0,0.0,2.0,1.0,1180601,71
+2024,2024-09-05,Cuiaba,Juventude,0.0,0.0,0.0,0.0,1180513,71
+2024,2024-09-11,Internacional,Fortaleza EC,1.0,1.0,2.0,1.0,1180535,71
+2024,2024-09-14,Atletico Goianiense,Vitoria,0.0,1.0,0.0,2.0,1180613,71
+2024,2024-09-14,Atletico Paranaense,Fortaleza EC,1.0,1.0,1.0,1.0,1180612,71
+2024,2024-09-15,Botafogo,Corinthians,1.0,0.0,2.0,1.0,1180609,71
+2024,2024-09-15,Palmeiras,Criciuma,3.0,0.0,5.0,0.0,1180610,71
+2024,2024-09-15,Juventude,Fluminense,0.0,1.0,2.0,1.0,1180614,71
+2024,2024-09-15,RB Bragantino,Gremio,1.0,1.0,2.0,2.0,1180611,71
+2024,2024-09-15,Bahia,Atletico-MG,0.0,0.0,3.0,0.0,1180607,71
+2024,2024-09-15,Flamengo,Vasco DA Gama,0.0,0.0,1.0,1.0,1180608,71
+2024,2024-09-15,Cruzeiro,Sao Paulo,0.0,0.0,0.0,1.0,1180606,71
+2024,2024-09-16,Internacional,Cuiaba,2.0,0.0,3.0,0.0,1180605,71
+2024,2024-09-21,Corinthians,Atletico Goianiense,1.0,0.0,3.0,0.0,1180620,71
+2024,2024-09-21,Vitoria,Juventude,1.0,0.0,1.0,0.0,1180617,71
+2024,2024-09-21,Fluminense,Botafogo,0.0,0.0,0.0,1.0,1180618,71
+2024,2024-09-22,Fortaleza EC,Bahia,2.0,1.0,4.0,1.0,1180622,71
+2024,2024-09-22,Vasco DA Gama,Palmeiras,0.0,1.0,0.0,1.0,1180619,71
+2024,2024-09-22,Atletico-MG,RB Bragantino,1.0,0.0,3.0,0.0,1180616,71
+2024,2024-09-22,Sao Paulo,Internacional,1.0,1.0,1.0,3.0,1180621,71
+2024,2024-09-22,Gremio,Flamengo,1.0,1.0,3.0,2.0,1180615,71
+2024,2024-09-22,Cuiaba,Cruzeiro,0.0,0.0,0.0,0.0,1180623,71
+2024,2024-09-23,Criciuma,Atletico Paranaense,0.0,0.0,0.0,0.0,1180624,71
+2024,2024-09-25,Gremio,Criciuma,0.0,1.0,1.0,2.0,1180395,71
+2024,2024-09-25,RB Bragantino,Internacional,1.0,1.0,2.0,2.0,1180511,71
+2024,2024-09-28,Palmeiras,Atletico-MG,1.0,0.0,2.0,1.0,1180630,71
+2024,2024-09-29,Botafogo,Gremio,0.0,0.0,0.0,0.0,1180629,71
+2024,2024-09-29,Juventude,RB Bragantino,0.0,0.0,1.0,1.0,1180634,71
+2024,2024-09-29,Sao Paulo,Corinthians,1.0,0.0,3.0,1.0,1180631,71
+2024,2024-09-29,Atletico Goianiense,Fluminense,0.0,0.0,1.0,0.0,1180633,71
+2024,2024-09-29,Fortaleza EC,Cuiaba,1.0,0.0,1.0,0.0,1180632,71
+2024,2024-09-29,Bahia,Criciuma,1.0,0.0,1.0,0.0,1180627,71
+2024,2024-09-29,Internacional,Vitoria,1.0,0.0,3.0,1.0,1180625,71
+2024,2024-09-29,Cruzeiro,Vasco DA Gama,0.0,1.0,1.0,1.0,1180626,71
+2024,2024-09-29,Flamengo,Atletico Paranaense,0.0,0.0,1.0,0.0,1180628,71
+2024,2024-10-03,Criciuma,Atletico Goianiense,1.0,0.0,2.0,0.0,1180644,71
+2024,2024-10-04,Fluminense,Cruzeiro,0.0,0.0,1.0,0.0,1180638,71
+2024,2024-10-05,Gremio,Fortaleza EC,1.0,1.0,3.0,1.0,1180635,71
+2024,2024-10-05,Atletico Paranaense,Botafogo,0.0,1.0,0.0,1.0,1180642,71
+2024,2024-10-05,RB Bragantino,Palmeiras,0.0,0.0,0.0,0.0,1180641,71
+2024,2024-10-05,Atletico-MG,Vitoria,2.0,0.0,2.0,2.0,1180636,71
+2024,2024-10-05,Bahia,Flamengo,0.0,1.0,0.0,2.0,1180637,71
+2024,2024-10-05,Corinthians,Internacional,1.0,1.0,2.0,2.0,1180640,71
+2024,2024-10-05,Cuiaba,Sao Paulo,2.0,0.0,2.0,0.0,1180643,71
+2024,2024-10-06,Vasco DA Gama,Juventude,1.0,1.0,1.0,1.0,1180639,71
+2024,2024-10-09,Atletico-MG,Gremio,2.0,1.0,2.0,1.0,1180406,71
+2024,2024-10-17,Sao Paulo,Vasco DA Gama,1.0,0.0,3.0,0.0,1180651,71
+2024,2024-10-17,Fortaleza EC,Atletico-MG,1.0,0.0,1.0,1.0,1180652,71
+2024,2024-10-17,Flamengo,Fluminense,0.0,0.0,0.0,2.0,1180648,71
+2024,2024-10-17,Corinthians,Atletico Paranaense,2.0,2.0,5.0,2.0,1180650,71
+2024,2024-10-18,Atletico Goianiense,Cuiaba,0.0,0.0,0.0,0.0,1180653,71
+2024,2024-10-18,Botafogo,Criciuma,0.0,0.0,1.0,1.0,1180649,71
+2024,2024-10-19,Cruzeiro,Bahia,0.0,0.0,1.0,1.0,1180646,71
+2024,2024-10-19,Internacional,Gremio,0.0,0.0,1.0,0.0,1180645,71
+2024,2024-10-19,Vitoria,RB Bragantino,0.0,0.0,1.0,0.0,1180647,71
+2024,2024-10-20,Juventude,Palmeiras,1.0,2.0,3.0,5.0,1180654,71
+2024,2024-10-22,Fluminense,Atletico Paranaense,0.0,0.0,1.0,0.0,1180518,71
+2024,2024-10-25,Vasco DA Gama,Cuiaba,0.0,0.0,1.0,0.0,1180539,71
+2024,2024-10-26,Palmeiras,Fortaleza EC,1.0,1.0,2.0,2.0,1180660,71
+2024,2024-10-26,Flamengo,Juventude,1.0,1.0,4.0,2.0,1180658,71
+2024,2024-10-26,Gremio,Atletico Goianiense,1.0,1.0,3.0,1.0,1180655,71
+2024,2024-10-26,Vitoria,Fluminense,1.0,0.0,2.0,1.0,1180657,71
+2024,2024-10-26,Atletico Paranaense,Cruzeiro,1.0,0.0,3.0,0.0,1180662,71
+2024,2024-10-26,RB Bragantino,Botafogo,0.0,0.0,0.0,1.0,1180661,71
+2024,2024-10-26,Atletico-MG,Internacional,1.0,2.0,1.0,3.0,1180656,71
+2024,2024-10-27,Criciuma,Sao Paulo,1.0,0.0,1.0,1.0,1180664,71
+2024,2024-10-28,Cuiaba,Corinthians,0.0,1.0,0.0,1.0,1180663,71
+2024,2024-10-29,Vasco DA Gama,Bahia,3.0,1.0,3.0,2.0,1180659,71
+2024,2024-10-30,Internacional,Flamengo,0.0,1.0,1.0,1.0,1180515,71
+2024,2024-11-02,Fluminense,Gremio,1.0,1.0,2.0,2.0,1180668,71
+2024,2024-11-02,RB Bragantino,Cuiaba,0.0,0.0,0.0,0.0,1180671,71
+2024,2024-11-02,Atletico Paranaense,Vitoria,1.0,1.0,1.0,2.0,1180672,71
+2024,2024-11-02,Juventude,Fortaleza EC,0.0,2.0,0.0,3.0,1180674,71
+2024,2024-11-04,Corinthians,Palmeiras,1.0,0.0,2.0,0.0,1180670,71
+2024,2024-11-06,Bahia,Sao Paulo,0.0,1.0,0.0,3.0,1180667,71
+2024,2024-11-06,Internacional,Criciuma,1.0,0.0,2.0,0.0,1180665,71
+2024,2024-11-06,Botafogo,Vasco DA Gama,2.0,0.0,3.0,0.0,1180669,71
+2024,2024-11-07,Cruzeiro,Flamengo,0.0,0.0,0.0,1.0,1180666,71
+2024,2024-11-07,Atletico Goianiense,Atletico-MG,0.0,0.0,1.0,0.0,1180673,71
+2024,2024-11-08,Internacional,Fluminense,0.0,0.0,2.0,0.0,1180675,71
+2024,2024-11-09,Palmeiras,Gremio,0.0,0.0,1.0,0.0,1180680,71
+2024,2024-11-09,Botafogo,Cuiaba,0.0,0.0,0.0,0.0,1180679,71
+2024,2024-11-09,Vitoria,Corinthians,1.0,1.0,1.0,2.0,1180677,71
+2024,2024-11-09,Cruzeiro,Criciuma,1.0,0.0,2.0,1.0,1180676,71
+2024,2024-11-09,Atletico Goianiense,RB Bragantino,0.0,0.0,0.0,0.0,1180683,71
+2024,2024-11-09,Juventude,Bahia,0.0,1.0,2.0,1.0,1180684,71
+2024,2024-11-09,Fortaleza EC,Vasco DA Gama,1.0,0.0,3.0,0.0,1180682,71
+2024,2024-11-10,Sao Paulo,Atletico Paranaense,0.0,0.0,2.0,1.0,1180681,71
+2024,2024-11-13,Flamengo,Atletico-MG,0.0,0.0,0.0,0.0,1180678,71
+2024,2024-11-16,Atletico Paranaense,Atletico-MG,1.0,0.0,1.0,0.0,1180542,71
+2024,2024-11-20,Corinthians,Cruzeiro,2.0,1.0,2.0,1.0,1180690,71
+2024,2024-11-20,Atletico Paranaense,Atletico Goianiense,1.0,0.0,2.0,0.0,1180692,71
+2024,2024-11-20,Criciuma,Vitoria,0.0,0.0,0.0,1.0,1180694,71
+2024,2024-11-20,RB Bragantino,Sao Paulo,1.0,1.0,1.0,1.0,1180691,71
+2024,2024-11-20,Bahia,Palmeiras,1.0,1.0,1.0,2.0,1180687,71
+2024,2024-11-20,Gremio,Juventude,1.0,1.0,2.0,2.0,1180685,71
+2024,2024-11-20,Cuiaba,Flamengo,0.0,0.0,1.0,2.0,1180693,71
+2024,2024-11-21,Atletico-MG,Botafogo,0.0,0.0,0.0,0.0,1180686,71
+2024,2024-11-21,Vasco DA Gama,Internacional,0.0,0.0,0.0,1.0,1180689,71
+2024,2024-11-23,Fluminense,Fortaleza EC,1.0,2.0,2.0,2.0,1180688,71
+2024,2024-11-23,Botafogo,Vitoria,0.0,1.0,1.0,1.0,1180699,71
+2024,2024-11-23,Atletico Goianiense,Palmeiras,0.0,1.0,0.0,1.0,1180703,71
+2024,2024-11-23,Juventude,Cuiaba,0.0,0.0,1.0,1.0,1180704,71
+2024,2024-11-24,Sao Paulo,Atletico-MG,2.0,2.0,2.0,2.0,1180701,71
+2024,2024-11-24,Bahia,Atletico Paranaense,0.0,0.0,1.0,1.0,1180697,71
+2024,2024-11-24,Internacional,RB Bragantino,2.0,1.0,4.0,1.0,1180695,71
+2024,2024-11-24,Corinthians,Vasco DA Gama,3.0,0.0,3.0,1.0,1180700,71
+2024,2024-11-26,Fluminense,Criciuma,0.0,0.0,0.0,0.0,1180698,71
+2024,2024-11-26,Fortaleza EC,Flamengo,0.0,0.0,0.0,0.0,1180702,71
+2024,2024-11-27,Palmeiras,Botafogo,0.0,1.0,1.0,3.0,1180710,71
+2024,2024-11-27,Atletico-MG,Juventude,0.0,1.0,2.0,3.0,1180706,71
+2024,2024-11-28,Cruzeiro,Gremio,1.0,1.0,1.0,1.0,1180696,71
+2024,2024-11-30,Criciuma,Corinthians,2.0,0.0,2.0,4.0,1180714,71
+2024,2024-11-30,Cuiaba,Bahia,1.0,1.0,1.0,2.0,1180713,71
+2024,2024-12-01,Vasco DA Gama,Atletico Goianiense,0.0,1.0,2.0,2.0,1180709,71
+2024,2024-12-01,Flamengo,Internacional,3.0,0.0,3.0,2.0,1180708,71
+2024,2024-12-01,Gremio,Sao Paulo,2.0,0.0,2.0,1.0,1180705,71
+2024,2024-12-01,Atletico Paranaense,Fluminense,1.0,0.0,1.0,1.0,1180712,71
+2024,2024-12-01,Vitoria,Fortaleza EC,2.0,0.0,2.0,0.0,1180707,71
+2024,2024-12-01,RB Bragantino,Cruzeiro,1.0,0.0,1.0,1.0,1180711,71
+2024,2024-12-03,Corinthians,Bahia,2.0,0.0,3.0,0.0,1180720,71
+2024,2024-12-04,Vasco DA Gama,Atletico-MG,0.0,0.0,2.0,0.0,1180719,71
+2024,2024-12-04,Sao Paulo,Juventude,0.0,0.0,1.0,2.0,1180721,71
+2024,2024-12-04,Vitoria,Gremio,0.0,1.0,1.0,1.0,1180717,71
+2024,2024-12-04,Criciuma,Flamengo,0.0,1.0,0.0,3.0,1180724,71
+2024,2024-12-05,Internacional,Botafogo,0.0,1.0,0.0,1.0,1180715,71
+2024,2024-12-05,Cruzeiro,Palmeiras,0.0,0.0,1.0,2.0,1180716,71
+2024,2024-12-05,Atletico Goianiense,Fortaleza EC,1.0,1.0,3.0,1.0,1180723,71
+2024,2024-12-05,Fluminense,Cuiaba,0.0,0.0,1.0,0.0,1180718,71
+2024,2024-12-05,Atletico Paranaense,RB Bragantino,0.0,1.0,1.0,2.0,1180722,71
+2024,2024-12-08,Bahia,Atletico Goianiense,1.0,0.0,2.0,0.0,1180727,71
+2024,2024-12-08,Botafogo,Sao Paulo,1.0,0.0,2.0,1.0,1180729,71
+2024,2024-12-08,Palmeiras,Fluminense,0.0,1.0,0.0,1.0,1180730,71
+2024,2024-12-08,Flamengo,Vitoria,0.0,1.0,2.0,2.0,1180728,71
+2024,2024-12-08,Gremio,Corinthians,0.0,1.0,0.0,3.0,1180725,71
+2024,2024-12-08,Juventude,Cruzeiro,0.0,1.0,0.0,1.0,1180734,71
+2024,2024-12-08,Fortaleza EC,Internacional,2.0,0.0,3.0,0.0,1180732,71
+2024,2024-12-08,RB Bragantino,Criciuma,2.0,1.0,5.0,1.0,1180731,71
+2024,2024-12-08,Atletico-MG,Atletico Paranaense,0.0,0.0,1.0,0.0,1180726,71
+2024,2024-12-08,Cuiaba,Vasco DA Gama,1.0,2.0,1.0,2.0,1180733,71
+2025,2025-03-29,Sao Paulo,Sport Recife,0.0,0.0,0.0,0.0,1351046,71
+2025,2025-03-29,Gremio,Atletico-MG,2.0,0.0,2.0,1.0,1351049,71
+2025,2025-03-29,Cruzeiro,Mirassol,2.0,1.0,2.0,1.0,1351048,71
+2025,2025-03-29,Juventude,Vitoria,1.0,0.0,2.0,0.0,1351052,71
+2025,2025-03-29,Fortaleza EC,Fluminense,2.0,0.0,2.0,0.0,1351051,71
+2025,2025-03-30,Flamengo,Internacional,0.0,1.0,1.0,1.0,1351043,71
+2025,2025-03-30,Palmeiras,Botafogo,0.0,0.0,0.0,0.0,1351045,71
+2025,2025-03-30,Vasco DA Gama,Santos,0.0,1.0,2.0,1.0,1351044,71
+2025,2025-03-30,Bahia,Corinthians,1.0,0.0,1.0,1.0,1351050,71
+2025,2025-03-31,RB Bragantino,Ceara,1.0,2.0,2.0,2.0,1351047,71
+2025,2025-04-05,Ceara,Gremio,1.0,0.0,2.0,0.0,1351061,71
+2025,2025-04-05,Corinthians,Vasco DA Gama,2.0,0.0,3.0,0.0,1351055,71
+2025,2025-04-06,Botafogo,Juventude,1.0,0.0,2.0,0.0,1351054,71
+2025,2025-04-06,Fluminense,RB Bragantino,1.0,0.0,2.0,1.0,1351053,71
+2025,2025-04-06,Atletico-MG,Sao Paulo,0.0,0.0,0.0,0.0,1351058,71
+2025,2025-04-06,Internacional,Cruzeiro,2.0,0.0,3.0,0.0,1351059,71
+2025,2025-04-06,Sport Recife,Palmeiras,1.0,1.0,1.0,2.0,1351062,71
+2025,2025-04-06,Vitoria,Flamengo,0.0,0.0,1.0,2.0,1351060,71
+2025,2025-04-06,Mirassol,Fortaleza EC,0.0,1.0,1.0,1.0,1351057,71
+2025,2025-04-06,Santos,Bahia,0.0,1.0,2.0,2.0,1351056,71
+2025,2025-04-12,Juventude,Ceara,1.0,1.0,2.0,1.0,1351072,71
+2025,2025-04-12,RB Bragantino,Botafogo,1.0,0.0,1.0,0.0,1351067,71
+2025,2025-04-12,Palmeiras,Corinthians,2.0,0.0,2.0,0.0,1351065,71
+2025,2025-04-13,Vasco DA Gama,Sport Recife,2.0,0.0,3.0,1.0,1351064,71
+2025,2025-04-13,Bahia,Mirassol,1.0,1.0,1.0,1.0,1351070,71
+2025,2025-04-13,Sao Paulo,Cruzeiro,0.0,0.0,1.0,1.0,1351066,71
+2025,2025-04-13,Gremio,Flamengo,0.0,1.0,0.0,2.0,1351069,71
+2025,2025-04-13,Fluminense,Santos,0.0,0.0,1.0,0.0,1351063,71
+2025,2025-04-13,Fortaleza EC,Internacional,0.0,0.0,0.0,0.0,1351071,71
+2025,2025-04-13,Atletico-MG,Vitoria,0.0,0.0,2.0,2.0,1351068,71
+2025,2025-04-16,Ceara,Vasco DA Gama,1.0,0.0,2.0,1.0,1351081,71
+2025,2025-04-16,Botafogo,Sao Paulo,1.0,2.0,2.0,2.0,1351074,71
+2025,2025-04-16,Sport Recife,RB Bragantino,0.0,1.0,0.0,1.0,1351082,71
+2025,2025-04-16,Mirassol,Gremio,2.0,0.0,4.0,1.0,1351077,71
+2025,2025-04-16,Internacional,Palmeiras,0.0,0.0,0.0,1.0,1351079,71
+2025,2025-04-16,Corinthians,Fluminense,0.0,0.0,0.0,2.0,1351075,71
+2025,2025-04-17,Flamengo,Juventude,3.0,0.0,6.0,0.0,1351073,71
+2025,2025-04-17,Santos,Atletico-MG,2.0,0.0,2.0,0.0,1351076,71
+2025,2025-04-17,Vitoria,Fortaleza EC,1.0,0.0,2.0,1.0,1351080,71
+2025,2025-04-18,Cruzeiro,Bahia,1.0,0.0,3.0,0.0,1351078,71
+2025,2025-04-19,Corinthians,Sport Recife,0.0,1.0,2.0,1.0,1351085,71
+2025,2025-04-19,Vasco DA Gama,Flamengo,0.0,0.0,0.0,0.0,1351084,71
+2025,2025-04-20,Gremio,Internacional,1.0,0.0,1.0,1.0,1351089,71
+2025,2025-04-20,Juventude,Mirassol,2.0,1.0,2.0,2.0,1351092,71
+2025,2025-04-20,Sao Paulo,Santos,2.0,1.0,2.0,1.0,1351086,71
+2025,2025-04-20,Atletico-MG,Botafogo,0.0,0.0,1.0,0.0,1351088,71
+2025,2025-04-20,Fluminense,Vitoria,1.0,0.0,1.0,1.0,1351083,71
+2025,2025-04-20,Fortaleza EC,Palmeiras,0.0,1.0,1.0,2.0,1351091,71
+2025,2025-04-20,RB Bragantino,Cruzeiro,1.0,0.0,1.0,0.0,1351087,71
+2025,2025-04-21,Bahia,Ceara,0.0,0.0,1.0,0.0,1351090,71
+2025,2025-04-26,Internacional,Juventude,2.0,1.0,3.0,1.0,1351099,71
+2025,2025-04-26,Ceara,Sao Paulo,1.0,1.0,1.0,1.0,1351101,71
+2025,2025-04-26,Mirassol,Atletico-MG,1.0,0.0,2.0,2.0,1351097,71
+2025,2025-04-26,Sport Recife,Fortaleza EC,0.0,0.0,0.0,0.0,1351102,71
+2025,2025-04-27,Botafogo,Fluminense,1.0,0.0,2.0,0.0,1351094,71
+2025,2025-04-27,Flamengo,Corinthians,3.0,0.0,4.0,0.0,1351093,71
+2025,2025-04-27,Palmeiras,Bahia,0.0,0.0,0.0,1.0,1351095,71
+2025,2025-04-27,Cruzeiro,Vasco DA Gama,0.0,0.0,1.0,0.0,1351098,71
+2025,2025-04-27,Vitoria,Gremio,0.0,1.0,1.0,1.0,1351100,71
+2025,2025-04-27,Santos,RB Bragantino,0.0,0.0,1.0,2.0,1351096,71
+2025,2025-05-03,Sao Paulo,Fortaleza EC,0.0,0.0,0.0,0.0,1351106,71
+2025,2025-05-03,Fluminense,Sport Recife,0.0,1.0,2.0,1.0,1351103,71
+2025,2025-05-03,Ceara,Vitoria,0.0,0.0,1.0,0.0,1351111,71
+2025,2025-05-03,Corinthians,Internacional,1.0,2.0,4.0,2.0,1351105,71
+2025,2025-05-04,Bahia,Botafogo,1.0,0.0,1.0,0.0,1351110,71
+2025,2025-05-04,Gremio,Santos,0.0,0.0,1.0,0.0,1351109,71
+2025,2025-05-04,Vasco DA Gama,Palmeiras,0.0,0.0,0.0,1.0,1351104,71
+2025,2025-05-04,Cruzeiro,Flamengo,1.0,1.0,2.0,1.0,1351108,71
+2025,2025-05-05,RB Bragantino,Mirassol,0.0,0.0,1.0,0.0,1351107,71
+2025,2025-05-05,Juventude,Atletico-MG,0.0,1.0,0.0,1.0,1351112,71
+2025,2025-05-10,Fortaleza EC,Juventude,1.0,0.0,5.0,0.0,1351121,71
+2025,2025-05-10,Gremio,RB Bragantino,0.0,0.0,1.0,1.0,1351119,71
+2025,2025-05-10,Vitoria,Vasco DA Gama,0.0,1.0,2.0,1.0,1351120,71
+2025,2025-05-10,Mirassol,Corinthians,0.0,1.0,2.0,1.0,1351117,71
+2025,2025-05-11,Flamengo,Bahia,1.0,0.0,1.0,0.0,1351113,71
+2025,2025-05-11,Sport Recife,Cruzeiro,0.0,3.0,0.0,4.0,1351122,71
+2025,2025-05-11,Palmeiras,Sao Paulo,0.0,0.0,1.0,0.0,1351115,71
+2025,2025-05-11,Atletico-MG,Fluminense,0.0,0.0,3.0,2.0,1351118,71
+2025,2025-05-11,Botafogo,Internacional,2.0,0.0,4.0,0.0,1351114,71
+2025,2025-05-12,Santos,Ceara,0.0,0.0,0.0,0.0,1351116,71
+2025,2025-05-17,Ceara,Sport Recife,1.0,0.0,2.0,0.0,1351131,71
+2025,2025-05-17,Vasco DA Gama,Fortaleza EC,1.0,0.0,3.0,0.0,1351124,71
+2025,2025-05-18,Sao Paulo,Gremio,0.0,1.0,2.0,1.0,1351126,71
+2025,2025-05-18,Bahia,Vitoria,1.0,0.0,2.0,1.0,1351130,71
+2025,2025-05-18,Corinthians,Santos,0.0,0.0,1.0,0.0,1351125,71
+2025,2025-05-18,Juventude,Fluminense,0.0,0.0,1.0,1.0,1351132,71
+2025,2025-05-18,Flamengo,Botafogo,0.0,0.0,0.0,0.0,1351123,71
+2025,2025-05-18,RB Bragantino,Palmeiras,1.0,0.0,1.0,2.0,1351127,71
+2025,2025-05-18,Internacional,Mirassol,0.0,1.0,1.0,1.0,1351129,71
+2025,2025-05-18,Cruzeiro,Atletico-MG,0.0,0.0,0.0,0.0,1351128,71
+2025,2025-05-24,Fluminense,Vasco DA Gama,1.0,1.0,2.0,1.0,1351133,71
+2025,2025-05-24,Sao Paulo,Mirassol,0.0,0.0,0.0,2.0,1351136,71
+2025,2025-05-25,Atletico-MG,Corinthians,0.0,0.0,0.0,0.0,1351138,71
+2025,2025-05-25,Gremio,Bahia,0.0,0.0,1.0,0.0,1351139,71
+2025,2025-05-25,Palmeiras,Flamengo,0.0,0.0,0.0,2.0,1351135,71
+2025,2025-05-25,Sport Recife,Internacional,1.0,0.0,1.0,1.0,1351142,71
+2025,2025-05-25,Vitoria,Santos,0.0,1.0,0.0,1.0,1351140,71
+2025,2025-05-25,Fortaleza EC,Cruzeiro,0.0,2.0,0.0,2.0,1351141,71
+2025,2025-05-26,RB Bragantino,Juventude,1.0,0.0,1.0,0.0,1351137,71
+2025,2025-05-31,Bahia,Sao Paulo,0.0,0.0,2.0,1.0,1351150,71
+2025,2025-06-01,Vasco DA Gama,RB Bragantino,0.0,2.0,0.0,2.0,1351144,71
+2025,2025-06-01,Mirassol,Sport Recife,1.0,0.0,1.0,0.0,1351147,71
+2025,2025-06-01,Santos,Botafogo,0.0,0.0,0.0,1.0,1351146,71
+2025,2025-06-01,Juventude,Gremio,0.0,2.0,0.0,2.0,1351152,71
+2025,2025-06-01,Flamengo,Fortaleza EC,1.0,0.0,5.0,0.0,1351143,71
+2025,2025-06-01,Ceara,Atletico-MG,0.0,0.0,0.0,1.0,1351151,71
+2025,2025-06-01,Corinthians,Vitoria,0.0,0.0,0.0,0.0,1351145,71
+2025,2025-06-01,Cruzeiro,Palmeiras,2.0,0.0,2.0,1.0,1351148,71
+2025,2025-06-01,Internacional,Fluminense,0.0,1.0,0.0,2.0,1351149,71
+2025,2025-06-04,Botafogo,Ceara,1.0,0.0,3.0,2.0,1351134,71
+2025,2025-06-12,Vitoria,Cruzeiro,0.0,0.0,0.0,0.0,1351160,71
+2025,2025-06-12,RB Bragantino,Bahia,0.0,2.0,0.0,3.0,1351157,71
+2025,2025-06-12,Fortaleza EC,Santos,0.0,2.0,2.0,3.0,1351161,71
+2025,2025-06-12,Gremio,Corinthians,1.0,1.0,1.0,1.0,1351159,71
+2025,2025-06-13,Sao Paulo,Vasco DA Gama,0.0,2.0,1.0,3.0,1351156,71
+2025,2025-06-13,Atletico-MG,Internacional,1.0,0.0,2.0,0.0,1351158,71
+2025,2025-07-12,Internacional,Vitoria,0.0,0.0,1.0,0.0,1351169,71
+2025,2025-07-12,Flamengo,Sao Paulo,0.0,0.0,2.0,0.0,1351163,71
+2025,2025-07-12,Vasco DA Gama,Botafogo,0.0,0.0,0.0,2.0,1351164,71
+2025,2025-07-13,Bahia,Atletico-MG,0.0,0.0,2.0,1.0,1351170,71
+2025,2025-07-13,Corinthians,RB Bragantino,0.0,1.0,1.0,2.0,1351165,71
+2025,2025-07-13,Cruzeiro,Gremio,2.0,0.0,4.0,1.0,1351168,71
+2025,2025-07-13,Fortaleza EC,Ceara,0.0,0.0,0.0,1.0,1351171,71
+2025,2025-07-14,Juventude,Sport Recife,1.0,0.0,2.0,0.0,1351172,71
+2025,2025-07-16,Palmeiras,Mirassol,0.0,0.0,1.0,1.0,1351175,71
+2025,2025-07-16,Ceara,Corinthians,0.0,0.0,0.0,1.0,1351181,71
+2025,2025-07-16,Santos,Flamengo,0.0,0.0,1.0,0.0,1351176,71
+2025,2025-07-17,Botafogo,Vitoria,0.0,0.0,0.0,0.0,1351174,71
+2025,2025-07-17,RB Bragantino,Sao Paulo,1.0,1.0,2.0,2.0,1351177,71
+2025,2025-07-17,Fluminense,Cruzeiro,0.0,2.0,0.0,2.0,1351173,71
+2025,2025-07-19,Fortaleza EC,Bahia,1.0,0.0,1.0,1.0,1351191,71
+2025,2025-07-19,Vasco DA Gama,Gremio,0.0,0.0,1.0,1.0,1351184,71
+2025,2025-07-19,Mirassol,Santos,0.0,0.0,3.0,0.0,1351187,71
+2025,2025-07-20,Sao Paulo,Corinthians,2.0,0.0,2.0,0.0,1351186,71
+2025,2025-07-20,Internacional,Ceara,1.0,0.0,1.0,0.0,1351189,71
+2025,2025-07-20,Cruzeiro,Juventude,1.0,0.0,4.0,0.0,1351188,71
+2025,2025-07-20,Vitoria,RB Bragantino,1.0,0.0,1.0,0.0,1351190,71
+2025,2025-07-20,Palmeiras,Atletico-MG,1.0,1.0,3.0,2.0,1351185,71
+2025,2025-07-20,Sport Recife,Botafogo,0.0,0.0,0.0,1.0,1351192,71
+2025,2025-07-20,Flamengo,Fluminense,0.0,0.0,1.0,0.0,1351183,71
+2025,2025-07-23,Fluminense,Palmeiras,1.0,1.0,1.0,2.0,1351193,71
+2025,2025-07-23,Ceara,Mirassol,0.0,2.0,0.0,2.0,1351201,71
+2025,2025-07-23,Corinthians,Cruzeiro,0.0,0.0,0.0,0.0,1351195,71
+2025,2025-07-24,Santos,Internacional,0.0,1.0,1.0,2.0,1351196,71
+2025,2025-07-24,Vitoria,Sport Recife,0.0,0.0,2.0,2.0,1351200,71
+2025,2025-07-24,RB Bragantino,Flamengo,0.0,0.0,1.0,2.0,1351197,71
+2025,2025-07-24,Juventude,Sao Paulo,0.0,0.0,0.0,1.0,1351202,71
+2025,2025-07-26,Botafogo,Corinthians,1.0,0.0,1.0,1.0,1351204,71
+2025,2025-07-26,Sport Recife,Santos,1.0,0.0,2.0,2.0,1351212,71
+2025,2025-07-26,Fortaleza EC,RB Bragantino,2.0,1.0,3.0,1.0,1351211,71
+2025,2025-07-26,Mirassol,Vitoria,1.0,1.0,1.0,1.0,1351207,71
+2025,2025-07-27,Palmeiras,Gremio,1.0,0.0,1.0,0.0,1351205,71
+2025,2025-07-27,Sao Paulo,Fluminense,1.0,0.0,3.0,1.0,1351206,71
+2025,2025-07-27,Cruzeiro,Ceara,1.0,1.0,1.0,2.0,1351208,71
+2025,2025-07-27,Bahia,Juventude,1.0,0.0,3.0,0.0,1351210,71
+2025,2025-07-27,Internacional,Vasco DA Gama,0.0,1.0,1.0,1.0,1351209,71
+2025,2025-07-27,Flamengo,Atletico-MG,0.0,0.0,1.0,0.0,1351203,71
+2025,2025-07-29,Gremio,Fortaleza EC,2.0,1.0,2.0,1.0,1351179,71
+2025,2025-08-02,Sport Recife,Bahia,0.0,0.0,0.0,0.0,1351222,71
+2025,2025-08-02,Mirassol,Vasco DA Gama,0.0,0.0,3.0,2.0,1351217,71
+2025,2025-08-03,Fluminense,Gremio,1.0,0.0,1.0,0.0,1351213,71
+2025,2025-08-03,Botafogo,Cruzeiro,0.0,2.0,0.0,2.0,1351214,71
+2025,2025-08-03,Corinthians,Fortaleza EC,0.0,1.0,1.0,1.0,1351215,71
+2025,2025-08-03,Ceara,Flamengo,0.0,1.0,1.0,1.0,1351221,71
+2025,2025-08-03,Atletico-MG,RB Bragantino,1.0,0.0,2.0,1.0,1351218,71
+2025,2025-08-03,Vitoria,Palmeiras,1.0,0.0,2.0,2.0,1351220,71
+2025,2025-08-03,Internacional,Sao Paulo,0.0,1.0,1.0,2.0,1351219,71
+2025,2025-08-04,Santos,Juventude,2.0,1.0,3.0,1.0,1351216,71
+2025,2025-08-09,Sao Paulo,Vitoria,1.0,0.0,2.0,0.0,1351226,71
+2025,2025-08-09,Flamengo,Mirassol,1.0,0.0,2.0,1.0,1351223,71
+2025,2025-08-09,RB Bragantino,Internacional,0.0,2.0,1.0,3.0,1351227,71
+2025,2025-08-09,Fortaleza EC,Botafogo,0.0,2.0,0.0,5.0,1351231,71
+2025,2025-08-10,Bahia,Fluminense,2.0,1.0,3.0,3.0,1351230,71
+2025,2025-08-10,Palmeiras,Ceara,0.0,0.0,2.0,1.0,1351225,71
+2025,2025-08-10,Vasco DA Gama,Atletico-MG,1.0,1.0,1.0,1.0,1351224,71
+2025,2025-08-10,Cruzeiro,Santos,1.0,0.0,1.0,2.0,1351228,71
+2025,2025-08-10,Gremio,Sport Recife,0.0,0.0,0.0,1.0,1351229,71
+2025,2025-08-11,Juventude,Corinthians,1.0,0.0,2.0,1.0,1351232,71
+2025,2025-06-11,Botafogo,Mirassol,,,,,1351154,71
+2025,2025-06-11,Palmeiras,Juventude,,,,,1351155,71
+2025,2025-06-11,Sport Recife,Flamengo,,,,,1351162,71
+2025,2025-06-11,Fluminense,Ceara,,,,,1351153,71
+2025,2025-07-13,Santos,Palmeiras,,,,,1351166,71
+2025,2025-07-13,Mirassol,Fluminense,,,,,1351167,71
+2025,2025-07-17,Bahia,Internacional,,,,,1351180,71
+2025,2025-07-17,Atletico-MG,Sport Recife,,,,,1351178,71
+2025,2025-07-24,Gremio,Botafogo,,,,,1351199,71
+2025,2025-07-24,Vasco DA Gama,Bahia,,,,,1351194,71
+2025,2025-07-24,Atletico-MG,Fortaleza EC,,,,,1351198,71
+2025,2025-08-16,Fluminense,Fortaleza EC,,,,,1351233,71
+2025,2025-08-16,Ceara,RB Bragantino,,,,,1351241,71
+2025,2025-08-16,Sport Recife,Sao Paulo,,,,,1351242,71
+2025,2025-08-16,Vitoria,Juventude,,,,,1351240,71
+2025,2025-08-17,Corinthians,Bahia,,,,,1351235,71
+2025,2025-08-17,Santos,Vasco DA Gama,,,,,1351236,71
+2025,2025-08-17,Atletico-MG,Gremio,,,,,1351238,71
+2025,2025-08-17,Internacional,Flamengo,,,,,1351239,71
+2025,2025-08-17,Botafogo,Palmeiras,,,,,1351234,71
+2025,2025-08-18,Mirassol,Cruzeiro,,,,,1351237,71
+2025,2025-08-20,Juventude,Vasco DA Gama,,,,,1351182,71
+2025,2025-08-23,RB Bragantino,Fluminense,,,,,1351247,71
+2025,2025-08-23,Cruzeiro,Internacional,,,,,1351248,71
+2025,2025-08-24,Gremio,Ceara,,,,,1351249,71
+2025,2025-08-24,Bahia,Santos,,,,,1351250,71
+2025,2025-08-24,Vasco DA Gama,Corinthians,,,,,1351244,71
+2025,2025-08-24,Juventude,Botafogo,,,,,1351252,71
+2025,2025-08-24,Fortaleza EC,Mirassol,,,,,1351251,71
+2025,2025-08-24,Sao Paulo,Atletico-MG,,,,,1351246,71
+2025,2025-08-25,Palmeiras,Sport Recife,,,,,1351245,71
+2025,2025-08-26,Flamengo,Vitoria,,,,,1351243,71
+2025,2025-08-30,Ceara,Juventude,,,,,1351261,71
+2025,2025-08-30,Botafogo,RB Bragantino,,,,,1351254,71
+2025,2025-08-31,Cruzeiro,Sao Paulo,,,,,1351258,71
+2025,2025-08-31,Flamengo,Gremio,,,,,1351253,71
+2025,2025-08-31,Santos,Fluminense,,,,,1351256,71
+2025,2025-08-31,Corinthians,Palmeiras,,,,,1351255,71
+2025,2025-08-31,Vitoria,Atletico-MG,,,,,1351260,71
+2025,2025-08-31,Mirassol,Bahia,,,,,1351257,71
+2025,2025-08-31,Internacional,Fortaleza EC,,,,,1351259,71
+2025,2025-08-31,Sport Recife,Vasco DA Gama,,,,,1351262,71
+2025,2025-09-13,Bahia,Cruzeiro,,,,,1351270,71
+2025,2025-09-13,Palmeiras,Internacional,,,,,1351265,71
+2025,2025-09-13,Fluminense,Corinthians,,,,,1351263,71
+2025,2025-09-13,Sao Paulo,Botafogo,,,,,1351266,71
+2025,2025-09-13,Gremio,Mirassol,,,,,1351269,71
+2025,2025-09-13,Vasco DA Gama,Ceara,,,,,1351264,71
+2025,2025-09-13,Juventude,Flamengo,,,,,1351272,71
+2025,2025-09-13,Fortaleza EC,Vitoria,,,,,1351271,71
+2025,2025-09-13,RB Bragantino,Sport Recife,,,,,1351267,71
+2025,2025-09-13,Atletico-MG,Santos,,,,,1351268,71
+2025,2025-09-20,Internacional,Gremio,,,,,1351279,71
+2025,2025-09-20,Botafogo,Atletico-MG,,,,,1351274,71
+2025,2025-09-20,Palmeiras,Fortaleza EC,,,,,1351275,71
+2025,2025-09-20,Sport Recife,Corinthians,,,,,1351282,71
+2025,2025-09-20,Flamengo,Vasco DA Gama,,,,,1351273,71
+2025,2025-09-20,Santos,Sao Paulo,,,,,1351276,71
+2025,2025-09-20,Ceara,Bahia,,,,,1351281,71
+2025,2025-09-20,Cruzeiro,RB Bragantino,,,,,1351278,71
+2025,2025-09-20,Vitoria,Fluminense,,,,,1351280,71
+2025,2025-09-20,Mirassol,Juventude,,,,,1351277,71
+2025,2025-09-27,Bahia,Palmeiras,,,,,1351290,71
+2025,2025-09-27,Fluminense,Botafogo,,,,,1351283,71
+2025,2025-09-27,Sao Paulo,Ceara,,,,,1351286,71
+2025,2025-09-27,Gremio,Vitoria,,,,,1351289,71
+2025,2025-09-27,Corinthians,Flamengo,,,,,1351285,71
+2025,2025-09-27,Vasco DA Gama,Cruzeiro,,,,,1351284,71
+2025,2025-09-27,Juventude,Internacional,,,,,1351292,71
+2025,2025-09-27,Fortaleza EC,Sport Recife,,,,,1351291,71
+2025,2025-09-27,RB Bragantino,Santos,,,,,1351287,71
+2025,2025-09-27,Atletico-MG,Mirassol,,,,,1351288,71
+2025,2025-10-01,Internacional,Corinthians,,,,,1351299,71
+2025,2025-10-01,Botafogo,Bahia,,,,,1351294,71
+2025,2025-10-01,Palmeiras,Vasco DA Gama,,,,,1351295,71
+2025,2025-10-01,Sport Recife,Fluminense,,,,,1351302,71
+2025,2025-10-01,Flamengo,Cruzeiro,,,,,1351293,71
+2025,2025-10-01,Santos,Gremio,,,,,1351296,71
+2025,2025-10-01,Vitoria,Ceara,,,,,1351300,71
+2025,2025-10-01,Fortaleza EC,Sao Paulo,,,,,1351301,71
+2025,2025-10-01,Atletico-MG,Juventude,,,,,1351298,71
+2025,2025-10-01,Mirassol,RB Bragantino,,,,,1351297,71
+2025,2025-10-16,Bahia,Flamengo,,,,,1351310,71
+2025,2025-10-16,Internacional,Botafogo,,,,,1351309,71
+2025,2025-10-16,Fluminense,Atletico-MG,,,,,1351303,71
+2025,2025-10-16,Sao Paulo,Palmeiras,,,,,1351306,71
+2025,2025-10-16,Ceara,Santos,,,,,1351311,71
+2025,2025-10-16,Corinthians,Mirassol,,,,,1351305,71
+2025,2025-10-16,Vasco DA Gama,Vitoria,,,,,1351304,71
+2025,2025-10-16,Cruzeiro,Sport Recife,,,,,1351308,71
+2025,2025-10-16,Juventude,Fortaleza EC,,,,,1351312,71
+2025,2025-10-16,RB Bragantino,Gremio,,,,,1351307,71
+2025,2025-10-25,Botafogo,Flamengo,,,,,1351314,71
+2025,2025-10-25,Palmeiras,RB Bragantino,,,,,1351315,71
+2025,2025-10-25,Sport Recife,Ceara,,,,,1351322,71
+2025,2025-10-25,Fluminense,Juventude,,,,,1351313,71
+2025,2025-10-25,Santos,Corinthians,,,,,1351316,71
+2025,2025-10-25,Gremio,Sao Paulo,,,,,1351319,71
+2025,2025-10-25,Vitoria,Bahia,,,,,1351320,71
+2025,2025-10-25,Fortaleza EC,Vasco DA Gama,,,,,1351321,71
+2025,2025-10-25,Atletico-MG,Cruzeiro,,,,,1351318,71
+2025,2025-10-25,Mirassol,Internacional,,,,,1351317,71
+2025,2025-11-05,Bahia,Gremio,,,,,1351330,71
+2025,2025-11-05,Internacional,Sport Recife,,,,,1351329,71
+2025,2025-11-05,Flamengo,Palmeiras,,,,,1351323,71
+2025,2025-11-05,Santos,Vitoria,,,,,1351326,71
+2025,2025-11-05,Ceara,Botafogo,,,,,1351331,71
+2025,2025-11-05,Corinthians,Atletico-MG,,,,,1351325,71
+2025,2025-11-05,Vasco DA Gama,Fluminense,,,,,1351324,71
+2025,2025-11-05,Cruzeiro,Fortaleza EC,,,,,1351328,71
+2025,2025-11-05,Juventude,RB Bragantino,,,,,1351332,71
+2025,2025-11-05,Mirassol,Sao Paulo,,,,,1351327,71
+2025,2025-11-19,Botafogo,Santos,,,,,1351334,71
+2025,2025-11-19,Palmeiras,Cruzeiro,,,,,1351335,71
+2025,2025-11-19,Sport Recife,Mirassol,,,,,1351342,71
+2025,2025-11-19,Fluminense,Internacional,,,,,1351333,71
+2025,2025-11-19,Sao Paulo,Bahia,,,,,1351336,71
+2025,2025-11-19,Gremio,Juventude,,,,,1351339,71
+2025,2025-11-19,Vitoria,Corinthians,,,,,1351340,71
+2025,2025-11-19,Fortaleza EC,Flamengo,,,,,1351341,71
+2025,2025-11-19,RB Bragantino,Vasco DA Gama,,,,,1351337,71
+2025,2025-11-19,Atletico-MG,Ceara,,,,,1351338,71
+2025,2025-11-22,Bahia,RB Bragantino,,,,,1351350,71
+2025,2025-11-22,Internacional,Atletico-MG,,,,,1351349,71
+2025,2025-11-22,Flamengo,Sport Recife,,,,,1351343,71
+2025,2025-11-22,Santos,Fortaleza EC,,,,,1351346,71
+2025,2025-11-22,Ceara,Fluminense,,,,,1351351,71
+2025,2025-11-22,Corinthians,Gremio,,,,,1351345,71
+2025,2025-11-22,Vasco DA Gama,Sao Paulo,,,,,1351344,71
+2025,2025-11-22,Cruzeiro,Vitoria,,,,,1351348,71
+2025,2025-11-22,Juventude,Palmeiras,,,,,1351352,71
+2025,2025-11-22,Mirassol,Botafogo,,,,,1351347,71
+2025,2025-11-29,Botafogo,Vasco DA Gama,,,,,1351354,71
+2025,2025-11-29,Palmeiras,Santos,,,,,1351355,71
+2025,2025-11-29,Sport Recife,Juventude,,,,,1351362,71
+2025,2025-11-29,Fluminense,Mirassol,,,,,1351353,71
+2025,2025-11-29,Sao Paulo,Flamengo,,,,,1351356,71
+2025,2025-11-29,Ceara,Fortaleza EC,,,,,1351361,71
+2025,2025-11-29,Gremio,Cruzeiro,,,,,1351359,71
+2025,2025-11-29,Vitoria,Internacional,,,,,1351360,71
+2025,2025-11-29,RB Bragantino,Corinthians,,,,,1351357,71
+2025,2025-11-29,Atletico-MG,Bahia,,,,,1351358,71
+2025,2025-12-03,Internacional,Bahia,,,,,1351369,71
+2025,2025-12-03,Sport Recife,Atletico-MG,,,,,1351372,71
+2025,2025-12-03,Sao Paulo,RB Bragantino,,,,,1351366,71
+2025,2025-12-03,Flamengo,Santos,,,,,1351363,71
+2025,2025-12-03,Corinthians,Ceara,,,,,1351365,71
+2025,2025-12-03,Vasco DA Gama,Juventude,,,,,1351364,71
+2025,2025-12-03,Cruzeiro,Fluminense,,,,,1351368,71
+2025,2025-12-03,Vitoria,Botafogo,,,,,1351370,71
+2025,2025-12-03,Fortaleza EC,Gremio,,,,,1351371,71
+2025,2025-12-03,Mirassol,Palmeiras,,,,,1351367,71
+2025,2025-12-06,Bahia,Fortaleza EC,,,,,1351380,71
+2025,2025-12-06,Botafogo,Sport Recife,,,,,1351374,71
+2025,2025-12-06,Fluminense,Flamengo,,,,,1351373,71
+2025,2025-12-06,Santos,Mirassol,,,,,1351376,71
+2025,2025-12-06,Ceara,Internacional,,,,,1351381,71
+2025,2025-12-06,Gremio,Vasco DA Gama,,,,,1351379,71
+2025,2025-12-06,Corinthians,Sao Paulo,,,,,1351375,71
+2025,2025-12-06,Juventude,Cruzeiro,,,,,1351382,71
+2025,2025-12-06,RB Bragantino,Vitoria,,,,,1351377,71
+2025,2025-12-06,Atletico-MG,Palmeiras,,,,,1351378,71
+2025,2025-12-10,Bahia,Vasco DA Gama,,,,,1351390,71
+2025,2025-12-10,Internacional,Santos,,,,,1351389,71
+2025,2025-12-10,Botafogo,Gremio,,,,,1351384,71
+2025,2025-12-10,Palmeiras,Fluminense,,,,,1351385,71
+2025,2025-12-10,Sport Recife,Vitoria,,,,,1351392,71
+2025,2025-12-10,Sao Paulo,Juventude,,,,,1351386,71
+2025,2025-12-10,Flamengo,RB Bragantino,,,,,1351383,71
+2025,2025-12-10,Cruzeiro,Corinthians,,,,,1351388,71
+2025,2025-12-10,Fortaleza EC,Atletico-MG,,,,,1351391,71
+2025,2025-12-10,Mirassol,Ceara,,,,,1351387,71
+2025,2025-12-13,Fluminense,Sao Paulo,,,,,1351393,71
+2025,2025-12-13,Santos,Sport Recife,,,,,1351396,71
+2025,2025-12-13,Ceara,Cruzeiro,,,,,1351401,71
+2025,2025-12-13,Gremio,Palmeiras,,,,,1351399,71
+2025,2025-12-13,Corinthians,Botafogo,,,,,1351395,71
+2025,2025-12-13,Vasco DA Gama,Internacional,,,,,1351394,71
+2025,2025-12-13,Vitoria,Mirassol,,,,,1351400,71
+2025,2025-12-13,Juventude,Bahia,,,,,1351402,71
+2025,2025-12-13,RB Bragantino,Fortaleza EC,,,,,1351397,71
+2025,2025-12-13,Atletico-MG,Flamengo,,,,,1351398,71
+2025,2025-12-17,Bahia,Sport Recife,,,,,1351410,71
+2025,2025-12-17,Palmeiras,Vitoria,,,,,1351405,71
+2025,2025-12-17,Sao Paulo,Internacional,,,,,1351406,71
+2025,2025-12-17,Flamengo,Ceara,,,,,1351403,71
+2025,2025-12-17,Gremio,Fluminense,,,,,1351409,71
+2025,2025-12-17,Vasco DA Gama,Mirassol,,,,,1351404,71
+2025,2025-12-17,Cruzeiro,Botafogo,,,,,1351408,71
+2025,2025-12-17,Juventude,Santos,,,,,1351412,71
+2025,2025-12-17,Fortaleza EC,Corinthians,,,,,1351411,71
+2025,2025-12-17,RB Bragantino,Atletico-MG,,,,,1351407,71
+2025,2025-12-21,Internacional,RB Bragantino,,,,,1351419,71
+2025,2025-12-21,Botafogo,Fortaleza EC,,,,,1351414,71
+2025,2025-12-21,Sport Recife,Gremio,,,,,1351422,71
+2025,2025-12-21,Fluminense,Bahia,,,,,1351413,71
+2025,2025-12-21,Santos,Cruzeiro,,,,,1351416,71
+2025,2025-12-21,Ceara,Palmeiras,,,,,1351421,71
+2025,2025-12-21,Corinthians,Juventude,,,,,1351415,71
+2025,2025-12-21,Vitoria,Sao Paulo,,,,,1351420,71
+2025,2025-12-21,Atletico-MG,Vasco DA Gama,,,,,1351418,71
+2025,2025-12-21,Mirassol,Flamengo,,,,,1351417,71

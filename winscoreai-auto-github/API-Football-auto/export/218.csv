@@ -1,0 +1,328 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-08-02,Grazer AK,Red Bull Salzburg,2,3,2,3
+2024,2024-08-03,SCR Altach,WSG Wattens,0,1,1,2
+2024,2024-08-03,TSV Hartberg,Lask Linz,0,1,1,2
+2024,2024-08-03,Wolfsberger AC,Austria Klagenfurt,3,0,4,1
+2024,2024-08-04,Rapid Vienna,Sturm Graz,1,0,1,0
+2024,2024-08-04,FC BW Linz,Austria Vienna,0,0,1,0
+2024,2024-08-10,Lask Linz,SCR Altach,1,1,1,2
+2024,2024-08-10,WSG Wattens,Grazer AK,0,0,0,0
+2024,2024-08-10,Red Bull Salzburg,FC BW Linz,2,1,5,1
+2024,2024-08-11,Austria Vienna,Wolfsberger AC,0,1,3,1
+2024,2024-08-11,Sturm Graz,TSV Hartberg,1,0,2,0
+2024,2024-08-11,Austria Klagenfurt,Rapid Vienna,1,1,1,1
+2024,2024-08-17,Austria Klagenfurt,Sturm Graz,0,0,0,2
+2024,2024-08-17,Grazer AK,FC BW Linz,0,2,2,2
+2024,2024-08-17,Lask Linz,Red Bull Salzburg,0,0,0,1
+2024,2024-08-18,SCR Altach,Wolfsberger AC,1,0,2,0
+2024,2024-08-18,Rapid Vienna,WSG Wattens,1,0,2,0
+2024,2024-08-18,TSV Hartberg,Austria Vienna,1,1,1,1
+2024,2024-08-24,WSG Wattens,Austria Klagenfurt,0,0,0,1
+2024,2024-08-24,Sturm Graz,SCR Altach,0,0,2,1
+2024,2024-08-25,Austria Vienna,Lask Linz,1,1,2,1
+2024,2024-08-25,Wolfsberger AC,Grazer AK,1,0,4,2
+2024,2024-08-25,FC BW Linz,Rapid Vienna,2,0,3,0
+2024,2024-08-31,TSV Hartberg,Grazer AK,0,1,1,1
+2024,2024-08-31,Austria Klagenfurt,FC BW Linz,1,1,3,1
+2024,2024-08-31,Sturm Graz,WSG Wattens,1,2,4,2
+2024,2024-09-01,SCR Altach,Austria Vienna,1,1,1,1
+2024,2024-09-01,Rapid Vienna,Red Bull Salzburg,2,2,3,2
+2024,2024-09-01,Lask Linz,Wolfsberger AC,0,2,1,5
+2024,2024-09-14,Wolfsberger AC,Rapid Vienna,0,1,1,1
+2024,2024-09-14,FC BW Linz,Lask Linz,1,0,1,0
+2024,2024-09-15,Grazer AK,SCR Altach,1,1,1,1
+2024,2024-09-21,SCR Altach,FC BW Linz,0,0,0,1
+2024,2024-09-21,Lask Linz,Grazer AK,2,1,4,2
+2024,2024-09-21,Austria Klagenfurt,TSV Hartberg,0,1,2,2
+2024,2024-09-22,Sturm Graz,Wolfsberger AC,0,1,0,3
+2024,2024-09-22,WSG Wattens,Red Bull Salzburg,0,0,0,0
+2024,2024-09-22,Rapid Vienna,Austria Vienna,1,1,2,1
+2024,2024-09-25,Austria Vienna,Sturm Graz,0,2,2,2
+2024,2024-09-26,TSV Hartberg,WSG Wattens,0,0,1,0
+2024,2024-09-28,Red Bull Salzburg,Austria Vienna,1,0,2,0
+2024,2024-09-28,Rapid Vienna,Lask Linz,1,0,1,1
+2024,2024-09-28,FC BW Linz,Sturm Graz,1,1,1,2
+2024,2024-09-29,Wolfsberger AC,WSG Wattens,0,0,1,3
+2024,2024-09-29,TSV Hartberg,SCR Altach,0,0,2,0
+2024,2024-09-29,Grazer AK,Austria Klagenfurt,0,1,0,1
+2024,2024-10-05,Austria Vienna,Grazer AK,1,0,2,1
+2024,2024-10-05,Wolfsberger AC,TSV Hartberg,0,1,2,3
+2024,2024-10-05,WSG Wattens,FC BW Linz,0,1,1,1
+2024,2024-10-06,SCR Altach,Rapid Vienna,0,1,0,1
+2024,2024-10-06,Lask Linz,Austria Klagenfurt,1,0,4,0
+2024,2024-10-06,Sturm Graz,Red Bull Salzburg,2,0,5,0
+2024,2024-10-19,Red Bull Salzburg,SCR Altach,0,0,2,1
+2024,2024-10-19,Sturm Graz,Grazer AK,2,0,5,2
+2024,2024-10-19,FC BW Linz,Wolfsberger AC,0,1,0,1
+2024,2024-10-20,WSG Wattens,Lask Linz,1,1,1,2
+2024,2024-10-20,Austria Klagenfurt,Austria Vienna,0,0,0,1
+2024,2024-10-20,Rapid Vienna,TSV Hartberg,1,1,2,1
+2024,2024-10-26,Austria Vienna,WSG Wattens,0,0,3,0
+2024,2024-10-26,SCR Altach,Austria Klagenfurt,1,1,2,2
+2024,2024-10-26,TSV Hartberg,FC BW Linz,1,0,2,1
+2024,2024-10-27,Wolfsberger AC,Red Bull Salzburg,0,0,0,0
+2024,2024-10-27,Grazer AK,Rapid Vienna,0,0,1,1
+2024,2024-10-27,Lask Linz,Sturm Graz,0,1,1,2
+2024,2024-11-02,Red Bull Salzburg,Grazer AK,0,0,0,0
+2024,2024-11-02,Sturm Graz,Rapid Vienna,0,0,1,1
+2024,2024-11-02,Lask Linz,TSV Hartberg,0,1,1,1
+2024,2024-11-03,WSG Wattens,SCR Altach,1,0,1,0
+2024,2024-11-03,Austria Klagenfurt,Wolfsberger AC,2,0,2,1
+2024,2024-11-03,Austria Vienna,FC BW Linz,0,1,2,1
+2024,2024-11-09,Wolfsberger AC,Austria Vienna,0,0,0,1
+2024,2024-11-09,TSV Hartberg,Sturm Graz,0,1,1,2
+2024,2024-11-09,Grazer AK,WSG Wattens,1,0,2,1
+2024,2024-11-10,SCR Altach,Lask Linz,0,0,1,2
+2024,2024-11-10,FC BW Linz,Red Bull Salzburg,0,0,2,0
+2024,2024-11-10,Rapid Vienna,Austria Klagenfurt,2,0,2,0
+2024,2024-11-23,Red Bull Salzburg,Lask Linz,0,0,1,2
+2024,2024-11-23,Sturm Graz,Austria Klagenfurt,4,0,7,0
+2024,2024-11-23,WSG Wattens,Rapid Vienna,0,0,0,0
+2024,2024-11-24,Wolfsberger AC,SCR Altach,0,0,2,0
+2024,2024-11-24,FC BW Linz,Grazer AK,1,1,1,2
+2024,2024-11-24,Austria Vienna,TSV Hartberg,0,0,1,0
+2024,2024-11-30,SCR Altach,Sturm Graz,0,1,1,1
+2024,2024-11-30,TSV Hartberg,Red Bull Salzburg,0,1,1,1
+2024,2024-11-30,Grazer AK,Wolfsberger AC,3,0,3,4
+2024,2024-12-01,Rapid Vienna,FC BW Linz,0,0,0,1
+2024,2024-12-01,Austria Klagenfurt,WSG Wattens,0,1,0,3
+2024,2024-12-01,Lask Linz,Austria Vienna,0,1,1,3
+2024,2024-12-04,Red Bull Salzburg,TSV Hartberg,2,0,4,0
+2024,2024-12-07,Red Bull Salzburg,Rapid Vienna,1,0,2,2
+2024,2024-12-07,Wolfsberger AC,Lask Linz,0,1,2,1
+2024,2024-12-07,WSG Wattens,Sturm Graz,0,1,0,3
+2024,2024-12-08,FC BW Linz,Austria Klagenfurt,1,1,2,1
+2024,2024-12-08,Grazer AK,TSV Hartberg,0,1,0,3
+2024,2024-12-08,Austria Vienna,SCR Altach,1,0,3,0
+2024,2024-12-14,Red Bull Salzburg,Austria Klagenfurt,2,0,3,0
+2024,2025-02-07,Sturm Graz,Austria Vienna,1,1,2,2
+2024,2025-02-08,SCR Altach,Grazer AK,0,0,1,2
+2024,2025-02-08,Rapid Vienna,Wolfsberger AC,1,0,1,3
+2024,2025-02-09,WSG Wattens,TSV Hartberg,0,0,0,0
+2024,2025-02-09,Austria Klagenfurt,Red Bull Salzburg,0,0,0,0
+2024,2025-02-09,Lask Linz,FC BW Linz,0,0,0,0
+2024,2025-02-15,Red Bull Salzburg,WSG Wattens,0,1,1,1
+2024,2025-02-15,Wolfsberger AC,Sturm Graz,2,0,3,0
+2024,2025-02-15,FC BW Linz,SCR Altach,0,0,1,3
+2024,2025-02-16,TSV Hartberg,Austria Klagenfurt,0,0,1,1
+2024,2025-02-16,Grazer AK,Lask Linz,0,0,0,0
+2024,2025-02-16,Austria Vienna,Rapid Vienna,1,1,2,1
+2024,2025-02-22,Austria Vienna,Red Bull Salzburg,0,1,0,1
+2024,2025-02-22,WSG Wattens,Wolfsberger AC,1,1,3,3
+2024,2025-02-22,Austria Klagenfurt,Grazer AK,1,0,4,2
+2024,2025-02-23,SCR Altach,TSV Hartberg,0,0,0,0
+2024,2025-02-23,Sturm Graz,FC BW Linz,2,0,2,1
+2024,2025-02-23,Lask Linz,Rapid Vienna,1,0,2,1
+2024,2025-03-01,Rapid Vienna,SCR Altach,1,0,5,0
+2024,2025-03-01,TSV Hartberg,Wolfsberger AC,0,1,0,3
+2024,2025-03-01,Grazer AK,Austria Vienna,0,0,1,2
+2024,2025-03-02,FC BW Linz,WSG Wattens,1,1,2,1
+2024,2025-03-02,Austria Klagenfurt,Lask Linz,1,1,1,2
+2024,2025-03-02,Red Bull Salzburg,Sturm Graz,0,1,3,1
+2024,2025-03-09,Austria Vienna,Austria Klagenfurt,2,0,2,0
+2024,2025-03-09,SCR Altach,Red Bull Salzburg,0,1,1,1
+2024,2025-03-09,Wolfsberger AC,FC BW Linz,0,1,1,2
+2024,2025-03-09,Lask Linz,WSG Wattens,1,1,2,1
+2024,2025-03-09,TSV Hartberg,Rapid Vienna,0,0,2,1
+2024,2025-03-09,Grazer AK,Sturm Graz,0,0,1,2
+2024,2025-03-16,Red Bull Salzburg,Wolfsberger AC,1,0,1,0
+2024,2025-03-16,Sturm Graz,Lask Linz,1,0,4,2
+2024,2025-03-16,Rapid Vienna,Grazer AK,3,0,3,0
+2024,2025-03-16,FC BW Linz,TSV Hartberg,1,1,4,1
+2024,2025-03-16,WSG Wattens,Austria Vienna,0,0,0,2
+2024,2025-03-16,Austria Klagenfurt,SCR Altach,1,2,2,2
+2024,2025-03-28,SCR Altach,Lask Linz,0,1,0,2
+2024,2025-03-29,TSV Hartberg,Austria Klagenfurt,1,1,2,3
+2024,2025-03-29,Grazer AK,WSG Wattens,0,0,0,0
+2024,2025-03-30,Wolfsberger AC,Sturm Graz,1,0,1,1
+2024,2025-03-30,FC BW Linz,Austria Vienna,0,2,0,2
+2024,2025-03-30,Rapid Vienna,Red Bull Salzburg,0,1,0,2
+2024,2025-04-04,Sturm Graz,Rapid Vienna,1,0,2,0
+2024,2025-04-05,Lask Linz,Grazer AK,0,0,1,0
+2024,2025-04-05,WSG Wattens,TSV Hartberg,0,1,1,3
+2024,2025-04-05,Austria Klagenfurt,SCR Altach,2,2,2,3
+2024,2025-04-06,Red Bull Salzburg,FC BW Linz,0,0,2,1
+2024,2025-04-06,Austria Vienna,Wolfsberger AC,0,0,0,0
+2024,2025-04-11,FC BW Linz,Wolfsberger AC,0,1,1,2
+2024,2025-04-12,TSV Hartberg,Lask Linz,0,1,0,1
+2024,2025-04-12,WSG Wattens,Austria Klagenfurt,2,0,5,3
+2024,2025-04-12,Grazer AK,SCR Altach,1,0,1,0
+2024,2025-04-13,Red Bull Salzburg,Sturm Graz,1,0,1,2
+2024,2025-04-13,Rapid Vienna,Austria Vienna,1,0,2,0
+2024,2025-04-18,Lask Linz,WSG Wattens,0,0,2,0
+2024,2025-04-19,SCR Altach,TSV Hartberg,0,0,1,1
+2024,2025-04-19,Austria Klagenfurt,Grazer AK,0,0,0,0
+2024,2025-04-20,Sturm Graz,FC BW Linz,1,0,2,0
+2024,2025-04-20,Wolfsberger AC,Rapid Vienna,1,1,5,1
+2024,2025-04-20,Austria Vienna,Red Bull Salzburg,1,2,1,3
+2024,2025-04-22,WSG Wattens,SCR Altach,1,0,1,0
+2024,2025-04-22,Grazer AK,TSV Hartberg,0,0,0,3
+2024,2025-04-22,Austria Klagenfurt,Lask Linz,1,2,1,4
+2024,2025-04-23,Red Bull Salzburg,Wolfsberger AC,0,1,1,1
+2024,2025-04-23,FC BW Linz,Rapid Vienna,1,0,2,1
+2024,2025-04-23,Austria Vienna,Sturm Graz,1,1,2,1
+2024,2025-04-25,TSV Hartberg,Grazer AK,1,1,1,1
+2024,2025-04-26,SCR Altach,WSG Wattens,2,0,3,0
+2024,2025-04-26,Lask Linz,Austria Klagenfurt,2,0,6,0
+2024,2025-04-27,Rapid Vienna,FC BW Linz,0,0,0,0
+2024,2025-04-27,Wolfsberger AC,Red Bull Salzburg,1,0,2,1
+2024,2025-04-27,Sturm Graz,Austria Vienna,0,0,0,1
+2024,2025-05-02,Grazer AK,Austria Klagenfurt,1,1,1,1
+2024,2025-05-03,WSG Wattens,Lask Linz,0,0,1,3
+2024,2025-05-04,Rapid Vienna,Wolfsberger AC,0,0,0,1
+2024,2025-05-04,TSV Hartberg,SCR Altach,0,0,2,0
+2024,2025-05-04,FC BW Linz,Sturm Graz,0,0,0,1
+2024,2025-05-04,Red Bull Salzburg,Austria Vienna,0,0,2,0
+2024,2025-05-09,Sturm Graz,Red Bull Salzburg,2,1,4,2
+2024,2025-05-10,SCR Altach,Grazer AK,1,1,2,2
+2024,2025-05-10,Lask Linz,TSV Hartberg,0,0,0,0
+2024,2025-05-10,Austria Klagenfurt,WSG Wattens,1,1,1,4
+2024,2025-05-11,Wolfsberger AC,FC BW Linz,1,0,2,0
+2024,2025-05-11,Austria Vienna,Rapid Vienna,0,1,1,2
+2024,2025-05-17,SCR Altach,Austria Klagenfurt,0,0,0,0
+2024,2025-05-17,TSV Hartberg,WSG Wattens,0,1,3,2
+2024,2025-05-17,Grazer AK,Lask Linz,0,0,1,0
+2024,2025-05-18,Rapid Vienna,Sturm Graz,2,0,3,1
+2024,2025-05-18,Wolfsberger AC,Austria Vienna,0,0,1,2
+2024,2025-05-18,FC BW Linz,Red Bull Salzburg,1,0,1,2
+2024,2025-05-23,Lask Linz,SCR Altach,0,0,0,0
+2024,2025-05-23,WSG Wattens,Grazer AK,1,1,1,1
+2024,2025-05-23,Austria Klagenfurt,TSV Hartberg,0,1,0,1
+2024,2025-05-24,Red Bull Salzburg,Rapid Vienna,3,1,4,2
+2024,2025-05-24,Austria Vienna,FC BW Linz,1,0,2,2
+2024,2025-05-24,Sturm Graz,Wolfsberger AC,1,0,1,1
+2024,2025-05-26,Lask Linz,TSV Hartberg,1,0,2,0
+2024,2025-05-29,Lask Linz,Rapid Vienna,1,1,3,1
+2024,2025-06-01,Rapid Vienna,Lask Linz,1,0,3,0
+2025,2025-08-01,Lask Linz,Sturm Graz,0,2,0,2
+2025,2025-08-02,Wolfsberger AC,SCR Altach,0,0,0,2
+2025,2025-08-02,WSG Wattens,TSV Hartberg,2,2,4,2
+2025,2025-08-02,Ried,Red Bull Salzburg,1,1,2,2
+2025,2025-08-03,Rapid Vienna,FC BW Linz,1,0,1,0
+2025,2025-08-03,Grazer AK,Austria Vienna,1,1,2,2
+2025,2025-08-09,SCR Altach,Ried,0,0,1,0
+2025,2025-08-09,FC BW Linz,TSV Hartberg,0,1,0,1
+2025,2025-08-09,Red Bull Salzburg,Grazer AK,1,0,5,0
+2025,2025-08-10,Austria Vienna,Wolfsberger AC,0,2,0,2
+2025,2025-08-10,Sturm Graz,Rapid Vienna,0,0,1,2
+2025,2025-08-10,WSG Wattens,Lask Linz,2,0,3,1
+2025,2025-08-16,TSV Hartberg,Red Bull Salzburg,,,,
+2025,2025-08-16,Grazer AK,WSG Wattens,,,,
+2025,2025-08-16,Ried,Sturm Graz,,,,
+2025,2025-08-17,Rapid Vienna,SCR Altach,,,,
+2025,2025-08-17,Wolfsberger AC,FC BW Linz,,,,
+2025,2025-08-17,Lask Linz,Austria Vienna,,,,
+2025,2025-08-23,Red Bull Salzburg,Lask Linz,,,,
+2025,2025-08-23,FC BW Linz,Ried,,,,
+2025,2025-08-23,Sturm Graz,WSG Wattens,,,,
+2025,2025-08-24,Austria Vienna,TSV Hartberg,,,,
+2025,2025-08-24,SCR Altach,Grazer AK,,,,
+2025,2025-08-24,Wolfsberger AC,Rapid Vienna,,,,
+2025,2025-08-30,Red Bull Salzburg,FC BW Linz,,,,
+2025,2025-08-30,Lask Linz,Ried,,,,
+2025,2025-08-30,Grazer AK,Sturm Graz,,,,
+2025,2025-08-31,Austria Vienna,SCR Altach,,,,
+2025,2025-08-31,TSV Hartberg,Rapid Vienna,,,,
+2025,2025-08-31,WSG Wattens,Wolfsberger AC,,,,
+2025,2025-09-13,SCR Altach,Lask Linz,,,,
+2025,2025-09-13,Sturm Graz,Austria Vienna,,,,
+2025,2025-09-13,Rapid Vienna,WSG Wattens,,,,
+2025,2025-09-13,Wolfsberger AC,Red Bull Salzburg,,,,
+2025,2025-09-13,Ried,TSV Hartberg,,,,
+2025,2025-09-13,FC BW Linz,Grazer AK,,,,
+2025,2025-09-20,Red Bull Salzburg,Sturm Graz,,,,
+2025,2025-09-20,Austria Vienna,Ried,,,,
+2025,2025-09-20,SCR Altach,WSG Wattens,,,,
+2025,2025-09-20,Lask Linz,FC BW Linz,,,,
+2025,2025-09-20,TSV Hartberg,Wolfsberger AC,,,,
+2025,2025-09-20,Grazer AK,Rapid Vienna,,,,
+2025,2025-09-27,Sturm Graz,TSV Hartberg,,,,
+2025,2025-09-27,Rapid Vienna,Austria Vienna,,,,
+2025,2025-09-27,Wolfsberger AC,Lask Linz,,,,
+2025,2025-09-27,Ried,Grazer AK,,,,
+2025,2025-09-27,FC BW Linz,SCR Altach,,,,
+2025,2025-09-27,WSG Wattens,Red Bull Salzburg,,,,
+2025,2025-10-04,Red Bull Salzburg,Rapid Vienna,,,,
+2025,2025-10-04,Austria Vienna,FC BW Linz,,,,
+2025,2025-10-04,SCR Altach,Sturm Graz,,,,
+2025,2025-10-04,Lask Linz,TSV Hartberg,,,,
+2025,2025-10-04,Ried,WSG Wattens,,,,
+2025,2025-10-04,Grazer AK,Wolfsberger AC,,,,
+2025,2025-10-18,Red Bull Salzburg,SCR Altach,,,,
+2025,2025-10-18,Rapid Vienna,Lask Linz,,,,
+2025,2025-10-18,Wolfsberger AC,Ried,,,,
+2025,2025-10-18,FC BW Linz,Sturm Graz,,,,
+2025,2025-10-18,WSG Wattens,Austria Vienna,,,,
+2025,2025-10-18,Grazer AK,TSV Hartberg,,,,
+2025,2025-10-25,Austria Vienna,Red Bull Salzburg,,,,
+2025,2025-10-25,SCR Altach,TSV Hartberg,,,,
+2025,2025-10-25,Sturm Graz,Wolfsberger AC,,,,
+2025,2025-10-25,Lask Linz,Grazer AK,,,,
+2025,2025-10-25,Ried,Rapid Vienna,,,,
+2025,2025-10-25,WSG Wattens,FC BW Linz,,,,
+2025,2025-11-01,Red Bull Salzburg,Ried,,,,
+2025,2025-11-01,Rapid Vienna,Sturm Graz,,,,
+2025,2025-11-01,Wolfsberger AC,WSG Wattens,,,,
+2025,2025-11-01,TSV Hartberg,Austria Vienna,,,,
+2025,2025-11-01,FC BW Linz,Lask Linz,,,,
+2025,2025-11-01,Grazer AK,SCR Altach,,,,
+2025,2025-11-08,Austria Vienna,Grazer AK,,,,
+2025,2025-11-08,Sturm Graz,Red Bull Salzburg,,,,
+2025,2025-11-08,Wolfsberger AC,TSV Hartberg,,,,
+2025,2025-11-08,Lask Linz,SCR Altach,,,,
+2025,2025-11-08,Ried,FC BW Linz,,,,
+2025,2025-11-08,WSG Wattens,Rapid Vienna,,,,
+2025,2025-11-22,Red Bull Salzburg,WSG Wattens,,,,
+2025,2025-11-22,SCR Altach,Wolfsberger AC,,,,
+2025,2025-11-22,Sturm Graz,Lask Linz,,,,
+2025,2025-11-22,Rapid Vienna,Grazer AK,,,,
+2025,2025-11-22,TSV Hartberg,Ried,,,,
+2025,2025-11-22,FC BW Linz,Austria Vienna,,,,
+2025,2025-11-29,Austria Vienna,WSG Wattens,,,,
+2025,2025-11-29,SCR Altach,Red Bull Salzburg,,,,
+2025,2025-11-29,Lask Linz,Rapid Vienna,,,,
+2025,2025-11-29,Ried,Wolfsberger AC,,,,
+2025,2025-11-29,TSV Hartberg,Sturm Graz,,,,
+2025,2025-11-29,Grazer AK,FC BW Linz,,,,
+2025,2025-12-06,Sturm Graz,Grazer AK,,,,
+2025,2025-12-06,Rapid Vienna,Ried,,,,
+2025,2025-12-06,Wolfsberger AC,Austria Vienna,,,,
+2025,2025-12-06,TSV Hartberg,Lask Linz,,,,
+2025,2025-12-06,FC BW Linz,Red Bull Salzburg,,,,
+2025,2025-12-06,WSG Wattens,SCR Altach,,,,
+2025,2025-12-13,Red Bull Salzburg,Wolfsberger AC,,,,
+2025,2025-12-13,Austria Vienna,Sturm Graz,,,,
+2025,2025-12-13,Ried,SCR Altach,,,,
+2025,2025-12-13,TSV Hartberg,WSG Wattens,,,,
+2025,2025-12-13,FC BW Linz,Rapid Vienna,,,,
+2025,2025-12-13,Grazer AK,Lask Linz,,,,
+2025,2026-02-06,Red Bull Salzburg,Austria Vienna,,,,
+2025,2026-02-06,SCR Altach,FC BW Linz,,,,
+2025,2026-02-06,Sturm Graz,Ried,,,,
+2025,2026-02-06,Rapid Vienna,TSV Hartberg,,,,
+2025,2026-02-06,Wolfsberger AC,Grazer AK,,,,
+2025,2026-02-06,Lask Linz,WSG Wattens,,,,
+2025,2026-02-14,Austria Vienna,Rapid Vienna,,,,
+2025,2026-02-14,Ried,Lask Linz,,,,
+2025,2026-02-14,TSV Hartberg,SCR Altach,,,,
+2025,2026-02-14,FC BW Linz,Wolfsberger AC,,,,
+2025,2026-02-14,WSG Wattens,Sturm Graz,,,,
+2025,2026-02-14,Grazer AK,Red Bull Salzburg,,,,
+2025,2026-02-21,SCR Altach,Austria Vienna,,,,
+2025,2026-02-21,Sturm Graz,FC BW Linz,,,,
+2025,2026-02-21,Rapid Vienna,Wolfsberger AC,,,,
+2025,2026-02-21,Lask Linz,Red Bull Salzburg,,,,
+2025,2026-02-21,TSV Hartberg,Grazer AK,,,,
+2025,2026-02-21,WSG Wattens,Ried,,,,
+2025,2026-02-28,Red Bull Salzburg,TSV Hartberg,,,,
+2025,2026-02-28,Austria Vienna,Lask Linz,,,,
+2025,2026-02-28,SCR Altach,Rapid Vienna,,,,
+2025,2026-02-28,Wolfsberger AC,Sturm Graz,,,,
+2025,2026-02-28,FC BW Linz,WSG Wattens,,,,
+2025,2026-02-28,Grazer AK,Ried,,,,
+2025,2026-03-07,Sturm Graz,SCR Altach,,,,
+2025,2026-03-07,Rapid Vienna,Red Bull Salzburg,,,,
+2025,2026-03-07,Lask Linz,Wolfsberger AC,,,,
+2025,2026-03-07,Ried,Austria Vienna,,,,
+2025,2026-03-07,TSV Hartberg,FC BW Linz,,,,
+2025,2026-03-07,WSG Wattens,Grazer AK,,,,

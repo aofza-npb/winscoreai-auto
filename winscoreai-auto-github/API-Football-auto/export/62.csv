@@ -1,0 +1,617 @@
+season,date,home,away,ht_home,ht_away,ft_home,ft_away
+2024,2024-08-16,Amiens,RED Star FC 93,1,0,3,0
+2024,2024-08-16,Guingamp,Estac Troyes,2,0,4,0
+2024,2024-08-16,Ajaccio,Rodez,0,0,1,0
+2024,2024-08-16,Clermont Foot,PAU,1,2,2,2
+2024,2024-08-16,Grenoble,Laval,0,0,2,1
+2024,2024-08-16,Dunkerque,Annecy,0,0,0,2
+2024,2024-08-17,Caen,Paris FC,0,0,0,2
+2024,2024-08-19,Metz,Bastia,0,1,1,1
+2024,2024-08-19,Martigues,Lorient,0,0,0,1
+2024,2024-08-23,Estac Troyes,Clermont Foot,0,1,0,1
+2024,2024-08-23,Paris FC,Dunkerque,0,1,3,2
+2024,2024-08-23,Laval,Guingamp,0,1,0,1
+2024,2024-08-23,PAU,Caen,1,0,1,0
+2024,2024-08-23,Rodez,Metz,0,3,1,3
+2024,2024-08-23,Bastia,Amiens,0,0,1,0
+2024,2024-08-23,Annecy,Martigues,1,2,2,4
+2024,2024-08-24,Lorient,Grenoble,0,0,2,0
+2024,2024-08-26,RED Star FC 93,Ajaccio,1,0,1,0
+2024,2024-08-30,Caen,Annecy,0,0,1,1
+2024,2024-08-30,Guingamp,RED Star FC 93,2,2,3,4
+2024,2024-08-30,Ajaccio,Estac Troyes,0,1,2,1
+2024,2024-08-30,Clermont Foot,Paris FC,0,1,0,1
+2024,2024-08-30,Grenoble,PAU,0,0,1,1
+2024,2024-08-30,Dunkerque,Rodez,1,0,1,0
+2024,2024-08-30,Martigues,Bastia,0,0,0,1
+2024,2024-08-31,Amiens,Lorient,1,0,1,0
+2024,2024-08-31,Metz,Laval,0,1,1,1
+2024,2024-09-13,Lorient,RED Star FC 93,1,0,2,1
+2024,2024-09-13,Clermont Foot,Dunkerque,0,0,0,1
+2024,2024-09-13,Laval,Ajaccio,1,1,1,1
+2024,2024-09-13,PAU,Martigues,1,0,3,0
+2024,2024-09-13,Rodez,Guingamp,0,1,1,2
+2024,2024-09-13,Bastia,Estac Troyes,0,0,0,0
+2024,2024-09-13,Annecy,Amiens,1,0,3,0
+2024,2024-09-14,Paris FC,Metz,1,2,1,2
+2024,2024-09-16,Grenoble,Caen,2,1,3,1
+2024,2024-09-20,Amiens,Clermont Foot,1,0,1,0
+2024,2024-09-20,Caen,Ajaccio,0,0,1,0
+2024,2024-09-20,Guingamp,Annecy,1,1,2,2
+2024,2024-09-20,RED Star FC 93,Laval,0,2,0,3
+2024,2024-09-20,Estac Troyes,Rodez,0,1,0,3
+2024,2024-09-20,Dunkerque,PAU,2,1,3,2
+2024,2024-09-20,Bastia,Paris FC,2,1,2,1
+2024,2024-09-20,Martigues,Grenoble,0,0,0,4
+2024,2024-09-21,Metz,Lorient,1,0,1,1
+2024,2024-09-24,Caen,Amiens,1,1,2,1
+2024,2024-09-24,Ajaccio,Grenoble,0,0,2,0
+2024,2024-09-24,Clermont Foot,RED Star FC 93,1,0,1,1
+2024,2024-09-24,Metz,Martigues,3,0,6,0
+2024,2024-09-24,Paris FC,Guingamp,1,0,2,0
+2024,2024-09-24,PAU,Lorient,1,0,1,0
+2024,2024-09-24,Rodez,Laval,1,0,1,3
+2024,2024-09-24,Dunkerque,Bastia,0,1,2,1
+2024,2024-09-24,Annecy,Estac Troyes,1,0,1,0
+2024,2024-09-27,Amiens,Rodez,0,1,2,1
+2024,2024-09-27,Lorient,Ajaccio,0,0,3,0
+2024,2024-09-27,Grenoble,Clermont Foot,1,0,3,0
+2024,2024-09-27,Laval,PAU,2,0,3,1
+2024,2024-09-27,Bastia,Annecy,1,1,2,2
+2024,2024-09-27,Martigues,Dunkerque,1,0,1,1
+2024,2024-09-28,RED Star FC 93,Paris FC,1,2,1,3
+2024,2024-09-28,Estac Troyes,Metz,1,0,2,1
+2024,2024-09-30,Guingamp,Caen,1,0,3,1
+2024,2024-10-04,Paris FC,Laval,0,0,1,0
+2024,2024-10-04,Rodez,Grenoble,0,1,2,1
+2024,2024-10-04,Dunkerque,Estac Troyes,0,1,2,1
+2024,2024-10-04,Annecy,RED Star FC 93,0,0,1,0
+2024,2024-10-05,Caen,Lorient,1,1,1,2
+2024,2024-10-05,Ajaccio,Martigues,1,1,1,1
+2024,2024-10-05,Clermont Foot,Guingamp,2,0,4,1
+2024,2024-10-05,Metz,Amiens,3,1,3,2
+2024,2024-10-18,Guingamp,PAU,0,0,0,1
+2024,2024-10-18,Grenoble,Metz,1,0,2,0
+2024,2024-10-18,RED Star FC 93,Caen,0,1,2,2
+2024,2024-10-18,Laval,Dunkerque,3,0,3,2
+2024,2024-10-18,Bastia,Clermont Foot,0,0,0,0
+2024,2024-10-18,Martigues,Rodez,0,2,0,2
+2024,2024-10-19,Amiens,Ajaccio,2,1,3,1
+2024,2024-10-19,Lorient,Annecy,0,1,4,2
+2024,2024-10-21,Estac Troyes,Paris FC,0,2,0,3
+2024,2024-10-22,PAU,Bastia,1,0,1,1
+2024,2024-10-25,Clermont Foot,Martigues,0,1,0,1
+2024,2024-10-25,Metz,Guingamp,0,0,1,0
+2024,2024-10-25,PAU,Amiens,0,2,0,2
+2024,2024-10-25,Rodez,Lorient,0,1,3,3
+2024,2024-10-25,Dunkerque,RED Star FC 93,1,0,2,0
+2024,2024-10-25,Annecy,Laval,1,0,2,0
+2024,2024-10-26,Caen,Estac Troyes,0,1,0,1
+2024,2024-10-26,Paris FC,Grenoble,2,0,2,1
+2024,2024-10-29,Amiens,Paris FC,0,0,0,0
+2024,2024-10-29,Guingamp,Ajaccio,0,0,1,0
+2024,2024-10-29,Lorient,Dunkerque,1,2,4,2
+2024,2024-10-29,Grenoble,Annecy,0,0,0,0
+2024,2024-10-29,RED Star FC 93,Metz,0,0,1,0
+2024,2024-10-29,Estac Troyes,PAU,0,0,3,0
+2024,2024-10-29,Laval,Clermont Foot,1,0,1,2
+2024,2024-10-29,Bastia,Rodez,1,2,2,2
+2024,2024-10-29,Martigues,Caen,0,0,0,3
+2024,2024-11-01,Clermont Foot,Lorient,1,0,2,1
+2024,2024-11-01,Estac Troyes,Laval,0,0,0,0
+2024,2024-11-01,Paris FC,Rodez,1,2,3,3
+2024,2024-11-01,Dunkerque,Amiens,2,0,3,1
+2024,2024-11-01,Annecy,PAU,1,0,2,0
+2024,2024-11-01,Martigues,RED Star FC 93,0,0,0,1
+2024,2024-11-02,Caen,Bastia,1,0,2,0
+2024,2024-11-02,Guingamp,Grenoble,1,0,3,0
+2024,2024-11-04,Ajaccio,Metz,0,1,0,1
+2024,2024-11-08,Amiens,Martigues,0,1,1,1
+2024,2024-11-08,Ajaccio,Clermont Foot,0,0,2,0
+2024,2024-11-08,Grenoble,Dunkerque,0,0,0,1
+2024,2024-11-08,RED Star FC 93,Estac Troyes,0,1,0,3
+2024,2024-11-08,Laval,Bastia,1,1,2,2
+2024,2024-11-08,Rodez,Annecy,2,1,5,1
+2024,2024-11-09,Lorient,Guingamp,2,0,3,1
+2024,2024-11-09,PAU,Paris FC,0,0,0,0
+2024,2024-11-09,Metz,Caen,1,0,1,0
+2024,2024-11-22,Caen,Rodez,1,2,3,3
+2024,2024-11-22,Guingamp,Amiens,2,0,3,0
+2024,2024-11-22,Clermont Foot,Metz,1,1,1,1
+2024,2024-11-22,Estac Troyes,Grenoble,0,0,0,0
+2024,2024-11-22,PAU,RED Star FC 93,1,1,4,1
+2024,2024-11-22,Martigues,Laval,0,1,0,3
+2024,2024-11-23,Paris FC,Annecy,0,0,0,0
+2024,2024-11-23,Bastia,Lorient,0,0,0,0
+2024,2024-11-25,Dunkerque,Ajaccio,1,0,1,0
+2024,2024-12-03,Ajaccio,Bastia,0,0,0,0
+2024,2024-12-06,Lorient,Estac Troyes,1,0,2,0
+2024,2024-12-06,RED Star FC 93,Bastia,0,0,0,0
+2024,2024-12-06,Laval,Caen,1,0,1,0
+2024,2024-12-06,Rodez,PAU,0,0,1,0
+2024,2024-12-06,Annecy,Clermont Foot,1,0,2,0
+2024,2024-12-06,Martigues,Guingamp,0,0,0,1
+2024,2024-12-07,Grenoble,Amiens,0,0,0,2
+2024,2024-12-07,Ajaccio,Paris FC,0,0,0,2
+2024,2024-12-09,Metz,Dunkerque,0,0,2,0
+2024,2024-12-13,Amiens,Laval,0,1,1,3
+2024,2024-12-13,Clermont Foot,Rodez,0,1,1,1
+2024,2024-12-13,Estac Troyes,Martigues,1,0,4,0
+2024,2024-12-13,PAU,Ajaccio,1,0,1,0
+2024,2024-12-13,Bastia,Guingamp,0,1,3,1
+2024,2024-12-14,Lorient,Paris FC,1,0,2,0
+2024,2024-12-14,RED Star FC 93,Grenoble,3,0,3,1
+2024,2024-12-14,Annecy,Metz,0,0,0,0
+2024,2024-12-16,Dunkerque,Caen,0,0,3,1
+2024,2025-01-03,Amiens,Estac Troyes,0,2,0,3
+2024,2025-01-03,Caen,Clermont Foot,0,0,0,1
+2024,2025-01-03,Ajaccio,Annecy,1,1,1,2
+2024,2025-01-03,Grenoble,Bastia,1,1,3,2
+2024,2025-01-03,Paris FC,Martigues,1,0,1,2
+2024,2025-01-03,Rodez,RED Star FC 93,0,1,0,2
+2024,2025-01-04,Guingamp,Dunkerque,0,0,1,1
+2024,2025-01-04,Metz,PAU,0,0,0,0
+2024,2025-01-04,Laval,Lorient,0,0,2,0
+2024,2025-01-10,Laval,RED Star FC 93,1,1,1,1
+2024,2025-01-10,PAU,Dunkerque,0,1,1,1
+2024,2025-01-10,Rodez,Estac Troyes,1,0,2,1
+2024,2025-01-10,Annecy,Guingamp,0,1,1,4
+2024,2025-01-10,Martigues,Clermont Foot,0,0,0,1
+2024,2025-01-11,Caen,Grenoble,0,1,0,1
+2024,2025-01-11,Paris FC,Amiens,0,0,1,0
+2024,2025-01-11,Bastia,Ajaccio,3,0,4,0
+2024,2025-01-11,Lorient,Metz,0,0,0,0
+2024,2025-01-17,Amiens,Bastia,0,0,1,0
+2024,2025-01-17,Guingamp,Rodez,1,0,3,0
+2024,2025-01-17,Ajaccio,Caen,0,0,2,1
+2024,2025-01-17,Grenoble,Martigues,0,0,1,0
+2024,2025-01-17,RED Star FC 93,PAU,1,1,1,3
+2024,2025-01-18,Clermont Foot,Laval,0,0,1,1
+2024,2025-01-18,Metz,Paris FC,1,1,3,1
+2024,2025-01-18,Dunkerque,Lorient,0,1,0,1
+2024,2025-01-20,Estac Troyes,Annecy,0,1,0,1
+2024,2025-01-24,Caen,Guingamp,0,1,0,1
+2024,2025-01-24,Metz,Grenoble,1,0,3,0
+2024,2025-01-24,Laval,Estac Troyes,0,0,1,0
+2024,2025-01-24,Rodez,Ajaccio,0,2,1,2
+2024,2025-01-24,Bastia,PAU,0,0,1,1
+2024,2025-01-24,Martigues,Amiens,3,0,3,0
+2024,2025-01-25,Paris FC,RED Star FC 93,1,0,4,1
+2024,2025-01-25,Lorient,Clermont Foot,2,1,3,2
+2024,2025-01-27,Annecy,Dunkerque,0,1,0,2
+2024,2025-01-31,Amiens,Annecy,1,0,1,0
+2024,2025-01-31,Clermont Foot,Ajaccio,0,0,0,1
+2024,2025-01-31,Grenoble,Rodez,1,1,2,1
+2024,2025-01-31,PAU,Laval,0,0,1,1
+2024,2025-01-31,Dunkerque,Martigues,0,0,0,1
+2024,2025-01-31,Bastia,Metz,1,0,1,1
+2024,2025-02-01,RED Star FC 93,Lorient,0,1,1,2
+2024,2025-02-01,Estac Troyes,Caen,0,0,3,0
+2024,2025-02-01,Guingamp,Paris FC,0,1,0,1
+2024,2025-02-07,Grenoble,RED Star FC 93,0,0,0,0
+2024,2025-02-07,Paris FC,PAU,1,1,3,1
+2024,2025-02-07,Laval,Annecy,0,0,0,1
+2024,2025-02-07,Rodez,Bastia,0,1,0,2
+2024,2025-02-07,Martigues,Estac Troyes,0,2,1,2
+2024,2025-02-08,Lorient,Amiens,1,1,3,1
+2024,2025-02-08,Ajaccio,Guingamp,0,2,0,3
+2024,2025-02-08,Metz,Clermont Foot,2,0,3,1
+2024,2025-02-10,Caen,Dunkerque,0,1,0,2
+2024,2025-02-14,Amiens,Grenoble,1,3,1,4
+2024,2025-02-14,Ajaccio,Laval,2,0,3,0
+2024,2025-02-14,Clermont Foot,Bastia,0,1,1,1
+2024,2025-02-14,RED Star FC 93,Martigues,0,0,1,0
+2024,2025-02-14,Estac Troyes,Lorient,0,0,0,1
+2024,2025-02-14,PAU,Rodez,0,2,0,5
+2024,2025-02-15,Dunkerque,Paris FC,0,0,1,0
+2024,2025-02-15,Guingamp,Metz,0,1,0,3
+2024,2025-02-17,Annecy,Caen,1,0,1,0
+2024,2025-02-21,Grenoble,Guingamp,1,0,1,1
+2024,2025-02-21,Paris FC,Estac Troyes,0,0,1,0
+2024,2025-02-21,Rodez,Amiens,1,0,1,1
+2024,2025-02-21,Dunkerque,Clermont Foot,2,0,3,0
+2024,2025-02-21,Bastia,RED Star FC 93,0,0,1,0
+2024,2025-02-21,Martigues,Annecy,1,0,2,0
+2024,2025-02-22,Caen,PAU,1,1,2,2
+2024,2025-02-22,Lorient,Laval,0,0,0,1
+2024,2025-02-22,Metz,Ajaccio,0,0,0,1
+2024,2025-02-28,Clermont Foot,Caen,0,0,0,1
+2024,2025-02-28,Estac Troyes,Bastia,1,0,2,0
+2024,2025-02-28,Laval,Martigues,0,0,0,1
+2024,2025-02-28,PAU,Grenoble,0,0,1,0
+2024,2025-02-28,Annecy,Paris FC,1,1,2,3
+2024,2025-03-01,Amiens,Metz,1,0,1,2
+2024,2025-03-01,RED Star FC 93,Guingamp,1,1,3,1
+2024,2025-03-01,Lorient,Rodez,1,1,3,1
+2024,2025-03-03,Ajaccio,Dunkerque,0,1,1,2
+2024,2025-03-07,Caen,Laval,0,1,0,1
+2024,2025-03-07,Guingamp,Clermont Foot,0,1,3,1
+2024,2025-03-07,Grenoble,Ajaccio,1,1,2,2
+2024,2025-03-07,RED Star FC 93,Amiens,1,0,2,0
+2024,2025-03-07,PAU,Estac Troyes,0,0,0,2
+2024,2025-03-07,Bastia,Martigues,1,0,1,0
+2024,2025-03-08,Paris FC,Lorient,3,1,3,2
+2024,2025-03-08,Metz,Annecy,2,0,5,1
+2024,2025-03-10,Rodez,Dunkerque,0,1,5,1
+2024,2025-03-14,Amiens,Caen,0,0,2,1
+2024,2025-03-14,Ajaccio,RED Star FC 93,0,1,2,1
+2024,2025-03-14,Clermont Foot,Grenoble,0,0,0,0
+2024,2025-03-14,Estac Troyes,Guingamp,0,0,0,1
+2024,2025-03-14,Annecy,Rodez,0,0,1,1
+2024,2025-03-14,Martigues,PAU,1,0,2,2
+2024,2025-03-15,Laval,Paris FC,1,0,3,0
+2024,2025-03-15,Dunkerque,Metz,0,1,2,3
+2024,2025-03-15,Lorient,Bastia,2,0,4,0
+2024,2025-03-28,Clermont Foot,Amiens,1,0,1,1
+2024,2025-03-28,RED Star FC 93,Rodez,1,1,1,1
+2024,2025-03-28,Metz,Estac Troyes,1,0,2,1
+2024,2025-03-28,PAU,Annecy,0,0,1,0
+2024,2025-03-28,Bastia,Dunkerque,1,0,2,0
+2024,2025-03-28,Martigues,Ajaccio,2,0,2,0
+2024,2025-03-29,Grenoble,Lorient,1,2,1,2
+2024,2025-03-29,Guingamp,Laval,2,0,2,0
+2024,2025-03-31,Paris FC,Caen,3,0,4,2
+2024,2025-04-04,Ajaccio,Amiens,1,1,2,1
+2024,2025-04-04,Paris FC,Clermont Foot,1,0,2,0
+2024,2025-04-04,Laval,Grenoble,1,2,1,2
+2024,2025-04-04,Rodez,Martigues,0,0,1,0
+2024,2025-04-04,Annecy,Bastia,1,0,1,1
+2024,2025-04-05,Caen,Metz,0,1,2,2
+2024,2025-04-05,Lorient,PAU,1,0,5,0
+2024,2025-04-05,Estac Troyes,RED Star FC 93,2,2,2,2
+2024,2025-04-07,Dunkerque,Guingamp,0,0,3,1
+2024,2025-04-11,Amiens,Dunkerque,0,0,1,0
+2024,2025-04-11,RED Star FC 93,Annecy,0,1,0,1
+2024,2025-04-11,Estac Troyes,Ajaccio,0,0,0,0
+2024,2025-04-11,PAU,Clermont Foot,1,1,2,2
+2024,2025-04-11,Rodez,Caen,0,0,2,2
+2024,2025-04-11,Martigues,Metz,1,3,1,4
+2024,2025-04-12,Guingamp,Lorient,0,0,1,2
+2024,2025-04-12,Grenoble,Paris FC,0,1,1,2
+2024,2025-04-14,Bastia,Laval,2,1,5,2
+2024,2025-04-18,Amiens,Guingamp,2,1,3,2
+2024,2025-04-18,Caen,Martigues,0,2,0,3
+2024,2025-04-18,Ajaccio,PAU,0,1,1,1
+2024,2025-04-18,Clermont Foot,Estac Troyes,0,1,0,2
+2024,2025-04-18,Laval,Rodez,1,0,2,1
+2024,2025-04-18,Dunkerque,Grenoble,0,0,2,0
+2024,2025-04-19,Paris FC,Bastia,1,0,1,0
+2024,2025-04-19,Metz,RED Star FC 93,1,1,2,2
+2024,2025-04-21,Annecy,Lorient,0,0,0,0
+2024,2025-04-25,Guingamp,Martigues,1,0,2,1
+2024,2025-04-25,RED Star FC 93,Clermont Foot,1,0,1,1
+2024,2025-04-25,Estac Troyes,Dunkerque,1,0,1,0
+2024,2025-04-25,Laval,Amiens,0,0,1,0
+2024,2025-04-25,Bastia,Grenoble,1,1,2,3
+2024,2025-04-25,Annecy,Ajaccio,0,0,2,0
+2024,2025-04-26,Rodez,Paris FC,0,1,1,1
+2024,2025-04-26,Lorient,Caen,2,0,4,0
+2024,2025-04-26,PAU,Metz,0,0,2,1
+2024,2025-05-02,Amiens,PAU,3,1,4,2
+2024,2025-05-02,Caen,RED Star FC 93,0,1,1,1
+2024,2025-05-02,Guingamp,Bastia,1,1,2,2
+2024,2025-05-02,Ajaccio,Lorient,1,0,2,1
+2024,2025-05-02,Clermont Foot,Annecy,2,0,3,2
+2024,2025-05-02,Grenoble,Estac Troyes,2,0,3,1
+2024,2025-05-02,Metz,Rodez,0,0,3,3
+2024,2025-05-02,Dunkerque,Laval,0,0,0,0
+2024,2025-05-02,Martigues,Paris FC,0,0,1,1
+2024,2025-05-10,Lorient,Martigues,1,0,5,1
+2024,2025-05-10,RED Star FC 93,Dunkerque,1,1,1,1
+2024,2025-05-10,Estac Troyes,Amiens,0,0,1,0
+2024,2025-05-10,Paris FC,Ajaccio,0,0,2,0
+2024,2025-05-10,Laval,Metz,0,1,2,3
+2024,2025-05-10,PAU,Guingamp,1,1,1,3
+2024,2025-05-10,Rodez,Clermont Foot,1,1,1,1
+2024,2025-05-10,Bastia,Caen,1,1,2,1
+2024,2025-05-10,Annecy,Grenoble,1,1,3,1
+2024,2025-05-14,Dunkerque,Guingamp,0,0,1,0
+2024,2025-05-17,Metz,Dunkerque,0,0,1,0
+2024,2025-05-20,Boulogne,Clermont Foot,1,1,1,3
+2024,2025-05-25,Clermont Foot,Boulogne,0,0,1,2
+2025,2025-08-09,Guingamp,Le Mans,0,2,3,3
+2025,2025-08-09,Montpellier,RED Star FC 93,1,1,1,1
+2025,2025-08-09,Estac Troyes,Grenoble,1,1,2,1
+2025,2025-08-09,Laval,Saint Etienne,2,2,3,3
+2025,2025-08-09,PAU,Annecy,1,0,2,0
+2025,2025-08-09,Rodez,Nancy,0,0,0,0
+2025,2025-08-09,Dunkerque,Clermont Foot,1,2,2,2
+2025,2025-08-11,Amiens,Reims,1,1,2,2
+2025,2025-08-15,Le Mans,Montpellier,,,,
+2025,2025-08-15,Clermont Foot,Estac Troyes,,,,
+2025,2025-08-15,Grenoble,Laval,,,,
+2025,2025-08-15,Nancy,Boulogne,,,,
+2025,2025-08-15,RED Star FC 93,Amiens,,,,
+2025,2025-08-15,Bastia,PAU,,,,
+2025,2025-08-16,Reims,Guingamp,,,,
+2025,2025-08-16,Annecy,Dunkerque,,,,
+2025,2025-08-16,Saint Etienne,Rodez,,,,
+2025,2025-08-22,Estac Troyes,Montpellier,,,,
+2025,2025-08-22,PAU,Reims,,,,
+2025,2025-08-22,Le Mans,Bastia,,,,
+2025,2025-08-22,Amiens,Annecy,,,,
+2025,2025-08-22,Clermont Foot,Grenoble,,,,
+2025,2025-08-22,Rodez,Laval,,,,
+2025,2025-08-22,Dunkerque,Nancy,,,,
+2025,2025-08-23,Guingamp,RED Star FC 93,,,,
+2025,2025-08-23,Boulogne,Saint Etienne,,,,
+2025,2025-08-29,Montpellier,Amiens,,,,
+2025,2025-08-29,Nancy,PAU,,,,
+2025,2025-08-29,RED Star FC 93,Annecy,,,,
+2025,2025-08-29,Laval,Clermont Foot,,,,
+2025,2025-08-29,Rodez,Boulogne,,,,
+2025,2025-08-29,Dunkerque,Estac Troyes,,,,
+2025,2025-08-30,Reims,Le Mans,,,,
+2025,2025-08-30,Bastia,Guingamp,,,,
+2025,2025-08-30,Saint Etienne,Grenoble,,,,
+2025,2025-09-12,Amiens,Bastia,,,,
+2025,2025-09-12,Estac Troyes,Nancy,,,,
+2025,2025-09-12,PAU,RED Star FC 93,,,,
+2025,2025-09-12,Le Mans,Rodez,,,,
+2025,2025-09-12,Boulogne,Laval,,,,
+2025,2025-09-13,Grenoble,Dunkerque,,,,
+2025,2025-09-13,Annecy,Reims,,,,
+2025,2025-09-13,Clermont Foot,Saint Etienne,,,,
+2025,2025-09-15,Guingamp,Montpellier,,,,
+2025,2025-09-16,Boulogne,Bastia,,,,
+2025,2025-09-19,Grenoble,Annecy,,,,
+2025,2025-09-19,Nancy,RED Star FC 93,,,,
+2025,2025-09-19,Laval,Amiens,,,,
+2025,2025-09-19,Boulogne,PAU,,,,
+2025,2025-09-19,Rodez,Clermont Foot,,,,
+2025,2025-09-19,Dunkerque,Le Mans,,,,
+2025,2025-09-20,Montpellier,Bastia,,,,
+2025,2025-09-20,Estac Troyes,Guingamp,,,,
+2025,2025-09-20,Saint Etienne,Reims,,,,
+2025,2025-09-23,Montpellier,Boulogne,,,,
+2025,2025-09-23,Amiens,Saint Etienne,,,,
+2025,2025-09-23,Guingamp,Dunkerque,,,,
+2025,2025-09-23,Reims,Clermont Foot,,,,
+2025,2025-09-23,RED Star FC 93,Estac Troyes,,,,
+2025,2025-09-23,PAU,Laval,,,,
+2025,2025-09-23,Le Mans,Grenoble,,,,
+2025,2025-09-23,Bastia,Rodez,,,,
+2025,2025-09-23,Annecy,Nancy,,,,
+2025,2025-09-26,Clermont Foot,Le Mans,,,,
+2025,2025-09-26,Grenoble,Bastia,,,,
+2025,2025-09-26,Nancy,Reims,,,,
+2025,2025-09-26,Estac Troyes,Annecy,,,,
+2025,2025-09-26,Laval,Montpellier,,,,
+2025,2025-09-26,Saint Etienne,Guingamp,,,,
+2025,2025-09-26,Boulogne,RED Star FC 93,,,,
+2025,2025-09-26,Rodez,PAU,,,,
+2025,2025-09-26,Dunkerque,Amiens,,,,
+2025,2025-10-03,Montpellier,Saint Etienne,,,,
+2025,2025-10-03,Amiens,Boulogne,,,,
+2025,2025-10-03,Guingamp,Nancy,,,,
+2025,2025-10-03,Reims,Grenoble,,,,
+2025,2025-10-03,RED Star FC 93,Rodez,,,,
+2025,2025-10-03,PAU,Clermont Foot,,,,
+2025,2025-10-03,Le Mans,Estac Troyes,,,,
+2025,2025-10-03,Bastia,Dunkerque,,,,
+2025,2025-10-03,Annecy,Laval,,,,
+2025,2025-10-17,Clermont Foot,Annecy,,,,
+2025,2025-10-17,Grenoble,PAU,,,,
+2025,2025-10-17,Nancy,Amiens,,,,
+2025,2025-10-17,Estac Troyes,Bastia,,,,
+2025,2025-10-17,Laval,RED Star FC 93,,,,
+2025,2025-10-17,Saint Etienne,Le Mans,,,,
+2025,2025-10-17,Boulogne,Guingamp,,,,
+2025,2025-10-17,Rodez,Reims,,,,
+2025,2025-10-17,Dunkerque,Montpellier,,,,
+2025,2025-10-24,Montpellier,Nancy,,,,
+2025,2025-10-24,Amiens,Rodez,,,,
+2025,2025-10-24,Guingamp,Clermont Foot,,,,
+2025,2025-10-24,Reims,Estac Troyes,,,,
+2025,2025-10-24,RED Star FC 93,Grenoble,,,,
+2025,2025-10-24,PAU,Dunkerque,,,,
+2025,2025-10-24,Le Mans,Boulogne,,,,
+2025,2025-10-24,Bastia,Laval,,,,
+2025,2025-10-24,Annecy,Saint Etienne,,,,
+2025,2025-10-28,Clermont Foot,Montpellier,,,,
+2025,2025-10-28,Grenoble,Guingamp,,,,
+2025,2025-10-28,Nancy,Bastia,,,,
+2025,2025-10-28,Estac Troyes,Amiens,,,,
+2025,2025-10-28,Laval,Le Mans,,,,
+2025,2025-10-28,Saint Etienne,PAU,,,,
+2025,2025-10-28,Boulogne,Reims,,,,
+2025,2025-10-28,Rodez,Annecy,,,,
+2025,2025-10-28,Dunkerque,RED Star FC 93,,,,
+2025,2025-10-31,Montpellier,Rodez,,,,
+2025,2025-10-31,Amiens,Grenoble,,,,
+2025,2025-10-31,Guingamp,Laval,,,,
+2025,2025-10-31,Reims,Dunkerque,,,,
+2025,2025-10-31,RED Star FC 93,Saint Etienne,,,,
+2025,2025-10-31,PAU,Estac Troyes,,,,
+2025,2025-10-31,Le Mans,Nancy,,,,
+2025,2025-10-31,Bastia,Clermont Foot,,,,
+2025,2025-10-31,Annecy,Boulogne,,,,
+2025,2025-11-07,Montpellier,Annecy,,,,
+2025,2025-11-07,Guingamp,PAU,,,,
+2025,2025-11-07,Clermont Foot,Amiens,,,,
+2025,2025-11-07,Grenoble,Rodez,,,,
+2025,2025-11-07,Nancy,Laval,,,,
+2025,2025-11-07,Estac Troyes,Saint Etienne,,,,
+2025,2025-11-07,Le Mans,RED Star FC 93,,,,
+2025,2025-11-07,Dunkerque,Boulogne,,,,
+2025,2025-11-07,Bastia,Reims,,,,
+2025,2025-11-21,Amiens,Guingamp,,,,
+2025,2025-11-21,Reims,Montpellier,,,,
+2025,2025-11-21,RED Star FC 93,Clermont Foot,,,,
+2025,2025-11-21,Laval,Estac Troyes,,,,
+2025,2025-11-21,Saint Etienne,Nancy,,,,
+2025,2025-11-21,PAU,Le Mans,,,,
+2025,2025-11-21,Boulogne,Grenoble,,,,
+2025,2025-11-21,Rodez,Dunkerque,,,,
+2025,2025-11-21,Annecy,Bastia,,,,
+2025,2025-12-05,Montpellier,PAU,,,,
+2025,2025-12-05,Guingamp,Annecy,,,,
+2025,2025-12-05,Reims,Laval,,,,
+2025,2025-12-05,Clermont Foot,Boulogne,,,,
+2025,2025-12-05,Grenoble,Nancy,,,,
+2025,2025-12-05,Estac Troyes,Rodez,,,,
+2025,2025-12-05,Le Mans,Amiens,,,,
+2025,2025-12-05,Dunkerque,Saint Etienne,,,,
+2025,2025-12-05,Bastia,RED Star FC 93,,,,
+2025,2025-12-12,Grenoble,Montpellier,,,,
+2025,2025-12-12,Nancy,Clermont Foot,,,,
+2025,2025-12-12,RED Star FC 93,Reims,,,,
+2025,2025-12-12,Laval,Dunkerque,,,,
+2025,2025-12-12,Saint Etienne,Bastia,,,,
+2025,2025-12-12,PAU,Amiens,,,,
+2025,2025-12-12,Boulogne,Estac Troyes,,,,
+2025,2025-12-12,Rodez,Guingamp,,,,
+2025,2025-12-12,Annecy,Le Mans,,,,
+2025,2026-01-02,Montpellier,Dunkerque,,,,
+2025,2026-01-02,Amiens,Nancy,,,,
+2025,2026-01-02,Guingamp,Boulogne,,,,
+2025,2026-01-02,Reims,Annecy,,,,
+2025,2026-01-02,Clermont Foot,Laval,,,,
+2025,2026-01-02,Estac Troyes,RED Star FC 93,,,,
+2025,2026-01-02,PAU,Rodez,,,,
+2025,2026-01-02,Le Mans,Saint Etienne,,,,
+2025,2026-01-02,Bastia,Grenoble,,,,
+2025,2026-01-16,Grenoble,RED Star FC 93,,,,
+2025,2026-01-16,Nancy,Guingamp,,,,
+2025,2026-01-16,Estac Troyes,Reims,,,,
+2025,2026-01-16,Laval,Bastia,,,,
+2025,2026-01-16,Saint Etienne,Clermont Foot,,,,
+2025,2026-01-16,Boulogne,Montpellier,,,,
+2025,2026-01-16,Rodez,Le Mans,,,,
+2025,2026-01-16,Dunkerque,PAU,,,,
+2025,2026-01-16,Annecy,Amiens,,,,
+2025,2026-01-23,Amiens,Laval,,,,
+2025,2026-01-23,Reims,Saint Etienne,,,,
+2025,2026-01-23,Nancy,Rodez,,,,
+2025,2026-01-23,RED Star FC 93,Boulogne,,,,
+2025,2026-01-23,PAU,Grenoble,,,,
+2025,2026-01-23,Le Mans,Dunkerque,,,,
+2025,2026-01-23,Bastia,Montpellier,,,,
+2025,2026-01-23,Annecy,Clermont Foot,,,,
+2025,2026-01-23,Guingamp,Estac Troyes,,,,
+2025,2026-01-30,Montpellier,Guingamp,,,,
+2025,2026-01-30,Clermont Foot,Reims,,,,
+2025,2026-01-30,Grenoble,Amiens,,,,
+2025,2026-01-30,Estac Troyes,Le Mans,,,,
+2025,2026-01-30,Laval,PAU,,,,
+2025,2026-01-30,Saint Etienne,Boulogne,,,,
+2025,2026-01-30,Rodez,RED Star FC 93,,,,
+2025,2026-01-30,Dunkerque,Annecy,,,,
+2025,2026-01-30,Bastia,Nancy,,,,
+2025,2026-02-06,Amiens,Clermont Foot,,,,
+2025,2026-02-06,Reims,Bastia,,,,
+2025,2026-02-06,Nancy,Estac Troyes,,,,
+2025,2026-02-06,Saint Etienne,Montpellier,,,,
+2025,2026-02-06,Le Mans,Laval,,,,
+2025,2026-02-06,Boulogne,Rodez,,,,
+2025,2026-02-06,Dunkerque,Guingamp,,,,
+2025,2026-02-06,Annecy,Grenoble,,,,
+2025,2026-02-06,RED Star FC 93,PAU,,,,
+2025,2026-02-13,Montpellier,Le Mans,,,,
+2025,2026-02-13,Amiens,Dunkerque,,,,
+2025,2026-02-13,Guingamp,Saint Etienne,,,,
+2025,2026-02-13,Clermont Foot,Rodez,,,,
+2025,2026-02-13,RED Star FC 93,Nancy,,,,
+2025,2026-02-13,Laval,Annecy,,,,
+2025,2026-02-13,PAU,Boulogne,,,,
+2025,2026-02-13,Grenoble,Reims,,,,
+2025,2026-02-13,Bastia,Estac Troyes,,,,
+2025,2026-02-20,Reims,Amiens,,,,
+2025,2026-02-20,Nancy,Grenoble,,,,
+2025,2026-02-20,Estac Troyes,PAU,,,,
+2025,2026-02-20,Saint Etienne,Laval,,,,
+2025,2026-02-20,Le Mans,Guingamp,,,,
+2025,2026-02-20,Boulogne,Clermont Foot,,,,
+2025,2026-02-20,Rodez,Montpellier,,,,
+2025,2026-02-20,Dunkerque,Bastia,,,,
+2025,2026-02-20,Annecy,RED Star FC 93,,,,
+2025,2026-02-27,Montpellier,Reims,,,,
+2025,2026-02-27,Amiens,Estac Troyes,,,,
+2025,2026-02-27,Guingamp,Rodez,,,,
+2025,2026-02-27,Clermont Foot,Dunkerque,,,,
+2025,2026-02-27,Grenoble,Boulogne,,,,
+2025,2026-02-27,Laval,Nancy,,,,
+2025,2026-02-27,Bastia,Annecy,,,,
+2025,2026-02-27,RED Star FC 93,Le Mans,,,,
+2025,2026-02-27,PAU,Saint Etienne,,,,
+2025,2026-03-06,Estac Troyes,Clermont Foot,,,,
+2025,2026-03-06,Laval,Guingamp,,,,
+2025,2026-03-06,Saint Etienne,RED Star FC 93,,,,
+2025,2026-03-06,Le Mans,Annecy,,,,
+2025,2026-03-06,Boulogne,Amiens,,,,
+2025,2026-03-06,Rodez,Grenoble,,,,
+2025,2026-03-06,Dunkerque,Reims,,,,
+2025,2026-03-06,Nancy,Montpellier,,,,
+2025,2026-03-06,PAU,Bastia,,,,
+2025,2026-03-13,Montpellier,Laval,,,,
+2025,2026-03-13,Guingamp,Amiens,,,,
+2025,2026-03-13,Reims,Rodez,,,,
+2025,2026-03-13,Clermont Foot,PAU,,,,
+2025,2026-03-13,Grenoble,Saint Etienne,,,,
+2025,2026-03-13,Nancy,Le Mans,,,,
+2025,2026-03-13,RED Star FC 93,Dunkerque,,,,
+2025,2026-03-13,Bastia,Boulogne,,,,
+2025,2026-03-13,Annecy,Estac Troyes,,,,
+2025,2026-03-20,Amiens,Le Mans,,,,
+2025,2026-03-20,Guingamp,Reims,,,,
+2025,2026-03-20,Clermont Foot,RED Star FC 93,,,,
+2025,2026-03-20,Estac Troyes,Dunkerque,,,,
+2025,2026-03-20,Laval,Grenoble,,,,
+2025,2026-03-20,Saint Etienne,Annecy,,,,
+2025,2026-03-20,PAU,Montpellier,,,,
+2025,2026-03-20,Boulogne,Nancy,,,,
+2025,2026-03-20,Rodez,Bastia,,,,
+2025,2026-04-03,Montpellier,Estac Troyes,,,,
+2025,2026-04-03,Reims,Boulogne,,,,
+2025,2026-04-03,Grenoble,Clermont Foot,,,,
+2025,2026-04-03,Nancy,Saint Etienne,,,,
+2025,2026-04-03,RED Star FC 93,Laval,,,,
+2025,2026-04-03,Le Mans,PAU,,,,
+2025,2026-04-03,Dunkerque,Rodez,,,,
+2025,2026-04-03,Bastia,Amiens,,,,
+2025,2026-04-03,Annecy,Guingamp,,,,
+2025,2026-04-10,Amiens,PAU,,,,
+2025,2026-04-10,Guingamp,Grenoble,,,,
+2025,2026-04-10,Clermont Foot,Nancy,,,,
+2025,2026-04-10,RED Star FC 93,Bastia,,,,
+2025,2026-04-10,Laval,Reims,,,,
+2025,2026-04-10,Saint Etienne,Dunkerque,,,,
+2025,2026-04-10,Boulogne,Le Mans,,,,
+2025,2026-04-10,Rodez,Estac Troyes,,,,
+2025,2026-04-10,Annecy,Montpellier,,,,
+2025,2026-04-17,Montpellier,Grenoble,,,,
+2025,2026-04-17,Reims,RED Star FC 93,,,,
+2025,2026-04-17,Nancy,Annecy,,,,
+2025,2026-04-17,Estac Troyes,Boulogne,,,,
+2025,2026-04-17,PAU,Guingamp,,,,
+2025,2026-04-17,Le Mans,Clermont Foot,,,,
+2025,2026-04-17,Rodez,Amiens,,,,
+2025,2026-04-17,Dunkerque,Laval,,,,
+2025,2026-04-17,Bastia,Saint Etienne,,,,
+2025,2026-04-24,Amiens,Montpellier,,,,
+2025,2026-04-24,Reims,Nancy,,,,
+2025,2026-04-24,Clermont Foot,Bastia,,,,
+2025,2026-04-24,Grenoble,Le Mans,,,,
+2025,2026-04-24,RED Star FC 93,Guingamp,,,,
+2025,2026-04-24,Laval,Rodez,,,,
+2025,2026-04-24,Saint Etienne,Estac Troyes,,,,
+2025,2026-04-24,Boulogne,Dunkerque,,,,
+2025,2026-04-24,Annecy,PAU,,,,
+2025,2026-05-01,Montpellier,Clermont Foot,,,,
+2025,2026-05-01,Amiens,RED Star FC 93,,,,
+2025,2026-05-01,Guingamp,Bastia,,,,
+2025,2026-05-01,Estac Troyes,Laval,,,,
+2025,2026-05-01,PAU,Nancy,,,,
+2025,2026-05-01,Le Mans,Reims,,,,
+2025,2026-05-01,Boulogne,Annecy,,,,
+2025,2026-05-01,Rodez,Saint Etienne,,,,
+2025,2026-05-01,Dunkerque,Grenoble,,,,
+2025,2026-05-08,Reims,PAU,,,,
+2025,2026-05-08,Clermont Foot,Guingamp,,,,
+2025,2026-05-08,Grenoble,Estac Troyes,,,,
+2025,2026-05-08,Nancy,Dunkerque,,,,
+2025,2026-05-08,RED Star FC 93,Montpellier,,,,
+2025,2026-05-08,Laval,Boulogne,,,,
+2025,2026-05-08,Saint Etienne,Amiens,,,,
+2025,2026-05-08,Bastia,Le Mans,,,,
+2025,2026-05-08,Annecy,Rodez,,,,
