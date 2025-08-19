@@ -1,166 +1,569 @@
-﻿eng,th
-Alaves,Alaves
-Almeria,Almeria
-Athletic Club,Athletic Club
-Atletico Madrid,Atletico Madrid
-Barcelona,Barcelona
-Cadiz,Cadiz
-Celta Vigo,Celta Vigo
-Cordoba,Cordoba
-Deportivo La Coruna,Deportivo La Coruna
-Eibar,Eibar
-Elche,Elche
-Espanyol,Espanyol
-Getafe,Getafe
-Girona,Girona
-Granada,Granada
-Las Palmas,Las Palmas
-Leganes,Leganes
-Levante,Levante
-Malaga,Malaga
-Mallorca,Mallorca
-Osasuna,Osasuna
-Rayo Vallecano,Rayo Vallecano
-Real Betis,Real Betis
-Real Madrid,Real Madrid
-Real Sociedad,Real Sociedad
-Real Valladolid,Real Valladolid
-SD Huesca,SD Huesca
-Sevilla,Sevilla
-Sporting Gijon,Sporting Gijon
-Valencia,Valencia
-Villarreal,Villarreal
-Arsenal,Arsenal
-Aston Villa,Aston Villa
-Bournemouth,Bournemouth
-Brentford,Brentford
-Brighton,Brighton
-Burnley,Burnley
-Cardiff,Cardiff
-Chelsea,Chelsea
-Crystal Palace,Crystal Palace
-Everton,Everton
-Fulham,Fulham
-Huddersfield,Huddersfield
-Hull,Hull
-Ipswich,Ipswich
-Leeds,Leeds
-Leicester,Leicester
-Liverpool,Liverpool
-Luton,Luton
-Manchester City,Manchester City
-Manchester United,Manchester United
-Middlesbrough,Middlesbrough
-Newcastle United,Newcastle United
-Norwich,Norwich
-Nottingham Forest,Nottingham Forest
-Queens Park Rangers,Queens Park Rangers
-Sheffield United,Sheffield United
-Southampton,Southampton
-Stoke,Stoke
-Sunderland,Sunderland
-Swansea,Swansea
-Tottenham,Tottenham
-Watford,Watford
-West Bromwich Albion,West Bromwich Albion
-West Ham,West Ham
-Wolverhampton Wanderers,Wolverhampton Wanderers
-AC Milan,AC Milan
-Atalanta,Atalanta
-Benevento,Benevento
-Bologna,Bologna
-Brescia,Brescia
-Cagliari,Cagliari
-Carpi,Carpi
-Cesena,Cesena
-Chievo,Chievo
-Como,Como
-Cremonese,Cremonese
-Crotone,Crotone
-Empoli,Empoli
-Fiorentina,Fiorentina
-Frosinone,Frosinone
-Genoa,Genoa
-Inter,Inter
-Juventus,Juventus
-Lazio,Lazio
-Lecce,Lecce
-Monza,Monza
-Napoli,Napoli
-Palermo,Palermo
-Parma,Parma
-Parma Calcio 1913,Parma Calcio 1913
-Pescara,Pescara
-Roma,Roma
-SPAL 2013,SPAL 2013
-Salernitana,Salernitana
-Sampdoria,Sampdoria
-Sassuolo,Sassuolo
-Spezia,Spezia
-Torino,Torino
-Udinese,Udinese
-Venezia,Venezia
-Verona,Verona
-Arminia Bielefeld,Arminia Bielefeld
-Augsburg,Augsburg
-Bayer Leverkusen,Bayer Leverkusen
-Bayern Munich,Bayern Munich
-Bochum,Bochum
-Borussia Dortmund,Borussia Dortmund
-Borussia M.Gladbach,Borussia M.Gladbach
-Darmstadt,Darmstadt
-Eintracht Frankfurt,Eintracht Frankfurt
-FC Cologne,FC Cologne
-FC Heidenheim,FC Heidenheim
-Fortuna Duesseldorf,Fortuna Duesseldorf
-Freiburg,Freiburg
-Greuther Fuerth,Greuther Fuerth
-Hamburger SV,Hamburger SV
-Hannover 96,Hannover 96
-Hertha Berlin,Hertha Berlin
-Hoffenheim,Hoffenheim
-Holstein Kiel,Holstein Kiel
-Ingolstadt,Ingolstadt
-Mainz 05,Mainz 05
-Nuernberg,Nuernberg
-Paderborn,Paderborn
-RasenBallsport Leipzig,RasenBallsport Leipzig
-Schalke 04,Schalke 04
-St. Pauli,St. Pauli
-Union Berlin,Union Berlin
-VfB Stuttgart,VfB Stuttgart
-Werder Bremen,Werder Bremen
-Wolfsburg,Wolfsburg
-Ajaccio,Ajaccio
-Amiens,Amiens
-Angers,Angers
-Auxerre,Auxerre
-Bordeaux,Bordeaux
-Brest,Brest
-Caen,Caen
-Clermont Foot,Clermont Foot
-Dijon,Dijon
-Evian Thonon Gaillard,Evian Thonon Gaillard
-GFC Ajaccio,GFC Ajaccio
-Guingamp,Guingamp
-Le Havre,Le Havre
-Lens,Lens
-Lille,Lille
-Lorient,Lorient
-Lyon,Lyon
-Marseille,Marseille
-Metz,Metz
-Monaco,Monaco
-Montpellier,Montpellier
-Nancy,Nancy
-Nantes,Nantes
-Nice,Nice
-Nimes,Nimes
-Paris Saint Germain,Paris Saint Germain
-Reims,Reims
-Rennes,Rennes
-SC Bastia,SC Bastia
-Saint-Etienne,Saint-Etienne
-Strasbourg,Strasbourg
-Toulouse,Toulouse
-Troyes,Troyes
+eng_name,th_name
+Alaves,อลาเบส
+Almeria,อัลเมเรีย
+Athletic Club,แอธเลติก บิลเบา
+Atletico Madrid,แอตเลติโก มาดริด
+Barcelona,บาร์เซโลนา
+Cadiz,คาดิซ
+Celta Vigo,เซลต้า บีโก้
+Cordoba,คอร์โดบ้า
+Deportivo La Coruna, เดปอร์ติโบ ลา คอรุนญ่า
+Eibar,เอย์บาร์
+Elche,เอลเช่
+Espanyol,เอสปันญ่อล
+Getafe,เคตาเฟ
+Girona,คิโรน่า
+Granada,กรานาดา
+Las Palmas,ลาส พัลมาส
+Leganes,เลกาเนส
+Levante,เลบานเต้
+Malaga,มาลาก้า
+Mallorca,มายอร์ก้า
+Osasuna,โอซาซูน่า
+Rayo Vallecano,ราโย่ บาเยกาโน่
+Real Betis,เรอัล เบติส
+Real Madrid,เรอัล มาดริด
+Real Sociedad,เรอัล โซเซียดาด
+Real Valladolid,เรอัล บายาโดลิด
+SD Huesca,ฮูเอสก้า
+Sevilla,เซบีย่า
+Sporting Gijon,สปอร์ติ้ง กิฆอน
+Valencia,บาเลนเซีย
+Villarreal,บียาร์เรอัล
+Arsenal,อาร์เซน่อล
+Aston Villa,แอสตัน วิลล่า
+Bournemouth,บอร์นมัธ
+Brentford,เบรนท์ฟอร์ด
+Brighton,ไบรท์ตัน
+Burnley,เบิร์นลีย์
+Cardiff,คาร์ดิฟฟ์ซิตี้
+Chelsea,เชลซี
+Crystal Palace,คริสตัลพาเลซ
+Everton,เอฟเวอร์ตัน
+Fulham,ฟูแล่ม
+Huddersfield,ฮัดเดอร์ฟิลด์ ทาวน์
+Hull,ฮัลล์ ซิตี้
+Ipswich,อิปสวิช ทาวน์
+Leeds,ลีดส์ ยูไนเต็ด 
+Leicester,เลสเตอร์ ซิตี้
+Liverpool,ลิเวอร์พูล
+Luton,ลูตัน ทาวน์
+Manchester City,แมนเชสเตอร์ ซิตี้
+Manchester United,แมนเชสเตอร์ ยูไนเต็ด
+Middlesbrough,มิดเดิ้ลสโบรห์
+Newcastle United,นิวคาสเซิ่ล ยูไนเต็ด
+Norwich,นอริช ซิตี้
+Nottingham Forest,น็อตติ้งแฮม ฟอเรสต์
+Queens Park Rangers,ควีนส์ปาร์ค เรนเจอร์ส
+Sheffield United,เชฟฟิลด์ ยูไนเต็ด
+Southampton,เซาธ์แฮมป์ตัน
+Stoke,สโต๊ค ซิตี้
+Sunderland,ซันเดอร์แลนด์
+Swansea,สวอนซี ซิตี้
+Tottenham,สเปอร์ส
+Watford,วัดฟอร์ด
+West Bromwich Albion,เวสต์บรอมวิช
+West Ham,เวสต์แฮมยูไนเต็ด
+Wolverhampton Wanderers,วูล์ฟแฮมป์ตัน
+AC Milan,เอซี มิลาน
+Atalanta,อตาลันต้า
+Benevento,เบเนเวนโต้
+Bologna,โบโลญญ่า
+Brescia,เบรสชา
+Cagliari,กายารี่
+Carpi,คาร์ปิ
+Cesena,เชเซน่า
+Chievo,คิเอโว่
+Como,โคโม่
+Cremonese,เครโมเนเซ
+Crotone,โครโตเน่
+Empoli,เอ็มโปลี
+Fiorentina,ฟิออเรนติน่า
+Frosinone,โฟรซิโนเน่
+Genoa,เจนัว
+Inter,อินเตอร์ มิลาน
+Juventus,ยูเวนตุส
+Lazio,ลาซิโอ
+Lecce,เลชเช่
+Monza,มอนซ่า
+Napoli,นาโปลี
+Palermo,ปาแลร์โม่
+Parma,ปาร์ม่า
+Parma Calcio 1913,ปาร์มากัลโช 1913
+Pescara,เปสคาร่า
+Roma,เอเอส โรม่า
+SPAL 2013,สปอล
+Salernitana,ซาแลร์นิตาน่า
+Sampdoria,ซามพ์โดเรีย
+Sassuolo,ซัสเซาโล่
+Spezia,สเปเซีย
+Torino,โตริโน่
+Udinese,อูดิเนเซ่
+Venezia,เวเนเซีย
+Verona,เวโรน่า
+Arminia Bielefeld,อาร์มีเนีย บีเลเฟลด์
+Augsburg,เอาก์สบวร์ก
+Bayer Leverkusen,เลเวอร์คูเซ่น
+Bayern Munich,บาเยิร์น มิวนิค
+Bochum,โบคุ่ม
+Borussia Dortmund,โบรุสเซีย ดอร์ทมุนด์
+Borussia M.Gladbach,มึนเช่นกลัคบัค
+Darmstadt,ดาร์มสตัดท์
+Eintracht Frankfurt,ไอน์ทรัค แฟร้งค์เฟิร์ต
+FC Cologne,โคโลญจน์
+FC Heidenheim,ไฮเดนไฮม์
+Fortuna Duesseldorf,ฟอร์ทูน่า ดุสเซลดอร์ฟ
+Freiburg,ไฟรบวร์ก
+Greuther Fuerth,กรอยเธอร์ เฟือร์ธ
+Hamburger SV,ฮัมบูร์ก
+Hannover 96,ฮันโนเวอร์ 96
+Hertha Berlin,แฮร์ธ่า เบอร์ลิน
+Hoffenheim,โฮฟเฟ่นไฮม์
+Holstein Kiel,โฮลสไตน์ คีล
+Ingolstadt,อิงโกสตั๊ดท์
+Mainz 05,ไมนซ์ 05
+Nuernberg,เนิร์นแบร์ก
+Paderborn,พาเดอร์บอร์น
+RasenBallsport Leipzig,ไลป์ซิก
+Schalke 04,ชาลเก้ 04
+St. Pauli,ซังต์ เพาลี
+Union Berlin,ยูเนี่ยน เบอร์ลิน
+VfB Stuttgart,สตุ๊ตการ์ท
+Werder Bremen,แวร์เดอร์ เบรเมน
+Wolfsburg,โวล์ฟสบวร์ก
+Ajaccio,อฌักซิโอ้
+Amiens,อาเมียงส์
+Angers,อองเช่ร์
+Auxerre,โอแซร์
+Bordeaux,บอร์กโดซ์
+Brest,แบรสต์
+Caen,ก็อง
+Clermont Foot,แกลร์กมงต์ ฟุต
+Dijon,ดิฌง
+Evian Thonon Gaillard,มงต์เปลลิเยร์
+GFC Ajaccio,จีเอฟซี อาฌักซิโอ
+Guingamp,แก็งก็อง
+Le Havre,เลอ อาฟร์
+Lens,ล็องส์
+Lille,ลีลล์
+Lorient,ลอริยองต์
+Lyon,โอลิมปิก ลียง
+Marseille,โอลิมปิก มาร์กเซย
+Metz,เม็ตซ์
+Monaco,โมนาโก
+Montpellier,มงต์เปลลิเยร์
+Nancy,น็องซี่
+Nantes,น็องต์
+Nice,นีซ
+Nimes,นีมส์
+Paris Saint Germain,ปารีส แซงต์ แชร์กแมง
+Reims,แร็งส์
+Rennes,แรนส์
+SC Bastia,บาสเตีย
+Saint-Etienne,แซงต์เอเตียน
+Strasbourg,สตราส์บูร์ก
+Toulouse,ตูลูส
+Troyes,ทรัวส์
+AEK Athens,เออีเค เอเธนส์
+AEK Larnaca,เออีเค ลาร์นาก้า
+AFC Bournemouth,บอร์นมัธ
+AGF,อาร์ฮุส เอจีเอฟ
+APOEL,อาโปเอล นิโคเซีย
+AS Eupen,KAS ยูเปน
+AVS,เอวีเอส
+AZ,AZ อัลค์มาร์
+AaB,อัลบอร์ก
+Aberdeen,อเบอร์ดีน
+Adana Demirspor,อดาน่า เดมิร์สปอร์
+Admira,แอดมิร่า
+Ajax,อาแจกซ์ อัมสเตอร์ดัม
+Alanyaspor,อลันยาสปอร์
+Alashkert,อลาชเคิร์ท
+Almere City,อัลเมเร่ ซิตี้ 
+Almería,อัลเมเรีย
+Altay,อัลเตย์
+Alverca,อัลเวอร์ก้า
+Angers SCO,อองเช่ร์
+Ankaragücü,อันคารากูคู
+Antalyaspor,อันตาลยาสปอร์
+Apollon,อพอลลอน ลิมาสซอล เอฟซี
+Apollon Smirnis,อโพลลอน สมายร์นิส
+Aris,อาริส เอฟซี
+Arka Gdynia,อาร์ก้า กดิเนีย
+Artsakh,โนอาห์
+Astana,อัสตานา
+Asteras Tripolis,แอสเตราส ตริโปลิส
+Athletic Club Bilbao,แอธเลติก บิลเบา
+Atlètic Club d'Escaldes,แอธเลติก เอสคัลเดส
+Atlético Madrid,แอตเลติโก้ มาดริด
+Atromitos,อโตรมิตอส
+Austria Klagenfurt,เอสเค ออสเตรีย คลาเกนเฟิร์ต
+Austria Lustenau,ออสเตรีย ลัสเตนัว
+Austria Wien,ออสเตรีย เวียนนา
+Ayutthaya United,อยุธยา ยูไนเต็ด
+BATE,บาเต้ โบริซอฟ
+BB Bodrumspor,
+BEC Tero Sasana,โปลิศเทโร
+Ballkani,บอลคานี่
+Banants,บาแนนท์ส
+Bangkok Glass,บีจี ปทุม ยูไนเต็ด
+Bangkok United,ทรู แบงค็อก ยูไนเต็ด
+Basel,บาเซิล
+Bayern München,บาเยิร์น มิวนิค
+Bačka Topola,บัคกา โตโปลา
+Beerschot-Wilrijk,
+Belenenses,เบเลเนนเซส เอสเอดี
+Benfica,เบนฟิก้า
+Beşiktaş,เบซิคตัส
+Blau-Weiß Linz,เบลอเวส ลินซ์
+Boavista FC,เบาวิสต้า
+Borac Banja Luka,โบแร็ค บันยาลูกา
+Borussia M'gladbach,โบรุสเซีย มึนเช่นกลัดบัค
+Brann,เอสเค บรานน์
+Breidablik,เบรย์ดาบลิค
+Brighton & Hove Albion,ไบรท์ตัน
+Brøndby,บรอนด์บี้
+Budućnost,บูดัคโนส ปอดโกริก้า 
+Buriram United,บุรีรัมย์ ยูไนเต็ด
+CA Osasuna,โอซาซูน่า
+CD Nacional,นาซิอองนาล
+CD Tondela,ซีดี ทอนเดลา
+CFR Cluj,ซีเอฟอาร์ คลูจ์ 
+CS Marítimo,มาริติโม่
+Cambuur,คัมบูร์
+Casa Pia,คาซ่า เพีย AC
+Celje,เอ็นเค เซลเย่
+Celta de Vigo,เซลต้า บีโก้
+Celtic,เซลติก
+Cercle Brugge,เซอร์เคิล บรูซ
+Chiangmai United,เชียงใหม่ ยูไนเต็ด
+Chiangrai United,สิงห์ เชียงราย ยูไนเต็ด
+Chonburi,ชลบุรี เอฟซี
+Chornomorets,เชอร์โนโมเร็ตส์ โอเดสซ่า
+Clermont,แกลร์กมงต์ ฟุต
+Club Brugge,คลับ บรูช
+Connah's Quay,คอนนาห์ส คีย์ โนแมดส์
+Cracovia Kraków,คราโคเวีย คราคอฟ
+Cádiz,คาดิซ
+Darmstadt 98,ดาร์มสตัดท์
+Deportivo Alavés,อลาเบส
+Dečić,เดซิช
+Differdange 03,ดิฟเฟอร์เดนเก้ 03
+Dinamo Batumi,ดินาโม บาตูมิ
+Dinamo Minsk,ดินาโม มินส์
+Dinamo Tbilisi,ดินาโม ทบิลิซี่
+Dinamo Zagreb,ดินาโม ซาเกร็บ
+Dnipro-1,ดนิโปร-1
+Drita,ดริต้า
+Dundee,ดันดี เอฟซี
+Dundee United,ดันดี ยูไนเต็ด
+Dynamo Kyiv,ดินาโม เคียฟ
+Egnatia Rrogozhinë,
+Elche CF,เอลเช่
+Emmen,เอ็มเมน
+Epitsentr Dunayivtsi,
+Estrela Amadora,เอสเตรล่า ดา อามาโดร่า
+Excelsior,เอ็กซ์เซลเซอร์
+Eyüpspor,อียูบสปอร์
+F91 Dudelange,ดูเดแลงก์
+FC Arouca,อารัวก้า
+FC Barcelona,บาร์เซโลน่า
+FC Vizela,วิเซล่า
+FCSB,สเตอัว บูคาเรสต์
+FCV Dender EH,เอฟซีวี เด็นเดอร์
+FK Bodo - Glimt,โบโด กลิมท์
+Falkirk,ฟัลเคิร์ก
+Famalicão,ฟามาลิเคา
+Farense,ฟาเรนเซ่
+Fatih Karagümrük,คารากุมรุก
+Fenerbahçe,เฟเนร์บาห์เช่
+Ferencváros,เฟอเรนซ์วารอซี่
+Feyenoord,เฟเยนูร์ด ร็อตเธอร์ดัม
+Fola Esch,โฟล่า เอสซ์
+Fortuna Sittard,ฟอร์ทูน่า ซิตตาร์ด
+Fredericia,เฟรเดอริเซีย
+GD Chaves,ชาเวซ
+GD Estoril Praia,เอสโตริล
+GKS Katowice,จีเคเอส คาโตวีตเซ
+Galatasaray,กาลาตาซาราย
+Gazişehir Gaziantep,กาเซียนเท็ป
+Gençlerbirliği,เกนเคลอร์บิลิจี้
+Getafe CF,เกตาเฟ่
+Gil Vicente,กิล วิเซนเต้
+Giresunspor,กิเรซุนสปอร์
+Girona FC,คิโรน่า
+Go Ahead Eagles,โกอเฮดอีเกิ้ลส์
+Granada CF,กรานาดา
+Grasshopper,กราสฮอปเปอร์คลับซูริก
+Grazer AK,กราเซอร์ AK
+Greuther Fürth,กรอยเธอร์ เฟือร์ธ
+Groningen,โกรนิงเก้น
+Górnik Zabrze,กอร์นิค ซาบร์เซ่ 
+Górnik Łęczna,โกลนิค เลชน่า
+Göztepe,กัซเทป
+HB,
+HJK,เอชเจเค เฮลซิงกิ
+Hamrun Spartans,ฮัมรุน สปาร์ตันส์
+Hartberg,TSV ฮาร์ทเบิร์ก
+Hatayspor,ฮาเตย์สปอร์
+Hearts,ฮาร์ทส์
+Heerenveen,ฮีเรนวีน
+Heidenheim,ไฮเดนไฮม์
+Hellas Verona,เวโรน่า
+Heracles,เฮราเคิ่ลส์
+Hertha BSC,แฮร์ธ่า เบอร์ลิน
+Hibernian,ฮิเบอร์เนี่ยน
+Hibernians,
+Hirnyk,ฮิรนิค
+Horsens,ฮอร์เซ่นส์
+Hvidovre,ฮวิโดฟ ไอเอฟ
+Häcken,ฮัคเค่น
+Inhulets,อินฮิวเลทส์ เพทรอฟ
+Inter Club d'Escaldes, อินเตอร์ คลับ ดาเอสกัลเดส
+Inter Milan,อินเตอร์ มิลาน
+Ionikos,ไอโอนิกอส
+Ipswich Town,อิปสวิชทาวน์
+Jagiellonia Białystok,จาเกียลโลเนีย เบียลีสต็อก
+KAA Gent,เคเอเอ เกนท์
+KRC Genk,ราซิ่ง เกงค์
+KV Kortrijk,คอร์ไทรจ์
+KV Mechelen,เมเชเลน
+KV Oostende,เควี ออสเทนเด้
+KVC Westerlo,เควีซี เวสเตอร์โล
+Kairat,ไครัต อัลมาตี
+Kallithea,คาลิเทีย
+Kanchanaburi,พลังกาญจน์ เอฟซี
+Karpaty,คาร์พาตี้ ลวิฟ
+Kasımpaşa,คาซิมปาซ่า
+Kayserispor,เคย์เซริสปอร์
+Khon Kaen United,ขอนแก่น ยูไนเต็ด
+Kifisia,เออี คิฟีเซียส
+Kilmarnock,คิลมาร์น็อค
+Kocaelispor,โคแคลิสปอร์
+Kolos Kovalivka,โคลอส โควาลิฟกา
+Konyaspor,คอนยาสปอร์
+Korona Kielce,โคโรน่า
+KuPS,คูพีเอส
+Kudrivka,Kudrivka
+KÍ,
+Köln,โคโลญจน์
+København,โคเปนเฮเก้น
+LASK Linz,แอลเอเอสเค ลินซ์
+LNZ Cherkasy,แอลเอ็นซี เชอร์คาซี
+La Fiorita,เอสพี ลา ฟิโอริต้า
+Lamia,ลาเมีย
+Lampang,ลำปาง เอฟซี
+Lamphun Warrior,ลำพูน วอร์ริเออร์
+Larissa,เออี ลาริสซ่า
+Larne,ลาร์น เอฟซี
+Lausanne Sport,โลซาน สปอร์ต
+Lech Poznań,เลช พอซนาน
+Lechia Gdańsk,เลเชีย กอเดนซ์
+Leeds United,ลีดส์ ยูไนเต็ด
+Leganés,เลกาเนส
+Legia Warszawa,ลีเกีย วอร์ซอว์
+Leicester City,เลสเตอร์ ซิตี้
+Levadiakos,เลวาเดียกอส
+Levante UD,เลบานเต้
+Lincoln Red Imps,ลินคอล์น เรด อิมป์ส
+Livingston,ลิฟวิงสตัน
+Livyi Bereh,
+Ludogorets,ลูโดโกเรต์ส รัซกราด
+Luton Town,ลูตัน ทาวน์
+Luzern,ลูเซิร์น
+Lviv,เอฟซี ลวีฟ
+Lyngby,ลิงบี้
+Maccabi Haifa,มัคคาบี้ ไฮฟา
+Maccabi Tel Aviv,มัคคาบี้เทลอาวีฟ
+Malmö FF,มัลโม่
+Manchester City,แมนเชสเตอร์ซิตี้
+Maribor,มาริบอร์
+Metal Kharkiv, เมทัล คาร์คิฟ
+Metalist 1925 Kharkiv,เมตาลิสต์ 1925 คาร์คิฟ
+Midtjylland,มิดทิลแลนด์
+Miedź Legnica,เลกนีซา
+Milsami,มิลซามี่
+Minai,
+Molde,โมลด์
+Moreirense FC,โมไรเรนเซ่
+Motherwell,มาเธอร์เวลล์
+Motor Lublin,มอเตรอ รูบิน
+Muang Thong United,เมืองทอง ยูไนเต็ด
+Mura,มูร่า
+NAC Breda,เอ็นเอซี เบรด้า
+NEC,ไนจ์เมเก้น
+Nakhon Pathom,นครปฐม ยูไนเต็ด
+Nakhon Ratchasima,นครราชสีมา มาสด้า
+Neftçi,เนฟท์ชิ บาคู
+Nieciecza,แอลเคเอส ไนไซค์ซ่า
+Nong Bua Pitchaya,หนองบัว พิชญ
+Nordsjælland,นอร์ดเจลแลนด์
+Norwich City,นอริช ซิตี้
+OB,โอเดนเซ่
+OFI, เครเต้
+OH Leuven,โอเอช ลูเวิน
+Obolon-Brovar,
+Oleksandria,
+Olimpija,
+Olympiakos Piraeus,
+Olympique Lyonnais,
+Olympique Marseille,
+Omonia Nicosia,
+Ordabasy,
+PAOK,
+PAS Giannina,
+PEC Zwolle,
+PSG,
+PSV,
+Panaitolikos,
+Panathinaikos,
+Panevėžys,
+Panserraikos,
+Paphos,
+Paris,
+Partizan,
+Partizani Tirana,
+Paços de Ferreira,
+Pendikspor,
+Petrocub,
+Piast Gliwice,
+Pisa,
+Pogoń Szczecin,
+Polessya,
+Port FC,
+Portimonense,
+Porto,
+Prachuap,
+Prishtina,
+Puszcza Niepołomice,
+Pyunik,
+Qarabağ,
+RAAL La Louvière,
+RB Leipzig,
+RCD Espanyol,
+RCD Mallorca,
+RFC Seraing,
+RKC Waalwijk,
+RSC Anderlecht,
+RWDM,
+Radomiak Radom,
+Raków Częstochowa,
+Randers,
+Rangers,
+Rapid Wien,
+Ratchaburi,
+Rayong,
+Real Oviedo,
+Red Star Belgrade,
+Rheindorf Altach,
+Ried,
+Riga,
+Rijeka,
+Rio Ave FC,
+Rizespor,
+Ross County,
+Royal Antwerp FC,
+Ruch Chorzów,
+Rukh Vynnyky,
+Rīgas FS,
+S.S. Folgore,
+SK Poltava,
+SSC Farul,
+Saburtalo,
+Saint-Étienne,
+Salzburg,
+Samsunspor,
+Samut Prakan City,
+Santa Clara,
+Servette,
+Sevilla FC,
+Shakhtar Donetsk,
+Shakhtyor,
+Shamrock Rovers,
+Shelbourne,
+Sheriff,
+Shkendija,
+Shkupi,
+Silkeborg,
+Sint-Truiden,
+Sion,
+Sivasspor,
+Slavia Praha,
+Slovan Bratislava,
+Sparta Praha,
+Sparta Rotterdam,
+Spartak Moskva,
+Sporting Braga,
+Sporting CP,
+Sporting Charleroi,
+St. Gallen,
+St. Johnstone,
+St. Mirren,
+Stade Lausanne-Ouchy,
+Stal Mielec,
+Standard Liège,
+Struga,
+Sturm Graz,
+Stuttgart,
+Sukhothai,
+Suphanburi,
+Sutjeska,
+Swift Hesperange,
+SønderjyskE,
+Tallinna FC Flora,
+Tallinna FC Levadia,
+Telstar,
+Teuta Durrës,
+The New Saints,
+Thun,
+Tirana,
+Tobol,
+Tottenham Hotspur,
+Trabzonspor,
+Trat,
+Tre Penne,
+Twente,
+UD Las Palmas,
+UE Santa Coloma,
+Union Saint-Gilloise,
+Uthai Thani,
+Utrecht,
+Valencia CF,
+Valmiera / BSS,
+Valur,
+Vejle,
+Veres Rivne,
+Viborg,
+Viktoria Plzeň,
+Virtus,
+Vitesse,
+Vitória Guimarães,
+Volendam,
+Volos NFC,
+Vorskla,
+Víkingur,
+Víkingur Reykjavík,
+Warta Poznań,
+Wattens,
+West Ham United,
+Widzew Łódź,
+Willem II,
+Winterthur,
+Wisła Kraków,
+Wisła Płock,
+Wolfsberger AC,
+Yeni Malatyaspor,
+Young Boys,
+Yverdon Sport,
+Zagłębie Lubin,
+Zenit,
+Zorya,
+Zrinjski,
+Zulte-Waregem,
+Zürich,
+Ümraniyespor,
+İstanbul Başakşehir,
+İstanbulspor,
+ŁKS Łódź,
+Śląsk Wrocław,
+Žalgiris,
