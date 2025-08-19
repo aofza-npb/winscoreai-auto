@@ -28,33 +28,26 @@ def slugify(name: str) -> str:
 
 
 def build_match_index() -> dict:
-    """
-    โหลด matches ทั้งหมด แล้วสร้างดัชนี:
-      index[date_str][home_slug] = (fixture_id, away_slug, obj)
-    โครงที่คาดหวัง:
-      matches/{league_id}/{season}/{fixture_id}:
-        { date: "YYYY-MM-DD", home_name_en|home_slug, away_name_en|away_slug, ... }
-    """
     root = db.reference("matches").get() or {}
-    index: dict[str, dict[str, tuple[str, str, dict]]] = {}
+    index = {}
+
     for league_id, seasons in (root or {}).items():
-        if not isinstance(seasons, dict):
-            continue
         for season, fixtures in (seasons or {}).items():
-            if not isinstance(fixtures, dict):
-                continue
             for fixture_id, obj in (fixtures or {}).items():
-                if not isinstance(obj, dict):
-                    continue
-                date_str = obj.get("date") or obj.get("kickoff_date")
+                results = obj.get("results", {})
+                date_str = results.get("date")
                 if not date_str:
                     continue
-                h_name = obj.get("home_slug") or obj.get("home_name_en") or obj.get("home_name")
-                a_name = obj.get("away_slug") or obj.get("away_name_en") or obj.get("away_name")
+
+                h_name = results.get("teams", {}).get("home", {}).get("name")
+                a_name = results.get("teams", {}).get("away", {}).get("name")
+
                 h_slug = slugify(h_name)
                 a_slug = slugify(a_name)
+
                 index.setdefault(date_str, {})[h_slug] = (str(fixture_id), a_slug, obj)
     return index
+
 
 
 def pick_fixture_id(match_index: dict, date_str: str, home_team: str, away_team: str | None) -> str | None:
