@@ -53,3 +53,8 @@ def push_ai_prediction(ai_data: dict, date_str: str, fixture_id: str):
     ref = db.reference(path)
     ref.set(ai_data)
     print(f"✅ predictions_ai saved: {path}")
+    
+def push_team_mapping_to_firebase(map_dict: dict, path: str = "team_mapping/eng_to_th"):
+    ref = db.reference(path)
+    ref.set(map_dict)
+    print(f"✅ team_mapping saved: {path} ({len(map_dict)} items)")
