@@ -18,4 +18,5 @@ jobs:
         with: { python-version: "3.10" }
       - run: pip install -r winscoreai-auto-github/requirements.txt
       - name: Sync mapping to Firebase
-        run: python tools/sync_team_mapping.py
+        run: python winscoreai-auto-github/tools/sync_team_mapping.py
+
