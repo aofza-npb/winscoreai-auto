@@ -68,34 +68,80 @@ def to_thai(name_en: str) -> str:
 # =========================
 # Build matches index
 # =========================
+def _extract_results_node(node: dict) -> dict | None:
+    """คืน dict ที่มี fields date, teams.home.name, teams.away.name ไม่ว่ามันจะอยู่ที่ results หรือระดับบน"""
+    if not isinstance(node, dict):
+        return None
+    # กรณีมาตรฐาน: มี results
+    if isinstance(node.get("results"), dict):
+        res = node["results"]
+        if isinstance(res.get("teams"), dict) and res.get("date"):
+            return res
+    # กรณีบาง feed ใส่ไว้บนสุดเลย
+    if node.get("date") and isinstance(node.get("teams"), dict):
+        return node
+    return None
+
 def build_match_index() -> dict:
     """
     index[date_str][home_slug] = (fixture_id, away_slug, full_obj)
-    expect:
-      matches/{league}/{season}/{fixture_id}/results:
-        date, teams.home.name, teams.away.name
+    เดินทุกระดับแบบกันพัง: matches -> league -> season -> fixture_id -> {results|top-level}
     """
     root = db.reference("matches").get() or {}
     index: dict[str, dict[str, tuple[str, str, dict]]] = {}
-    for league_id, seasons in (root or {}).items():
-        if not isinstance(seasons, dict):
-            continue
-        for season, fixtures in (seasons or {}).items():
-            if not isinstance(fixtures, dict):
-                continue
-            for fixture_id, obj in (fixtures or {}).items():
-                results = (obj or {}).get("results", {})
-                date_str = results.get("date")
-                if not date_str:
+
+    # บางโปรเจ็คอาจไม่มีแบ่ง league/season ก็รองรับด้วย
+    def _walk(fixtures_level):
+        if not isinstance(fixtures_level, dict):
+            return []
+        return fixtures_level.items()
+
+    for _, seasons in _walk(root):
+        for _, fixtures in _walk(seasons):
+            for fixture_id, node in _walk(fixtures):
+                if not isinstance(node, (dict, str)):
                     continue
-                h_name = results.get("teams", {}).get("home", {}).get("name")
-                a_name = results.get("teams", {}).get("away", {}).get("name")
-                h_en = normalize_en(h_name)
-                a_en = normalize_en(a_name)
+                # ถ้า node เป็น string/ค่าอื่น ข้าม
+                if not isinstance(node, dict):
+                    continue
+                res = _extract_results_node(node)
+                if not res:
+                    continue
+
+                date_str = res.get("date")
+                teams = res.get("teams", {}) or {}
+                home = (teams.get("home") or {}).get("name") or res.get("home_name") or res.get("home")
+                away = (teams.get("away") or {}).get("name") or res.get("away_name") or res.get("away")
+                if not date_str or not home:
+                    continue
+
+                h_en = normalize_en(home)
+                a_en = normalize_en(away or "")
                 h_slug = slugify(h_en)
                 a_slug = slugify(a_en)
-                index.setdefault(date_str, {})[h_slug] = (str(fixture_id), a_slug, obj)
+
+                index.setdefault(str(date_str), {})[h_slug] = (str(fixture_id), a_slug, node)
+
+    # เผื่อรูปแบบที่ matches ไม่มีชั้น league/season (rare)
+    if not index and isinstance(root, dict):
+        for fixture_id, node in root.items():
+            if not isinstance(node, dict):
+                continue
+            res = _extract_results_node(node)
+            if not res:
+                continue
+            date_str = res.get("date")
+            teams = res.get("teams", {}) or {}
+            home = (teams.get("home") or {}).get("name")
+            away = (teams.get("away") or {}).get("name")
+            if not date_str or not home:
+                continue
+            h_en = normalize_en(home); a_en = normalize_en(away or "")
+            h_slug = slugify(h_en); a_slug = slugify(a_en)
+            index.setdefault(str(date_str), {})[h_slug] = (str(fixture_id), a_slug, node)
+
     return index
+
 
 def pick_fixture_id(match_index: dict, date_str: str, home_en: str, away_en: str | None) -> str | None:
     if date_str not in match_index:
