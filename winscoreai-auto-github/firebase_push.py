@@ -1,5 +1,6 @@
 # firebase_push.py
 import os
+import re
 import json
 import firebase_admin
 from firebase_admin import credentials, db
@@ -41,18 +42,22 @@ def push_prediction(data: dict, match_id: str):
         push_understat_agg(data, team_slug, date_str)
     except Exception as e:
         print(f"❌ push_prediction (compat) failed: {match_id} | {e}")
+def safe_key(key: str) -> str:
+    """ทำให้ key ใช้ได้กับ Firebase"""
+    if not key or not isinstance(key, str):
+        return "unknown"
+    # แทนที่ตัวอักษรต้องห้าม . $ # [ ] /
+    key = re.sub(r'[.$#[\]/]', "_", key)
+    return key.strip() or "unknown"
 
 # ---------- B) AI predictions writer ----------
-def push_ai_prediction(ai_data: dict, date_str: str, fixture_id: str):
-    """
-    เขียนผลโมเดล AI ไปไว้:
-    predictions_ai/{date_str}/{fixture_id}
-    fixture_id แนะนำให้ใช้ fixture_id จริงจาก matches; ถ้ายังไม่มีใช้ fixture_key ชั่วคราวได้
-    """
-    path = f"predictions_ai/{date_str}/{fixture_id}"
-    ref = db.reference(path)
+def push_ai_prediction(ai_data, date_str, fixture_id):
+    from firebase_admin import db
+    safe_fixture_id = safe_key(str(fixture_id))
+
+    ref = db.reference(f"predictions/{safe_fixture_id}/{date_str}")
     ref.set(ai_data)
-    print(f"✅ predictions_ai saved: {path}")
+    print(f"✅ pushed prediction to predictions/{safe_fixture_id}/{date_str}")
     
 def push_team_mapping_to_firebase(map_dict: dict, path: str = "team_mapping/eng_to_th"):
     ref = db.reference(path)
