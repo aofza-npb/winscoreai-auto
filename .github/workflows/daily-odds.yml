@@ -1,27 +1,49 @@
 # .github/workflows/daily-odds.yml
 name: daily-odds
+
 on:
-  schedule: [{ cron: "*/30 6-22 * * *" }] # ทุก 30 นาที ช่วงก่อนแข่ง (UTC)
+  schedule:
+    # รันทุก 30 นาที ช่วง 06:00–22:59 UTC (ช่วงก่อนแข่ง)
+    - cron: "*/30 6-22 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: daily-odds
+  cancel-in-progress: true
+
 jobs:
   run:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: API-Football-auto   # <<< ทำให้คำสั่งต่อไปนี้วิ่งในโฟลเดอร์โปรเจกต์นี้
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
-      - run: pip install -r API-Football-auto/requirements.txt
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt    # <<< path ถูกแล้ว เพราะเราตั้ง working-directory ไว้
+
       - name: Pull odds JSON
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
+          set -euo pipefail
+          mkdir -p live_odds
           python scripts/af_today_odds.py --days 1 --allow allowlist_ALL.txt --outdir live_odds
+
       - name: Patch odds → Firebase
         env:
           FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
           FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
         run: |
+          set -euo pipefail
           LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
+          echo "Using JSON: $LATEST"
           python scripts/patch_odds.py --json "$LATEST"
-
+          # ถ้าอยากมีสรุปสถานะการรันใน Firebase:
+          # python scripts/patch_odds.py --json "$LATEST" --monitor-path monitoring/odds/last_run
