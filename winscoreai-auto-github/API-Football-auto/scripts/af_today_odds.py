@@ -1,36 +1,139 @@
+# -*- coding: utf-8 -*-
+"""
+af_today_odds.py — Pull odds for today's fixtures (and optional next days) for target leagues,
+covering 3 markets: 1X2, Over/Under, Handicap. Writes:
+  - JSON: live_odds/odds_full_YYYYMMDD_YYYYMMDD.json
+  - CSV (flat): live_odds/odds_flat_all_YYYYMMDD_YYYYMMDD.csv
+Args:
+  --date YYYY-MM-DD (default=UTC today)
+  --days N (default=1)  # span date..date+days-1
+  --allow PATH          # allowlist file with league_id (integers)
+  --bookmaker INT       # if set, restrict to one bookmaker id (e.g., 6 = Bet365). default=ALL
+  --outdir DIR          # default=live_odds
+Notes:
+  - Fallback strategy if /fixtures?date=... returns none for some day:
+      a) try /fixtures?from=..&to=..&timezone=Asia/Bangkok
+      b) try per-league /fixtures?league=..&season=..&next=.. then filter by date window
+  - Requires env: API_FOOTBALL_KEY (and optionally API_FOOTBALL_VENDOR=apisports|rapidapi)
+"""
 
-# af_today_odds.py
-# ดึง odds ตลาด 1X2, Over/Under, Asian Handicap → บันทึก JSON + CSV
-import os, csv, argparse, time, re, json
-from datetime import datetime, timedelta
+import os
+import csv
+import re
+import json
+import time
+import argparse
 from pathlib import Path
-import requests
 from dotenv import load_dotenv
+from datetime import datetime, timedelta, timezone
 
-load_dotenv()
+import requests
+
+# ---------- Config / ENV ----------
+
+load_dotenv()  # โหลดค่าจาก .env
+
 API_KEY = os.getenv("API_FOOTBALL_KEY")
-assert API_KEY, "ยังไม่พบ API_FOOTBALL_KEY (ตั้งใน .env หรือ setx มาก่อน)"
+VENDOR = os.getenv("API_FOOTBALL_VENDOR", "apisports")
 
-BASE = "https://v3.football.api-sports.io"
-HEADERS = {"x-apisports-key": API_KEY}
+if VENDOR == "rapidapi":
+    BASE = "https://api-football-v1.p.rapidapi.com/v3"
+    HEAD = {"X-RapidAPI-Key": API_KEY, "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"}
+else:
+    BASE = "https://v3.football.api-sports.io"
+    HEAD = {"x-apisports-key": API_KEY}
 
-# API-Football bet ids:
-BET_MATCH_WINNER = 1      # 1X2
-BET_OVER_UNDER   = 2      # O/U
-BET_HANDICAP     = 5      # Asian Handicap
+COMMON_STATUS_KEEP = {"Not Started", "Time to be defined"}
 
-SUPPORTED_BETS = {BET_MATCH_WINNER, BET_OVER_UNDER, BET_HANDICAP}
+# ---------- HTTP helper ----------
+def req_get(path, params, what="", retry=3, wait=1.2):
+    url = f"{BASE}/{path}"
+    for i in range(retry):
+        try:
+            r = requests.get(url, headers=HEAD, params=params, timeout=30)
+            if r.status_code == 200:
+                j = r.json()
+                return j.get("response", []), j.get("errors", {}), j.get("results", 0)
+        except requests.RequestException:
+            pass
+        time.sleep(wait)
+    raise RuntimeError(f"GET {what or path} failed after retries")
 
-def get(url, params, what="", max_retry=3, wait=1.5):
-    for i in range(max_retry):
-        r = requests.get(url, headers=HEADERS, params=params, timeout=30)
-        if r.status_code == 200:
-            j = r.json()
-            return j.get("response", []), j.get("errors", {})
-        # 429/5xx หรืออื่นๆ → รอแล้ว retry
-        time.sleep(wait * (1 + 0.5*i))
-    raise RuntimeError(f"GET {what or url} failed after retries")
+# ---------- parsing odds ----------
+def parse_1x2(bet):
+    rec = {"home": "", "draw": "", "away": ""}
+    for v in bet.get("values", []):
+        val = (v.get("value") or "").strip().lower()
+        odd = v.get("odd") or ""
+        if val in ("home", "1", "1 (home)"):
+            rec["home"] = odd
+        elif val in ("draw", "x"):
+            rec["draw"] = odd
+        elif val in ("away", "2", "2 (away)"):
+            rec["away"] = odd
+    return rec
 
+def parse_ou(bet):
+    # return mapping line -> {"over": x, "under": y}
+    res = {}
+    for v in bet.get("values", []):
+        val = (v.get("value") or "").strip()
+        odd = v.get("odd") or ""
+        m = re.search(r"([Oo]ver|[Uu]nder)\s*([+-]?\d+(?:\.\d+)?)", val)
+        if not m:
+            m2 = re.search(r"([+-]?\d+(?:\.\d+)?)\s*(Over|Under)", val, flags=re.I)
+            if not m2:
+                continue
+            side = m2.group(2).lower()
+            line = m2.group(1)
+        else:
+            side = m.group(1).lower()
+            line = m.group(2)
+        d = res.setdefault(line, {"over": "", "under": ""})
+        if "over" in side:
+            d["over"] = odd
+        else:
+            d["under"] = odd
+    return res
+
+def parse_hcp(bet):
+    # return mapping line -> {"home": x, "away": y}
+    res = {}
+    for v in bet.get("values", []):
+        val = (v.get("value") or "").strip()
+        odd = v.get("odd") or ""
+        side = "home" if re.search(r"\b(home|^1\b)", val, re.I) else ("away" if re.search(r"\b(away|^2\b)", val, re.I) else None)
+        line = None
+        for tok in re.findall(r"[+-]?\d+(?:\.\d+)?", val.replace(":", " ")):
+            try:
+                float(tok)
+                line = tok
+                break
+            except Exception:
+                pass
+        if side and line is not None:
+            d = res.setdefault(line, {"home": "", "away": ""})
+            d[side] = odd
+    return res
+
+def extract_markets(odds_payload):
+    """Return bookmakers dict: {bm_id: {"1x2":{...}, "ou":{line:{...}}, "hcp":{line:{...}}}}"""
+    books = {}
+    for entry in odds_payload:
+        for bm in entry.get("bookmakers", []):
+            bm_id = bm.get("id")
+            acc = books.setdefault(str(bm_id), {"1x2": {}, "ou": {}, "hcp": {}})
+            for bet in bm.get("bets", []):
+                name = (bet.get("name") or "").lower()
+                if "match winner" in name or name.strip() in ("1x2", "winner", "win/lose", "win-draw-win"):
+                    acc["1x2"] = parse_1x2(bet)
+                elif "over/under" in name or "total goals" in name or "goals over" in name:
+                    acc["ou"] = parse_ou(bet)
+                elif "handicap" in name:
+                    acc["hcp"] = parse_hcp(bet)
+    return books
+
+# ---------- allowlist ----------
 def read_allowlist(path):
     lids = []
     with open(path, encoding="utf-8") as f:
@@ -38,237 +141,148 @@ def read_allowlist(path):
             s = line.strip()
             if not s or s.startswith("#"):
                 continue
-            parts = s.split()
-            if parts[0].isdigit():
-                lids.append(int(parts[0]))
-    return lids
+            p = s.split()
+            if p[0].isdigit():
+                lids.append(int(p[0]))
+    return set(lids)
+
+# ---------- fixtures fetch with fallbacks ----------
+def season_guess(d_utc):
+    return d_utc.year if d_utc.month >= 7 else d_utc.year - 1
+
+def fetch_fixtures_for_day(target_date, lids, tz="Asia/Bangkok", per_league_next=20):
+    ds = target_date.strftime("%Y-%m-%d")
+
+    # 1) direct date
+    fx, err, _ = req_get("fixtures", {"date": ds}, what=f"fixtures?date={ds}")
+    fx = [x for x in fx if int(x.get("league", {}).get("id", -1)) in lids]
+    if fx:
+        return fx
+
+    # 2) window from/to with timezone
+    d0 = (target_date - timedelta(days=1)).strftime("%Y-%m-%d")
+    d1 = (target_date + timedelta(days=1)).strftime("%Y-%m-%d")
+    params = {"from": d0, "to": d1, "timezone": tz}
+    if VENDOR == "rapidapi":
+        params = {"from": d0, "to": d1, "timezone": tz}  # same keys for RapidAPI v3
+    fx, err, _ = req_get("fixtures", params, what=f"fixtures window {d0}..{d1}")
+    fx = [x for x in fx if int(x.get("league", {}).get("id", -1)) in lids
+          and (x.get("fixture", {}).get("date", "") or "").startswith(ds)]
+    if fx:
+        return fx
+
+    # 3) per-league next (season-aware), then filter target day
+    out = []
+    sea = season_guess(target_date)
+    for lid in lids:
+        f2, _, _ = req_get("fixtures", {"league": lid, "season": sea, "next": per_league_next},
+                          what=f"fixtures league={lid} next")
+        for x in f2:
+            if (x.get("fixture", {}).get("date", "") or "").startswith(ds):
+                out.append(x)
+    return out
 
 def status_long(rec):
     return rec.get("fixture", {}).get("status", {}).get("long")
 
-def parse_ou_value(v: str):
-    # "Over 2.5" / "Under 3" / บางกรณีเป็น "Over 2.25"
-    m = re.match(r"^(Over|Under)\s+([0-9]+(?:\.[0-9]+)?)$", str(v).strip(), flags=re.I)
-    if not m:
-        return None, None
-    side = m.group(1).title()  # Over/Under
-    line = m.group(2)
-    return side, line
-
-def parse_hcp_value(v: str):
-    # "Home -1" / "Away +0.25" / บางกรณีเป็น "-1.25 Home"
-    s = str(v).strip()
-    m1 = re.match(r"^(Home|Away)\s+([+-]?[0-9]+(?:\.[0-9]+)?)$", s, flags=re.I)
-    m2 = re.match(r"^([+-]?[0-9]+(?:\.[0-9]+)?)\s+(Home|Away)$", s, flags=re.I)
-    if m1:
-        side = m1.group(1).title()   # Home/Away
-        line = m1.group(2)
-        return side, line
-    if m2:
-        side = m2.group(2).title()
-        line = m2.group(1)
-        return side, line
-    # บางครั้งค่ามาเป็น "0" อย่างเดียว → ถือเป็นเสมอขาว (0) ให้เป็น Home/ Away ต้องแยกไม่ได้
-    if re.fullmatch(r"[+-]?[0-9]+(?:\.[0-9]+)?", s):
-        return None, s
-    return None, None
-
+# ---------- main ----------
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--date", default=datetime.utcnow().strftime("%Y-%m-%d"),
-                    help="YYYY-MM-DD (default=today, UTC)")
-    ap.add_argument("--days", type=int, default=1,
-                    help="ดึงกี่วัน (เช่น 2 = วันนี้+พรุ่งนี้)")
-    ap.add_argument("--allow", default="allowlist_A.txt",
-                    help="ไฟล์รายลีก (คอลัมน์แรกคือ league_id)")
-    ap.add_argument("--bookmaker", type=int, default=6,
-                    help="เช่น 6 = Bet365 (ถ้าไม่ระบุ จะเก็บทุกเจ้า)")
-    ap.add_argument("--outdir", default="live_odds", help="โฟลเดอร์เอาต์พุต")
-    ap.add_argument("--sleep", type=float, default=0.25, help="หน่วงต่อ fixture (กันเรตลิมิต)")
+    ap.add_argument("--date", default=datetime.utcnow().strftime("%Y-%m-%d"), help="YYYY-MM-DD (UTC)")
+    ap.add_argument("--days", type=int, default=1, help="how many days (today..today+days-1)")
+    ap.add_argument("--allow", default="allowlist_ALL.txt", help="allowlist file (1st col = league_id)")
+    ap.add_argument("--bookmaker", type=int, default=0, help="0 or omit = ALL; e.g., 6=Bet365")
+    ap.add_argument("--outdir", default="live_odds", help="output folder")
     args = ap.parse_args()
 
-    lids = set(read_allowlist(args.allow))
+    outdir = Path(args.outdir); outdir.mkdir(parents=True, exist_ok=True)
+    lids = read_allowlist(args.allow)
     start = datetime.strptime(args.date, "%Y-%m-%d").date()
     end = start + timedelta(days=args.days-1)
-    outdir = Path(args.outdir); outdir.mkdir(parents=True, exist_ok=True)
 
-    print(f"ดึงแมตช์ + odds [{args.date} → {end}] | leagues={len(lids)} | bookmaker={args.bookmaker or 'ALL'}")
+    print(f"ดึง fixtures+odds: {start} → {end} | leagues={len(lids)} | bookmaker={args.bookmaker or 'ALL'} | vendor={VENDOR}")
 
-    # โครงสร้าง JSON รวม
-    # fixtures_map[(league_id, fixture_id)] = {... fixture info ..., "bookmakers": {bm_id: {...markets...}}}
-    fixtures_map = {}
-
-    # CSV rows (normalized)
-    csv_rows = []  # season,date,league_id,fixture_id,home,away,bookmaker_id,market,selection,line,odd
+    all_fixtures = []   # for JSON
+    flat_rows = []      # for CSV
 
     for d in (start + timedelta(days=i) for i in range(args.days)):
         ds = d.strftime("%Y-%m-%d")
+        fixtures = fetch_fixtures_for_day(d, lids)
+        # keep only not-started
+        fixtures = [x for x in fixtures if status_long(x) in COMMON_STATUS_KEEP]
+        print(f"• {ds}: fixtures before KO = {len(fixtures)}")
 
-        # 1) ดึง fixtures รายวัน
-        fx, _ = get(f"{BASE}/fixtures", {"date": ds}, what=f"fixtures {ds}")
-
-        # คัดเฉพาะลีกที่ต้องการ + เฉพาะแมตช์ที่ยังไม่เริ่ม
-        fx = [
-            x for x in fx
-            if int(str(x.get("league", {}).get("id", "-1")) or -1) in lids
-            and status_long(x) in ("Not Started", "Time to be defined")
-        ]
-        print(f"• {ds} fixtures ก่อนเตะ: {len(fx)}")
-
-        # เตรียมคำขอ odds ต่อ fixture
-        for f in fx:
-            fid = int(f.get("fixture", {}).get("id"))
-            lid = int(f.get("league", {}).get("id"))
-            home = f.get("teams", {}).get("home", {}).get("name", "")
-            away = f.get("teams", {}).get("away", {}).get("name", "")
-            season = int(f.get("league", {}).get("season", 0) or 0)
-
-            # init node ใน JSON รวม
-            key = (lid, fid)
-            if key not in fixtures_map:
-                fixtures_map[key] = {
-                    "season": season,
-                    "date": ds,
-                    "league_id": lid,
-                    "fixture_id": fid,
-                    "home": home,
-                    "away": away,
-                    "bookmakers": {}  # bm_id -> { "1x2": {...}, "ou": {line: {Over,Under}}, "hcp": {line: {Home,Away}} }
-                }
-
+        for f in fixtures:
+            fid = int(f["fixture"]["id"])
+            lid = int(f["league"]["id"])
+            season = int(f["league"]["season"])
+            home = f["teams"]["home"]["name"]
+            away = f["teams"]["away"]["name"]
             params = {"fixture": fid}
             if args.bookmaker:
                 params["bookmaker"] = args.bookmaker
 
-            odds, _ = get(f"{BASE}/odds", params, what=f"odds fid={fid}")
-            # odds response อาจมีหลาย entry → loop รวมทั้งหมด
-            if odds:
-                for entry in odds:
-                    for bm in entry.get("bookmakers", []):
-                        bm_id = bm.get("id")
-                        if not bm_id:
-                            continue
-                        bm_id = int(bm_id)
-                        bnode = fixtures_map[key]["bookmakers"].setdefault(
-                            str(bm_id),
-                            {"1x2": {}, "ou": {}, "hcp": {}}
-                        )
+            odds, _, _ = req_get("odds", params, what=f"odds fixture={fid}")
+            books = extract_markets(odds)
 
-                        for bet in bm.get("bets", []):
-                            bet_id = bet.get("id")
-                            if bet_id not in SUPPORTED_BETS:
-                                continue
+            rec = {
+                "date": ds,
+                "season": season,
+                "league_id": lid,
+                "fixture_id": fid,
+                "kickoff_ts": f["fixture"]["timestamp"],  # ← เพิ่ม
+                "home": home,
+                "away": away,
+                "bookmakers": books
+            }
+            all_fixtures.append(rec)
 
-                            # --- 1X2 ---
-                            if bet_id == BET_MATCH_WINNER:
-                                rec = {"Home": "", "Draw": "", "Away": ""}
-                                for v in bet.get("values", []):
-                                    val = v.get("value")   # Home/Draw/Away
-                                    odd = v.get("odd")
-                                    if val in rec:
-                                        rec[val] = odd
+            # also build flat rows for CSV
+            for bm_id, mk in books.items():
+                # 1X2
+                if mk.get("1x2"):
+                    one = mk["1x2"]
+                    for side in ("home", "draw", "away"):
+                        if one.get(side):
+                            flat_rows.append([season, ds, lid, fid, home, away, "1x2", "", side, one[side], bm_id])
+                # OU
+                for line, v in (mk.get("ou") or {}).items():
+                    if v.get("over"):
+                        flat_rows.append([season, ds, lid, fid, home, away, "ou", line, "over", v["over"], bm_id])
+                    if v.get("under"):
+                        flat_rows.append([season, ds, lid, fid, home, away, "ou", line, "under", v["under"], bm_id])
+                # HCP
+                for line, v in (mk.get("hcp") or {}).items():
+                    if v.get("home"):
+                        flat_rows.append([season, ds, lid, fid, home, away, "hcp", line, "home", v["home"], bm_id])
+                    if v.get("away"):
+                        flat_rows.append([season, ds, lid, fid, home, away, "hcp", line, "away", v["away"], bm_id])
 
-                                # JSON รวม
-                                # ช่องว่างไม่ต้องกรอกหากไม่มี
-                                if rec.get("Home") or rec.get("Draw") or rec.get("Away"):
-                                    bnode["1x2"] = {
-                                        "home": rec["Home"],
-                                        "draw": rec["Draw"],
-                                        "away": rec["Away"]
-                                    }
+            time.sleep(0.2)  # be nice to rate limit
 
-                                # CSV (3 แถว)
-                                for sel_key, sel_name in [("Home","Home"),("Draw","Draw"),("Away","Away")]:
-                                    if rec[sel_key]:
-                                        csv_rows.append([
-                                            season, ds, lid, fid, home, away,
-                                            bm_id, "1X2", sel_name, "", rec[sel_key]
-                                        ])
+    # write JSON
+    jpath = outdir / f"odds_full_{start.strftime('%Y%m%d')}_{end.strftime('%Y%m%d')}.json"
+    with open(jpath, "w", encoding="utf-8") as w:
+        json.dump({"fixtures": all_fixtures, "meta": {
+            "date_from": start.strftime("%Y-%m-%d"),
+            "date_to": end.strftime("%Y-%m-%d"),
+            "vendor": VENDOR,
+            "bookmaker": args.bookmaker or "ALL",
+            "leagues": len(lids),
+        }}, w, ensure_ascii=False)
 
-                            # --- Over/Under ---
-                            elif bet_id == BET_OVER_UNDER:
-                                for v in bet.get("values", []):
-                                    val = v.get("value")   # "Over 2.5" / "Under 2.5"
-                                    odd = v.get("odd")
-                                    side, line = parse_ou_value(val or "")
-                                    if not line or side not in ("Over","Under"):
-                                        continue
+    # write CSV (flat)
+    cpath = outdir / f"odds_flat_all_{start.strftime('%Y%m%d')}_{end.strftime('%Y%m%d')}.csv"
+    with open(cpath, "w", newline="", encoding="utf-8") as w:
+        wr = csv.writer(w)
+        wr.writerow(["season","date","league_id","fixture_id","home","away","market","line","side","odd","bookmaker_id"])
+        wr.writerows(flat_rows)
 
-                                    # JSON รวม
-                                    ou_line = bnode["ou"].setdefault(line, {"Over": "", "Under": ""})
-                                    ou_line[side] = odd
-
-                                # เติม CSV ทีหลังเมื่อเรามีบัคเก็ตครบทุก values แล้ว
-                                for line, od in bnode["ou"].items():
-                                    if od.get("Over"):
-                                        csv_rows.append([
-                                            season, ds, lid, fid, home, away,
-                                            bm_id, "O/U", "Over", line, od["Over"]
-                                        ])
-                                    if od.get("Under"):
-                                        csv_rows.append([
-                                            season, ds, lid, fid, home, away,
-                                            bm_id, "O/U", "Under", line, od["Under"]
-                                        ])
-
-                            # --- Handicap ---
-                            elif bet_id == BET_HANDICAP:
-                                for v in bet.get("values", []):
-                                    val = v.get("value")   # "Home -1" / "Away +0.25" / "0"
-                                    odd = v.get("odd")
-                                    side, line = parse_hcp_value(val or "")
-                                    if not line:
-                                        continue
-                                    hcp_line = bnode["hcp"].setdefault(line, {"Home": "", "Away": ""})
-                                    if side in ("Home","Away"):
-                                        hcp_line[side] = odd
-
-                                for line, od in bnode["hcp"].items():
-                                    if od.get("Home"):
-                                        csv_rows.append([
-                                            season, ds, lid, fid, home, away,
-                                            bm_id, "HCP", "Home", line, od["Home"]
-                                        ])
-                                    if od.get("Away"):
-                                        csv_rows.append([
-                                            season, ds, lid, fid, home, away,
-                                            bm_id, "HCP", "Away", line, od["Away"]
-                                        ])
-
-            else:
-                # ไม่มี odds → แปะแถวแจ้งสถานะ (สำหรับ CSV; JSON ไม่มีอะไรเพิ่ม)
-                csv_rows.append([season, ds, lid, fid, home, away,
-                                 args.bookmaker or "", "NONE", "", "", ""])
-
-            # กันเรตลิมิต
-            if args.sleep > 0:
-                time.sleep(args.sleep)
-
-    # เขียนไฟล์ JSON + CSV
-    json_path = outdir / f"odds_full_{start.strftime('%Y%m%d')}_{end.strftime('%Y%m%d')}.json"
-    csv_path  = outdir / f"odds_full_{start.strftime('%Y%m%d')}_{end.strftime('%Y%m%d')}.csv"
-
-    # JSON: แปลง map → list
-    json_list = []
-    for (lid, fid), node in fixtures_map.items():
-        json_list.append(node)
-
-    with open(json_path, "w", encoding="utf-8") as wj:
-        json.dump(json_list, wj, ensure_ascii=False, indent=2)
-
-    with open(csv_path, "w", newline="", encoding="utf-8") as wc:
-        wr = csv.writer(wc)
-        wr.writerow([
-            "season","date","league_id","fixture_id","home","away",
-            "bookmaker_id","market","selection","line","odd"
-        ])
-        wr.writerows(csv_rows)
-
-    print(f"✅ เขียนไฟล์ JSON: {json_path} (fixtures={len(json_list)})")
-    print(f"✅ เขียนไฟล์ CSV : {csv_path} (rows={len(csv_rows)})")
-    if json_list[:1]:
-        print("ตัวอย่าง JSON (รายการแรก):")
-        print(json.dumps(json_list[0], ensure_ascii=False, indent=2)[:800])
-
+    print(f"✅ JSON: {jpath} | fixtures={len(all_fixtures)}")
+    print(f"✅ CSV : {cpath} | rows={len(flat_rows)}")
+    if all_fixtures[:2]:
+        print("ตัวอย่าง 1–2 fixtures:")
+        for r in all_fixtures[:2]:
+            print("  ", r["league_id"], r["fixture_id"], r["home"], "vs", r["away"], "| bm:", len(r["bookmakers"]))
 if __name__ == "__main__":
     main()

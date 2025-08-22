@@ -1,6 +1,7 @@
 # common_env.py
 # โหลด ENV/Secrets ให้ใช้ได้ทั้งโลคอลและ CI และรวม helper พื้นฐานที่ใช้ซ้ำ
 import os, json, base64
+import os, requests
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -13,13 +14,16 @@ except Exception:
     pass
 
 # === API-Football ===
-API_FOOTBALL_KEY = os.getenv("API_FOOTBALL_KEY")
-BASE_AF = "https://v3.football.api-sports.io"
+API_KEY = os.getenv("API_FOOTBALL_KEY")
+assert API_KEY, "missing API_FOOTBALL_KEY"
 
-def api_headers():
-    if not API_FOOTBALL_KEY:
-        raise RuntimeError("Missing API_FOOTBALL_KEY")
-    return {"x-apisports-key": API_FOOTBALL_KEY}
+BASE_AF = "https://v3.football.api-sports.io"
+HEADERS_AF = {"x-apisports-key": API_KEY}
+
+def af_get(path, params=None, timeout=30):
+    r = requests.get(f"{BASE_AF}/{path}", headers=HEADERS_AF, params=params or {}, timeout=timeout)
+    r.raise_for_status()
+    return r.json()
 
 # === Firebase ===
 FIREBASE_DATABASE_URL = os.getenv("FIREBASE_DATABASE_URL")  # ต้องตั้งใน Secrets/ENV
