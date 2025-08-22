@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
-      - run: pip install -r requirements.txt
+      - run: pip install -r API-Football-auto/requirements.txt
       - name: Pull odds JSON
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
@@ -24,3 +24,4 @@ jobs:
         run: |
           LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
           python scripts/patch_odds.py --json "$LATEST"
+
