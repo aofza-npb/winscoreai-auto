@@ -1,0 +1,26 @@
+# .github/workflows/postmatch-results.yml
+name: postmatch-results
+on:
+  schedule: [{ cron: "10 23 * * *" }]  # หลังบอลยุโรปจบโดยประมาณ (UTC)
+  workflow_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements.txt
+      - name: Pull finished results (วันนี้ย้อนหลัง 1 วัน)
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
+        run: |
+          python scripts/af_results.py --days 1 --allow allowlist_ALL.txt --outdir results
+      - name: Patch results → Firebase
+        env:
+          FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
+          FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
+        run: |
+          LATEST=$(ls -1t results/results_full_*.json | head -n1)
+          python scripts/patch_results.py --json "$LATEST"

@@ -1,0 +1,26 @@
+# .github/workflows/daily-odds.yml
+name: daily-odds
+on:
+  schedule: [{ cron: "*/30 6-22 * * *" }] # ทุก 30 นาที ช่วงก่อนแข่ง (UTC)
+  workflow_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements.txt
+      - name: Pull odds JSON
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
+        run: |
+          python scripts/af_today_odds.py --days 1 --allow allowlist_ALL.txt --outdir live_odds
+      - name: Patch odds → Firebase
+        env:
+          FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
+          FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
+        run: |
+          LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
+          python scripts/patch_odds.py --json "$LATEST"
