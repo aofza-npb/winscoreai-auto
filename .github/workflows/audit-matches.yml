@@ -15,4 +15,4 @@ jobs:
         with: { python-version: '3.10' }
       - run: pip install firebase-admin
       - name: Inspect matches schema
-        run: python tools/inspect_matches.py
+        run: python winscoreai-auto-github/tools/inspect_matches.py
