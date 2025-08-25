@@ -33,14 +33,16 @@ jobs:
         run: |
           TODAY=$(date -u +%F)
           python scripts/af_today_odds.py \
-          --date "$TODAY" \
-          --days 2 \
-          --allow allowlist_ALL.txt \
-          --outdir live_odds
+           --days 2 \
+           --allow allowlist_ALL.txt \
+           --outdir live_odds
+
 
 
       - name: Debug list live_odds
         run: ls -lah live_odds || true
+            print("Raw fixtures fetched:", len(fixtures))
+            print("Sample:", fixtures[:3])
 
       # เขียนเข้า Firebase เฉพาะเมื่อมีไฟล์ JSON จริง
       - name: Patch odds → Firebase
@@ -67,6 +69,7 @@ jobs:
           name: odds-csv
           path: live_odds/odds_flat_all_*.csv
           if-no-files-found: warn
+
 
 
 
