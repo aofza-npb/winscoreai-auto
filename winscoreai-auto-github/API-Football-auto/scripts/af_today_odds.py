@@ -43,7 +43,7 @@ else:
     BASE = "https://v3.football.api-sports.io"
     HEAD = {"x-apisports-key": API_KEY}
 
-COMMON_STATUS_KEEP = {"Not Started", "Time to be defined"}
+COMMON_STATUS_KEEP = {"Not Started", "Time to be defined", "Scheduled"}  # ← เพิ่ม Scheduled
 
 # ---------- HTTP helper ----------
 def req_get(path, params, what="", retry=3, wait=1.2):
@@ -209,7 +209,13 @@ def main():
         ds = d.strftime("%Y-%m-%d")
         fixtures = fetch_fixtures_for_day(d, lids)
         # keep only not-started
-        fixtures = [x for x in fixtures if status_long(x) in COMMON_STATUS_KEEP]
+       def keep_before_ko(rec, grace_seconds=900):
+           ts = rec.get("fixture", {}).get("timestamp")
+          # เก็บเฉพาะแมตช์ที่ยังไม่เริ่ม (เผื่อเวลา 15 นาที)
+           return isinstance(ts, int) and ts >= int(time.time()) - grace_seconds
+
+       fixtures = [x for x in fixtures if keep_before_ko(x)]
+
         print(f"• {ds}: fixtures before KO = {len(fixtures)}")
 
         for f in fixtures:
@@ -286,3 +292,4 @@ def main():
             print("  ", r["league_id"], r["fixture_id"], r["home"], "vs", r["away"], "| bm:", len(r["bookmakers"]))
 if __name__ == "__main__":
     main()
+
