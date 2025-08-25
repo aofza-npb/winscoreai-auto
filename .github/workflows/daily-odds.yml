@@ -1,12 +1,12 @@
-# .github/workflows/daily-odds.yml
 name: daily-odds
 
 on:
-  schedule:
-    - cron: "*/30 6-22 * * *"   # ทุก 30 นาที ช่วงก่อนแข่ง (UTC)
   workflow_dispatch:
+  schedule:
+    # รันทุก 30 นาที ช่วงก่อนแข่ง (UTC) — ปรับได้ตามต้องการ
+    - cron: "*/30 6-22 * * *"
 
-# โฟลเดอร์งานของ API-Football-auto
+# ชี้โฟลเดอร์ทำงานไปที่โปรเจ็กต์ API-Football-auto
 defaults:
   run:
     working-directory: winscoreai-auto-github/API-Football-auto
@@ -25,36 +25,69 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ดึง odds ช่วงวันนี้+พรุ่งนี้ (กันหลุด timezone)
+      # 1) ดึง odds: ครอบคลุม "วันนี้ (UTC)+พรุ่งนี้" เพื่อกัน timezone พลาด
       - name: Pull odds JSON
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
-          TODAY=$(date -u +%F)
           python scripts/af_today_odds.py \
-           --days 2 \
-           --allow allowlist_ALL.txt \
-           --outdir live_odds
+            --days 2 \
+            --allow allowlist_ALL.txt \
+            --outdir live_odds
 
-
-
+      # 2) DEBUG: ลิสต์ไฟล์, ดูชื่อไฟล์ล่าสุด และนับ fixtures ในไฟล์
       - name: Debug list live_odds
-        run: ls -lah live_odds || true
-            
+        id: dbg
+        shell: bash
+        run: |
+          echo "---- live_odds/ ----"
+          ls -lah live_odds || true
 
-      # เขียนเข้า Firebase เฉพาะเมื่อมีไฟล์ JSON จริง
+          LATEST_JSON="$(ls -1t live_odds/odds_full_*.json 2>/dev/null | head -n1 || true)"
+          echo "LATEST_JSON=${LATEST_JSON}"
+          echo "LATEST_JSON=${LATEST_JSON}" >> $GITHUB_ENV
+
+          if [[ -n "${LATEST_JSON}" && -f "${LATEST_JSON}" ]]; then
+            echo "---- preview first 2000 chars ----"
+            head -c 2000 "${LATEST_JSON}" || true
+
+            FIX=$(python - << 'PY'
+import json, os
+p = os.environ.get("LATEST_JSON")
+try:
+    with open(p, "r", encoding="utf-8") as f:
+        d = json.load(f)
+    print(len(d.get("fixtures", [])))
+except Exception:
+    print(0)
+PY
+)
+          else
+            FIX=0
+          fi
+
+          echo "fixtures_count=${FIX}"
+          echo "FIXTURES_COUNT=${FIX}" >> $GITHUB_ENV
+
+          # กันเคสไม่มีไฟล์ — สร้างไฟล์เปล่าให้ step ต่อไปไม่ล่ม (แต่จะไม่ patch)
+          if [[ -z "${LATEST_JSON}" ]]; then
+            mkdir -p live_odds
+            echo '{"fixtures":[],"meta":{"note":"no fixtures this window"}}' > live_odds/odds_full_EMPTY.json
+            echo "LATEST_JSON=live_odds/odds_full_EMPTY.json" >> $GITHUB_ENV
+          fi
+
+      # 3) PATCH เข้า Firebase เฉพาะเมื่อมี fixtures > 0
       - name: Patch odds → Firebase
-        if: ${{ hashFiles('winscoreai-auto-github/API-Football-auto/live_odds/odds_full_*.json') != '' }}
+        if: ${{ env.FIXTURES_COUNT > 0 }}
         env:
           FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
           FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
         run: |
-          LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
-          echo "inWhld: $LATEST"
-          python scripts/patch_odds.py --json "$LATEST"
+          echo "patching ${LATEST_JSON}"
+          python scripts/patch_odds.py --json "${LATEST_JSON}"
 
-      # เก็บผลลัพธ์เป็น artifact (ถ้าไม่มีไฟล์ก็แค่เตือน ไม่ fail)
+      # (ทางเลือก) อัปโหลดไฟล์ที่ได้ไว้เป็น artifacts เอาไว้ตรวจย้อนหลัง
       - name: Upload JSON artifact
         uses: actions/upload-artifact@v4
         with:
@@ -68,10 +101,3 @@ jobs:
           name: odds-csv
           path: live_odds/odds_flat_all_*.csv
           if-no-files-found: warn
-
-
-
-
-
-
-
