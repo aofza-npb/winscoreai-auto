@@ -43,7 +43,8 @@ jobs:
           LATEST_JSON="$(ls -1t live_odds/odds_full_*.json 2>/dev/null | head -n1 || true)"
           echo "LATEST_JSON=${LATEST_JSON}" >> "$GITHUB_ENV"
 
-          python - <<'PY' import json, os, pathlib
+          python - <<'PY' 
+          import json, os, pathlib
           p = os.environ.get('LATEST_JSON','')
           n = 0
           if p and pathlib.Path(p).exists():
@@ -54,9 +55,6 @@ jobs:
           with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
                g.write(f"fixtures={n}\n")
           PY
-
-
-
 
 
 
@@ -87,6 +85,7 @@ jobs:
           LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
           echo "patching $LATEST"
           python scripts/patch_odds.py --json "$LATEST"
+
 
 
 
