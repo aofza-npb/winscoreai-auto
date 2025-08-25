@@ -31,7 +31,7 @@ jobs:
           API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
           python scripts/af_today_odds.py \
-          --days 2 \        # ✅ ดึงสองวันติด
+          --days 2 \       
           --allow allowlist_ALL.txt \
           --outdir live_odds
 
@@ -65,5 +65,6 @@ jobs:
           name: odds-csv
           path: live_odds/odds_flat_all_*.csv
           if-no-files-found: warn
+
 
 
