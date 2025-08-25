@@ -39,9 +39,8 @@ jobs:
           FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
           FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
         run: |
-         LATEST=$(ls -1t winscoreai-auto-github/API-Football-auto/live_odds/odds_full_*.json | head -n1)
-         python winscoreai-auto-github/API-Football-auto/scripts/patch_odds.py --json "$LATEST"
-
+          LATEST=$(ls -1t API-Football-auto/live_odds/odds_full_*.json | head -n1)
+          python API-Football-auto/scripts/patch_odds.py --json "$LATEST"
 
 
 
