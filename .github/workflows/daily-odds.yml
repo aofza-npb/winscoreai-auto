@@ -1,9 +1,7 @@
 # .github/workflows/daily-odds.yml
 name: daily-odds
-
 on:
-  schedule:
-    - cron: "*/30 6-22 * * *"
+  schedule: [{ cron: "*/30 6-22 * * *" }]
   workflow_dispatch:
 
 jobs:
@@ -11,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: winscoreai-auto-github/API-Football-auto   # <<< ตรง repo จริง
+        working-directory: winscoreai-auto-github/API-Football-auto   # <<< ชี้ไปที่โฟลเดอร์จริง
     steps:
       - uses: actions/checkout@v4
 
@@ -27,8 +25,10 @@ jobs:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
-          mkdir -p live_odds
-          python scripts/af_today_odds.py --days 1 --allow allowlist_ALL.txt --outdir live_odds
+          python scripts/af_today_odds.py \
+            --days 1 \
+            --allow ../../allowlist_ALL.txt \   # allowlist อยู่ระดับ repo root
+            --outdir live_odds
 
       - name: Patch odds → Firebase
         env:
@@ -36,6 +36,6 @@ jobs:
           FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
         run: |
           LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
-          echo "Using JSON: $LATEST"
+          echo "LATEST=$LATEST"
           python scripts/patch_odds.py --json "$LATEST"
 
