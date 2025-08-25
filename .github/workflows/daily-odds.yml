@@ -31,9 +31,10 @@ jobs:
           API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
           python scripts/af_today_odds.py \
-            --days 1 \
-            --allow allowlist_ALL.txt \
-            --outdir live_odds
+          --date 2025-08-26 \
+          --days 1 \
+          --allow allowlist_ALL.txt \
+          --outdir live_odds
 
       - name: Patch odds → Firebase
         env:
@@ -64,3 +65,4 @@ jobs:
           name: odds-csv
           path: live_odds/odds_flat_all_*.csv
           if-no-files-found: warn
+
