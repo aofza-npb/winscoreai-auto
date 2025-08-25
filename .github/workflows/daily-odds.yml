@@ -46,15 +46,15 @@ jobs:
           echo "LATEST_JSON=${LATEST_JSON}" >> "$GITHUB_OUTPUT"
           if [[ -n "$LATEST_JSON" && -f "$LATEST_JSON" ]]; then
             python - << 'PY'
-import json, os
-p=os.environ.get('LATEST_JSON','')
-n=0
-if p and os.path.exists(p):
-    data=json.load(open(p,encoding='utf-8'))
-    n=len(data.get('fixtures',[]))
-print(f"fixtures_count={n}")
-open(os.environ['GITHUB_OUTPUT'],'a').write(f"fixtures={n}\n")
-PY
+          import json, os
+            p=os.environ.get('LATEST_JSON','')
+            n=0
+            if p and os.path.exists(p):
+                   data=json.load(open(p,encoding='utf-8'))
+                   n=len(data.get('fixtures',[]))
+            print(f"fixtures_count={n}")
+            open(os.environ['GITHUB_OUTPUT'],'a').write(f"fixtures={n}\n")
+            PY
           else
             echo "fixtures=0" >> "$GITHUB_OUTPUT"
           fi
@@ -110,3 +110,4 @@ PY
           LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
           echo "patching $LATEST"
           python scripts/patch_odds.py --json "$LATEST"
+
