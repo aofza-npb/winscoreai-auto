@@ -39,55 +39,23 @@ jobs:
 
       # 2) ตรวจนับ fixtures จากไฟล์ล่าสุด
       - name: Find latest JSON & count fixtures
-        id: fx
-        shell: bash
         run: |
           LATEST_JSON="$(ls -1t live_odds/odds_full_*.json 2>/dev/null | head -n1 || true)"
-          echo "LATEST_JSON=${LATEST_JSON}" >> "$GITHUB_OUTPUT"
-          if [[ -n "$LATEST_JSON" && -f "$LATEST_JSON" ]]; then
-            python - << 'PY'
-          import json, os
-            p=os.environ.get('LATEST_JSON','')
-            n=0
-            if p and os.path.exists(p):
-                   data=json.load(open(p,encoding='utf-8'))
-                   n=len(data.get('fixtures',[]))
-            print(f"fixtures_count={n}")
-            open(os.environ['GITHUB_OUTPUT'],'a').write(f"fixtures={n}\n")
-            PY
-          else
-            echo "fixtures=0" >> "$GITHUB_OUTPUT"
-          fi
+          echo "LATEST_JSON=${LATEST_JSON}" >> "$GITHUB_ENV"
 
-      # 3) ถ้า fixtures=0 ให้ fallback: รันซ้ำโดย 'ไม่ใช้ allowlist'
-      - name: Fallback run (NO allowlist)
-        if: ${{ steps.fx.outputs.fixtures == '0' }}
-        env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-          API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
-        run: |
-          echo "== fallback: run without allowlist =="
-          python scripts/af_today_odds.py --days 2 --outdir live_odds
-          ls -lah live_odds || true
-
-          # หาไฟล์ JSON ล่าสุด แล้วส่งค่าออกให้ step ถัดไป
-          LATEST_JSON="$(ls -1t live_odds/odds_full_*.json 2>/dev/null | head -n1 || true)"
-          echo "LATEST_JSON=${LATEST_JSON}" >> "$GITHUB_OUTPUT"
-
-          # เขียนสคริปต์นับ fixtures ลงไฟล์ชั่วคราว (ต้องมีบรรทัดนี้!)
-          cat > /tmp/count_fixtures.py <<'PY'
-          import json, os, pathlib
+          python - <<'PY' import json, os, pathlib
           p = os.environ.get('LATEST_JSON','')
           n = 0
           if p and pathlib.Path(p).exists():
-              with open(p, encoding='utf-8') as f:
+                 with open(p, encoding='utf-8') as f:
                   d = json.load(f)
                   n = len(d.get('fixtures', []))
           print(f"fixtures_count={n}")
           with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
-              g.write(f"fixtures={n}\n")
+               g.write(f"fixtures={n}\n")
           PY
-              python /tmp/count_fixtures.py
+
+
 
 
 
@@ -119,5 +87,6 @@ jobs:
           LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
           echo "patching $LATEST"
           python scripts/patch_odds.py --json "$LATEST"
+
 
 
