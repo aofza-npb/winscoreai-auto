@@ -6,14 +6,14 @@ on:
     - cron: "*/30 6-22 * * *"   # ทุก 30 นาที ช่วงก่อนแข่ง (UTC)
   workflow_dispatch:
 
+# โฟลเดอร์งานของ API-Football-auto
+defaults:
+  run:
+    working-directory: winscoreai-auto-github/API-Football-auto
+
 jobs:
   run:
     runs-on: ubuntu-latest
-
-    # ชี้โฟลเดอร์ทำงานไปที่โปรเจกต์จริง (ตามโครงสร้างของคุณ)
-    defaults:
-      run:
-        working-directory: winscoreai-auto-github/API-Football-auto
 
     steps:
       - uses: actions/checkout@v4
@@ -25,59 +25,45 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # .github/workflows/daily-odds.yml (ช่วง Pull odds JSON)
+      # ดึง odds ช่วงวันนี้+พรุ่งนี้ (กันหลุด timezone)
       - name: Pull odds JSON
         env:
-         API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-         API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
-          # เลือกวันแบบกำหนดเอง หรือเผื่อ 2 วัน (แก้ timezone)
           python scripts/af_today_odds.py \
-          --date $(date -u +%Y-%m-%d) \
-          --days 2 \
-          --allow allowlist_ALL.txt \
-          --outdir live_odds
+            --days 2 \
+            --allow allowlist_ALL.txt \
+            --outdir live_odds
 
+      - name: Debug list live_odds
+        run: ls -lah live_odds || true
 
-
-
+      # เขียนเข้า Firebase เฉพาะเมื่อมีไฟล์ JSON จริง
       - name: Patch odds → Firebase
+        if: ${{ hashFiles('winscoreai-auto-github/API-Football-auto/live_odds/odds_full_*.json') != '' }}
         env:
           FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
           FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
         run: |
-          LATEST=$(ls -1t live_odds/odds_full_*.json 2>/dev/null | head -n1 || true)
-          if [ -z "$LATEST" ]; then
-            echo "⚠️ ไม่มีไฟล์ JSON (อาจไม่มีแมตช์ก่อนเตะวันนี้) — ข้ามการเขียน Firebase"
-            exit 0
-          fi
-          echo "Use JSON: $LATEST"
+          LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
+          echo "inWhld: $LATEST"
           python scripts/patch_odds.py --json "$LATEST"
-      - name: Debug listing
-        run: |
-          echo "::group::tree"
-          ls -lah
-          echo "::endgroup::"
-          echo "::group::live_odds"
-          ls -lah live_odds || true
-          echo "::endgroup::"
 
-      # เก็บไฟล์ไว้ดูที่ Artifacts
+      # เก็บผลลัพธ์เป็น artifact (ถ้าไม่มีไฟล์ก็แค่เตือน ไม่ fail)
       - name: Upload JSON artifact
         uses: actions/upload-artifact@v4
         with:
-           name: odds-json
-           path: live_odds/*.json
-           if-no-files-found: warn
+          name: odds-json
+          path: live_odds/odds_full_*.json
+          if-no-files-found: warn
 
       - name: Upload CSV artifact
         uses: actions/upload-artifact@v4
         with:
-           name: odds-csv
-           path: live_odds/*.csv
-           if-no-files-found: warn
-
-
+          name: odds-csv
+          path: live_odds/odds_flat_all_*.csv
+          if-no-files-found: warn
 
 
 
