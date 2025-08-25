@@ -25,12 +25,11 @@ jobs:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
-          # ใช้วันที่วันนี้ (UTC) + ดึงล่วงหน้าเผื่อ 2 วัน
-           python scripts/af_today_odds.py \
-           --date "$(date -u +%Y-%m-%d)" \
-           --days 2 \
-           --allow allowlist_ALL.txt \
-           --outdir live_odds
+          python API-Football-auto/scripts/af_today_odds.py \
+          --days 1 \
+          --allow API-Football-auto/allowlist_ALL.txt \
+          --outdir API-Football-auto/live_odds
+
 
 
       - name: Patch odds → Firebase
@@ -41,6 +40,7 @@ jobs:
           LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
           echo "LATEST=$LATEST"
           python scripts/patch_odds.py --json "$LATEST"
+
 
 
 
