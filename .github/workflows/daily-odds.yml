@@ -28,14 +28,17 @@ jobs:
       # .github/workflows/daily-odds.yml (ช่วง Pull odds JSON)
       - name: Pull odds JSON
         env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-          API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
+         API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+         API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
-           python scripts/af_today_odds.py \
-           --date $(date -u +%Y-%m-%d) \
-           --days 2 \
-           --allow allowlist_ALL.txt \
-           --outdir live_odds
+          # เลือกวันแบบกำหนดเอง หรือเผื่อ 2 วัน (แก้ timezone)
+          python scripts/af_today_odds.py \
+          --date $(date -u +%Y-%m-%d) \
+          --days 2 \
+          --allow allowlist_ALL.txt \
+          --outdir live_odds
+
+
 
 
       - name: Patch odds → Firebase
@@ -50,23 +53,30 @@ jobs:
           fi
           echo "Use JSON: $LATEST"
           python scripts/patch_odds.py --json "$LATEST"
+      - name: Debug listing
+        run: |
+          echo "::group::tree"
+          ls -lah
+          echo "::endgroup::"
+          echo "::group::live_odds"
+          ls -lah live_odds || true
+          echo "::endgroup::"
 
       # เก็บไฟล์ไว้ดูที่ Artifacts
       - name: Upload JSON artifact
-        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: odds-json
-          path: live_odds/odds_full_*.json
-          if-no-files-found: warn
+           name: odds-json
+           path: live_odds/*.json
+           if-no-files-found: warn
 
       - name: Upload CSV artifact
-        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: odds-csv
-          path: live_odds/odds_flat_all_*.csv
-          if-no-files-found: warn
+           name: odds-csv
+           path: live_odds/*.csv
+           if-no-files-found: warn
+
 
 
 
