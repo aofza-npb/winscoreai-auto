@@ -217,6 +217,8 @@ def main():
         fixtures = [x for x in fixtures if keep_before_ko(x)]
 
         print(f"• {ds}: fixtures before KO = {len(fixtures)}")
+        print("Raw fixtures fetched:", len(fixtures))
+        print("Sample:", fixtures[:3])
 
         for f in fixtures:
             fid = int(f["fixture"]["id"])
@@ -292,3 +294,4 @@ def main():
             print("  ", r["league_id"], r["fixture_id"], r["home"], "vs", r["away"], "| bm:", len(r["bookmakers"]))
 if __name__ == "__main__":
     main()
+
