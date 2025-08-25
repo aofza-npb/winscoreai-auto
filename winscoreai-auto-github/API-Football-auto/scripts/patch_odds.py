@@ -1,22 +1,28 @@
 # scripts/patch_odds.py
 # -*- coding: utf-8 -*-
 """
-Patch odds JSON into Firebase with per-fixture summaries & features.
+Patch odds JSON (from af_today_odds.py) into Firebase with per-fixture summaries & features.
 
-Input:
-  --json PATH    : odds_full_YYYYMMDD_YYYYMMDD.json (จาก af_today_odds.py)
-  --bm INT       : (optional) id เจ้ามือที่อยากใช้เป็นแหล่งหลักของฟีเจอร์ (เช่น 6 = Bet365)
-  --dry-run      : แสดง preview ไม่เขียน Firebase
-  --monitor-path : path สำหรับเก็บสรุปการรันใน Firebase (default: monitoring/odds/last_run)
+What it does:
+- อ่านไฟล์ JSON: odds_full_YYYYMMDD_YYYYMMDD.json
+- คำนวณฟีเจอร์ & สรุปต่อแมตช์:
+    * ไม่ฟิกซ์ OU=2.5 หรือ HCP=-1 อีกต่อไป
+    * เลือก "เส้นหลัก" แบบบาลานซ์ (over≈under สำหรับ OU, home≈away สำหรับ HCP)
+    * เก็บทุกเส้นสำหรับ FT/HT: ou_all, hcp_all, ou_ht_all, hcp_ht_all
+    * เก็บ 1×2 implied (normalize), cross-bookmaker stats
+- เขียนขึ้น Firebase:
+    matches/{league_id}/{fixture_id}/odds_features  = {...}
+- (ออปชัน) บันทึก monitoring summary
 
-เขียนไปที่:
-  matches/{league_id}/{fixture_id}/odds               -> เก็บ RAW bookmakers ทั้งก้อน + meta ingest
-  matches/{league_id}/{fixture_id}/odds_features      -> ฟีเจอร์/สรุปต่อแมตช์
-  {monitor-path}                                      -> สรุปการรัน
+CLI:
+  --json PATH               (required) ไฟล์จาก af_today_odds.py
+  --dry-run                 พิมพ์ preview ไม่เขียน Firebase
+  --monitor-path PATH       default=monitoring/odds/last_run
+  --bm INT                  (unused inเวอร์ชันนี้, กันไว้อนาคต)
 
-Env (เวลาเขียนจริง):
-  FIREBASE_CREDENTIALS  : base64 ของ service account JSON
-  FIREBASE_DATABASE_URL : URL ของ RTDB/Firestore REST (แล้วแต่ fb_client ของคุณ)
+Env for writing:
+  FIREBASE_CREDENTIALS  : base64 service account JSON
+  FIREBASE_DATABASE_URL : your RTDB/Firestore URL (ตาม fb_client)
 """
 
 import os
@@ -26,16 +32,16 @@ import argparse
 from statistics import mean, pstdev
 from datetime import datetime, timezone
 
-# ---------- FB client (optional) ----------
+# ---------- FB client (optional import) ----------
 def load_fb_update_multi():
     try:
-        from fb_client import update_multi  # ฟังก์ชันของโปรเจกต์คุณเอง
+        from fb_client import update_multi  # โปรเจกต์คุณมี retry/backoff แล้ว
         return update_multi
     except Exception as e:
         print("⚠️ fb_client.update_multi not available:", e)
         return None
 
-# ---------- small utils ----------
+# ---------- utils ----------
 def now_iso():
     return datetime.now(timezone.utc).isoformat()
 
@@ -62,37 +68,11 @@ def entropy_probs(ps):
         return None
     return -sum((p/s) * math.log(p/s) for p in vals)
 
-def pick_best_ou_line(ou_map):
-    """เลือก line ที่นิยม: 2.5 > 2.75 > 3.0 > 2.25 > 3.25; ไม่มีก็เลือกใกล้ 2.5"""
-    if not ou_map:
-        return None, None
-    for pref in ("2.5", "2.75", "3", "2.25", "3.25"):
-        if pref in ou_map:
-            return pref, ou_map[pref]
-    try:
-        k = sorted(ou_map.keys(), key=lambda x: abs(float(x) - 2.5))[0]
-    except Exception:
-        k = list(ou_map.keys())[0]
-    return k, ou_map[k]
-
-def pick_best_hcp_line(hcp_map):
-    """เลือก line ยอดนิยม: -0.25 / 0 / +0.25; ไม่มีก็เลือกใกล้ 0"""
-    if not hcp_map:
-        return None, None
-    for pref in ("-0.25", "0", "0.25", "+0.25"):
-        if pref in hcp_map:
-            return pref, hcp_map[pref]
-    try:
-        k = sorted(hcp_map.keys(), key=lambda x: abs(float(x)))[0]
-    except Exception:
-        k = list(hcp_map.keys())[0]
-    return k, hcp_map[k]
-
 def bookmaker_stats_1x2(books):
     """รวมทุกเจ้ามือ → สถิติของ home/draw/away odds + implied เฉลี่ย/overround/entropy"""
     home_odds, draw_odds, away_odds = [], [], []
     pH_list, pD_list, pA_list = [], [], []
-    for _, mk in books.items():
+    for _, mk in (books or {}).items():
         one = mk.get("1x2") or {}
         h = safe_float(one.get("home"))
         d = safe_float(one.get("draw"))
@@ -124,101 +104,154 @@ def bookmaker_stats_1x2(books):
     ent = entropy_probs([pH, pD, pA])
 
     return {
-        "odds": {
-            "home": agg(home_odds),
-            "draw": agg(draw_odds),
-            "away": agg(away_odds),
-        },
+        "odds": {"home": agg(home_odds), "draw": agg(draw_odds), "away": agg(away_odds)},
         "implied_avg": {"home": pH, "draw": pD, "away": pA, "overround": ov, "entropy": ent},
     }
 
-def completeness_flags(has_1x2, has_ou, has_hcp):
-    return {
-        "has_1x2": bool(has_1x2),
-        "has_ou": bool(has_ou),
-        "has_hcp": bool(has_hcp),
-        "complete_3_markets": bool(has_1x2 and has_ou and has_hcp),
-    }
+# ---------- NEW helpers: balanced line picking & merging all lines ----------
+def _imp(odd):
+    try:
+        o = float(str(odd))
+        return 1.0 / o if o > 0 else None
+    except:
+        return None
 
-# ---------- core: make features for ONE fixture ----------
-def build_features_per_fixture(rec, bm_prefer=None, keep_bm: int = 5):
+def choose_ou_balanced(ou_map: dict, anchor=2.5):
+    """
+    เลือก line ที่ over/under 'บาลานซ์' สุด (gap น้อย) และใกล้ anchor (2.5) รองลงมา
+    ไม่ฟิกซ์ 2.5 — ถ้า 3.0 หรือ 2.25 บาลานซ์กว่า ก็เลือกได้
+    """
+    if not ou_map: return None, None
+    best = None
+    for line, v in ou_map.items():
+        po, pu = _imp(v.get("over")), _imp(v.get("under"))
+        if po is None or pu is None:
+            continue
+        gap = abs(po - pu)
+        cand = (gap, abs(float(line) - float(anchor)), float(line), v)
+        if best is None or cand < best:
+            best = cand
+    if best:
+        _, _, line, val = best
+        return str(line), val
+    # fallback: เลือกใกล้ anchor ที่สุด
+    try:
+        k = min(ou_map.keys(), key=lambda x: abs(float(x) - float(anchor)))
+    except Exception:
+        k = list(ou_map.keys())[0]
+    return str(k), ou_map[k]
+
+def choose_hcp_balanced(hcp_map: dict):
+    """
+    เลือก handicap ที่ |line| ใกล้ 0 สุด และราคาบาลานซ์ระหว่าง home/away (gap น้อย)
+    ไม่ฟิกซ์ -1 — ถ้า 0, ±0.25, ±0.5 มี ก็จะถูกเลือกก่อน
+    """
+    if not hcp_map: return None, None
+    best = None
+    for line, v in hcp_map.items():
+        ph, pa = _imp(v.get("home")), _imp(v.get("away"))
+        if ph is None or pa is None:
+            continue
+        cand = (abs(float(line)), abs(ph - pa), float(line), v)
+        if best is None or cand < best:
+            best = cand
+    if best:
+        _, _, line, val = best
+        return str(line), val
+    # fallback: ใกล้ 0 ที่สุด
+    try:
+        k = min(hcp_map.keys(), key=lambda x: abs(float(x)))
+    except Exception:
+        k = list(hcp_map.keys())[0]
+    return str(k), hcp_map[k]
+
+def merge_all_lines(books: dict, key: str) -> dict:
+    """
+    รวมทุกเส้นจากทุกเจ้ามือเป็น map รวม (เช่น key='ou', 'hcp', 'ou_ht', 'hcp_ht')
+    """
+    out = {}
+    for mk in (books or {}).values():
+        for line, val in (mk.get(key) or {}).items():
+            out.setdefault(str(line), val)
+    return out
+
+# ---------- core: build features for one fixture ----------
+def build_features_per_fixture(rec):
+    """
+    คืน dict ของ odds_features สำหรับ fixture เดียว (ไม่ fix เส้น)
+    - เลือกเส้นหลักแบบ balanced-picked (FT/HT)
+    - เก็บทุกเส้น *_all เพื่อให้ downstream ใช้เต็ม
+    - เก็บ implied 1×2 + cross-bookmaker stats
+    """
     lid = rec["league_id"]; fid = rec["fixture_id"]
-    books_all = rec.get("bookmakers", {}) or {}
-    books = select_bookmakers(books_all, keep=keep_bm)  # <<< กรองเหลือ 5 เจ้า
+    books = rec.get("bookmakers", {}) or {}
 
-    # เลือกเจ้ามือสำหรับฟีเจอร์ (ถ้าระบุ --bm ให้ใช้เลย, ไม่งั้นเลือกที่มี 1x2/OU/HCP มากสุด)
-    chosen_bm = None
-    if bm_prefer and str(bm_prefer) in books:
-        chosen_bm = str(bm_prefer)
-    else:
-        best_score = -1
-        for bmid, mk in books.items():
-            score = int(bool(mk.get("1x2"))) + int(bool(mk.get("ou"))) + int(bool(mk.get("hcp")))
-            if score > best_score:
-                best_score = score
-                chosen_bm = bmid
+    # รวมทุกเส้นจากทุกเจ้า (FT/HT)
+    ou_all      = merge_all_lines(books, "ou")
+    hcp_all     = merge_all_lines(books, "hcp")
+    ou_ht_all   = merge_all_lines(books, "ou_ht")
+    hcp_ht_all  = merge_all_lines(books, "hcp_ht")
 
-    mk = books.get(chosen_bm or "", {}) if books else {}
-    one_line = mk.get("1x2") or {}
-    ou_line_key, ou_sel = pick_best_ou_line(mk.get("ou") or {})
-    hcp_line_key, hcp_sel = pick_best_hcp_line(mk.get("hcp") or {})
+    # เลือกเส้นหลักแบบบาลานซ์
+    ou_line_key,   ou_sel     = choose_ou_balanced(ou_all)       if ou_all     else (None, None)
+    hcp_line_key,  hcp_sel    = choose_hcp_balanced(hcp_all)     if hcp_all    else (None, None)
+    ou_ht_line,    ou_ht_sel  = choose_ou_balanced(ou_ht_all)    if ou_ht_all  else (None, None)
+    hcp_ht_line,   hcp_ht_sel = choose_hcp_balanced(hcp_ht_all)  if hcp_ht_all else (None, None)
 
-    # implied จาก 1x2 ของ “chosen”
-    def _i(x): 
-        p = implied_prob(x)
-        return p if p is not None else None
-    h = _i(one_line.get("home"))
-    d = _i(one_line.get("draw"))
-    a = _i(one_line.get("away"))
-    tot = sum([p for p in (h, d, a) if p is not None]) or None
+    # 1×2 implied baseline (ใช้เจ้ามือแรกที่มี)
+    one_any = next((mk.get("1x2") for mk in books.values() if mk.get("1x2")), {})
+    def _num(x):
+        try: return float(x)
+        except: return None
+    h = _num(one_any.get("home")); d = _num(one_any.get("draw")); a = _num(one_any.get("away"))
+    tot = sum(x for x in (1/h if h else 0, 1/d if d else 0, 1/a if a else 0))
     implied = {
-        "home": (h / tot) if (h is not None and tot) else None,
-        "draw": (d / tot) if (d is not None and tot) else None,
-        "away": (a / tot) if (a is not None and tot) else None,
-        "overround": tot,
+        "home": (1/h / tot) if (h and tot) else None,
+        "draw": (1/d / tot) if (d and tot) else None,
+        "away": (1/a / tot) if (a and tot) else None,
+        "overround": tot if tot else None
     }
 
-    markets_present = sorted({k for _, m in books.items() for k in (m.keys() if m else [])})
+    markets_present = sorted({k for _, mk in books.items() for k in mk.keys() if (mk or {}).get(k)})
     xbm = bookmaker_stats_1x2(books)
 
     features = {
-        "source_bookmaker_id": (int(chosen_bm) if chosen_bm is not None else None),
+        # FT/HT – เส้นหลัก (balanced-picked)
+        "one": one_any,
+        "ou":    ({"line": ou_line_key,    **(ou_sel or {})}    if ou_line_key    else {"line": None}),
+        "hcp":   ({"line": hcp_line_key,   **(hcp_sel or {})}   if hcp_line_key   else {"line": None}),
+        "one_ht": next((mk.get("1x2_ht") for mk in books.values() if mk.get("1x2_ht")), {}) or {},
+        "ou_ht": ({"line": ou_ht_line,     **(ou_ht_sel or {})} if ou_ht_line     else {"line": None}),
+        "hcp_ht":({"line": hcp_ht_line,    **(hcp_ht_sel or {})}if hcp_ht_line    else {"line": None}),
+
+        # FT/HT – เก็บทุกเส้น
+        "ou_all": ou_all,
+        "hcp_all": hcp_all,
+        "ou_ht_all": ou_ht_all,
+        "hcp_ht_all": hcp_ht_all,
+
+        # metrics
+        "implied": implied,
+        "xbm_1x2": xbm,
         "markets_present": markets_present,
         "n_bookmakers": len(books),
         "n_markets": len(markets_present),
-        "one": one_line,  # ของ chosen bookmaker
-        "ou": {"line": ou_line_key, **(ou_sel or {})} if ou_line_key else {"line": None},
-        "hcp": {"line": hcp_line_key, **(hcp_sel or {})} if hcp_line_key else {"line": None},
-        "implied": implied,
-        "xbm_1x2": xbm,
-        "flags": completeness_flags(bool(one_line), bool(ou_line_key), bool(hcp_line_key)),
+        "flags": {
+            "has_1x2": bool(one_any),
+            "has_ou":  bool(ou_all),
+            "has_hcp": bool(hcp_all),
+            "has_1x2_ht": bool(next((mk.get("1x2_ht") for mk in books.values() if mk.get("1x2_ht")), {})),
+            "has_ou_ht":  bool(ou_ht_all),
+            "has_hcp_ht": bool(hcp_ht_all),
+            "complete_ft": bool(one_any and ou_all and hcp_all),
+            "complete_ht": bool(ou_ht_all and hcp_ht_all),
+        },
         "meta": {"updated_at": now_iso()},
-
+        "_ids": {"league_id": lid, "fixture_id": fid}
     }
-    # เผื่อเอาไว้ดูคีย์หลัก (ไม่กระทบ Firebase)
-    features["_ids"] = {"league_id": lid, "fixture_id": fid}
-    features["kickoff_ts"] = rec.get("kickoff_ts")
-
     return features
-# เลือก top-N เจ้ามือ ตาม priority และความครบตลาด
-PRIORITY = (6, 1, 7, 8, 2)  # ตัวอย่าง: Bet365(6) > Pinnacle(1) > 1xBet(7) > 888(8) > 10bet(2)
 
-def select_bookmakers(books: dict, keep: int = 5, priority: tuple = PRIORITY) -> dict:
-    if keep <= 0 or not books:
-        return books
-    # ให้คะแนน: ติดอันดับใน priority มาก่อน, แล้วค่อยจำนวนตลาดที่มี (1x2/ou/hcp)
-    def score(item):
-        bmid, mk = item
-        try:
-            pr = priority.index(int(bmid))
-        except Exception:
-            pr = len(priority)  # ไม่มีใน priority = ลำดับท้าย
-        markets_cnt = sum(1 for k in ("1x2","ou","hcp") if mk.get(k))
-        return (pr, -markets_cnt)  # pr น้อยดีกว่า, markets มากดีกว่า
-    top = sorted(books.items(), key=score)[:keep]
-    return {k: v for k, v in top}
-
-# ---------- preview helper ----------
+# ---------- preview ----------
 def preview_updates(updates, limit=8):
     print("\n---- PREVIEW (first {} nodes) ----".format(limit))
     keys = list(updates.keys())[:limit]
@@ -233,8 +266,8 @@ def preview_updates(updates, limit=8):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--json", required=True, help="path to odds_full_*.json (from af_today_odds.py)")
-    ap.add_argument("--bm", type=int, default=0, help="preferred bookmaker id (0 = auto)")
-    ap.add_argument("--dry-run", action="store_true", help="preview only")
+    ap.add_argument("--bm", type=int, default=0, help="reserved (not used)")
+    ap.add_argument("--dry-run", action="store_true", help="preview only, do not write Firebase")
     ap.add_argument("--monitor-path", default="monitoring/odds/last_run", help="Firebase path for run summary")
     args = ap.parse_args()
 
@@ -246,30 +279,26 @@ def main():
     print(f"อ่านไฟล์: {args.json} | fixtures={len(fixtures)}")
 
     updates = {}
-    n_odds_nodes = 0
     n_feat_nodes = 0
 
     for rec in fixtures:
         lid = int(rec["league_id"])
         fid = int(rec["fixture_id"])
 
-        
-        n_odds_nodes += 1
-
-        # 2) คำนวณ features ต่อแมตช์
-        feat = build_features_per_fixture(rec, bm_prefer=(args.bm or None))
+        # เขียน odds_features ต่อแมตช์
+        feat = build_features_per_fixture(rec)
         updates[f"matches/{lid}/{fid}/odds_features"] = feat
-        updates[f"matches/{lid}/{fid}/kickoff_ts"] = rec.get("kickoff_ts")
         n_feat_nodes += 1
 
-    # 3) monitoring
+        if n_feat_nodes % 50 == 0:
+            print(f"เตรียมอัปเดตครบ {n_feat_nodes} fixtures ...")
+
+    # monitoring summary
     summary = {
         "run_at": now_iso(),
         "input_json": os.path.basename(args.json),
         "fixtures": len(fixtures),
-        "odds_nodes": n_odds_nodes,
         "feature_nodes": n_feat_nodes,
-        "bookmaker_preferred": (args.bm or None),
         "meta_in": meta_in,
         "env": {
             "GITHUB_WORKFLOW": os.getenv("GITHUB_WORKFLOW"),
