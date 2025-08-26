@@ -24,20 +24,19 @@ jobs:
         run: pip install -r requirements.txt
 
       # 1) ดึง odds วันนี้+พรุ่งนี้ (UTC)
-      - name: Pull odds JSON/CSV (with allowlist)
+      - name: Pull odds JSON/CSV (tomorrow UTC)
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
-          echo "== pull odds (today+tomorrow, UTC) =="
+         TARGET_DATE="$(date -u -d '+1 day' +%Y-%m-%d)"
+         echo "target date (UTC): $TARGET_DATE"
+         python scripts/af_today_odds.py \
+           --date "$TARGET_DATE" \
+           --days 1 \
+           --allow allowlist_ALL.txt \
+           --outdir live_odds
 
-           python scripts/af_today_odds.py \
-             --days 3 \
-             --allow allowlist_ALL.txt \
-             --outdir live_odds
-
-          echo "== list live_odds =="
-          ls -lah live_odds || true
 
       # 2) ตรวจนับ fixtures จากไฟล์ล่าสุด
       - name: Find latest JSON & count fixtures
@@ -90,6 +89,7 @@ jobs:
           LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
           echo "patching $LATEST"
           python scripts/patch_odds.py --json "$LATEST"
+
 
 
 
