@@ -30,10 +30,12 @@ jobs:
           API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
           echo "== pull odds (today+tomorrow, UTC) =="
-          python scripts/af_today_odds.py \
-            --days 2 \
-            --allow allowlist_ALL.txt \
-            --outdir live_odds
+
+           python scripts/af_today_odds.py \
+             --days 3 \
+             --allow allowlist_ALL.txt \
+             --outdir live_odds
+
           echo "== list live_odds =="
           ls -lah live_odds || true
 
@@ -67,6 +69,9 @@ jobs:
           name: odds-json
           path: live_odds/odds_full_*.json
           if-no-files-found: warn
+      - name: Debug fixtures preview
+        run: |
+           head -n 200 live_odds/odds_full_*.json || true
 
       - name: Upload CSV artifact
         uses: actions/upload-artifact@v4
@@ -85,6 +90,7 @@ jobs:
           LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
           echo "patching $LATEST"
           python scripts/patch_odds.py --json "$LATEST"
+
 
 
 
