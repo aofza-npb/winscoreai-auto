@@ -35,6 +35,8 @@ load_dotenv()  # โหลดค่าจาก .env
 
 API_KEY = os.getenv("API_FOOTBALL_KEY")
 VENDOR = os.getenv("API_FOOTBALL_VENDOR", "apisports")
+if not API_KEY:
+    raise RuntimeError("Missing API_FOOTBALL_KEY")
 
 if VENDOR == "rapidapi":
     BASE = "https://api-football-v1.p.rapidapi.com/v3"
@@ -184,6 +186,10 @@ def fetch_fixtures_for_day(target_date, lids, tz="Asia/Bangkok", per_league_next
 
 def status_long(rec):
     return rec.get("fixture", {}).get("status", {}).get("long")
+def keep_before_ko(rec, grace_seconds=900):
+    ts = rec.get("fixture", {}).get("timestamp")
+    # เก็บเฉพาะแมตช์ที่ยังไม่เริ่ม (เผื่อเวลา 15 นาที)
+    return isinstance(ts, int) and ts >= int(time.time()) - grace_seconds
 
 # ---------- main ----------
 def main():
@@ -294,4 +300,5 @@ def main():
             print("  ", r["league_id"], r["fixture_id"], r["home"], "vs", r["away"], "| bm:", len(r["bookmakers"]))
 if __name__ == "__main__":
     main()
+
 
