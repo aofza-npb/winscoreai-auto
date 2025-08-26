@@ -31,23 +31,7 @@ jobs:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
 
-      # --- Smoke test เรียก /status และตัวอย่าง fixtures พรุ่งนี้ (UTC) ---
-      - name: API smoke test (status & one league)
-        run: |
-          echo "== /status =="
-          curl -s "https://v3.football.api-sports.io/status" \
-            -H "x-apisports-key: $API_FOOTBALL_KEY" | jq .
-          echo
-          echo "== fixtures sample (Premier League, tomorrow UTC) =="
-          D="$(date -u -d '+1 day' +%Y-%m-%d)"
-          curl -s "https://v3.football.api-sports.io/fixtures?date=${D}&league=39&season=2025" \
-            -H "x-apisports-key: $API_FOOTBALL_KEY" | jq '.results,.errors,.response[0]'
-        shell: bash
-        env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-          API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
-
-      # --- 1) ดึง odds ของพรุ่งนี้ (UTC) ---
+            # 1) ดึง odds วันนี้/พรุ่งนี้ (UTC หรือแล้วแต่ที่คุณตั้ง)
       - name: Pull odds JSON/CSV (tomorrow UTC)
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
@@ -61,12 +45,13 @@ jobs:
             --allow allowlist_ALL.txt \
             --outdir live_odds
 
-      # --- 2) หาไฟล์ JSON ล่าสุด + นับจำนวน fixtures (ต้องมี id เพื่อใช้ outputs) ---
-      - id: fx
-        name: Find latest JSON & count fixtures
+      # 2) หาว่าไฟล์ JSON ล่าสุดคือไฟล์ไหน และนับ fixtures
+      - name: Find latest JSON & count fixtures
+        id: fx
         run: |
           LATEST_JSON="$(ls -1t live_odds/odds_full_*.json 2>/dev/null | head -n1 || true)"
           echo "LATEST_JSON=${LATEST_JSON}" >> "$GITHUB_ENV"
+
           python - <<'PY'
           import json, os, pathlib
           p = os.environ.get('LATEST_JSON','')
@@ -80,17 +65,18 @@ jobs:
               g.write(f"fixtures={n}\n")
           PY
 
-      # --- 3) อัปโหลด artifacts (ช่วยตรวจย้อนหลัง) ---
+      # (ช่วย debug) แสดงหัวไฟล์ JSON
+      - name: Debug fixtures preview
+        run: |
+          head -n 200 live_odds/odds_full_*.json || true
+
+      # 3) อัปโหลดไฟล์เป็น artifacts (ช่วยตรวจย้อนหลัง)
       - name: Upload JSON artifact
         uses: actions/upload-artifact@v4
         with:
           name: odds-json
           path: live_odds/odds_full_*.json
           if-no-files-found: warn
-
-      - name: Debug fixtures preview
-        run: |
-          head -n 200 live_odds/odds_full_*.json || true
 
       - name: Upload CSV artifact
         uses: actions/upload-artifact@v4
@@ -99,13 +85,13 @@ jobs:
           path: live_odds/odds_flat_all_*.csv
           if-no-files-found: warn
 
-      # --- 4) Patch เข้า Firebase ก็ต่อเมื่อมี fixtures > 0 ---
+      # 4) Patch เข้า Firebase เฉพาะเมื่อ fixtures > 0
       - name: Patch odds → Firebase
         if: ${{ steps.fx.outputs.fixtures != '0' }}
         env:
           FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
           FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
         run: |
-          LATEST="$(ls -1t live_odds/odds_full_*.json | head -n1)"
+          LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
           echo "patching $LATEST"
           python scripts/patch_odds.py --json "$LATEST"
