@@ -22,6 +22,18 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+      - name: API smoke test (status & one league)
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          echo "== /status =="
+          curl -s https://v3.football.api-sports.io/status \
+            -H "x-apisports-key: $API_FOOTBALL_KEY" | jq .
+          echo
+          echo "== fixtures sample (Premier League, tomorrow UTC) =="
+          D="$(date -u -d '+1 day' +%Y-%m-%d)"
+          curl -s "https://v3.football.api-sports.io/fixtures?date=$D&league=39&season=$(date +%Y)" \
+            -H "x-apisports-key: $API_FOOTBALL_KEY" | jq '.results,.errors,.response[0]?.fixture?.date'
 
       # 1) ดึง odds วันนี้+พรุ่งนี้ (UTC)
       - name: Pull odds JSON/CSV (tomorrow UTC)
@@ -89,6 +101,7 @@ jobs:
           LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
           echo "patching $LATEST"
           python scripts/patch_odds.py --json "$LATEST"
+
 
 
 
