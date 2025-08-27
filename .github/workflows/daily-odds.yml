@@ -69,14 +69,14 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: odds-json
-          path: live_odds/odds_full_*.json
+          path: winscoreai-auto-github/API-Football-auto/live_odds/odds_full_*.json
           if-no-files-found: warn
 
       - name: Upload CSV artifact
         uses: actions/upload-artifact@v4
         with:
           name: odds-csv
-          path: live_odds/odds_flat_all_*.csv
+          path: winscoreai-auto-github/API-Football-auto/live_odds/odds_flat_all_*.csv
           if-no-files-found: warn
 
       # 4) Debug: แสดงสรุปก้อนแรกของไฟล์ก่อน patch
@@ -118,3 +118,4 @@ jobs:
       - name: Skip patch (no fixtures)
         if: ${{ steps.fx.outputs.fixtures == '0' }}
         run: echo "No fixtures before KO. Skipping Firebase patch."
+
