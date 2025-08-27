@@ -1,8 +1,11 @@
+name: daily-odds
+
 on:
   schedule:
-    - cron: "*/30 6-22 * * *"    # ทุก 30 นาที ช่วงก่อนแข่ง (UTC)
+    - cron: "*/30 6-22 * * *"   # รันทุก 30 นาที ช่วงก่อนแข่ง (UTC)
   workflow_dispatch:
 
+# โฟลเดอร์งานคือโปรเจกต์ API-Football-auto
 defaults:
   run:
     working-directory: winscoreai-auto-github/API-Football-auto
@@ -21,36 +24,31 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # --- Debug secrets (ไม่โชว์ key, โชว์ความยาวแทน) ---
-      - name: Debug secrets (mask)
-        run: |
-          echo "Vendor: $API_FOOTBALL_VENDOR"
-          echo "Key length: ${#API_FOOTBALL_KEY}"
-        shell: bash
-        env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-          API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
-
-            # 1) ดึง odds วันนี้/พรุ่งนี้ (UTC หรือแล้วแต่ที่คุณตั้ง)
-      - name: Pull odds JSON/CSV (tomorrow UTC)
+      # 1) ดึง odds วันนี้+พรุ่งนี้ (UTC)
+      - name: Pull odds JSON/CSV
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           API_FOOTBALL_VENDOR: ${{ secrets.API_FOOTBALL_VENDOR }}
         run: |
-          TARGET_DATE="$(date -u -d '+1 day' +%Y-%m-%d)"
-          echo "target date (UTC): $TARGET_DATE"
+          echo "== pull odds (today+tomorrow, UTC) =="
           python scripts/af_today_odds.py \
-            --date "$TARGET_DATE" \
-            --days 1 \
+            --days 2 \
             --allow allowlist_ALL.txt \
             --outdir live_odds
 
-      # 2) หาว่าไฟล์ JSON ล่าสุดคือไฟล์ไหน และนับ fixtures
+      # 2) หาว่าไฟล์ล่าสุดชื่ออะไร + นับ fixtures เพื่อใช้ตัดสินใจ patch
       - name: Find latest JSON & count fixtures
         id: fx
+        shell: bash
         run: |
+          set -euo pipefail
           LATEST_JSON="$(ls -1t live_odds/odds_full_*.json 2>/dev/null | head -n1 || true)"
           echo "LATEST_JSON=${LATEST_JSON}" >> "$GITHUB_ENV"
+
+          echo "---- preview first 200 chars ----"
+          head -c 200 "${LATEST_JSON:-/dev/null}" || true
+          echo
+          echo "---------------------------------"
 
           python - <<'PY'
           import json, os, pathlib
@@ -59,41 +57,64 @@ jobs:
           if p and pathlib.Path(p).exists():
               with open(p, encoding='utf-8') as f:
                   d = json.load(f)
-                  n = len(d.get('fixtures', []))
+              n = len(d.get('fixtures', []))
           print(f"fixtures_count={n}")
-          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as g:
+          # ส่งค่าออกเป็น output ให้ step ถัดไปใช้ if:
+          with open(os.environ['GITHUB_OUTPUT'],'a',encoding='utf-8') as g:
               g.write(f"fixtures={n}\n")
           PY
-
-      # (ช่วย debug) แสดงหัวไฟล์ JSON
-      - name: Debug fixtures preview
-        run: |
-          head -n 200 live_odds/odds_full_*.json || true
 
       # 3) อัปโหลดไฟล์เป็น artifacts (ช่วยตรวจย้อนหลัง)
       - name: Upload JSON artifact
         uses: actions/upload-artifact@v4
         with:
           name: odds-json
-          path: ./live_odds/odds_full_*.json
-          if-no-files-found: ignore   # จากเดิม warn → ignore
+          path: live_odds/odds_full_*.json
+          if-no-files-found: warn
 
       - name: Upload CSV artifact
         uses: actions/upload-artifact@v4
         with:
           name: odds-csv
-          path: ./live_odds/odds_flat_all_*.csv
-          if-no-files-found: ignore
+          path: live_odds/odds_flat_all_*.csv
+          if-no-files-found: warn
 
+      # 4) Debug: แสดงสรุปก้อนแรกของไฟล์ก่อน patch
+      - name: Debug fixtures preview
+        shell: bash
+        run: |
+          echo "---- head live_odds/odds_full_*.json ----"
+          head -n 200 live_odds/odds_full_*.json || true
+          echo "----------------------------------------"
 
-      # 4) Patch เข้า Firebase เฉพาะเมื่อ fixtures > 0
+      # 5) Patch เข้า Firebase เฉพาะเมื่อมี fixtures > 0
       - name: Patch odds → Firebase
         if: ${{ steps.fx.outputs.fixtures != '0' }}
         env:
           FIREBASE_CREDENTIALS: ${{ secrets.FIREBASE_CREDENTIALS }}
           FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
+        shell: bash
         run: |
-          LATEST=$(ls -1t live_odds/odds_full_*.json | head -n1)
-          echo "patching $LATEST"
-          python scripts/patch_odds.py --json "$LATEST"
+          set -euo pipefail
+          echo "Fixtures found: ${{ steps.fx.outputs.fixtures }}"
+          echo "Latest JSON: $LATEST_JSON"
+          echo "---- sample keys to be patched (first node) ----"
+          python - <<'PY'
+          import json, os, itertools
+          p = os.environ.get('LATEST_JSON','')
+          if p and os.path.exists(p):
+              with open(p,encoding='utf-8') as f:
+                  d = json.load(f)
+              fx = d.get('fixtures', [])
+              if fx:
+                  ex = fx[0]
+                  print({k: ex.get(k) for k in ["date","season","league_id","fixture_id","home","away","kickoff_ts"]})
+          PY
+          echo "-----------------------------------------------"
+          python scripts/patch_odds.py --json "$LATEST_JSON"
+          echo "✅ Patch done."
 
+      # 6) กรณีไม่มีแมตช์ก่อนแข่ง จะข้าม patch (แต่ workflow ยัง success)
+      - name: Skip patch (no fixtures)
+        if: ${{ steps.fx.outputs.fixtures == '0' }}
+        run: echo "No fixtures before KO. Skipping Firebase patch."
